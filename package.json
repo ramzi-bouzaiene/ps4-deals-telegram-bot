@@ -1,0 +1,20 @@
+{
+  "name": "ps4-deals-bot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Telegram notifier for PS4 / PS Plus free games and PS Store deals",
+  "scripts": {
+    "feeds": "tsx src/index.ts",
+    "watchlist": "tsx src/watchlist.ts",
+    "debug": "DEBUG=1 tsx src/watchlist.ts",
+    "check": "tsc --noEmit"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.6.0"
+  }
+}
