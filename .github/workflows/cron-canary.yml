@@ -1,0 +1,12 @@
+name: cron-canary
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "cron fired at $(date -u)"
