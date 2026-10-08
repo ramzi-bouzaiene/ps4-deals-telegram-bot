@@ -105,7 +105,8 @@
     "url": "https://store.playstation.com/fr-fr/product/EP2097-CUSA00106_00-0000000000000000",
     "low": 0,
     "high": 0,
-    "lastAlerted": 0
+    "lastAlerted": 0,
+    "lastPct": 0
   },
   "Roblox": {
     "history": [
@@ -117,7 +118,8 @@
     "url": "https://store.playstation.com/fr-fr/product/UP1821-CUSA06122_00-0000040810600000",
     "low": 0,
     "high": 0,
-    "lastAlerted": 0
+    "lastAlerted": 0,
+    "lastPct": 0
   },
   "Apex Legends": {
     "history": [
@@ -129,7 +131,8 @@
     "url": "https://store.playstation.com/fr-fr/product/EP0006-CUSA12552_00-APEXLEGENDRSPWN1",
     "low": 0,
     "high": 0,
-    "lastAlerted": 0
+    "lastAlerted": 0,
+    "lastPct": 0
   },
   "Rocket League": {
     "history": [
@@ -141,7 +144,8 @@
     "url": "https://store.playstation.com/fr-fr/product/EP2002-CUSA01433_00-ROCKETLEAGUEEU01",
     "low": 0,
     "high": 0,
-    "lastAlerted": 0
+    "lastAlerted": 0,
+    "lastPct": 0
   },
   "Destiny 2": {
     "history": [
@@ -153,7 +157,8 @@
     "url": "https://store.playstation.com/fr-fr/product/EP0002-PPSA02410_00-DESTINYTHEGAME02",
     "low": 0,
     "high": 0,
-    "lastAlerted": 0
+    "lastAlerted": 0,
+    "lastPct": 0
   },
   "Brawlhalla": {
     "history": [
@@ -165,7 +170,8 @@
     "url": "https://store.playstation.com/fr-fr/product/EP0953-CUSA05330_00-BRAWLHALLAEUROPE",
     "low": 0,
     "high": 0,
-    "lastAlerted": 0
+    "lastAlerted": 0,
+    "lastPct": 0
   },
   "Fall Guys": {
     "history": [
@@ -177,7 +183,8 @@
     "url": "https://store.playstation.com/fr-fr/product/EP1464-PPSA04478_00-FALLGUYS00000000",
     "low": 0,
     "high": 0,
-    "lastAlerted": 0
+    "lastAlerted": 0,
+    "lastPct": 0
   },
   "Fortnite": {
     "history": [
@@ -189,6 +196,7 @@
     "url": "https://store.playstation.com/fr-fr/product/EP1464-PPSA01923_00-FNBNDL0000000000",
     "low": 0,
     "high": 0,
-    "lastAlerted": 0
+    "lastAlerted": 0,
+    "lastPct": 0
   }
 }
