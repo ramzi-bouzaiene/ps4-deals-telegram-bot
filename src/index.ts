@@ -2,13 +2,14 @@ import Parser from "rss-parser";
 import fs from "fs";
 import { notify, enqueue, flushDigest, esc } from "./telegram";
 import { loadPromosState, savePromosState, type PromoItem } from "./promos";
-import { fetchWithRetry } from "./http";
+import { fetchWithRetry, sleep } from "./http";
 import { gqlOp, PSN_HEADERS } from "./psn";
 
-const parser = new Parser({
-  timeout: 20000,
-  headers: { "User-Agent": "Mozilla/5.0 (compatible; ps-deals-bot/1.0)" },
-});
+const parser = new Parser();
+const FEED_HEADERS = {
+  "User-Agent": "Mozilla/5.0 (compatible; ps4-deals-telegram-bot/1.0)",
+  Accept: "application/rss+xml,application/xml;q=0.9,*/*;q=0.8",
+};
 
 const SEEN_FILE = "seen.json";
 const FREE_FILE = "docs/free.json";
@@ -170,7 +171,11 @@ async function main() {
   for (const url of FEEDS) {
     const isBlog = url.includes("blog.playstation.com");
     try {
-      const feed = await parser.parseURL(url);
+      // Fetch ourselves (timeout + 429 backoff) instead of parser.parseURL,
+      // which would hang or fail without retrying — Reddit rate-limits hard.
+      const res = await fetchWithRetry(url, { headers: FEED_HEADERS });
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const feed = await parser.parseString(await res.text());
       for (const item of feed.items) {
         const id = item.guid ?? item.link;
         if (!id || seenSet.has(id)) continue;
@@ -232,6 +237,7 @@ async function main() {
     } catch (e) {
       console.error("Feed failed:", url, (e as Error).message);
     }
+    await sleep(700); // pace requests — Reddit rate-limits tightly
   }
 
   const list = [...seenSet];
