@@ -403,16 +403,17 @@
         align-items: center;
         gap: 0.3rem;
       }
-      .tier-insane {
+      /* scoped to the label span — the card root also carries tier-* classes */
+      .tier.tier-insane {
         color: var(--insane);
       }
-      .tier-hot {
+      .tier.tier-hot {
         color: var(--hot);
       }
-      .tier-great {
+      .tier.tier-great {
         color: var(--great);
       }
-      .tier-good {
+      .tier.tier-good {
         color: var(--good-tier);
       }
 
