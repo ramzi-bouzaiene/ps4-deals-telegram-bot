@@ -21,7 +21,7 @@ import { historicalLowMessage, wishlistAlertMessage, hotDealMessage, dealKeyboar
 import { notify, flushDigest, esc } from "./telegram";
 import { fetchPrice } from "./watchlist";
 import { sleep } from "./http";
-import { slugify } from "./util";
+import { slugify, writeJsonFile } from "./util";
 
 const MAX_HOT_PER_RUN = 5;
 const SOURCE_DOWN_KEY = "system:source-down";
@@ -44,8 +44,7 @@ function loadLegacy(): LegacyState {
 }
 
 function saveLegacy(state: LegacyState) {
-  fs.mkdirSync("docs", { recursive: true });
-  fs.writeFileSync("docs/prices.json", JSON.stringify(state, null, 2));
+  writeJsonFile("docs/prices.json", state);
 }
 
 function legacyRecord(state: LegacyState, name: string, url: string | undefined, price: number) {
@@ -72,17 +71,13 @@ async function alertBreak(state: LegacyState, name: string, url: string, reason:
 }
 
 function writeMeta(extra: Record<string, unknown> = {}) {
-  fs.mkdirSync("docs", { recursive: true });
   let prev: Record<string, unknown> = {};
   try {
     prev = JSON.parse(fs.readFileSync("docs/meta.json", "utf8"));
   } catch {
     /* no meta yet */
   }
-  fs.writeFileSync(
-    "docs/meta.json",
-    JSON.stringify({ ...prev, lastRun: new Date().toISOString(), ...extra }, null, 2),
-  );
+  writeJsonFile("docs/meta.json", { ...prev, lastRun: new Date().toISOString(), ...extra });
 }
 
 function productIdFromUrl(url: string): string {
@@ -154,7 +149,7 @@ function writeDealsSnapshot(
     })),
   };
   fs.mkdirSync("docs", { recursive: true });
-  fs.writeFileSync("docs/deals.json", JSON.stringify(snap, null, 2) + "\n");
+  writeJsonFile("docs/deals.json", snap);
 }
 
 function dealForEntry(

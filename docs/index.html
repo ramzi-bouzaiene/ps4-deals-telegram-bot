@@ -760,6 +760,8 @@
         good: "GOOD DEAL",
       };
       let dealsData = null;
+      let lastGeneratedAt = null;
+      let freeNowCount = 0;
       let ui = { min: 0, q: "", sort: "score" };
 
       const get = (file, fallback) =>
@@ -811,7 +813,7 @@
           kpi("💸", s.avgDiscount + "%", "Avg discount", s.scored90 + " at 90+ (insane)"),
           kpi("🏆", String(s.maxScore || "—"), "Hottest deal", s.maxScoreTitle || "", true),
           kpi("🎯", String(s.scored80), "Alert-worthy", "score ≥ " + min),
-          kpi("🆓", String(dealsData.freeNow ?? 0), "Free now", "from price tracking"),
+          kpi("🆓", String(freeNowCount), "Free now", "from price tracking"),
           kpi(
             "⭐",
             (s.wishlistHits ?? 0) + "/" + (s.wishlistCount ?? 0),
@@ -824,9 +826,10 @@
       function dealCard(d, sym) {
         const a = document.createElement("a");
         a.className = "deal tier-" + d.tier;
-        a.href = d.url;
+        a.href = d.url || "https://store.playstation.com/search/" + encodeURIComponent(d.title);
         a.target = "_blank";
         a.rel = "noopener";
+        a.title = d.title + " — open on PlayStation Store";
 
         const thumb = document.createElement("div");
         thumb.className = "thumb";
@@ -834,8 +837,17 @@
           const img = document.createElement("img");
           img.loading = "lazy";
           img.alt = d.title;
+          img.referrerPolicy = "no-referrer";
           img.src = d.imageUrl;
-          img.onerror = () => img.remove();
+          img.onerror = () => {
+            // one cache-busted retry for transient failures, then give up gracefully
+            if (!img.dataset.retried) {
+              img.dataset.retried = "1";
+              img.src = d.imageUrl + (d.imageUrl.includes("?") ? "&" : "?") + "r=" + Date.now();
+            } else {
+              img.remove();
+            }
+          };
           thumb.append(img);
         } else {
           const ph = document.createElement("span");
@@ -1141,6 +1153,11 @@
 
       function loadDeals() {
         return get("deals.json", null).then((d) => {
+          // Keep the current DOM untouched unless the snapshot actually changed —
+          // rebuilding cards mid-hover eats clicks and restarts image loads.
+          if (d && d.generatedAt === lastGeneratedAt) return dealsData;
+          if (!d && dealsData) return dealsData; // transient fetch failure — keep showing data
+          lastGeneratedAt = d ? d.generatedAt : null;
           dealsData = d;
           if (d) {
             $("chipRegion").textContent = d.region + " · " + (d.currency || "");
@@ -1182,11 +1199,8 @@
         get("monthly.json", []),
       ])
         .then(([, prices, meta, news, promosObj, monthly]) => {
-          const freeCount = renderFreeNow(prices);
-          if (dealsData) {
-            dealsData.freeNow = freeCount;
-            renderKpis();
-          }
+          freeNowCount = renderFreeNow(prices);
+          if (dealsData) renderKpis();
           renderTracked(prices);
           renderFeed("freeNews", "newsSection", news, false);
           renderFeed("promosNews", "promoSection", promosObj && promosObj.items, false);

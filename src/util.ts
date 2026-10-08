@@ -35,5 +35,8 @@ export function readJsonFile<T>(path: string, fallback: T): T {
 
 export function writeJsonFile(filePath: string, value: unknown) {
   fs.mkdirSync(path.dirname(filePath), { recursive: true });
-  fs.writeFileSync(filePath, JSON.stringify(value, null, 2) + "\n");
+  // Atomic: readers (dashboards, other workflows) never see a half-written file.
+  const tmp = filePath + ".tmp";
+  fs.writeFileSync(tmp, JSON.stringify(value, null, 2) + "\n");
+  fs.renameSync(tmp, filePath);
 }
