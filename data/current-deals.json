@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-08T12:59:10.902Z",
+  "fetchedAt": "2026-10-08T13:23:43.903Z",
   "region": "FR",
   "deals": [
     {
@@ -6601,7 +6601,7 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202406/1110/9f2a0dd582cdff736bd9351de1c2b1dc8228c80b26b5cbea.png"
     },
     {
-      "id": "UB0851-CUSA56177_00-BOBBRICKBREAKER4",
+      "id": "UB0851-PPSA32280_00-BUNDLEBOBPS4PS50",
       "title": "Bob The Brick Breaker",
       "platform": "PS4",
       "store": "PlayStation Store",
@@ -6610,7 +6610,7 @@
       "originalPrice": 6.99,
       "currency": "EUR",
       "discountPercentage": 50,
-      "url": "https://store.playstation.com/fr-fr/product/UB0851-CUSA56177_00-BOBBRICKBREAKER4",
+      "url": "https://store.playstation.com/fr-fr/product/UB0851-PPSA32280_00-BUNDLEBOBPS4PS50",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202509/0411/d0a915d81483e02b8d05b178c5be032423ea4d6a7f8466b5.jpg"
     },
     {
@@ -7535,7 +7535,7 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2312/55cf5cb5117de1efd9468c024aa00fa3f7aa4464225a4a02.jpg"
     },
     {
-      "id": "EP1662-PPSA02666_00-9853593095231322",
+      "id": "EP1662-CUSA18694_00-CD3EU00000000000",
       "title": "Crash Drive 3",
       "platform": "PS4",
       "store": "PlayStation Store",
@@ -7544,7 +7544,7 @@
       "originalPrice": 16.99,
       "currency": "EUR",
       "discountPercentage": 80,
-      "url": "https://store.playstation.com/fr-fr/product/EP1662-PPSA02666_00-9853593095231322",
+      "url": "https://store.playstation.com/fr-fr/product/EP1662-CUSA18694_00-CD3EU00000000000",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202106/0113/6J6mvs5JZxB1qCdG7lq1HCpb.png"
     },
     {
@@ -15561,7 +15561,7 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202312/1213/a2b58d71ad42f339bbdc8fc86070549f1f5bc103a2578df6.jpg"
     },
     {
-      "id": "EP4403-CUSA00586_00-SPARKLE2PS4SCEE0",
+      "id": "EP4403-PPSA02320_00-SPARKLE200000000",
       "title": "Sparkle 2 PS4 & PS5",
       "platform": "PS4",
       "store": "PlayStation Store",
@@ -15570,7 +15570,7 @@
       "originalPrice": 6.99,
       "currency": "EUR",
       "discountPercentage": 60,
-      "url": "https://store.playstation.com/fr-fr/product/EP4403-CUSA00586_00-SPARKLE2PS4SCEE0",
+      "url": "https://store.playstation.com/fr-fr/product/EP4403-PPSA02320_00-SPARKLE200000000",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202012/0914/XJJWaFsHHrQCoEi4WvTZv6x6.png"
     },
     {
@@ -18229,7 +18229,7 @@
       "url": "https://store.playstation.com/fr-fr/product/EP1508-CUSA09886_00-VOLGARRBUNDLE001"
     },
     {
-      "id": "UP7939-CUSA51360_00-0709651905748877",
+      "id": "UP7939-PPSA26765_00-0311045621724580",
       "title": "Volley Pals",
       "platform": "PS4",
       "store": "PlayStation Store",
@@ -18238,7 +18238,7 @@
       "originalPrice": 5.99,
       "currency": "EUR",
       "discountPercentage": 70,
-      "url": "https://store.playstation.com/fr-fr/product/UP7939-CUSA51360_00-0709651905748877",
+      "url": "https://store.playstation.com/fr-fr/product/UP7939-PPSA26765_00-0311045621724580",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202410/2116/c64d1032144f7d6b970fb3b38b29949e7574f54a40f1e0f0.jpg"
     },
     {
@@ -18779,7 +18779,7 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202010/1520/QylW6RhRNrY9FWB6aC2LafnK.jpg"
     },
     {
-      "id": "EP1762-CUSA11011_00-XENONCROSSBUY000",
+      "id": "EP1762-PPSA06873_00-XENONPS500000000",
       "title": "Xenon Valkyrie+",
       "platform": "PS4",
       "store": "PlayStation Store",
@@ -18788,7 +18788,8 @@
       "originalPrice": 9.99,
       "currency": "EUR",
       "discountPercentage": 75,
-      "url": "https://store.playstation.com/fr-fr/product/EP1762-CUSA11011_00-XENONCROSSBUY000"
+      "url": "https://store.playstation.com/fr-fr/product/EP1762-PPSA06873_00-XENONPS500000000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202203/0515/36IkQVrQZAUbzQtyrmg9ouRB.png"
     },
     {
       "id": "EP4064-CUSA10650_00-YOKUSISLANDEXP00",

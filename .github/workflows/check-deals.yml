@@ -1,5 +1,6 @@
 name: check-deals
 
+# schedule-registration refresh 2026-10-08 — forces GitHub to re-read cron triggers
 on:
   schedule:
     - cron: "*/30 * * * *"

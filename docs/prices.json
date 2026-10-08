@@ -198,5 +198,16 @@
     "high": 0,
     "lastAlerted": 0,
     "lastPct": 0
+  },
+  "TEKKEN 7": {
+    "history": [
+      {
+        "t": "2026-10-08T13:23:43.982Z",
+        "price": 9.99
+      }
+    ],
+    "url": "https://store.playstation.com/fr-fr/product/EP0700-CUSA06014_00-PS4TEKKEN7000001",
+    "low": 9.99,
+    "high": 9.99
   }
 }

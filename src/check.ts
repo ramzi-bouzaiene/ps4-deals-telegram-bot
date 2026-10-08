@@ -89,6 +89,74 @@ function productIdFromUrl(url: string): string {
   return url.split("/").pop()?.split("?")[0] ?? "";
 }
 
+// Dashboard snapshot: top scored deals + wishlist + aggregate stats for docs/deals.json.
+function writeDealsSnapshot(
+  scored: { deal: GameDeal; score: ScoreResult }[],
+  wishlist: { title: string; url?: string; targetPrice: number; price?: number }[],
+  prefs: Preferences,
+  region: RegionConfig,
+) {
+  const sale = scored.filter((s) => s.deal.discountPercentage > 0);
+  const best = scored.reduce<{ deal: GameDeal; score: ScoreResult } | undefined>(
+    (acc, s) => (!acc || s.score.score > acc.score.score ? s : acc),
+    undefined,
+  );
+  const countAt = (min: number) => scored.filter((s) => s.score.score >= min).length;
+  const top = scored
+    .filter((s) => s.score.score >= 60)
+    .sort(
+      (a, b) =>
+        b.score.score - a.score.score ||
+        b.deal.discountPercentage - a.deal.discountPercentage ||
+        a.deal.currentPrice - b.deal.currentPrice,
+    )
+    .slice(0, 100)
+    .map(({ deal, score }) => ({
+      title: deal.title,
+      url: deal.url,
+      imageUrl: deal.imageUrl ?? null,
+      currentPrice: deal.currentPrice,
+      originalPrice: deal.originalPrice,
+      discountPercentage: deal.discountPercentage,
+      score: score.score,
+      tier: score.tier.key,
+    }));
+
+  const snap = {
+    generatedAt: new Date().toISOString(),
+    region: prefs.region,
+    currency: region.currency,
+    symbol: region.symbol,
+    minimumDealScore: prefs.minimumDealScore,
+    stats: {
+      total: scored.length,
+      scored60: countAt(60),
+      scored80: countAt(80),
+      scored90: countAt(90),
+      avgDiscount: sale.length
+        ? Math.round(sale.reduce((n, s) => n + s.deal.discountPercentage, 0) / sale.length)
+        : 0,
+      maxScore: best?.score.score ?? 0,
+      maxScoreTitle: best?.deal.title ?? "",
+      wishlistCount: wishlist.length,
+      wishlistHits: wishlist.filter((w) => w.price !== undefined && w.price <= w.targetPrice)
+        .length,
+    },
+    deals: top,
+    wishlist: wishlist.map((w) => ({
+      title: w.title,
+      url:
+        w.url ??
+        `https://store.playstation.com/${region.path}/search/${encodeURIComponent(w.title)}`,
+      targetPrice: w.targetPrice,
+      currentPrice: w.price ?? null,
+      hit: w.price !== undefined && w.price <= w.targetPrice,
+    })),
+  };
+  fs.mkdirSync("docs", { recursive: true });
+  fs.writeFileSync("docs/deals.json", JSON.stringify(snap, null, 2) + "\n");
+}
+
 function dealForEntry(
   entry: { gameId: string; title: string; url?: string },
   price: number,
@@ -161,6 +229,7 @@ export async function runCheck() {
     price: number;
     discount?: number;
   }[] = [];
+  const wishSnapshot: { title: string; url?: string; targetPrice: number; price?: number }[] = [];
 
   for (const entry of loadWishlist()) {
     const key = entry.gameId || slugify(entry.title);
@@ -178,6 +247,11 @@ export async function runCheck() {
       if (!r.ok) {
         if (r.broke) await alertBreak(legacy, entry.title, entry.url, r.reason);
         else console.error("Fetch failed:", entry.title, r.reason);
+        wishSnapshot.push({
+          title: entry.title,
+          url: entry.url,
+          targetPrice: entry.targetPrice,
+        });
         continue;
       }
       price = r.price.current ?? undefined;
@@ -193,7 +267,16 @@ export async function runCheck() {
       }
     }
 
-    if (price === undefined) continue;
+    if (price === undefined) {
+      wishSnapshot.push({ title: entry.title, url: entry.url, targetPrice: entry.targetPrice });
+      continue;
+    }
+    wishSnapshot.push({
+      title: entry.title,
+      url: entry.url,
+      targetPrice: entry.targetPrice,
+      price,
+    });
     legacyRecord(legacy, entry.title, entry.url, price);
 
     if (prefs.notifications.wishlist && price <= entry.targetPrice && deal) {
@@ -263,6 +346,7 @@ export async function runCheck() {
     alertsSent: histSent + wishSent + hotSent,
     region: prefs.region,
   });
+  writeDealsSnapshot(scored, wishSnapshot, prefs, region);
   await flushDigest();
 
   console.log(

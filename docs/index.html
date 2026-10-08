@@ -3,308 +3,1217 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>PS4 Deal Tracker</title>
+    <meta
+      name="description"
+      content="Live PS4 store deals, price history and free games, tracked automatically."
+    />
+    <title>PS4 Deal Tracker — Live Deals & Price History</title>
+    <link
+      rel="icon"
+      href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🎮</text></svg>"
+    />
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
     <style>
       :root {
-        --bg: #fff;
-        --fg: #111;
-        --card: #f4f5f7;
-        --muted: #666;
-        --accent: #0070d1;
-        --good: #1a9c4b;
+        --bg: #070a12;
+        --bg-2: #0b1020;
+        --fg: #eef1f8;
+        --muted: #8d95a8;
+        --card: rgba(255, 255, 255, 0.045);
+        --card-solid: #121728;
+        --border: rgba(255, 255, 255, 0.09);
+        --accent: #4dabff;
+        --accent-2: #7c5cff;
+        --good: #2dde98;
+        --insane: #ff4d6d;
+        --hot: #ff922b;
+        --great: #4dabff;
+        --good-tier: #20c997;
+        --shadow: 0 10px 30px rgba(0, 0, 0, 0.35);
+        --radius: 16px;
       }
-      @media (prefers-color-scheme: dark) {
+      @media (prefers-color-scheme: light) {
         :root {
-          --bg: #12141a;
-          --fg: #eceef2;
-          --card: #1c1f28;
-          --muted: #9aa0ad;
-          --accent: #4da3ff;
-          --good: #4cd07d;
+          --bg: #f4f6fb;
+          --bg-2: #e9edf7;
+          --fg: #131722;
+          --muted: #5d6575;
+          --card: #ffffff;
+          --card-solid: #ffffff;
+          --border: rgba(15, 25, 60, 0.1);
+          --shadow: 0 10px 30px rgba(25, 40, 90, 0.1);
         }
       }
+      * {
+        box-sizing: border-box;
+      }
       body {
-        font-family: system-ui, sans-serif;
-        background: var(--bg);
-        color: var(--fg);
         margin: 0;
-        padding: 1rem;
+        font-family:
+          Inter,
+          system-ui,
+          -apple-system,
+          sans-serif;
+        background:
+          radial-gradient(1000px 500px at 85% -10%, rgba(124, 92, 255, 0.18), transparent 60%),
+          radial-gradient(800px 420px at 5% 0%, rgba(77, 171, 255, 0.16), transparent 55%),
+          var(--bg);
+        color: var(--fg);
+        min-height: 100vh;
+      }
+      a {
+        color: inherit;
+        text-decoration: none;
+      }
+      .wrap {
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 0 1.1rem;
+      }
+
+      /* ---------- hero ---------- */
+      .hero {
+        padding: 2.2rem 0 1.4rem;
+        border-bottom: 1px solid var(--border);
+        background: linear-gradient(180deg, rgba(124, 92, 255, 0.08), transparent);
+      }
+      .hero-top {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: space-between;
+        gap: 1rem;
+      }
+      .brand {
+        display: flex;
+        align-items: center;
+        gap: 0.9rem;
+      }
+      .brand-logo {
+        font-size: 2.2rem;
+        filter: drop-shadow(0 4px 14px rgba(77, 171, 255, 0.45));
       }
       h1 {
-        font-size: 1.3rem;
+        margin: 0;
+        font-size: 1.55rem;
+        font-weight: 800;
+        letter-spacing: -0.02em;
+        background: linear-gradient(90deg, var(--fg), var(--accent));
+        -webkit-background-clip: text;
+        background-clip: text;
+        -webkit-text-fill-color: transparent;
       }
+      .tagline {
+        margin: 0.15rem 0 0;
+        color: var(--muted);
+        font-size: 0.85rem;
+      }
+      .chips-meta {
+        display: flex;
+        gap: 0.5rem;
+        flex-wrap: wrap;
+      }
+      .chip {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.4rem;
+        background: var(--card);
+        border: 1px solid var(--border);
+        border-radius: 999px;
+        padding: 0.35rem 0.75rem;
+        font-size: 0.78rem;
+        color: var(--muted);
+        backdrop-filter: blur(8px);
+      }
+      .chip b {
+        color: var(--fg);
+        font-weight: 600;
+      }
+      .pulse {
+        width: 8px;
+        height: 8px;
+        border-radius: 50%;
+        background: var(--good);
+        box-shadow: 0 0 0 0 rgba(45, 222, 152, 0.6);
+        animation: pulse 2s infinite;
+      }
+      @keyframes pulse {
+        70% {
+          box-shadow: 0 0 0 9px rgba(45, 222, 152, 0);
+        }
+        100% {
+          box-shadow: 0 0 0 0 rgba(45, 222, 152, 0);
+        }
+      }
+
+      /* ---------- KPIs ---------- */
+      .kpis {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+        gap: 0.8rem;
+        margin-top: 1.4rem;
+      }
+      .kpi {
+        background: var(--card);
+        border: 1px solid var(--border);
+        border-radius: var(--radius);
+        padding: 0.85rem 0.95rem;
+        backdrop-filter: blur(10px);
+        transition: transform 0.15s ease;
+      }
+      .kpi:hover {
+        transform: translateY(-2px);
+      }
+      .kpi .icon {
+        font-size: 0.95rem;
+      }
+      .kpi .value {
+        font-size: 1.55rem;
+        font-weight: 800;
+        letter-spacing: -0.02em;
+        margin: 0.2rem 0 0.1rem;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+      }
+      .kpi .label {
+        color: var(--muted);
+        font-size: 0.72rem;
+        text-transform: uppercase;
+        letter-spacing: 0.07em;
+      }
+      .kpi .sub {
+        color: var(--muted);
+        font-size: 0.74rem;
+        margin-top: 0.25rem;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+      }
+      .value.hot-c {
+        color: var(--hot);
+      }
+
+      /* ---------- sections ---------- */
+      section {
+        margin: 2rem 0;
+      }
+      .sec-head {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: space-between;
+        gap: 0.7rem;
+        margin-bottom: 0.9rem;
+      }
+      .sec-head h2 {
+        margin: 0;
+        font-size: 1.12rem;
+        font-weight: 700;
+        letter-spacing: -0.01em;
+      }
+      .sec-head .hint {
+        color: var(--muted);
+        font-size: 0.78rem;
+        font-weight: 400;
+        margin-left: 0.5rem;
+      }
+      .tools {
+        display: flex;
+        gap: 0.5rem;
+        flex-wrap: wrap;
+        align-items: center;
+      }
+      .tools input,
+      .tools select {
+        background: var(--card);
+        border: 1px solid var(--border);
+        color: var(--fg);
+        border-radius: 10px;
+        padding: 0.45rem 0.7rem;
+        font-size: 0.82rem;
+        font-family: inherit;
+        outline: none;
+      }
+      .tools input {
+        width: 190px;
+      }
+      .tools input:focus,
+      .tools select:focus {
+        border-color: var(--accent);
+      }
+      .fchips {
+        display: flex;
+        gap: 0.35rem;
+        flex-wrap: wrap;
+      }
+      .fchip {
+        background: var(--card);
+        border: 1px solid var(--border);
+        color: var(--muted);
+        border-radius: 999px;
+        font-size: 0.75rem;
+        font-weight: 600;
+        padding: 0.35rem 0.7rem;
+        cursor: pointer;
+        transition: all 0.12s ease;
+      }
+      .fchip:hover {
+        color: var(--fg);
+        border-color: var(--accent);
+      }
+      .fchip.active {
+        background: linear-gradient(90deg, var(--accent), var(--accent-2));
+        border-color: transparent;
+        color: #fff;
+      }
+
       .grid {
         display: grid;
-        gap: 1rem;
-        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+        gap: 0.9rem;
+        grid-template-columns: repeat(auto-fill, minmax(235px, 1fr));
       }
-      .card {
-        background: var(--card);
-        border-radius: 12px;
-        padding: 1rem;
-      }
-      .card h2 {
-        font-size: 1rem;
-        margin: 0 0 0.5rem;
-      }
-      .row {
-        display: flex;
-        justify-content: space-between;
-        font-size: 0.85rem;
+      .empty {
         color: var(--muted);
-        margin-bottom: 0.5rem;
+        font-size: 0.85rem;
+        padding: 1.4rem 0;
       }
-      .now {
-        font-size: 1.4rem;
-        font-weight: 700;
+
+      /* ---------- deal cards ---------- */
+      .deal {
+        display: flex;
+        flex-direction: column;
+        background: var(--card-solid);
+        border: 1px solid var(--border);
+        border-radius: var(--radius);
+        overflow: hidden;
+        box-shadow: var(--shadow);
+        transition:
+          transform 0.16s ease,
+          box-shadow 0.16s ease,
+          border-color 0.16s ease;
+        position: relative;
       }
-      .hit {
-        color: var(--good);
+      .deal:hover {
+        transform: translateY(-4px);
+        border-color: rgba(255, 255, 255, 0.22);
+        box-shadow: 0 16px 40px rgba(0, 0, 0, 0.45);
       }
-      canvas {
-        max-height: 140px;
+      .deal .thumb {
+        position: relative;
+        aspect-ratio: 16 / 9;
+        background:
+          linear-gradient(135deg, rgba(77, 171, 255, 0.25), rgba(124, 92, 255, 0.3)), var(--bg-2);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        overflow: hidden;
       }
-      #updated {
+      .deal .thumb img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        display: block;
+      }
+      .deal .thumb .ph {
+        font-size: 2rem;
+        opacity: 0.5;
+      }
+      .score {
+        position: absolute;
+        top: 8px;
+        left: 8px;
+        display: inline-flex;
+        align-items: baseline;
+        gap: 0.25rem;
+        background: rgba(5, 8, 16, 0.78);
+        border: 1px solid rgba(255, 255, 255, 0.14);
+        color: #fff;
+        border-radius: 10px;
+        padding: 0.28rem 0.55rem;
+        backdrop-filter: blur(6px);
+        font-variant-numeric: tabular-nums;
+      }
+      .score b {
+        font-size: 1.05rem;
+        font-weight: 800;
+        line-height: 1;
+      }
+      .score span {
+        font-size: 0.65rem;
+        color: #cfd6e4;
+      }
+      .pct {
+        position: absolute;
+        top: 8px;
+        right: 8px;
+        background: linear-gradient(90deg, var(--hot), var(--insane));
+        color: #fff;
+        font-weight: 800;
+        font-size: 0.78rem;
+        border-radius: 999px;
+        padding: 0.25rem 0.6rem;
+        box-shadow: 0 4px 12px rgba(255, 77, 109, 0.35);
+      }
+      .deal .body {
+        padding: 0.75rem 0.85rem 0.9rem;
+        display: flex;
+        flex-direction: column;
+        gap: 0.45rem;
+        flex: 1;
+      }
+      .deal h3 {
+        margin: 0;
+        font-size: 0.86rem;
+        font-weight: 600;
+        line-height: 1.35;
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        min-height: 2.3em;
+      }
+      .prices {
+        display: flex;
+        align-items: baseline;
+        gap: 0.5rem;
+      }
+      .prices .now {
+        font-size: 1.15rem;
+        font-weight: 800;
+        letter-spacing: -0.02em;
+      }
+      .prices s {
         color: var(--muted);
         font-size: 0.8rem;
       }
-      .section {
-        font-size: 1rem;
-        margin: 1.2rem 0 0.6rem;
+      .tier {
+        margin-top: auto;
+        font-size: 0.66rem;
+        font-weight: 800;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        display: inline-flex;
+        align-items: center;
+        gap: 0.3rem;
+      }
+      .tier-insane {
+        color: var(--insane);
+      }
+      .tier-hot {
+        color: var(--hot);
+      }
+      .tier-great {
+        color: var(--great);
+      }
+      .tier-good {
+        color: var(--good-tier);
+      }
+
+      /* ---------- wishlist ---------- */
+      .wish {
+        background: var(--card-solid);
+        border: 1px solid var(--border);
+        border-radius: var(--radius);
+        padding: 0.85rem 0.95rem;
+        box-shadow: var(--shadow);
+        display: flex;
+        flex-direction: column;
+        gap: 0.55rem;
+        transition: transform 0.15s ease;
+      }
+      .wish:hover {
+        transform: translateY(-3px);
+      }
+      .wish .wt {
+        font-size: 0.87rem;
+        font-weight: 600;
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+      }
+      .wish .nums {
+        display: flex;
+        justify-content: space-between;
+        font-size: 0.8rem;
+        color: var(--muted);
+      }
+      .wish .nums b {
+        color: var(--fg);
+      }
+      .bar {
+        height: 6px;
+        background: rgba(255, 255, 255, 0.08);
+        border-radius: 999px;
+        overflow: hidden;
+      }
+      @media (prefers-color-scheme: light) {
+        .bar {
+          background: rgba(15, 25, 60, 0.1);
+        }
+      }
+      .bar i {
+        display: block;
+        height: 100%;
+        border-radius: 999px;
+        background: linear-gradient(90deg, var(--accent), var(--accent-2));
+      }
+      .wish.hit .bar i {
+        background: linear-gradient(90deg, var(--good), #7bf7c4);
+      }
+      .status {
+        font-size: 0.7rem;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 0.06em;
+        color: var(--muted);
+      }
+      .wish.hit .status {
+        color: var(--good);
+      }
+
+      /* ---------- tracked prices ---------- */
+      .track {
+        background: var(--card-solid);
+        border: 1px solid var(--border);
+        border-radius: var(--radius);
+        padding: 0.85rem 0.95rem;
+        box-shadow: var(--shadow);
+      }
+      .track .t-head {
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+        gap: 0.5rem;
+      }
+      .track h3 {
+        margin: 0;
+        font-size: 0.86rem;
+        font-weight: 600;
+        line-height: 1.3;
+      }
+      .atlow {
+        background: rgba(45, 222, 152, 0.14);
+        color: var(--good);
+        border: 1px solid rgba(45, 222, 152, 0.4);
+        font-size: 0.62rem;
+        font-weight: 800;
+        letter-spacing: 0.06em;
+        border-radius: 999px;
+        padding: 0.16rem 0.5rem;
+        white-space: nowrap;
+      }
+      .track .nums {
+        display: flex;
+        justify-content: space-between;
+        align-items: baseline;
+        margin: 0.55rem 0 0.15rem;
+      }
+      .track .now {
+        font-size: 1.3rem;
+        font-weight: 800;
+        letter-spacing: -0.02em;
+      }
+      .track .now.hit {
+        color: var(--good);
+      }
+      .track .low {
+        font-size: 0.74rem;
+        color: var(--muted);
+      }
+      .track .sub {
+        display: flex;
+        justify-content: space-between;
+        font-size: 0.72rem;
+        color: var(--muted);
+        margin-bottom: 0.4rem;
+      }
+      .track canvas {
+        max-height: 70px;
       }
       .free-badge {
         display: inline-block;
-        background: var(--good);
-        color: #fff;
+        background: linear-gradient(90deg, var(--good), #7bf7c4);
+        color: #04321f;
         border-radius: 6px;
-        font-size: 0.75rem;
-        font-weight: 700;
-        padding: 0.1rem 0.45rem;
-        margin-left: 0.5rem;
+        font-size: 0.68rem;
+        font-weight: 800;
+        padding: 0.12rem 0.5rem;
+        margin-left: 0.45rem;
         vertical-align: middle;
       }
-      .card a {
-        color: var(--accent);
-        text-decoration: none;
+
+      /* ---------- feeds ---------- */
+      .cols {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+        gap: 1.4rem;
       }
-      .news {
+      .feed {
+        background: var(--card);
+        border: 1px solid var(--border);
+        border-radius: var(--radius);
+        padding: 0.4rem 1.1rem;
+      }
+      .feed ul {
         list-style: none;
-        padding: 0;
         margin: 0;
-        font-size: 0.85rem;
+        padding: 0.4rem 0;
       }
-      .news li {
-        margin-bottom: 0.45rem;
+      .feed li {
+        padding: 0.55rem 0;
+        border-bottom: 1px dashed var(--border);
+        font-size: 0.84rem;
       }
-      .news a {
+      .feed li:last-child {
+        border-bottom: 0;
+      }
+      .feed a {
+        color: var(--fg);
+        font-weight: 500;
+      }
+      .feed a:hover {
         color: var(--accent);
-        text-decoration: none;
       }
-      .news .date {
+      .feed .date {
         color: var(--muted);
+        font-size: 0.72rem;
         margin-left: 0.4rem;
+      }
+      .feed .sub {
+        list-style: none;
+        margin: 0.35rem 0 0;
+        padding: 0 0 0 0.1rem;
+      }
+      .feed .sub li {
+        border: 0;
+        padding: 0.12rem 0;
         font-size: 0.78rem;
       }
-      .news .sub {
-        list-style: none;
-        padding-left: 0.9rem;
-        margin: 0.25rem 0 0;
-        font-size: 0.8rem;
+      .feed .sub a {
+        color: var(--accent);
+        font-weight: 500;
       }
-      .news .sub li {
-        margin-bottom: 0.15rem;
+
+      /* ---------- footer ---------- */
+      footer {
+        border-top: 1px solid var(--border);
+        margin-top: 2.5rem;
+        padding: 1.3rem 0 2rem;
+        color: var(--muted);
+        font-size: 0.76rem;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.6rem;
+        justify-content: space-between;
+      }
+      footer a {
+        color: var(--accent);
+      }
+
+      /* ---------- skeleton ---------- */
+      .skel {
+        border-radius: var(--radius);
+        background: linear-gradient(
+          100deg,
+          var(--card) 40%,
+          rgba(255, 255, 255, 0.08) 50%,
+          var(--card) 60%
+        );
+        background-size: 200% 100%;
+        animation: sh 1.2s infinite linear;
+        min-height: 120px;
+        border: 1px solid var(--border);
+      }
+      @keyframes sh {
+        to {
+          background-position: -200% 0;
+        }
+      }
+      .hidden {
+        display: none !important;
       }
     </style>
   </head>
   <body>
-    <h1>🎮 PS4 Deal Tracker</h1>
-    <p id="updated"></p>
-    <h2 class="section" id="freeHead">🆓 Free right now</h2>
-    <div class="grid" id="freeGrid"></div>
-    <h2 class="section">📈 Tracked prices</h2>
-    <div class="grid" id="grid"></div>
-    <h2 class="section" id="newsHead">📺 Free game news</h2>
-    <ul id="freeNews" class="news"></ul>
-    <h2 class="section" id="promosHead">📣 Promotions</h2>
-    <ul id="promosNews" class="news"></ul>
-    <h2 class="section" id="monthlyHead">🗓 PS Plus monthly games</h2>
-    <ul id="monthlyNews" class="news"></ul>
+    <header class="hero">
+      <div class="wrap">
+        <div class="hero-top">
+          <div class="brand">
+            <div class="brand-logo">🎮</div>
+            <div>
+              <h1>PS4 Deal Tracker</h1>
+              <p class="tagline">Live store deals · price history · free games · PS Plus</p>
+            </div>
+          </div>
+          <div class="chips-meta">
+            <span class="chip"><span class="pulse"></span> LIVE</span>
+            <span class="chip">🌍 <b id="chipRegion">—</b></span>
+            <span class="chip">🔄 <b id="chipUpdated">loading…</b></span>
+          </div>
+        </div>
+        <div class="kpis" id="kpis">
+          <div class="skel" style="min-height: 78px"></div>
+          <div class="skel" style="min-height: 78px"></div>
+          <div class="skel" style="min-height: 78px"></div>
+          <div class="skel" style="min-height: 78px"></div>
+          <div class="skel" style="min-height: 78px"></div>
+          <div class="skel" style="min-height: 78px"></div>
+        </div>
+      </div>
+    </header>
+
+    <main class="wrap">
+      <section id="dealsSection">
+        <div class="sec-head">
+          <h2>
+            🔥 Top deals <span class="hint" id="dealsHint">scored & ranked automatically</span>
+          </h2>
+          <div class="tools">
+            <input id="q" type="search" placeholder="Search games…" autocomplete="off" />
+            <div class="fchips" id="fchips">
+              <button class="fchip active" data-min="0">All</button>
+              <button class="fchip" data-min="90">🔥🔥 90+</button>
+              <button class="fchip" data-min="80">🔥 80+</button>
+              <button class="fchip" data-min="70">⭐ 70+</button>
+              <button class="fchip" data-min="60">👍 60+</button>
+            </div>
+            <select id="sort">
+              <option value="score">Sort: Score</option>
+              <option value="pct">Sort: Discount</option>
+              <option value="priceAsc">Sort: Price ↑</option>
+              <option value="priceDesc">Sort: Price ↓</option>
+              <option value="name">Sort: Name</option>
+            </select>
+          </div>
+        </div>
+        <div class="grid" id="dealsGrid">
+          <div class="skel"></div>
+          <div class="skel"></div>
+          <div class="skel"></div>
+          <div class="skel"></div>
+        </div>
+        <p class="empty hidden" id="dealsEmpty"></p>
+      </section>
+
+      <section id="wishSection" class="hidden">
+        <div class="sec-head">
+          <h2>🎯 Wishlist watch <span class="hint">tracked prices vs your targets</span></h2>
+        </div>
+        <div class="grid" id="wishGrid"></div>
+      </section>
+
+      <section id="trackSection">
+        <div class="sec-head">
+          <h2>📈 Tracked price history <span class="hint" id="trackHint"></span></h2>
+        </div>
+        <div class="grid" id="trackGrid">
+          <div class="skel"></div>
+          <div class="skel"></div>
+          <div class="skel"></div>
+        </div>
+        <p class="empty hidden" id="trackEmpty">No price history recorded yet.</p>
+      </section>
+
+      <div class="cols">
+        <section id="freeSection" class="hidden">
+          <div class="sec-head"><h2>🆓 Free right now</h2></div>
+          <div class="grid" id="freeGrid"></div>
+        </section>
+        <section id="newsSection" class="hidden">
+          <div class="sec-head"><h2>📺 Free game news</h2></div>
+          <div class="feed"><ul id="freeNews"></ul></div>
+        </section>
+      </div>
+
+      <div class="cols">
+        <section id="promoSection" class="hidden">
+          <div class="sec-head"><h2>📣 Store promotions</h2></div>
+          <div class="feed"><ul id="promosNews"></ul></div>
+        </section>
+        <section id="monthlySection" class="hidden">
+          <div class="sec-head"><h2>🗓 PS Plus monthly games</h2></div>
+          <div class="feed"><ul id="monthlyNews"></ul></div>
+        </section>
+      </div>
+    </main>
+
+    <footer class="wrap">
+      <span id="footLeft">Data updated automatically by GitHub Actions every 30 minutes.</span>
+      <span id="footRight"></span>
+    </footer>
+
     <script>
-      Promise.all([
-        fetch("prices.json?" + Date.now()).then((r) => r.json()),
-        fetch("meta.json?" + Date.now())
-          .then((r) => r.json())
-          .catch(() => ({})),
-        fetch("free.json?" + Date.now())
-          .then((r) => (r.ok ? r.json() : []))
-          .catch(() => []),
-        fetch("promos.json?" + Date.now())
-          .then((r) => (r.ok ? r.json() : null))
-          .catch(() => null),
-        fetch("monthly.json?" + Date.now())
-          .then((r) => (r.ok ? r.json() : []))
-          .catch(() => []),
-      ])
-        .then(([data, meta, news, promosObj, monthly]) => {
-          const grid = document.getElementById("grid");
-          const freeGrid = document.getElementById("freeGrid");
-          let newest = "";
-          let freeCount = 0;
-          const css = getComputedStyle(document.documentElement);
-          const accent = css.getPropertyValue("--accent").trim();
+      const $ = (id) => document.getElementById(id);
+      const fmt = (v, sym) => (typeof v === "number" ? sym + v.toFixed(2) : "—");
+      const tierName = {
+        insane: "INSANE DEAL",
+        hot: "HOT DEAL",
+        great: "GREAT DEAL",
+        good: "GOOD DEAL",
+      };
+      let dealsData = null;
+      let ui = { min: 0, q: "", sort: "score" };
 
-          Object.entries(data)
-            .sort((a, b) => a[0].localeCompare(b[0]))
-            .forEach(([name, s]) => {
-              if (!s.history.length) return;
-              const cur = s.history.at(-1);
-              newest = cur.t > newest ? cur.t : newest;
+      const get = (file, fallback) =>
+        fetch(file + "?" + Date.now())
+          .then((r) => (r.ok ? r.json() : fallback))
+          .catch(() => fallback);
 
-              if (cur.price === 0) {
-                freeCount++;
-                const card = document.createElement("div");
-                card.className = "card";
-                const h2 = document.createElement("h2");
-                const badge = document.createElement("span");
-                badge.className = "free-badge";
-                badge.textContent = "FREE";
-                if (s.url) {
-                  const a = document.createElement("a");
-                  a.href = s.url;
-                  a.target = "_blank";
-                  a.rel = "noopener";
-                  a.textContent = name;
-                  h2.append(a);
-                } else {
-                  h2.textContent = name;
-                }
-                h2.append(badge);
-                const row = document.createElement("div");
-                row.className = "row";
-                const since = s.history.find((h) => h.price === 0) ?? cur;
-                const first = document.createElement("span");
-                first.textContent = "Free since: " + new Date(since.t).toLocaleDateString();
-                const sold = document.createElement("span");
-                sold.textContent = "Target: 0";
-                row.append(first, sold);
-                card.append(h2, row);
-                freeGrid.append(card);
-                return;
-              }
+      function kpi(icon, value, label, sub, hot) {
+        const d = document.createElement("div");
+        d.className = "kpi";
+        const i = document.createElement("div");
+        i.className = "icon";
+        i.textContent = icon;
+        const v = document.createElement("div");
+        v.className = "value" + (hot ? " hot-c" : "");
+        v.textContent = value;
+        const l = document.createElement("div");
+        l.className = "label";
+        l.textContent = label;
+        d.append(i, v, l);
+        if (sub) {
+          const s = document.createElement("div");
+          s.className = "sub";
+          s.textContent = sub;
+          d.append(s);
+        }
+        return d;
+      }
 
-              const atLow = s.low !== undefined && cur.price <= s.low;
-              const belowPeak =
-                s.high !== undefined && s.high > cur.price
-                  ? Math.round((1 - cur.price / s.high) * 100) + "% below peak"
-                  : "all-time high";
+      function renderKpis() {
+        const box = $("kpis");
+        box.textContent = "";
+        if (!dealsData) {
+          box.append(
+            kpi("🗂", "—", "Deals tracked", "first sync pending"),
+            kpi("💸", "—", "Avg discount", ""),
+            kpi("🏆", "—", "Hottest deal", ""),
+            kpi("🎯", "—", "Alert-worthy", "score ≥ minimum"),
+            kpi("🆓", "—", "Free now", ""),
+            kpi("⭐", "—", "Wishlist hits", ""),
+          );
+          return;
+        }
+        const s = dealsData.stats;
+        const sym = dealsData.symbol || "€";
+        const min = dealsData.minimumDealScore || 80;
+        box.append(
+          kpi("🗂", String(s.total), "Deals tracked", s.scored60 + " scored 60+"),
+          kpi("💸", s.avgDiscount + "%", "Avg discount", s.scored90 + " at 90+ (insane)"),
+          kpi("🏆", String(s.maxScore || "—"), "Hottest deal", s.maxScoreTitle || "", true),
+          kpi("🎯", String(s.scored80), "Alert-worthy", "score ≥ " + min),
+          kpi("🆓", String(dealsData.freeNow ?? 0), "Free now", "from price tracking"),
+          kpi(
+            "⭐",
+            (s.wishlistHits ?? 0) + "/" + (s.wishlistCount ?? 0),
+            "Wishlist hits",
+            "at or below target",
+          ),
+        );
+      }
 
-              const card = document.createElement("div");
-              card.className = "card";
-              const h2 = document.createElement("h2");
-              h2.textContent = name;
-              const row = document.createElement("div");
-              row.className = "row";
-              const now = document.createElement("span");
-              now.className = "now" + (atLow ? " hit" : "");
-              now.textContent = cur.price;
-              const low = document.createElement("span");
-              low.textContent = "Lowest tracked: " + (s.low ?? "-");
-              row.append(now, low);
-              const sub = document.createElement("div");
-              sub.className = "row";
-              const peak = document.createElement("span");
-              peak.textContent = "Peak: " + (s.high ?? "-");
-              const delta = document.createElement("span");
-              delta.className = atLow ? "hit" : "";
-              delta.textContent = belowPeak;
-              sub.append(peak, delta);
-              const canvas = document.createElement("canvas");
-              card.append(h2, row, sub, canvas);
-              grid.append(card);
+      function dealCard(d, sym) {
+        const a = document.createElement("a");
+        a.className = "deal tier-" + d.tier;
+        a.href = d.url;
+        a.target = "_blank";
+        a.rel = "noopener";
 
-              new Chart(canvas, {
-                type: "line",
-                data: {
-                  labels: s.history.map((h) => new Date(h.t).toLocaleDateString()),
-                  datasets: [
-                    {
-                      data: s.history.map((h) => h.price),
-                      borderColor: accent,
-                      stepped: true,
-                      pointRadius: 2,
-                      tension: 0,
-                    },
-                  ],
-                },
-                options: {
-                  plugins: { legend: { display: false } },
-                  scales: { x: { display: false } },
-                },
-              });
-            });
+        const thumb = document.createElement("div");
+        thumb.className = "thumb";
+        if (d.imageUrl) {
+          const img = document.createElement("img");
+          img.loading = "lazy";
+          img.alt = d.title;
+          img.src = d.imageUrl;
+          img.onerror = () => img.remove();
+          thumb.append(img);
+        } else {
+          const ph = document.createElement("span");
+          ph.className = "ph";
+          ph.textContent = "🎮";
+          thumb.append(ph);
+        }
+        const sc = document.createElement("span");
+        sc.className = "score";
+        const scb = document.createElement("b");
+        scb.textContent = d.score;
+        const scs = document.createElement("span");
+        scs.textContent = "/100";
+        sc.append(scb, scs);
+        thumb.append(sc);
+        if (d.discountPercentage > 0) {
+          const pct = document.createElement("span");
+          pct.className = "pct";
+          pct.textContent = "-" + d.discountPercentage + "%";
+          thumb.append(pct);
+        }
 
-          if (!freeCount) {
-            document.getElementById("freeHead").style.display = "none";
-            freeGrid.style.display = "none";
+        const body = document.createElement("div");
+        body.className = "body";
+        const h3 = document.createElement("h3");
+        h3.textContent = d.title;
+        const pr = document.createElement("div");
+        pr.className = "prices";
+        const now = document.createElement("span");
+        now.className = "now";
+        now.textContent = fmt(d.currentPrice, sym);
+        pr.append(now);
+        if (d.originalPrice > d.currentPrice) {
+          const old = document.createElement("s");
+          old.textContent = fmt(d.originalPrice, sym);
+          pr.append(old);
+        }
+        const tier = document.createElement("span");
+        tier.className = "tier tier-" + d.tier;
+        tier.textContent = tierName[d.tier] || d.tier.toUpperCase();
+        body.append(h3, pr, tier);
+        a.append(thumb, body);
+        return a;
+      }
+
+      function renderDeals() {
+        const grid = $("dealsGrid");
+        const empty = $("dealsEmpty");
+        grid.textContent = "";
+        if (!dealsData) {
+          empty.textContent = "Waiting for the first deal sync (runs every 30 min)…";
+          empty.classList.remove("hidden");
+          return;
+        }
+        const sym = dealsData.symbol || "€";
+        let list = (dealsData.deals || []).filter((d) => d.score >= (ui.min || 0));
+        if (ui.q) {
+          const q = ui.q.toLowerCase();
+          list = list.filter((d) => d.title.toLowerCase().includes(q));
+        }
+        const by = {
+          score: (a, b) => b.score - a.score,
+          pct: (a, b) => b.discountPercentage - a.discountPercentage,
+          priceAsc: (a, b) => a.currentPrice - b.currentPrice,
+          priceDesc: (a, b) => b.currentPrice - a.currentPrice,
+          name: (a, b) => a.title.localeCompare(b.title),
+        };
+        list.sort(by[ui.sort] || by.score);
+        $("dealsHint").textContent =
+          (dealsData.deals || []).length +
+          " top-scored of " +
+          (dealsData.stats?.total ?? "?") +
+          " live deals";
+        if (!list.length) {
+          empty.textContent = ui.q
+            ? 'No deals match "' + ui.q + '".'
+            : "No deals in this tier right now.";
+          empty.classList.remove("hidden");
+          return;
+        }
+        empty.classList.add("hidden");
+        const frag = document.createDocumentFragment();
+        list.forEach((d) => frag.append(dealCard(d, sym)));
+        grid.append(frag);
+      }
+
+      function renderWishlist() {
+        const sec = $("wishSection");
+        const grid = $("wishGrid");
+        if (!dealsData || !dealsData.wishlist || !dealsData.wishlist.length) return;
+        sec.classList.remove("hidden");
+        grid.textContent = "";
+        const sym = dealsData.symbol || "€";
+        dealsData.wishlist.forEach((w) => {
+          const card = document.createElement("div");
+          card.className = "wish" + (w.hit ? " hit" : "");
+          const t = document.createElement("a");
+          t.className = "wt";
+          t.href = w.url;
+          t.target = "_blank";
+          t.rel = "noopener";
+          t.textContent = w.title;
+          const nums = document.createElement("div");
+          nums.className = "nums";
+          const cur = document.createElement("span");
+          cur.innerHTML = "now <b>" + fmt(w.currentPrice, sym) + "</b>";
+          const tgt = document.createElement("span");
+          tgt.innerHTML = "target <b>" + fmt(w.targetPrice, sym) + "</b>";
+          nums.append(cur, tgt);
+          const bar = document.createElement("div");
+          bar.className = "bar";
+          const fill = document.createElement("i");
+          const pct =
+            typeof w.currentPrice === "number" && w.currentPrice > 0
+              ? Math.max(4, Math.min(100, Math.round((w.targetPrice / w.currentPrice) * 100)))
+              : 0;
+          fill.style.width = pct + "%";
+          bar.append(fill);
+          const st = document.createElement("div");
+          st.className = "status";
+          if (w.hit) st.textContent = "✓ target hit";
+          else if (typeof w.currentPrice !== "number") st.textContent = "price pending";
+          else
+            st.textContent =
+              fmt(w.currentPrice - w.targetPrice, sym) + " above target · " + pct + "% there";
+          card.append(t, nums, bar, st);
+          grid.append(card);
+        });
+      }
+
+      function renderTracked(prices) {
+        const grid = $("trackGrid");
+        grid.textContent = "";
+        const entries = Object.entries(prices || {})
+          .filter(([, s]) => s.history && s.history.length)
+          .sort((a, b) => a[0].localeCompare(b[0]));
+        $("trackHint").textContent = entries.length + " games · one point per day";
+        if (!entries.length) {
+          grid.classList.add("hidden");
+          $("trackEmpty").classList.remove("hidden");
+          return;
+        }
+        const css = getComputedStyle(document.documentElement);
+        const accent = css.getPropertyValue("--accent").trim() || "#4dabff";
+        const frag = document.createDocumentFragment();
+        entries.forEach(([name, s]) => {
+          const cur = s.history[s.history.length - 1];
+          if (cur.price === 0) return; // free games rendered in their own section
+          const atLow = typeof s.low === "number" && cur.price <= s.low;
+          const card = document.createElement("div");
+          card.className = "track";
+          const head = document.createElement("div");
+          head.className = "t-head";
+          const h3 = document.createElement("h3");
+          if (s.url) {
+            const a = document.createElement("a");
+            a.href = s.url;
+            a.target = "_blank";
+            a.rel = "noopener";
+            a.textContent = name;
+            h3.append(a);
+          } else {
+            h3.textContent = name;
           }
+          head.append(h3);
+          if (atLow) {
+            const b = document.createElement("span");
+            b.className = "atlow";
+            b.textContent = "AT LOW";
+            head.append(b);
+          }
+          const nums = document.createElement("div");
+          nums.className = "nums";
+          const now = document.createElement("span");
+          now.className = "now" + (atLow ? " hit" : "");
+          now.textContent =
+            typeof cur.price === "number" ? "€" + cur.price.toFixed(2) : String(cur.price);
+          const low = document.createElement("span");
+          low.className = "low";
+          low.textContent = "lowest €" + (s.low ?? "-");
+          nums.append(now, low);
+          const sub = document.createElement("div");
+          sub.className = "sub";
+          const peak = document.createElement("span");
+          peak.textContent = "peak €" + (s.high ?? "-");
+          const delta = document.createElement("span");
+          delta.textContent =
+            typeof s.high === "number" && s.high > cur.price
+              ? Math.round((1 - cur.price / s.high) * 100) + "% below peak"
+              : "at all-time high";
+          sub.append(peak, delta);
+          const canvas = document.createElement("canvas");
+          card.append(head, nums, sub, canvas);
+          frag.append(card);
+          new Chart(canvas, {
+            type: "line",
+            data: {
+              labels: s.history.map((h) => new Date(h.t).toLocaleDateString()),
+              datasets: [
+                {
+                  data: s.history.map((h) => h.price),
+                  borderColor: atLow ? "#2dde98" : accent,
+                  backgroundColor: "rgba(77,171,255,0.12)",
+                  stepped: true,
+                  fill: true,
+                  pointRadius: 2,
+                  tension: 0,
+                },
+              ],
+            },
+            options: {
+              plugins: { legend: { display: false }, tooltip: { enabled: true } },
+              scales: { x: { display: false }, y: { display: false } },
+              maintainAspectRatio: false,
+            },
+          });
+        });
+        grid.append(frag);
+      }
 
-          function renderNews(listId, headId, items, withGames) {
-            const ul = document.getElementById(listId);
-            (Array.isArray(items) ? items : []).forEach((n) => {
-              if (!n || !n.title) return;
-              const li = document.createElement("li");
+      function renderFreeNow(prices) {
+        const grid = $("freeGrid");
+        let count = 0;
+        Object.entries(prices || {})
+          .filter(([, s]) => s.history && s.history.some((h) => h.price === 0))
+          .sort((a, b) => a[0].localeCompare(b[0]))
+          .forEach(([name, s]) => {
+            const cur = s.history[s.history.length - 1];
+            if (cur.price !== 0) return;
+            count++;
+            const card = document.createElement("div");
+            card.className = "track";
+            const h3 = document.createElement("h3");
+            if (s.url) {
               const a = document.createElement("a");
-              a.textContent = n.title;
-              if (n.link) {
-                a.href = n.link;
-                a.target = "_blank";
-                a.rel = "noopener";
-              }
-              const date = document.createElement("span");
-              date.className = "date";
-              date.textContent = n.t ? new Date(n.t).toLocaleDateString() : "";
-              li.append(a, date);
-              if (withGames && Array.isArray(n.games) && n.games.length) {
-                const sub = document.createElement("ul");
-                sub.className = "sub";
-                n.games.forEach((g) => {
-                  if (!g || !g.url) return;
-                  const sli = document.createElement("li");
-                  const ga = document.createElement("a");
-                  ga.textContent = g.name || g.url;
-                  ga.href = g.url;
-                  ga.target = "_blank";
-                  ga.rel = "noopener";
-                  sli.append(ga);
-                  sub.append(sli);
-                });
-                li.append(sub);
-              }
-              ul.append(li);
+              a.href = s.url;
+              a.target = "_blank";
+              a.rel = "noopener";
+              a.textContent = name;
+              h3.append(a);
+            } else {
+              h3.textContent = name;
+            }
+            const badge = document.createElement("span");
+            badge.className = "free-badge";
+            badge.textContent = "FREE";
+            h3.append(badge);
+            const since = s.history.find((h) => h.price === 0) || cur;
+            const row = document.createElement("div");
+            row.className = "sub";
+            row.style.marginTop = "0.5rem";
+            const s1 = document.createElement("span");
+            s1.textContent = "free since " + new Date(since.t).toLocaleDateString();
+            const s2 = document.createElement("span");
+            s2.textContent = "target €0.00";
+            row.append(s1, s2);
+            card.append(h3, row);
+            grid.append(card);
+          });
+        if (count) {
+          $("freeSection").classList.remove("hidden");
+        }
+        return count;
+      }
+
+      function renderFeed(listId, sectionId, items, withGames) {
+        const ul = $(listId);
+        const arr = Array.isArray(items) ? items.filter((n) => n && n.title) : [];
+        if (!arr.length) return;
+        $(sectionId).classList.remove("hidden");
+        arr.forEach((n) => {
+          const li = document.createElement("li");
+          const a = document.createElement("a");
+          a.textContent = n.title;
+          if (n.link) {
+            a.href = n.link;
+            a.target = "_blank";
+            a.rel = "noopener";
+          }
+          const date = document.createElement("span");
+          date.className = "date";
+          date.textContent = n.t ? new Date(n.t).toLocaleDateString() : "";
+          li.append(a, date);
+          if (withGames && Array.isArray(n.games) && n.games.length) {
+            const sub = document.createElement("ul");
+            sub.className = "sub";
+            n.games.forEach((g) => {
+              if (!g || !g.url) return;
+              const sli = document.createElement("li");
+              const ga = document.createElement("a");
+              ga.textContent = g.name || g.url;
+              ga.href = g.url;
+              ga.target = "_blank";
+              ga.rel = "noopener";
+              sli.append(ga);
+              sub.append(sli);
             });
-            if (!ul.children.length) {
-              document.getElementById(headId).style.display = "none";
-              ul.style.display = "none";
+            li.append(sub);
+          }
+          ul.append(li);
+        });
+      }
+
+      function loadDeals() {
+        return get("deals.json", null).then((d) => {
+          dealsData = d;
+          if (d) {
+            $("chipRegion").textContent = d.region + " · " + (d.currency || "");
+            if (d.generatedAt) {
+              $("chipUpdated").textContent = new Date(d.generatedAt).toLocaleTimeString();
             }
           }
+          renderKpis();
+          renderDeals();
+          renderWishlist();
+          return d;
+        });
+      }
 
-          renderNews("freeNews", "newsHead", news, false);
-          renderNews("promosNews", "promosHead", promosObj && promosObj.items, false);
-          renderNews("monthlyNews", "monthlyHead", monthly, true);
+      // filters / search / sort
+      $("q").addEventListener("input", (e) => {
+        ui.q = e.target.value.trim();
+        renderDeals();
+      });
+      $("sort").addEventListener("change", (e) => {
+        ui.sort = e.target.value;
+        renderDeals();
+      });
+      $("fchips").addEventListener("click", (e) => {
+        const btn = e.target.closest(".fchip");
+        if (!btn) return;
+        document.querySelectorAll(".fchip").forEach((c) => c.classList.remove("active"));
+        btn.classList.add("active");
+        ui.min = Number(btn.dataset.min) || 0;
+        renderDeals();
+      });
+
+      Promise.all([
+        loadDeals(),
+        get("prices.json", {}),
+        get("meta.json", {}),
+        get("free.json", []),
+        get("promos.json", null),
+        get("monthly.json", []),
+      ])
+        .then(([, prices, meta, news, promosObj, monthly]) => {
+          const freeCount = renderFreeNow(prices);
+          if (dealsData) {
+            dealsData.freeNow = freeCount;
+            renderKpis();
+          }
+          renderTracked(prices);
+          renderFeed("freeNews", "newsSection", news, false);
+          renderFeed("promosNews", "promoSection", promosObj && promosObj.items, false);
+          renderFeed("monthlyNews", "monthlySection", monthly, true);
 
           const parts = [];
-          if (meta.lastRun) parts.push("Last run: " + new Date(meta.lastRun).toLocaleString());
-          parts.push(
-            newest
-              ? "Last price change: " + new Date(newest).toLocaleString()
-              : "No price data yet.",
-          );
-          document.getElementById("updated").textContent = parts.join(" · ");
+          if (meta.lastRun) {
+            parts.push("last check " + new Date(meta.lastRun).toLocaleString());
+          }
+          if (meta.dealsChecked) parts.push(meta.dealsChecked + " deals verified");
+          if (meta.alertsSent) parts.push(meta.alertsSent + " alerts sent");
+          $("footLeft").textContent =
+            (parts.join(" · ") || "Data updated automatically every 30 minutes.") +
+            " · No database — all JSON, committed by Actions.";
+          $("footRight").innerHTML =
+            "Region <b>" +
+            (dealsData?.region || meta.region || "—") +
+            '</b> · <a href="https://github.com/ramzi-bouzaiene/ps4-deals-telegram-bot">source</a>';
         })
         .catch(() => {
-          document.getElementById("updated").textContent = "Couldn't load prices.json yet.";
+          $("chipUpdated").textContent = "no data yet";
         });
+
+      // gentle live refresh of the deals feed (keeps filters/search intact)
+      setInterval(() => {
+        loadDeals();
+      }, 180000);
     </script>
   </body>
 </html>
