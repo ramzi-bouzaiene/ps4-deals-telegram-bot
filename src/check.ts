@@ -345,6 +345,8 @@ export async function runCheck() {
     sourceErrors: errors.length,
     alertsSent: histSent + wishSent + hotSent,
     region: prefs.region,
+    watchlistItems: wishSnapshot.length,
+    pricesChecked: Object.values(legacy).filter((e) => (e.history ?? []).length > 0).length,
   });
   writeDealsSnapshot(scored, wishSnapshot, prefs, region);
   await flushDigest();
