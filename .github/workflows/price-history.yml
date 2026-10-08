@@ -3,7 +3,7 @@ name: price-history
 # schedule-registration refresh 2026-10-08 — forces GitHub to re-read cron triggers
 on:
   schedule:
-    - cron: "23 */6 * * *"
+    - cron: "23 0,6,12,18 * * *"
   workflow_dispatch:
 
 permissions:
