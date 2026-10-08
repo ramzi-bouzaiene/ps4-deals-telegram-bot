@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-08T13:57:54.764Z",
+  "fetchedAt": "2026-10-08T15:29:07.728Z",
   "region": "FR",
   "deals": [
     {
@@ -18780,7 +18780,7 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202010/1520/QylW6RhRNrY9FWB6aC2LafnK.jpg"
     },
     {
-      "id": "EP1762-CUSA11011_00-XENONCROSSBUY000",
+      "id": "EP1762-PPSA06873_00-XENONPS500000000",
       "title": "Xenon Valkyrie+",
       "platform": "PS4",
       "store": "PlayStation Store",
@@ -18789,7 +18789,8 @@
       "originalPrice": 9.99,
       "currency": "EUR",
       "discountPercentage": 75,
-      "url": "https://store.playstation.com/fr-fr/product/EP1762-CUSA11011_00-XENONCROSSBUY000"
+      "url": "https://store.playstation.com/fr-fr/product/EP1762-PPSA06873_00-XENONPS500000000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202203/0515/36IkQVrQZAUbzQtyrmg9ouRB.png"
     },
     {
       "id": "EP4064-CUSA10650_00-YOKUSISLANDEXP00",
