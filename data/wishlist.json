@@ -1,0 +1,98 @@
+[
+  {
+    "gameId": "biped",
+    "title": "Biped",
+    "targetPrice": 0.99,
+    "url": "https://store.playstation.com/fr-fr/product/EP6008-PPSA24591_00-0184863662672381"
+  },
+  {
+    "gameId": "time-loader",
+    "title": "Time Loader",
+    "targetPrice": 0.99,
+    "url": "https://store.playstation.com/fr-fr/product/EP6008-CUSA30591_00-7800865168715916"
+  },
+  {
+    "gameId": "clunky-hero",
+    "title": "Clunky Hero",
+    "targetPrice": 0.99,
+    "url": "https://store.playstation.com/fr-fr/product/EP7686-CUSA39295_00-3331704668274529"
+  },
+  {
+    "gameId": "bakery-simulator",
+    "title": "Bakery Simulator",
+    "targetPrice": 0.99,
+    "url": "https://store.playstation.com/fr-fr/product/EP8638-CUSA45900_00-0514472334954772"
+  },
+  {
+    "gameId": "electrician-simulator",
+    "title": "Electrician Simulator",
+    "targetPrice": 0.49,
+    "url": "https://store.playstation.com/fr-fr/product/EP8638-CUSA43214_00-0229922409700981"
+  },
+  {
+    "gameId": "speedollama",
+    "title": "Speedollama",
+    "targetPrice": 0.49,
+    "url": "https://store.playstation.com/fr-fr/product/UP7688-CUSA50310_00-0467844954024052"
+  },
+  {
+    "gameId": "season-match-3",
+    "title": "Season Match 3",
+    "targetPrice": 0.49,
+    "url": "https://store.playstation.com/fr-fr/product/EP1629-CUSA13657_00-SEASONMATCH30000"
+  },
+  {
+    "gameId": "indiana-jones-and-the-staff-of-kings",
+    "title": "Indiana Jones and the Staff of Kings",
+    "targetPrice": 1.49,
+    "url": "https://store.playstation.com/fr-fr/product/UP1082-PPSA14388_00-0064394372965033"
+  },
+  {
+    "gameId": "warframe",
+    "title": "Warframe",
+    "targetPrice": 0,
+    "url": "https://store.playstation.com/fr-fr/product/EP2097-CUSA00106_00-0000000000000000"
+  },
+  {
+    "gameId": "roblox",
+    "title": "Roblox",
+    "targetPrice": 0,
+    "url": "https://store.playstation.com/fr-fr/product/UP1821-CUSA06122_00-0000040810600000"
+  },
+  {
+    "gameId": "apex-legends",
+    "title": "Apex Legends",
+    "targetPrice": 0,
+    "url": "https://store.playstation.com/fr-fr/product/EP0006-CUSA12552_00-APEXLEGENDRSPWN1"
+  },
+  {
+    "gameId": "rocket-league",
+    "title": "Rocket League",
+    "targetPrice": 0,
+    "url": "https://store.playstation.com/fr-fr/product/EP2002-CUSA01433_00-ROCKETLEAGUEEU01"
+  },
+  {
+    "gameId": "destiny-2",
+    "title": "Destiny 2",
+    "targetPrice": 0,
+    "url": "https://store.playstation.com/fr-fr/product/EP0002-PPSA02410_00-DESTINYTHEGAME02"
+  },
+  {
+    "gameId": "brawlhalla",
+    "title": "Brawlhalla",
+    "targetPrice": 0,
+    "url": "https://store.playstation.com/fr-fr/product/EP0953-CUSA05330_00-BRAWLHALLAEUROPE"
+  },
+  {
+    "gameId": "fall-guys",
+    "title": "Fall Guys",
+    "targetPrice": 0,
+    "url": "https://store.playstation.com/fr-fr/product/EP1464-PPSA04478_00-FALLGUYS00000000"
+  },
+  {
+    "gameId": "fortnite",
+    "title": "Fortnite",
+    "targetPrice": 0,
+    "url": "https://store.playstation.com/fr-fr/product/EP1464-PPSA01923_00-FNBNDL0000000000"
+  }
+]

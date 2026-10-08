@@ -1,0 +1,44 @@
+name: price-history
+
+on:
+  schedule:
+    - cron: "23 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ps4-deals-history
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      - name: Update historical prices
+        run: npx tsx src/price-history.ts
+        env:
+          DEFAULT_REGION: ${{ vars.DEFAULT_REGION }}
+
+      - name: Commit price history
+        run: |
+          git config user.name "deals-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data || true
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "update price history"
+          for i in 1 2 3; do
+            git pull --rebase --autostash && git push && exit 0
+            sleep 5
+          done
+          exit 1

@@ -1,19 +1,19 @@
-name: PS4 deals bot (commands)
+name: check-deals
 
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "*/30 * * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
 
 concurrency:
-  group: ps4-deals-bot
-  cancel-in-progress: true
+  group: ps4-deals-check
+  cancel-in-progress: false
 
 jobs:
-  poll:
+  check:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -25,23 +25,28 @@ jobs:
 
       - run: npm ci
 
-      # Long-poll a little under 5 minutes so the next cron tick picks up
-      # where this one left off. Private repos: change the cron to "*/15"
-      # and BOT_POLL_SECONDS to 860 to save Actions minutes.
-      - name: Handle Telegram commands
-        run: npx tsx src/bot.ts
+      - name: Type check
+        run: npm run check
+
+      - name: Fetch, score, record, alert
+        run: npx tsx src/check.ts
         env:
           TG_TOKEN: ${{ secrets.TG_TOKEN }}
           TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
-          BOT_POLL_SECONDS: "260"
+          DEFAULT_REGION: ${{ vars.DEFAULT_REGION }}
+          DIGEST: ${{ vars.DIGEST }}
+          QUIET_HOURS: ${{ vars.QUIET_HOURS }}
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+          NTFY_URL: ${{ secrets.NTFY_URL }}
+          WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
 
-      - name: Commit wishlist / settings changes
+      - name: Commit state
         run: |
           git config user.name "deals-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add data config || true
+          git add data docs digest.json config || true
           if git diff --cached --quiet; then exit 0; fi
-          git commit -m "update bot state"
+          git commit -m "update deals state"
           for i in 1 2 3; do
             git pull --rebase --autostash && git push && exit 0
             sleep 5

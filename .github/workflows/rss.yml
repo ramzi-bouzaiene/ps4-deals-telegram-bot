@@ -1,19 +1,19 @@
-name: PS4 deals
+name: RSS feeds & promotions
 
 on:
   schedule:
-    - cron: "0 */2 * * *"
+    - cron: "17 */2 * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
 
 concurrency:
-  group: ps4-deals
+  group: ps4-deals-rss
   cancel-in-progress: false
 
 jobs:
-  check:
+  feeds:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -24,9 +24,6 @@ jobs:
           cache: npm
 
       - run: npm ci
-
-      - name: Type check
-        run: npm run check
 
       - name: RSS feeds (free games, PS Plus, deals)
         run: npx tsx src/index.ts
@@ -50,21 +47,15 @@ jobs:
           NTFY_URL: ${{ secrets.NTFY_URL }}
           WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
 
-      - name: Watchlist prices
-        run: npx tsx src/watchlist.ts
-        env:
-          TG_TOKEN: ${{ secrets.TG_TOKEN }}
-          TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
-          MIN_DISCOUNT: ${{ vars.MIN_DISCOUNT }}
-          DIGEST: ${{ vars.DIGEST }}
-          QUIET_HOURS: ${{ vars.QUIET_HOURS }}
-          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
-          NTFY_URL: ${{ secrets.NTFY_URL }}
-          WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
-
       - name: Commit state
         run: |
           git config user.name "deals-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add seen.json digest.json watchlist.json docs
-          git diff --cached --quiet || (git commit -m "update state" && git push)
+          git add seen.json digest.json docs || true
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "update feed state"
+          for i in 1 2 3; do
+            git pull --rebase --autostash && git push && exit 0
+            sleep 5
+          done
+          exit 1

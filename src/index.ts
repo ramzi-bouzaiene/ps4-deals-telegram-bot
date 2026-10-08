@@ -13,8 +13,10 @@ const parser = new Parser({
 const SEEN_FILE = "seen.json";
 const FREE_FILE = "docs/free.json";
 const MONTHLY_FILE = "docs/monthly.json";
-// SEED=1 npm run feeds  -> mark everything currently in the feeds as seen, send nothing
-const SEED = process.env.SEED === "1";
+// Mark everything currently in the feeds as seen, send nothing.
+// Runs automatically on the first execution (no seen.json yet) so there is
+// never an alert flood; SEED=1 forces it any time.
+const SEED = process.env.SEED === "1" || !fs.existsSync(SEEN_FILE);
 const MAX_AGE_HOURS = 48;
 const FREE_RX = /\bfree\b|gratuit(e|es)?|100\s*%\s*off/i;
 // Official announcements only (blog.playstation.com) — reddit is too noisy.
@@ -162,6 +164,7 @@ export async function resolveMonthlyGames(title: string): Promise<{ name: string
 }
 
 async function main() {
+  if (SEED) console.log("RSS: first run — seeding seen state silently (no alerts).");
   const cutoff = Date.now() - MAX_AGE_HOURS * 3600 * 1000;
 
   for (const url of FEEDS) {

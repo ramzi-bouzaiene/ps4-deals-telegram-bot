@@ -1,42 +1,10 @@
-import fs from "fs";
-import { notify, enqueue, flushDigest, esc } from "./telegram";
-import { fetchWithRetry, sleep } from "./http";
+import { fetchWithRetry } from "./http";
 
-export type Item = { name: string; url: string; target: number };
 export type Price = { current: number | null; base: number | null; free: boolean };
 export type FetchResult =
   { ok: true; price: Price } | { ok: false; reason: string; broke: boolean };
 
-type State = Record<
-  string,
-  {
-    url?: string;
-    lastAlerted?: number;
-    lastPct?: number;
-    lastBreak?: string;
-    low?: number;
-    high?: number;
-    history: { t: string; price: number }[];
-  }
->;
-
-const STATE_FILE = "docs/prices.json";
-const META_FILE = "docs/meta.json";
 const DEBUG = process.env.DEBUG === "1";
-const MIN_DISCOUNT = Number(process.env.MIN_DISCOUNT ?? 50);
-const BREAK_ALERT_COOLDOWN_MS = 24 * 3600 * 1000;
-
-const state: State = fs.existsSync(STATE_FILE)
-  ? JSON.parse(fs.readFileSync(STATE_FILE, "utf8"))
-  : {};
-
-export function loadItems(): Item[] {
-  return JSON.parse(fs.readFileSync("watchlist.json", "utf8"));
-}
-
-export function saveItems(items: Item[]) {
-  fs.writeFileSync("watchlist.json", JSON.stringify(items, null, 2) + "\n");
-}
 
 export const toNumber = (s: unknown): number | null => {
   if (typeof s === "number") return s;
@@ -168,93 +136,3 @@ export async function fetchPrice(url: string): Promise<FetchResult> {
     price: { current: best.c.cur, base: best.c.base, free: best.c.free },
   };
 }
-
-function discountPct(p: Price): number {
-  if (p.base === null || p.base <= p.current!) return 0;
-  return Math.round((1 - p.current! / p.base) * 100);
-}
-
-async function alertBreak(name: string, url: string, reason: string) {
-  const s = (state[name] ??= { history: [] });
-  const now = Date.now();
-  const last = s.lastBreak ? Date.parse(s.lastBreak) : 0;
-  if (now - last < BREAK_ALERT_COOLDOWN_MS) return;
-  s.lastBreak = new Date(now).toISOString();
-  await notify(
-    `⚠️ <b>Scraper broke</b> for ${esc(name)}\n${esc(reason)}\nRun \`npm run debug\` locally and adjust fetchPrice in src/watchlist.ts\n${url}`,
-  );
-}
-
-function writeMeta(extra: Record<string, unknown> = {}) {
-  fs.mkdirSync("docs", { recursive: true });
-  const prev = fs.existsSync(META_FILE) ? JSON.parse(fs.readFileSync(META_FILE, "utf8")) : {};
-  fs.writeFileSync(
-    META_FILE,
-    JSON.stringify({ ...prev, lastRun: new Date().toISOString(), ...extra }, null, 2),
-  );
-}
-
-export async function checkWatchlist() {
-  fs.mkdirSync("docs", { recursive: true });
-  const items: Item[] = loadItems();
-  let checked = 0;
-
-  for (const item of items) {
-    const r = await fetchPrice(item.url);
-    await sleep(3000); // be polite
-    checked++;
-
-    if (!r.ok) {
-      if (r.broke) await alertBreak(item.name, item.url, r.reason);
-      else console.error("Fetch failed:", item.name, r.reason);
-      continue;
-    }
-    const p = r.price;
-    if (p.current === null) continue;
-
-    const s = (state[item.name] ??= { history: [] });
-    s.url = item.url;
-    delete s.lastBreak;
-    const last = s.history.at(-1);
-    if (!last || last.price !== p.current)
-      s.history.push({ t: new Date().toISOString(), price: p.current });
-    s.history = s.history.slice(-500);
-
-    const pct = discountPct(p);
-    const previousLow = s.low;
-    const isNewLow = previousLow !== undefined && p.current < previousLow;
-    if (previousLow === undefined || p.current < previousLow) s.low = p.current;
-    if (s.high === undefined || p.current > s.high) s.high = p.current;
-
-    const belowTarget = p.current <= item.target;
-    const newLowAlert = s.lastAlerted === undefined || p.current < s.lastAlerted;
-    // Alert the first time a game is seen free (or becomes free again), not
-    // on every run while it stays free — s.lastAlerted is 0 while free.
-    const becameFree = p.free && s.lastAlerted !== 0;
-
-    const urgent = (belowTarget && newLowAlert) || isNewLow || becameFree;
-    const pctAlert =
-      !urgent && pct >= MIN_DISCOUNT && (s.lastPct === undefined || p.current < s.lastPct);
-
-    if (urgent || pctAlert) {
-      const off = p.base && p.base > p.current ? ` (-${pct}%)` : "";
-      const tag = p.free ? "🆓 FREE" : `💸 ${p.current}`;
-      const lowNote = isNewLow ? "\n🔥 <b>Lowest price I've tracked</b>" : "";
-      const head = urgent ? "" : `🏷 <b>${pct}% off</b> — above your target of ${item.target}\n`;
-      const msg = `🎮 <b>${esc(item.name)}</b>\n${head}${tag}${off} — target: ${item.target}${lowNote}\n${item.url}`;
-      if (urgent) await notify(msg);
-      else await enqueue(msg);
-      s.lastAlerted = p.current;
-      s.lastPct = p.current;
-    }
-    // price went back up: re-arm so the next sale alerts again
-    if (!belowTarget) delete s.lastAlerted;
-    if (pct < MIN_DISCOUNT) delete s.lastPct;
-  }
-
-  fs.writeFileSync(STATE_FILE, JSON.stringify(state, null, 2));
-  writeMeta({ watchlistItems: items.length, pricesChecked: checked });
-  await flushDigest();
-}
-
-if (require.main === module) checkWatchlist();

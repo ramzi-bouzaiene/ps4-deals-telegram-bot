@@ -1,4 +1,4 @@
-name: PS4 deals — daily top 30
+name: daily-deals
 
 on:
   schedule:
@@ -13,7 +13,7 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  top30:
+  best:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -25,14 +25,12 @@ jobs:
 
       - run: npm ci
 
-      - name: Type check
-        run: npm run check
-
-      - name: Daily top 30 deals
-        run: npx tsx src/deals.ts
+      - name: Best deals of the day
+        run: npx tsx src/daily.ts
         env:
           TG_TOKEN: ${{ secrets.TG_TOKEN }}
           TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
+          DEFAULT_REGION: ${{ vars.DEFAULT_REGION }}
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
           NTFY_URL: ${{ secrets.NTFY_URL }}
           WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}

@@ -1,0 +1,22 @@
+{
+  "region": "UK",
+  "currency": "GBP",
+  "displayTND": false,
+  "tndRate": 3.35,
+  "minimumDealScore": 80,
+  "dailyDealsCount": 5,
+  "notifications": {
+    "historicalLow": true,
+    "wishlist": true,
+    "hotDeals": true,
+    "dailyDeals": true
+  },
+  "scoreWeights": {
+    "discount": 30,
+    "price": 20,
+    "historical": 25,
+    "drop": 15,
+    "rating": 10,
+    "popularity": 0
+  }
+}

@@ -1,5 +1,6 @@
 import fs from "fs";
 import { fetchWithRetry } from "./http";
+import type { InlineKeyboard } from "./types";
 
 const DIGEST_FILE = "digest.json";
 const TG_LIMIT = 4096;
@@ -36,19 +37,22 @@ function chunk(text: string, limit = TG_LIMIT): string[] {
 
 const hasTg = () => Boolean(process.env.TG_TOKEN && process.env.TG_CHAT_ID);
 
-async function sendTelegram(text: string) {
-  for (const part of chunk(text)) {
+async function sendTelegram(text: string, keyboard?: InlineKeyboard) {
+  const parts = chunk(text);
+  for (const [i, part] of parts.entries()) {
+    const body: Record<string, unknown> = {
+      chat_id: process.env.TG_CHAT_ID,
+      text: part,
+      parse_mode: "HTML",
+      disable_web_page_preview: false,
+    };
+    if (keyboard && i === 0) body.reply_markup = keyboard;
     const res = await fetchWithRetry(
       `https://api.telegram.org/bot${process.env.TG_TOKEN}/sendMessage`,
       {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          chat_id: process.env.TG_CHAT_ID,
-          text: part,
-          parse_mode: "HTML",
-          disable_web_page_preview: false,
-        }),
+        body: JSON.stringify(body),
       },
     );
     if (!res.ok) console.error("Telegram error", res.status, await res.text());
@@ -86,9 +90,9 @@ async function sendWebhook(text: string) {
   if (!res.ok) console.error("Webhook error", res.status, await res.text());
 }
 
-async function sendAll(text: string) {
+async function sendAll(text: string, keyboard?: InlineKeyboard) {
   const targets: (() => Promise<void>)[] = [];
-  if (hasTg()) targets.push(() => sendTelegram(text));
+  if (hasTg()) targets.push(() => sendTelegram(text, keyboard));
   if (process.env.DISCORD_WEBHOOK) targets.push(() => sendDiscord(text));
   if (process.env.NTFY_URL || process.env.NTFY_TOPIC) targets.push(() => sendNtfy(text));
   if (process.env.WEBHOOK_URL) targets.push(() => sendWebhook(text));
@@ -107,8 +111,27 @@ async function sendAll(text: string) {
 }
 
 /** Urgent alert: delivered immediately, never queued. */
-export async function notify(text: string) {
-  await sendAll(text);
+export async function notify(text: string, keyboard?: InlineKeyboard) {
+  await sendAll(text, keyboard);
+}
+
+/** Acknowledge an inline-button tap (never throws). */
+export async function answerCallbackQuery(id: string) {
+  if (!hasTg()) return;
+  try {
+    const res = await fetchWithRetry(
+      `https://api.telegram.org/bot${process.env.TG_TOKEN}/answerCallbackQuery`,
+      {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ callback_query_id: id }),
+      },
+      2,
+    );
+    if (!res.ok) console.error("answerCallbackQuery error", res.status);
+  } catch (e) {
+    console.error("answerCallbackQuery failed:", (e as Error).message);
+  }
 }
 
 // --- digest / quiet hours -------------------------------------------------
