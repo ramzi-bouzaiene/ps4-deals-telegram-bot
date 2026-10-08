@@ -1,6 +1,6 @@
 {
-  "region": "UK",
-  "currency": "GBP",
+  "region": "FR",
+  "currency": "EUR",
   "displayTND": false,
   "tndRate": 3.35,
   "minimumDealScore": 80,

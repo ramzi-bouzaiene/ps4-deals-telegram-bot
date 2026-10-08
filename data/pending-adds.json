@@ -1,0 +1,25 @@
+{
+  "464486544": {
+    "id": "EP1004-CUSA08519_00-REDEMPTIONFULL02",
+    "title": "Red Dead Redemption 2",
+    "url": "https://store.playstation.com/fr-fr/product/EP1004-CUSA08519_00-REDEMPTIONFULL02",
+    "currentPrice": 14.99,
+    "originalPrice": 59.99,
+    "discountPercentage": 75,
+    "free": false,
+    "targetPrice": 14.99,
+    "expiresAt": 1791466286544
+  },
+  "464502357": {
+    "id": "EP1018-PPSA01619_00-00MORTALKOMBAT11",
+    "title": "Mortal Kombat 11",
+    "url": "https://store.playstation.com/fr-fr/product/EP1018-PPSA01619_00-00MORTALKOMBAT11",
+    "currentPrice": 4.99,
+    "originalPrice": 49.99,
+    "discountPercentage": 90,
+    "free": false,
+    "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202010/2000/aPVbncDz3LjjQpNQW6LhzNSK.jpg",
+    "targetPrice": 4.99,
+    "expiresAt": 1791466302357
+  }
+}
