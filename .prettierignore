@@ -1,0 +1,7 @@
+node_modules
+package-lock.json
+seen.json
+digest.json
+docs/prices.json
+docs/meta.json
+watchlist.json

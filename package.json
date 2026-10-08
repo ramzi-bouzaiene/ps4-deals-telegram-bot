@@ -4,17 +4,25 @@
   "private": true,
   "description": "Telegram notifier for PS4 / PS Plus free games and PS Store deals",
   "scripts": {
-    "feeds": "tsx src/index.ts",
-    "watchlist": "tsx src/watchlist.ts",
-    "debug": "DEBUG=1 tsx src/watchlist.ts",
-    "check": "tsc --noEmit"
+    "feeds": "tsx --env-file-if-exists=.env src/index.ts",
+    "watchlist": "tsx --env-file-if-exists=.env src/watchlist.ts",
+    "debug": "DEBUG=1 tsx --env-file-if-exists=.env src/watchlist.ts",
+    "bot": "tsx --env-file-if-exists=.env src/bot.ts",
+    "check": "tsc --noEmit",
+    "lint": "eslint .",
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
   },
   "dependencies": {
     "rss-parser": "^3.13.0"
   },
   "devDependencies": {
+    "@eslint/js": "^10.0.1",
     "@types/node": "^22.0.0",
+    "eslint": "^10.12.0",
+    "prettier": "^3.9.9",
     "tsx": "^4.19.0",
-    "typescript": "^5.6.0"
+    "typescript": "^5.6.0",
+    "typescript-eslint": "^8.71.1"
   }
 }

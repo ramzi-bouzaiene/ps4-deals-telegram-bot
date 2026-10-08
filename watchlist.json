@@ -1,4 +1,18 @@
 [
-  { "name": "Example Game 1", "url": "https://store.playstation.com/en-us/concept/10000000", "target": 12 },
-  { "name": "Example Game 2", "url": "https://store.playstation.com/en-us/concept/10000001", "target": 20 }
+  { "name": "Biped", "url": "https://store.playstation.com/fr-fr/product/EP6008-PPSA24591_00-0184863662672381", "target": 0.99 },
+  { "name": "Time Loader", "url": "https://store.playstation.com/fr-fr/product/EP6008-CUSA30591_00-7800865168715916", "target": 0.99 },
+  { "name": "Clunky Hero", "url": "https://store.playstation.com/fr-fr/product/EP7686-CUSA39295_00-3331704668274529", "target": 0.99 },
+  { "name": "Bakery Simulator", "url": "https://store.playstation.com/fr-fr/product/EP8638-CUSA45900_00-0514472334954772", "target": 0.99 },
+  { "name": "Electrician Simulator", "url": "https://store.playstation.com/fr-fr/product/EP8638-CUSA43214_00-0229922409700981", "target": 0.49 },
+  { "name": "Speedollama", "url": "https://store.playstation.com/fr-fr/product/UP7688-CUSA50310_00-0467844954024052", "target": 0.49 },
+  { "name": "Season Match 3", "url": "https://store.playstation.com/fr-fr/product/EP1629-CUSA13657_00-SEASONMATCH30000", "target": 0.49 },
+  { "name": "Indiana Jones and the Staff of Kings", "url": "https://store.playstation.com/fr-fr/product/UP1082-PPSA14388_00-0064394372965033", "target": 1.49 },
+  { "name": "Warframe", "url": "https://store.playstation.com/fr-fr/product/EP2097-CUSA00106_00-0000000000000000", "target": 0 },
+  { "name": "Roblox", "url": "https://store.playstation.com/fr-fr/product/UP1821-CUSA06122_00-0000040810600000", "target": 0 },
+  { "name": "Apex Legends", "url": "https://store.playstation.com/fr-fr/product/EP0006-CUSA12552_00-APEXLEGENDRSPWN1", "target": 0 },
+  { "name": "Rocket League", "url": "https://store.playstation.com/fr-fr/product/EP2002-CUSA01433_00-ROCKETLEAGUEEU01", "target": 0 },
+  { "name": "Destiny 2", "url": "https://store.playstation.com/fr-fr/product/EP0002-PPSA02410_00-DESTINYTHEGAME02", "target": 0 },
+  { "name": "Brawlhalla", "url": "https://store.playstation.com/fr-fr/product/EP0953-CUSA05330_00-BRAWLHALLAEUROPE", "target": 0 },
+  { "name": "Fall Guys", "url": "https://store.playstation.com/fr-fr/product/EP1464-PPSA04478_00-FALLGUYS00000000", "target": 0 },
+  { "name": "Fortnite", "url": "https://store.playstation.com/fr-fr/product/EP1464-PPSA01923_00-FNBNDL0000000000", "target": 0 }
 ]

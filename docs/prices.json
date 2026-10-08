@@ -1,1 +1,194 @@
-{}
+{
+  "Biped": {
+    "history": [
+      {
+        "t": "2026-10-07T16:21:06.750Z",
+        "price": 1.49
+      }
+    ],
+    "url": "https://store.playstation.com/fr-fr/product/EP6008-PPSA24591_00-0184863662672381",
+    "low": 1.49,
+    "high": 1.49,
+    "lastPct": 1.49
+  },
+  "Time Loader": {
+    "history": [
+      {
+        "t": "2026-10-07T16:21:10.783Z",
+        "price": 1.49
+      }
+    ],
+    "url": "https://store.playstation.com/fr-fr/product/EP6008-CUSA30591_00-7800865168715916",
+    "low": 1.49,
+    "high": 1.49,
+    "lastPct": 1.49
+  },
+  "Clunky Hero": {
+    "history": [
+      {
+        "t": "2026-10-07T16:21:14.667Z",
+        "price": 1.49
+      }
+    ],
+    "url": "https://store.playstation.com/fr-fr/product/EP7686-CUSA39295_00-3331704668274529",
+    "low": 1.49,
+    "high": 1.49,
+    "lastPct": 1.49
+  },
+  "Bakery Simulator": {
+    "history": [
+      {
+        "t": "2026-10-07T16:21:19.040Z",
+        "price": 1.69
+      }
+    ],
+    "url": "https://store.playstation.com/fr-fr/product/EP8638-CUSA45900_00-0514472334954772",
+    "low": 1.69,
+    "high": 1.69,
+    "lastPct": 1.69
+  },
+  "Electrician Simulator": {
+    "history": [
+      {
+        "t": "2026-10-07T16:21:23.113Z",
+        "price": 0.69
+      }
+    ],
+    "url": "https://store.playstation.com/fr-fr/product/EP8638-CUSA43214_00-0229922409700981",
+    "low": 0.69,
+    "high": 0.69,
+    "lastPct": 0.69
+  },
+  "Speedollama": {
+    "history": [
+      {
+        "t": "2026-10-07T16:21:26.995Z",
+        "price": 0.89
+      }
+    ],
+    "url": "https://store.playstation.com/fr-fr/product/UP7688-CUSA50310_00-0467844954024052",
+    "low": 0.89,
+    "high": 0.89,
+    "lastPct": 0.89
+  },
+  "Season Match 3": {
+    "history": [
+      {
+        "t": "2026-10-07T16:21:30.676Z",
+        "price": 0.99
+      }
+    ],
+    "url": "https://store.playstation.com/fr-fr/product/EP1629-CUSA13657_00-SEASONMATCH30000",
+    "low": 0.99,
+    "high": 0.99,
+    "lastPct": 0.99
+  },
+  "Indiana Jones and the Staff of Kings": {
+    "history": [
+      {
+        "t": "2026-10-07T16:21:35.197Z",
+        "price": 2.39
+      }
+    ],
+    "url": "https://store.playstation.com/fr-fr/product/UP1082-PPSA14388_00-0064394372965033",
+    "low": 2.39,
+    "high": 2.39,
+    "lastPct": 2.39
+  },
+  "Warframe": {
+    "history": [
+      {
+        "t": "2026-10-07T16:21:39.630Z",
+        "price": 0
+      }
+    ],
+    "url": "https://store.playstation.com/fr-fr/product/EP2097-CUSA00106_00-0000000000000000",
+    "low": 0,
+    "high": 0,
+    "lastAlerted": 0
+  },
+  "Roblox": {
+    "history": [
+      {
+        "t": "2026-10-07T16:21:43.644Z",
+        "price": 0
+      }
+    ],
+    "url": "https://store.playstation.com/fr-fr/product/UP1821-CUSA06122_00-0000040810600000",
+    "low": 0,
+    "high": 0,
+    "lastAlerted": 0
+  },
+  "Apex Legends": {
+    "history": [
+      {
+        "t": "2026-10-07T16:21:46.764Z",
+        "price": 0
+      }
+    ],
+    "url": "https://store.playstation.com/fr-fr/product/EP0006-CUSA12552_00-APEXLEGENDRSPWN1",
+    "low": 0,
+    "high": 0,
+    "lastAlerted": 0
+  },
+  "Rocket League": {
+    "history": [
+      {
+        "t": "2026-10-07T16:21:50.372Z",
+        "price": 0
+      }
+    ],
+    "url": "https://store.playstation.com/fr-fr/product/EP2002-CUSA01433_00-ROCKETLEAGUEEU01",
+    "low": 0,
+    "high": 0,
+    "lastAlerted": 0
+  },
+  "Destiny 2": {
+    "history": [
+      {
+        "t": "2026-10-07T16:21:54.114Z",
+        "price": 0
+      }
+    ],
+    "url": "https://store.playstation.com/fr-fr/product/EP0002-PPSA02410_00-DESTINYTHEGAME02",
+    "low": 0,
+    "high": 0,
+    "lastAlerted": 0
+  },
+  "Brawlhalla": {
+    "history": [
+      {
+        "t": "2026-10-07T16:21:57.951Z",
+        "price": 0
+      }
+    ],
+    "url": "https://store.playstation.com/fr-fr/product/EP0953-CUSA05330_00-BRAWLHALLAEUROPE",
+    "low": 0,
+    "high": 0,
+    "lastAlerted": 0
+  },
+  "Fall Guys": {
+    "history": [
+      {
+        "t": "2026-10-07T16:22:01.665Z",
+        "price": 0
+      }
+    ],
+    "url": "https://store.playstation.com/fr-fr/product/EP1464-PPSA04478_00-FALLGUYS00000000",
+    "low": 0,
+    "high": 0,
+    "lastAlerted": 0
+  },
+  "Fortnite": {
+    "history": [
+      {
+        "t": "2026-10-07T16:22:05.450Z",
+        "price": 0
+      }
+    ],
+    "url": "https://store.playstation.com/fr-fr/product/EP1464-PPSA01923_00-FNBNDL0000000000",
+    "low": 0,
+    "high": 0,
+    "lastAlerted": 0
+  }
+}

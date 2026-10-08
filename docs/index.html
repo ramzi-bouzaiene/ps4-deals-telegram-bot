@@ -1,78 +1,269 @@
 <!doctype html>
 <html lang="en">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>PS4 Deal Tracker</title>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
-<style>
-  :root { --bg:#fff; --fg:#111; --card:#f4f5f7; --muted:#666; --accent:#0070d1; --good:#1a9c4b; }
-  @media (prefers-color-scheme: dark) {
-    :root { --bg:#12141a; --fg:#eceef2; --card:#1c1f28; --muted:#9aa0ad; --accent:#4da3ff; --good:#4cd07d; }
-  }
-  body { font-family: system-ui, sans-serif; background: var(--bg); color: var(--fg); margin: 0; padding: 1rem; }
-  h1 { font-size: 1.3rem; }
-  .grid { display: grid; gap: 1rem; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); }
-  .card { background: var(--card); border-radius: 12px; padding: 1rem; }
-  .card h2 { font-size: 1rem; margin: 0 0 .5rem; }
-  .row { display: flex; justify-content: space-between; font-size: .85rem; color: var(--muted); margin-bottom: .5rem; }
-  .now { font-size: 1.4rem; font-weight: 700; }
-  .hit { color: var(--good); }
-  canvas { max-height: 140px; }
-  #updated { color: var(--muted); font-size: .8rem; }
-</style>
-</head>
-<body>
-<h1>🎮 PS4 Deal Tracker</h1>
-<p id="updated"></p>
-<div class="grid" id="grid"></div>
-<script>
-fetch("prices.json?" + Date.now())
-  .then(r => r.json())
-  .then(data => {
-    const grid = document.getElementById("grid");
-    let newest = "";
-    const css = getComputedStyle(document.documentElement);
-    const accent = css.getPropertyValue("--accent").trim();
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>PS4 Deal Tracker</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+    <style>
+      :root {
+        --bg: #fff;
+        --fg: #111;
+        --card: #f4f5f7;
+        --muted: #666;
+        --accent: #0070d1;
+        --good: #1a9c4b;
+      }
+      @media (prefers-color-scheme: dark) {
+        :root {
+          --bg: #12141a;
+          --fg: #eceef2;
+          --card: #1c1f28;
+          --muted: #9aa0ad;
+          --accent: #4da3ff;
+          --good: #4cd07d;
+        }
+      }
+      body {
+        font-family: system-ui, sans-serif;
+        background: var(--bg);
+        color: var(--fg);
+        margin: 0;
+        padding: 1rem;
+      }
+      h1 {
+        font-size: 1.3rem;
+      }
+      .grid {
+        display: grid;
+        gap: 1rem;
+        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      }
+      .card {
+        background: var(--card);
+        border-radius: 12px;
+        padding: 1rem;
+      }
+      .card h2 {
+        font-size: 1rem;
+        margin: 0 0 0.5rem;
+      }
+      .row {
+        display: flex;
+        justify-content: space-between;
+        font-size: 0.85rem;
+        color: var(--muted);
+        margin-bottom: 0.5rem;
+      }
+      .now {
+        font-size: 1.4rem;
+        font-weight: 700;
+      }
+      .hit {
+        color: var(--good);
+      }
+      canvas {
+        max-height: 140px;
+      }
+      #updated {
+        color: var(--muted);
+        font-size: 0.8rem;
+      }
+      .section {
+        font-size: 1rem;
+        margin: 1.2rem 0 0.6rem;
+      }
+      .free-badge {
+        display: inline-block;
+        background: var(--good);
+        color: #fff;
+        border-radius: 6px;
+        font-size: 0.75rem;
+        font-weight: 700;
+        padding: 0.1rem 0.45rem;
+        margin-left: 0.5rem;
+        vertical-align: middle;
+      }
+      .card a {
+        color: var(--accent);
+        text-decoration: none;
+      }
+      #freeNews {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+        font-size: 0.85rem;
+      }
+      #freeNews li {
+        margin-bottom: 0.45rem;
+      }
+      #freeNews a {
+        color: var(--accent);
+        text-decoration: none;
+      }
+      #freeNews .date {
+        color: var(--muted);
+        margin-left: 0.4rem;
+        font-size: 0.78rem;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>🎮 PS4 Deal Tracker</h1>
+    <p id="updated"></p>
+    <h2 class="section" id="freeHead">🆓 Free right now</h2>
+    <div class="grid" id="freeGrid"></div>
+    <h2 class="section">📈 Tracked prices</h2>
+    <div class="grid" id="grid"></div>
+    <h2 class="section" id="newsHead">📺 Free game news</h2>
+    <ul id="freeNews"></ul>
+    <script>
+      Promise.all([
+        fetch("prices.json?" + Date.now()).then((r) => r.json()),
+        fetch("meta.json?" + Date.now())
+          .then((r) => r.json())
+          .catch(() => ({})),
+        fetch("free.json?" + Date.now())
+          .then((r) => (r.ok ? r.json() : []))
+          .catch(() => []),
+      ])
+        .then(([data, meta, news]) => {
+          const grid = document.getElementById("grid");
+          const freeGrid = document.getElementById("freeGrid");
+          let newest = "";
+          let freeCount = 0;
+          const css = getComputedStyle(document.documentElement);
+          const accent = css.getPropertyValue("--accent").trim();
 
-    Object.entries(data)
-      .sort((a, b) => a[0].localeCompare(b[0]))
-      .forEach(([name, s]) => {
-        if (!s.history.length) return;
-        const cur = s.history.at(-1);
-        newest = cur.t > newest ? cur.t : newest;
-        const atLow = s.low !== undefined && cur.price <= s.low;
+          Object.entries(data)
+            .sort((a, b) => a[0].localeCompare(b[0]))
+            .forEach(([name, s]) => {
+              if (!s.history.length) return;
+              const cur = s.history.at(-1);
+              newest = cur.t > newest ? cur.t : newest;
 
-        const card = document.createElement("div");
-        card.className = "card";
-        const h2 = document.createElement("h2");
-        h2.textContent = name;
-        const row = document.createElement("div");
-        row.className = "row";
-        const now = document.createElement("span");
-        now.className = "now" + (atLow ? " hit" : "");
-        now.textContent = cur.price;
-        const low = document.createElement("span");
-        low.textContent = "Lowest tracked: " + (s.low ?? "-");
-        row.append(now, low);
-        const canvas = document.createElement("canvas");
-        card.append(h2, row, canvas);
-        grid.append(card);
+              if (cur.price === 0) {
+                freeCount++;
+                const card = document.createElement("div");
+                card.className = "card";
+                const h2 = document.createElement("h2");
+                const badge = document.createElement("span");
+                badge.className = "free-badge";
+                badge.textContent = "FREE";
+                if (s.url) {
+                  const a = document.createElement("a");
+                  a.href = s.url;
+                  a.target = "_blank";
+                  a.rel = "noopener";
+                  a.textContent = name;
+                  h2.append(a);
+                } else {
+                  h2.textContent = name;
+                }
+                h2.append(badge);
+                const row = document.createElement("div");
+                row.className = "row";
+                const since = s.history.find((h) => h.price === 0) ?? cur;
+                const first = document.createElement("span");
+                first.textContent = "Free since: " + new Date(since.t).toLocaleDateString();
+                const sold = document.createElement("span");
+                sold.textContent = "Target: 0";
+                row.append(first, sold);
+                card.append(h2, row);
+                freeGrid.append(card);
+                return;
+              }
 
-        new Chart(canvas, {
-          type: "line",
-          data: {
-            labels: s.history.map(h => new Date(h.t).toLocaleDateString()),
-            datasets: [{ data: s.history.map(h => h.price), borderColor: accent, stepped: true, pointRadius: 2, tension: 0 }],
-          },
-          options: { plugins: { legend: { display: false } }, scales: { x: { display: false } } },
+              const atLow = s.low !== undefined && cur.price <= s.low;
+              const belowPeak =
+                s.high !== undefined && s.high > cur.price
+                  ? Math.round((1 - cur.price / s.high) * 100) + "% below peak"
+                  : "all-time high";
+
+              const card = document.createElement("div");
+              card.className = "card";
+              const h2 = document.createElement("h2");
+              h2.textContent = name;
+              const row = document.createElement("div");
+              row.className = "row";
+              const now = document.createElement("span");
+              now.className = "now" + (atLow ? " hit" : "");
+              now.textContent = cur.price;
+              const low = document.createElement("span");
+              low.textContent = "Lowest tracked: " + (s.low ?? "-");
+              row.append(now, low);
+              const sub = document.createElement("div");
+              sub.className = "row";
+              const peak = document.createElement("span");
+              peak.textContent = "Peak: " + (s.high ?? "-");
+              const delta = document.createElement("span");
+              delta.className = atLow ? "hit" : "";
+              delta.textContent = belowPeak;
+              sub.append(peak, delta);
+              const canvas = document.createElement("canvas");
+              card.append(h2, row, sub, canvas);
+              grid.append(card);
+
+              new Chart(canvas, {
+                type: "line",
+                data: {
+                  labels: s.history.map((h) => new Date(h.t).toLocaleDateString()),
+                  datasets: [
+                    {
+                      data: s.history.map((h) => h.price),
+                      borderColor: accent,
+                      stepped: true,
+                      pointRadius: 2,
+                      tension: 0,
+                    },
+                  ],
+                },
+                options: {
+                  plugins: { legend: { display: false } },
+                  scales: { x: { display: false } },
+                },
+              });
+            });
+
+          if (!freeCount) {
+            document.getElementById("freeHead").style.display = "none";
+            freeGrid.style.display = "none";
+          }
+
+          const ul = document.getElementById("freeNews");
+          (Array.isArray(news) ? news : []).forEach((n) => {
+            if (!n || !n.title) return;
+            const li = document.createElement("li");
+            const a = document.createElement("a");
+            a.textContent = n.title;
+            if (n.link) {
+              a.href = n.link;
+              a.target = "_blank";
+              a.rel = "noopener";
+            }
+            const date = document.createElement("span");
+            date.className = "date";
+            date.textContent = n.t ? new Date(n.t).toLocaleDateString() : "";
+            li.append(a, date);
+            ul.append(li);
+          });
+          if (!ul.children.length) {
+            document.getElementById("newsHead").style.display = "none";
+            ul.style.display = "none";
+          }
+
+          const parts = [];
+          if (meta.lastRun) parts.push("Last run: " + new Date(meta.lastRun).toLocaleString());
+          parts.push(
+            newest
+              ? "Last price change: " + new Date(newest).toLocaleString()
+              : "No price data yet.",
+          );
+          document.getElementById("updated").textContent = parts.join(" · ");
+        })
+        .catch(() => {
+          document.getElementById("updated").textContent = "Couldn't load prices.json yet.";
         });
-      });
-
-    document.getElementById("updated").textContent =
-      newest ? "Last price change recorded: " + new Date(newest).toLocaleString() : "No data yet.";
-  })
-  .catch(() => { document.getElementById("updated").textContent = "Couldn't load prices.json yet."; });
-</script>
-</body>
+    </script>
+  </body>
 </html>
