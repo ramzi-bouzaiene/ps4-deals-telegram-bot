@@ -41,6 +41,15 @@ jobs:
           NTFY_URL: ${{ secrets.NTFY_URL }}
           WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
 
+      - name: New store promotions
+        run: npx tsx src/promos.ts
+        env:
+          TG_TOKEN: ${{ secrets.TG_TOKEN }}
+          TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+          NTFY_URL: ${{ secrets.NTFY_URL }}
+          WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
+
       - name: Watchlist prices
         run: npx tsx src/watchlist.ts
         env:

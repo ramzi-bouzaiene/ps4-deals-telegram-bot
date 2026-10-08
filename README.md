@@ -1,6 +1,16 @@
 # PS4 Deals Bot
 
-Sends Telegram alerts for PS Plus / free games / deals (RSS feeds) and for price drops on a personal watchlist (PS Store pages). Runs free on GitHub Actions every 2 hours. A small dashboard in `docs/` can be hosted with GitHub Pages — it lists currently free games (`Free right now`), tracked prices, and recent free-game news.
+Sends Telegram alerts for PS Plus / free games / deals (RSS feeds) and for price drops on a personal watchlist (PS Store pages). Runs free on GitHub Actions every 2 hours. A small dashboard in `docs/` can be hosted with GitHub Pages — it lists currently free games (`Free right now`), tracked prices, and recent news.
+
+## What it sends
+
+| Alert                          | When                                                                                                                                                           |
+| ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 📣 **New PS Store promotions** | when a new promo banner/campaign appears on the store (homepage + deals landing, checked every 2h) and for official sale announcements on the PlayStation Blog |
+| 🏆 **Daily top 30 deals**      | every day at 09:00 France time: full games ≥50% off and €1+, cheapest first                                                                                    |
+| 🗓 **Monthly PS Plus games**    | when Sony announces the monthly PS Plus lineup, with store links to the games                                                                                  |
+| 🆓 **Free games**              | free-to-play releases and “free” titles in the RSS feeds, immediately                                                                                          |
+| 💸 **Watchlist price alerts**  | when a tracked game hits your target / a new low / a big % discount                                                                                            |
 
 ## Setup
 
@@ -54,8 +64,10 @@ Urgent alerts (target hit, new low, free game, scraper breakage — including fr
 
 ```bash
 npm install
-cp .env.example .env   # fill in values, then: export $(cat .env | xargs)
-npm run feeds          # RSS check
+cp .env.example .env   # fill in values (scripts load it automatically)
+npm run feeds          # RSS check (free games, monthly PS Plus, promos)
+npm run promos         # check the store for new promotion banners
+npm run deals          # build the daily top-30 message now
 npm run debug          # watchlist check, prints the price blocks it found
 npm run bot            # poll Telegram for commands (BOT_POLL_SECONDS to bound it)
 npm run check          # TypeScript type check
@@ -65,18 +77,27 @@ npm run format:check   # Prettier
 
 Without a notification channel configured, messages are printed to the console instead of sent.
 
+## If promotions stop updating
+
+The promo/top-30 features replay Sony's internal GraphQL endpoint with fixed hashes (tied to the store web app version). If Sony rotates them you'll get a ⚠️ alert. To re-capture: `npm i playwright --no-save && npx playwright install chromium && node scripts/capture-gql.js`, then paste the printed hash/URL into `src/promos.ts` / `src/deals.ts`.
+
 ## If prices don't show up
 
 PlayStation has no public API. The scraper reads the JSON embedded in store pages (`__NEXT_DATA__`, including the `<script type="application/json">` blobs inside `batarangs.*.text`) and picks the cheapest standard purchase price, ignoring PS Plus "Inclus" subscription upsells. If Sony changes the markup, the bot pings you with a ⚠️ breakage alert (once per game per day) — run `npm run debug` and adjust `fetchPrice` in `src/watchlist.ts`. If GitHub's IPs get blocked, run the same job from a home machine or small VPS with cron.
 
 ## Files
 
-- `src/index.ts`: RSS feeds → Telegram (dedupe via `seen.json`, free-game titles → immediate alert + `docs/free.json`)
+- `src/index.ts`: RSS feeds → Telegram (dedupe via `seen.json`; free/monthly/promo titles → immediate alerts + `docs/free.json` / `docs/monthly.json` / `docs/promos.json`)
+- `src/promos.ts`: diffs PS Store promo banners (homepage + deals) for new campaigns
+- `src/deals.ts`: daily top-30 discounted full games (≥50% off, cheapest first)
+- `src/psn.ts`: shared PS Store GraphQL helper
 - `src/watchlist.ts`: price checks, target alerts, ≥% off alerts, lowest/highest tracking, breakage alerts
 - `src/bot.ts`: Telegram command poller (`/watch`, `/list`, `/price`, `/remove`)
 - `src/telegram.ts`: multi-channel sender (Telegram / Discord / ntfy / webhook) + digest queue
 - `src/http.ts`: fetch with retry/backoff
-- `docs/index.html` + `docs/prices.json` + `docs/meta.json` + `docs/free.json`: dashboard, price history, last run, free-game news
-- `.github/workflows/deals.yml`: scheduler
+- `docs/`: dashboard (`index.html`), price history, state files (committed by the scheduler)
+- `scripts/capture-gql.js`: maintenance — re-capture GraphQL hashes if Sony rotates them
+- `.github/workflows/deals.yml`: 2-hour scheduler (feeds + promos + watchlist)
+- `.github/workflows/daily.yml`: daily top-30 at 07:00 UTC (09:00 France, 08:00 in winter)
 - `.github/workflows/bot.yml`: command polling
 - `.github/workflows/ci.yml`: type check + lint + format on push/PR

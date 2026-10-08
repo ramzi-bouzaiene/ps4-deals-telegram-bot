@@ -8,6 +8,8 @@
     "watchlist": "tsx --env-file-if-exists=.env src/watchlist.ts",
     "debug": "DEBUG=1 tsx --env-file-if-exists=.env src/watchlist.ts",
     "bot": "tsx --env-file-if-exists=.env src/bot.ts",
+    "promos": "tsx --env-file-if-exists=.env src/promos.ts",
+    "deals": "tsx --env-file-if-exists=.env src/deals.ts",
     "check": "tsc --noEmit",
     "lint": "eslint .",
     "format": "prettier --write .",

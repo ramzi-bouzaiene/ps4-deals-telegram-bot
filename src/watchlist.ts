@@ -38,7 +38,7 @@ export function saveItems(items: Item[]) {
   fs.writeFileSync("watchlist.json", JSON.stringify(items, null, 2) + "\n");
 }
 
-const toNumber = (s: unknown): number | null => {
+export const toNumber = (s: unknown): number | null => {
   if (typeof s === "number") return s;
   if (typeof s !== "string") return null;
   const m = s.replace(/\s/g, "").match(/[\d.,]+/);

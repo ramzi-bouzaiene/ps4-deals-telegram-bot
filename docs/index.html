@@ -88,23 +88,32 @@
         color: var(--accent);
         text-decoration: none;
       }
-      #freeNews {
+      .news {
         list-style: none;
         padding: 0;
         margin: 0;
         font-size: 0.85rem;
       }
-      #freeNews li {
+      .news li {
         margin-bottom: 0.45rem;
       }
-      #freeNews a {
+      .news a {
         color: var(--accent);
         text-decoration: none;
       }
-      #freeNews .date {
+      .news .date {
         color: var(--muted);
         margin-left: 0.4rem;
         font-size: 0.78rem;
+      }
+      .news .sub {
+        list-style: none;
+        padding-left: 0.9rem;
+        margin: 0.25rem 0 0;
+        font-size: 0.8rem;
+      }
+      .news .sub li {
+        margin-bottom: 0.15rem;
       }
     </style>
   </head>
@@ -116,7 +125,11 @@
     <h2 class="section">📈 Tracked prices</h2>
     <div class="grid" id="grid"></div>
     <h2 class="section" id="newsHead">📺 Free game news</h2>
-    <ul id="freeNews"></ul>
+    <ul id="freeNews" class="news"></ul>
+    <h2 class="section" id="promosHead">📣 Promotions</h2>
+    <ul id="promosNews" class="news"></ul>
+    <h2 class="section" id="monthlyHead">🗓 PS Plus monthly games</h2>
+    <ul id="monthlyNews" class="news"></ul>
     <script>
       Promise.all([
         fetch("prices.json?" + Date.now()).then((r) => r.json()),
@@ -126,8 +139,14 @@
         fetch("free.json?" + Date.now())
           .then((r) => (r.ok ? r.json() : []))
           .catch(() => []),
+        fetch("promos.json?" + Date.now())
+          .then((r) => (r.ok ? r.json() : null))
+          .catch(() => null),
+        fetch("monthly.json?" + Date.now())
+          .then((r) => (r.ok ? r.json() : []))
+          .catch(() => []),
       ])
-        .then(([data, meta, news]) => {
+        .then(([data, meta, news, promosObj, monthly]) => {
           const grid = document.getElementById("grid");
           const freeGrid = document.getElementById("freeGrid");
           let newest = "";
@@ -230,27 +249,49 @@
             freeGrid.style.display = "none";
           }
 
-          const ul = document.getElementById("freeNews");
-          (Array.isArray(news) ? news : []).forEach((n) => {
-            if (!n || !n.title) return;
-            const li = document.createElement("li");
-            const a = document.createElement("a");
-            a.textContent = n.title;
-            if (n.link) {
-              a.href = n.link;
-              a.target = "_blank";
-              a.rel = "noopener";
+          function renderNews(listId, headId, items, withGames) {
+            const ul = document.getElementById(listId);
+            (Array.isArray(items) ? items : []).forEach((n) => {
+              if (!n || !n.title) return;
+              const li = document.createElement("li");
+              const a = document.createElement("a");
+              a.textContent = n.title;
+              if (n.link) {
+                a.href = n.link;
+                a.target = "_blank";
+                a.rel = "noopener";
+              }
+              const date = document.createElement("span");
+              date.className = "date";
+              date.textContent = n.t ? new Date(n.t).toLocaleDateString() : "";
+              li.append(a, date);
+              if (withGames && Array.isArray(n.games) && n.games.length) {
+                const sub = document.createElement("ul");
+                sub.className = "sub";
+                n.games.forEach((g) => {
+                  if (!g || !g.url) return;
+                  const sli = document.createElement("li");
+                  const ga = document.createElement("a");
+                  ga.textContent = g.name || g.url;
+                  ga.href = g.url;
+                  ga.target = "_blank";
+                  ga.rel = "noopener";
+                  sli.append(ga);
+                  sub.append(sli);
+                });
+                li.append(sub);
+              }
+              ul.append(li);
+            });
+            if (!ul.children.length) {
+              document.getElementById(headId).style.display = "none";
+              ul.style.display = "none";
             }
-            const date = document.createElement("span");
-            date.className = "date";
-            date.textContent = n.t ? new Date(n.t).toLocaleDateString() : "";
-            li.append(a, date);
-            ul.append(li);
-          });
-          if (!ul.children.length) {
-            document.getElementById("newsHead").style.display = "none";
-            ul.style.display = "none";
           }
+
+          renderNews("freeNews", "newsHead", news, false);
+          renderNews("promosNews", "promosHead", promosObj && promosObj.items, false);
+          renderNews("monthlyNews", "monthlyHead", monthly, true);
 
           const parts = [];
           if (meta.lastRun) parts.push("Last run: " + new Date(meta.lastRun).toLocaleString());

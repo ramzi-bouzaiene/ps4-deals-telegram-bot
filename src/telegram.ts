@@ -56,12 +56,15 @@ async function sendTelegram(text: string) {
 }
 
 async function sendDiscord(text: string) {
-  const res = await fetchWithRetry(process.env.DISCORD_WEBHOOK!, {
-    method: "POST",
-    headers: { "Content-Type": "application/json" },
-    body: JSON.stringify({ content: plain(text).slice(0, 1900) }),
-  });
-  if (!res.ok) console.error("Discord error", res.status, await res.text());
+  // Discord caps messages at 2000 chars — send long lists in parts.
+  for (const part of chunk(text, 1900)) {
+    const res = await fetchWithRetry(process.env.DISCORD_WEBHOOK!, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ content: plain(part) }),
+    });
+    if (!res.ok) console.error("Discord error", res.status, await res.text());
+  }
 }
 
 async function sendNtfy(text: string) {
