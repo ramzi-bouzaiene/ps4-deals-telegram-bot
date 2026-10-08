@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-08T15:30:01.870Z",
+  "generatedAt": "2026-10-08T19:41:19.921Z",
   "region": "FR",
   "currency": "EUR",
   "symbol": "€",
   "minimumDealScore": 80,
   "stats": {
-    "total": 1482,
-    "scored60": 1479,
-    "scored80": 1082,
+    "total": 1483,
+    "scored60": 1480,
+    "scored80": 1083,
     "scored90": 311,
     "avgDiscount": 69,
     "maxScore": 97,

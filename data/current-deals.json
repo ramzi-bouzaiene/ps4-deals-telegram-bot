@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-08T15:30:01.835Z",
+  "fetchedAt": "2026-10-08T19:41:19.889Z",
   "region": "FR",
   "deals": [
     {
@@ -11529,6 +11529,19 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202308/3019/ee3df867a2214054308ee4e36ea157020615e9b2d83be93e.jpg"
     },
     {
+      "id": "EP1001-PPSA36865_00-MAFIA3DEPS500000",
+      "title": "Mafia III: Definitive Edition pour PS5®",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 5.99,
+      "originalPrice": 29.99,
+      "currency": "EUR",
+      "discountPercentage": 80,
+      "url": "https://store.playstation.com/fr-fr/product/EP1001-PPSA36865_00-MAFIA3DEPS500000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1518/d4b9b2e7ca92026a59952cacaf8c3fd59909aa012a356f9d.jpg"
+    },
+    {
       "id": "EP4008-CUSA05079_00-MAHJONG000000000",
       "title": "Mahjong",
       "platform": "PS4",
@@ -14357,7 +14370,7 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202108/0310/OwnbRDg2NB7N7qsGIM7iUDvA.jpg"
     },
     {
-      "id": "EP1762-PPSA06875_00-RIDDLEDPS5000000",
+      "id": "EP1762-CUSA12139_00-RIDDLEDCROSSBUY0",
       "title": "Riddled Corpses EX",
       "platform": "PS4",
       "store": "PlayStation Store",
@@ -14366,8 +14379,7 @@
       "originalPrice": 9.99,
       "currency": "EUR",
       "discountPercentage": 75,
-      "url": "https://store.playstation.com/fr-fr/product/EP1762-PPSA06875_00-RIDDLEDPS5000000",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202203/0515/DtnoiPCmSboFqVBk8wu8czFH.jpg"
+      "url": "https://store.playstation.com/fr-fr/product/EP1762-CUSA12139_00-RIDDLEDCROSSBUY0"
     },
     {
       "id": "EP4008-CUSA23640_00-0755691819965049",
@@ -15562,7 +15574,7 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202312/1213/a2b58d71ad42f339bbdc8fc86070549f1f5bc103a2578df6.jpg"
     },
     {
-      "id": "EP4403-PPSA02320_00-SPARKLE200000000",
+      "id": "EP4403-CUSA00586_00-SPARKLE2PS4SCEE0",
       "title": "Sparkle 2 PS4 & PS5",
       "platform": "PS4",
       "store": "PlayStation Store",
@@ -15571,7 +15583,7 @@
       "originalPrice": 6.99,
       "currency": "EUR",
       "discountPercentage": 60,
-      "url": "https://store.playstation.com/fr-fr/product/EP4403-PPSA02320_00-SPARKLE200000000",
+      "url": "https://store.playstation.com/fr-fr/product/EP4403-CUSA00586_00-SPARKLE2PS4SCEE0",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202012/0914/XJJWaFsHHrQCoEi4WvTZv6x6.png"
     },
     {
@@ -18230,7 +18242,7 @@
       "url": "https://store.playstation.com/fr-fr/product/EP1508-CUSA09886_00-VOLGARRBUNDLE001"
     },
     {
-      "id": "UP7939-PPSA26765_00-0311045621724580",
+      "id": "UP7939-CUSA51360_00-0709651905748877",
       "title": "Volley Pals",
       "platform": "PS4",
       "store": "PlayStation Store",
@@ -18239,7 +18251,7 @@
       "originalPrice": 5.99,
       "currency": "EUR",
       "discountPercentage": 70,
-      "url": "https://store.playstation.com/fr-fr/product/UP7939-PPSA26765_00-0311045621724580",
+      "url": "https://store.playstation.com/fr-fr/product/UP7939-CUSA51360_00-0709651905748877",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202410/2116/c64d1032144f7d6b970fb3b38b29949e7574f54a40f1e0f0.jpg"
     },
     {
@@ -18780,7 +18792,7 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202010/1520/QylW6RhRNrY9FWB6aC2LafnK.jpg"
     },
     {
-      "id": "EP1762-PPSA06873_00-XENONPS500000000",
+      "id": "EP1762-CUSA11011_00-XENONCROSSBUY000",
       "title": "Xenon Valkyrie+",
       "platform": "PS4",
       "store": "PlayStation Store",
@@ -18789,8 +18801,7 @@
       "originalPrice": 9.99,
       "currency": "EUR",
       "discountPercentage": 75,
-      "url": "https://store.playstation.com/fr-fr/product/EP1762-PPSA06873_00-XENONPS500000000",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202203/0515/36IkQVrQZAUbzQtyrmg9ouRB.png"
+      "url": "https://store.playstation.com/fr-fr/product/EP1762-CUSA11011_00-XENONCROSSBUY000"
     },
     {
       "id": "EP4064-CUSA10650_00-YOKUSISLANDEXP00",
