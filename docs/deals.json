@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T06:30:28.719Z",
+  "generatedAt": "2026-10-09T13:40:49.258Z",
   "region": "FR",
   "currency": "EUR",
   "symbol": "€",
@@ -27,6 +27,16 @@
       "tier": "insane"
     },
     {
+      "title": "Last Night of Winter",
+      "url": "https://store.playstation.com/fr-fr/product/EP5098-PPSA12359_00-LASTNIGHTWINTER0",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202405/3115/7591a1aa55396177a26d71910290bc36ea035fc3b5d4f7b4.jpg",
+      "currentPrice": 0.99,
+      "originalPrice": 9.99,
+      "discountPercentage": 90,
+      "score": 96,
+      "tier": "insane"
+    },
+    {
       "title": "Danger Scavenger",
       "url": "https://store.playstation.com/fr-fr/product/EP3948-CUSA27847_00-0462758352347386",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202110/1207/5uejiyxEJFf0X0LPR2k1GnBv.jpg",
@@ -50,16 +60,6 @@
       "title": "Jubilee",
       "url": "https://store.playstation.com/fr-fr/product/EP5098-PPSA18145_00-0680441106191529",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202312/1810/bfd93f8c9ad5774e6373bc9e9902c55dcc7e781f287cadcb.jpg",
-      "currentPrice": 0.99,
-      "originalPrice": 9.99,
-      "discountPercentage": 90,
-      "score": 96,
-      "tier": "insane"
-    },
-    {
-      "title": "Last Night of Winter",
-      "url": "https://store.playstation.com/fr-fr/product/EP5098-PPSA12359_00-LASTNIGHTWINTER0",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202405/3115/7591a1aa55396177a26d71910290bc36ea035fc3b5d4f7b4.jpg",
       "currentPrice": 0.99,
       "originalPrice": 9.99,
       "discountPercentage": 90,
@@ -327,6 +327,16 @@
       "tier": "insane"
     },
     {
+      "title": "Skautfold: Into the Fray",
+      "url": "https://store.playstation.com/fr-fr/product/EP5098-PPSA18716_00-0634520781407326",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202407/0908/cafa3d6402d192123a587d4184be299e40befd4841d84ee1.jpg",
+      "currentPrice": 1.49,
+      "originalPrice": 14.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
       "title": "Skautfold: Usurper",
       "url": "https://store.playstation.com/fr-fr/product/EP5098-PPSA13683_00-0925871484233094",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202402/0123/b6d041b43dc6331c02294cf7141119b2da8753acdfb688d8.jpg",
@@ -397,16 +407,6 @@
       "tier": "insane"
     },
     {
-      "title": "Skautfold: Into the Fray",
-      "url": "https://store.playstation.com/fr-fr/product/EP5098-PPSA18716_00-0634520781407326",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202407/0908/cafa3d6402d192123a587d4184be299e40befd4841d84ee1.jpg",
-      "currentPrice": 1.49,
-      "originalPrice": 14.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
       "title": "The Uncertain: Last Quiet Day",
       "url": "https://store.playstation.com/fr-fr/product/EP6008-CUSA27193_00-9892558651788920",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202108/1910/VNSF9lTb8EOluX22s2OJJ6rI.jpg",
@@ -457,9 +457,9 @@
       "tier": "insane"
     },
     {
-      "title": "Little Strays",
-      "url": "https://store.playstation.com/fr-fr/product/UB0383-PPSA29189_00-0504266529563382",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202505/1409/c949555144f40cb7dcce439584ddd374f9026c36e9aee760.png",
+      "title": "Gordian Quest",
+      "url": "https://store.playstation.com/fr-fr/product/EP1877-PPSA18985_00-GORDIANQUEST0000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202404/1118/a48e604bd3ff29c5c9ea9d6653db8201d6b2eca2e5c58dae.jpg",
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -467,9 +467,9 @@
       "tier": "insane"
     },
     {
-      "title": "Gordian Quest",
-      "url": "https://store.playstation.com/fr-fr/product/EP1877-PPSA18985_00-GORDIANQUEST0000",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202404/1118/a48e604bd3ff29c5c9ea9d6653db8201d6b2eca2e5c58dae.jpg",
+      "title": "Little Strays",
+      "url": "https://store.playstation.com/fr-fr/product/UB0383-PPSA29189_00-0504266529563382",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202505/1409/c949555144f40cb7dcce439584ddd374f9026c36e9aee760.png",
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -647,9 +647,9 @@
       "tier": "insane"
     },
     {
-      "title": "Panzer Dragoon: Remake",
-      "url": "https://store.playstation.com/fr-fr/product/EP3948-CUSA19484_00-PANZERDRAGOON001",
-      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202103/2413/ChyYcguOKee00h8RWhW1092r.jpg",
+      "title": "Batora: Lost Haven",
+      "url": "https://store.playstation.com/fr-fr/product/EP4064-PPSA05514_00-5341032569762891",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202209/2811/U7DQL7YrgrciXNU4NWuKvKVO.jpg",
       "currentPrice": 2.49,
       "originalPrice": 24.99,
       "discountPercentage": 90,
@@ -657,9 +657,9 @@
       "tier": "insane"
     },
     {
-      "title": "Batora: Lost Haven",
-      "url": "https://store.playstation.com/fr-fr/product/EP4064-PPSA05514_00-5341032569762891",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202209/2811/U7DQL7YrgrciXNU4NWuKvKVO.jpg",
+      "title": "Panzer Dragoon: Remake",
+      "url": "https://store.playstation.com/fr-fr/product/EP3948-CUSA19484_00-PANZERDRAGOON001",
+      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202103/2413/ChyYcguOKee00h8RWhW1092r.jpg",
       "currentPrice": 2.49,
       "originalPrice": 24.99,
       "discountPercentage": 90,
@@ -687,6 +687,16 @@
       "tier": "insane"
     },
     {
+      "title": "Metro Exodus",
+      "url": "https://store.playstation.com/fr-fr/product/EP4062-PPSA01749_00-METROEXODUS0GEN9",
+      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202011/0414/g33sqSWPtRPmejWlhC6hjYoU.png",
+      "currentPrice": 2.99,
+      "originalPrice": 29.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
       "title": "LIMBO & INSIDE Bundle",
       "url": "https://store.playstation.com/fr-fr/product/EP2054-CUSA01369_00-7598584263277541",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202512/0815/f15404b5f1b6a6288fb6b6648e094288b4d17f736e0bfbd6.jpg",
@@ -697,9 +707,9 @@
       "tier": "insane"
     },
     {
-      "title": "Metro Exodus",
-      "url": "https://store.playstation.com/fr-fr/product/EP4062-PPSA01749_00-METROEXODUS0GEN9",
-      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202011/0414/g33sqSWPtRPmejWlhC6hjYoU.png",
+      "title": "Dead Island Definitive Collection",
+      "url": "https://store.playstation.com/fr-fr/product/EP4062-CUSA03291_00-DEADISLANDDCTL60",
+      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202011/0204/bKsDCZjSmOHa4BrBLDg8mL28.png",
       "currentPrice": 2.99,
       "originalPrice": 29.99,
       "discountPercentage": 90,
@@ -730,16 +740,6 @@
       "title": "Magical Drop VI",
       "url": "https://store.playstation.com/fr-fr/product/EP3948-PPSA20915_00-0943037728683675",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202405/1712/63663b160fa996b9ad7b5c2a706bdb9db806e11570146f70.jpg",
-      "currentPrice": 2.99,
-      "originalPrice": 29.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
-      "title": "Dead Island Definitive Collection",
-      "url": "https://store.playstation.com/fr-fr/product/EP4062-CUSA03291_00-DEADISLANDDCTL60",
-      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202011/0204/bKsDCZjSmOHa4BrBLDg8mL28.png",
       "currentPrice": 2.99,
       "originalPrice": 29.99,
       "discountPercentage": 90,
@@ -797,16 +797,6 @@
       "tier": "insane"
     },
     {
-      "title": "Cris Tales",
-      "url": "https://store.playstation.com/fr-fr/product/EP4908-PPSA02123_00-CRISTALES0000000",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202105/2121/yZ4rGekS6al49GL1MEkexwi5.jpg",
-      "currentPrice": 3.99,
-      "originalPrice": 39.99,
-      "discountPercentage": 90,
-      "score": 94,
-      "tier": "insane"
-    },
-    {
       "title": "MXGP 2021 - The Official Motocross Videogame",
       "url": "https://store.playstation.com/fr-fr/product/EP4356-CUSA28534_00-MXGP2021FULLGAME",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202109/2209/bixw18w6eYVjg5Xti2pobwsT.jpg",
@@ -827,9 +817,9 @@
       "tier": "insane"
     },
     {
-      "title": "Extinction: Deluxe Edition",
-      "url": "https://store.playstation.com/fr-fr/product/EP4908-CUSA11687_00-EXTINCTIONDELUXE",
-      "imageUrl": null,
+      "title": "Cris Tales",
+      "url": "https://store.playstation.com/fr-fr/product/EP4908-PPSA02123_00-CRISTALES0000000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202105/2121/yZ4rGekS6al49GL1MEkexwi5.jpg",
       "currentPrice": 3.99,
       "originalPrice": 39.99,
       "discountPercentage": 90,
@@ -840,6 +830,16 @@
       "title": "Lot Sherlock Holmes : Mystères ténébreux",
       "url": "https://store.playstation.com/fr-fr/product/EP5205-CUSA34152_00-0472824749946652",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202406/1809/4ca1f64270fc808c03ba0684deddc90111cbf8b469aca0a7.jpg",
+      "currentPrice": 3.99,
+      "originalPrice": 39.99,
+      "discountPercentage": 90,
+      "score": 94,
+      "tier": "insane"
+    },
+    {
+      "title": "Extinction: Deluxe Edition",
+      "url": "https://store.playstation.com/fr-fr/product/EP4908-CUSA11687_00-EXTINCTIONDELUXE",
+      "imageUrl": null,
       "currentPrice": 3.99,
       "originalPrice": 39.99,
       "discountPercentage": 90,
@@ -887,9 +887,9 @@
       "tier": "insane"
     },
     {
-      "title": "Sherlock Holmes The Awakened – Deluxe Edition PS4 & PS5",
-      "url": "https://store.playstation.com/fr-fr/product/EP5205-PPSA08069_00-SHTADELUXEEDITIO",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202302/2414/946660efe84a8054dea927d318ee33333d3184f5d3e262d4.jpg",
+      "title": "Sniper Ghost Warrior Contracts Full Arsenal Edition",
+      "url": "https://store.playstation.com/fr-fr/product/EP4321-CUSA14619_00-1159737969385308",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202204/1910/5m5dEbVwpWP7b6UjIEurWPcb.png",
       "currentPrice": 4.99,
       "originalPrice": 49.99,
       "discountPercentage": 90,
@@ -897,9 +897,9 @@
       "tier": "insane"
     },
     {
-      "title": "Sniper Ghost Warrior Contracts Full Arsenal Edition",
-      "url": "https://store.playstation.com/fr-fr/product/EP4321-CUSA14619_00-1159737969385308",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202204/1910/5m5dEbVwpWP7b6UjIEurWPcb.png",
+      "title": "Sherlock Holmes The Awakened – Deluxe Edition PS4 & PS5",
+      "url": "https://store.playstation.com/fr-fr/product/EP5205-PPSA08069_00-SHTADELUXEEDITIO",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202302/2414/946660efe84a8054dea927d318ee33333d3184f5d3e262d4.jpg",
       "currentPrice": 4.99,
       "originalPrice": 49.99,
       "discountPercentage": 90,
