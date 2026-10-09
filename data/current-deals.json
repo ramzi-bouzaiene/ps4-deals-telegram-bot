@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-09T13:40:49.222Z",
+  "fetchedAt": "2026-10-09T19:17:46.804Z",
   "region": "FR",
   "deals": [
     {
@@ -9310,7 +9310,7 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0615/VDEZmWQRGR6eUE2IvEGwMrxq.png"
     },
     {
-      "id": "EP6958-PPSA11116_00-BANGONBALLSPS5EU",
+      "id": "EP6958-CUSA37847_00-BANGONBALLSPS4EU",
       "title": "Bang-On Balls: Chronicles",
       "platform": "PS4",
       "store": "PlayStation Store",
@@ -9319,7 +9319,7 @@
       "originalPrice": 24.99,
       "currency": "EUR",
       "discountPercentage": 65,
-      "url": "https://store.playstation.com/fr-fr/product/EP6958-PPSA11116_00-BANGONBALLSPS5EU",
+      "url": "https://store.playstation.com/fr-fr/product/EP6958-CUSA37847_00-BANGONBALLSPS4EU",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202309/0612/c4f29f32c9ceab6118467e4669edcb071fd93bd2aa6517ab.png"
     },
     {
@@ -10388,7 +10388,7 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2312/55cf5cb5117de1efd9468c024aa00fa3f7aa4464225a4a02.jpg"
     },
     {
-      "id": "EP1662-CUSA18694_00-CD3EU00000000000",
+      "id": "EP1662-PPSA02666_00-9853593095231322",
       "title": "Crash Drive 3",
       "platform": "PS4",
       "store": "PlayStation Store",
@@ -10397,7 +10397,7 @@
       "originalPrice": 16.99,
       "currency": "EUR",
       "discountPercentage": 80,
-      "url": "https://store.playstation.com/fr-fr/product/EP1662-CUSA18694_00-CD3EU00000000000",
+      "url": "https://store.playstation.com/fr-fr/product/EP1662-PPSA02666_00-9853593095231322",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202106/0113/6J6mvs5JZxB1qCdG7lq1HCpb.png"
     },
     {
@@ -10605,7 +10605,7 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202207/2106/SAst6t7cP37XKWiFdr2i22LS.png"
     },
     {
-      "id": "UB0383-PPSA31227_00-0213195883730857",
+      "id": "UB0383-CUSA55400_00-0573292974589498",
       "title": "Demons Are Coming!",
       "platform": "PS4",
       "store": "PlayStation Store",
@@ -10614,7 +10614,7 @@
       "originalPrice": 9.99,
       "currency": "EUR",
       "discountPercentage": 90,
-      "url": "https://store.playstation.com/fr-fr/product/UB0383-PPSA31227_00-0213195883730857",
+      "url": "https://store.playstation.com/fr-fr/product/UB0383-CUSA55400_00-0573292974589498",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202510/2711/240adc35b053d5d98704f55c437428aed1d30c4d69332d8b.png"
     },
     {
@@ -15302,7 +15302,7 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202108/3116/xXbTvB15XBVvTN9ji9Mb5f89.png"
     },
     {
-      "id": "EP6958-PPSA20721_00-0062886496486524",
+      "id": "EP6958-CUSA46982_00-0943098515679399",
       "title": "Ready, Steady, Ship! - Avatar Edition",
       "platform": "PS4",
       "store": "PlayStation Store",
@@ -15311,7 +15311,7 @@
       "originalPrice": 16.99,
       "currency": "EUR",
       "discountPercentage": 55,
-      "url": "https://store.playstation.com/fr-fr/product/EP6958-PPSA20721_00-0062886496486524",
+      "url": "https://store.playstation.com/fr-fr/product/EP6958-CUSA46982_00-0943098515679399",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2013/3736f2c64ff4382f8635e7d755325faca88b6bf1b6721cca.jpg"
     },
     {
@@ -18844,7 +18844,7 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202010/1520/QylW6RhRNrY9FWB6aC2LafnK.jpg"
     },
     {
-      "id": "EP1762-PPSA06873_00-XENONPS500000000",
+      "id": "EP1762-CUSA11011_00-XENONCROSSBUY000",
       "title": "Xenon Valkyrie+",
       "platform": "PS4",
       "store": "PlayStation Store",
@@ -18853,8 +18853,7 @@
       "originalPrice": 9.99,
       "currency": "EUR",
       "discountPercentage": 75,
-      "url": "https://store.playstation.com/fr-fr/product/EP1762-PPSA06873_00-XENONPS500000000",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202203/0515/36IkQVrQZAUbzQtyrmg9ouRB.png"
+      "url": "https://store.playstation.com/fr-fr/product/EP1762-CUSA11011_00-XENONCROSSBUY000"
     },
     {
       "id": "EP4064-CUSA10650_00-YOKUSISLANDEXP00",
