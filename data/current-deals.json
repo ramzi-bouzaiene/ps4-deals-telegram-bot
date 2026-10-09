@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-08T19:41:19.889Z",
+  "fetchedAt": "2026-10-08T23:57:59.820Z",
   "region": "FR",
   "deals": [
     {
@@ -6060,7 +6060,7 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0615/VDEZmWQRGR6eUE2IvEGwMrxq.png"
     },
     {
-      "id": "EP6958-PPSA11116_00-BANGONBALLSPS5EU",
+      "id": "EP6958-CUSA37847_00-BANGONBALLSPS4EU",
       "title": "Bang-On Balls: Chronicles",
       "platform": "PS4",
       "store": "PlayStation Store",
@@ -6069,7 +6069,7 @@
       "originalPrice": 24.99,
       "currency": "EUR",
       "discountPercentage": 65,
-      "url": "https://store.playstation.com/fr-fr/product/EP6958-PPSA11116_00-BANGONBALLSPS5EU",
+      "url": "https://store.playstation.com/fr-fr/product/EP6958-CUSA37847_00-BANGONBALLSPS4EU",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202309/0612/c4f29f32c9ceab6118467e4669edcb071fd93bd2aa6517ab.png"
     },
     {
@@ -6601,7 +6601,7 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202406/1110/9f2a0dd582cdff736bd9351de1c2b1dc8228c80b26b5cbea.png"
     },
     {
-      "id": "UB0851-CUSA56177_00-BOBBRICKBREAKER4",
+      "id": "UB0851-PPSA32280_00-BUNDLEBOBPS4PS50",
       "title": "Bob The Brick Breaker",
       "platform": "PS4",
       "store": "PlayStation Store",
@@ -6610,7 +6610,7 @@
       "originalPrice": 6.99,
       "currency": "EUR",
       "discountPercentage": 50,
-      "url": "https://store.playstation.com/fr-fr/product/UB0851-CUSA56177_00-BOBBRICKBREAKER4",
+      "url": "https://store.playstation.com/fr-fr/product/UB0851-PPSA32280_00-BUNDLEBOBPS4PS50",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202509/0411/d0a915d81483e02b8d05b178c5be032423ea4d6a7f8466b5.jpg"
     },
     {
@@ -7535,7 +7535,7 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2312/55cf5cb5117de1efd9468c024aa00fa3f7aa4464225a4a02.jpg"
     },
     {
-      "id": "EP1662-PPSA02666_00-9853593095231322",
+      "id": "EP1662-CUSA18694_00-CD3EU00000000000",
       "title": "Crash Drive 3",
       "platform": "PS4",
       "store": "PlayStation Store",
@@ -7544,7 +7544,7 @@
       "originalPrice": 16.99,
       "currency": "EUR",
       "discountPercentage": 80,
-      "url": "https://store.playstation.com/fr-fr/product/EP1662-PPSA02666_00-9853593095231322",
+      "url": "https://store.playstation.com/fr-fr/product/EP1662-CUSA18694_00-CD3EU00000000000",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202106/0113/6J6mvs5JZxB1qCdG7lq1HCpb.png"
     },
     {
@@ -7933,7 +7933,7 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202207/2106/SAst6t7cP37XKWiFdr2i22LS.png"
     },
     {
-      "id": "UB0383-PPSA31227_00-0213195883730857",
+      "id": "UB0383-CUSA55400_00-0573292974589498",
       "title": "Demons Are Coming!",
       "platform": "PS4",
       "store": "PlayStation Store",
@@ -7942,7 +7942,7 @@
       "originalPrice": 9.99,
       "currency": "EUR",
       "discountPercentage": 90,
-      "url": "https://store.playstation.com/fr-fr/product/UB0383-PPSA31227_00-0213195883730857",
+      "url": "https://store.playstation.com/fr-fr/product/UB0383-CUSA55400_00-0573292974589498",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202510/2711/240adc35b053d5d98704f55c437428aed1d30c4d69332d8b.png"
     },
     {
@@ -17779,7 +17779,7 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202104/0218/DO6ng6682Y5bllUrtuHkzmV5.jpg"
     },
     {
-      "id": "EP5011-PPSA25958_00-0714487102198604",
+      "id": "EP5011-CUSA18314_00-TWINBREAKERCRSBY",
       "title": "Twin Breaker: A Sacred Symbols Adventure",
       "platform": "PS4",
       "store": "PlayStation Store",
@@ -17788,8 +17788,7 @@
       "originalPrice": 10.99,
       "currency": "EUR",
       "discountPercentage": 70,
-      "url": "https://store.playstation.com/fr-fr/product/EP5011-PPSA25958_00-0714487102198604",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202502/1508/bd46fd34c138bf8a069a2354a149f0f2fe2c724f68d55f63.jpg"
+      "url": "https://store.playstation.com/fr-fr/product/EP5011-CUSA18314_00-TWINBREAKERCRSBY"
     },
     {
       "id": "UB0383-PPSA32320_00-0377005045737686",
