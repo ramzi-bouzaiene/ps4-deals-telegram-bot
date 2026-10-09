@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-09T19:17:46.804Z",
+  "fetchedAt": "2026-10-09T23:24:59.132Z",
   "region": "FR",
   "deals": [
     {
@@ -15302,7 +15302,7 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202108/3116/xXbTvB15XBVvTN9ji9Mb5f89.png"
     },
     {
-      "id": "EP6958-CUSA46982_00-0943098515679399",
+      "id": "EP6958-PPSA20721_00-0062886496486524",
       "title": "Ready, Steady, Ship! - Avatar Edition",
       "platform": "PS4",
       "store": "PlayStation Store",
@@ -15311,7 +15311,7 @@
       "originalPrice": 16.99,
       "currency": "EUR",
       "discountPercentage": 55,
-      "url": "https://store.playstation.com/fr-fr/product/EP6958-CUSA46982_00-0943098515679399",
+      "url": "https://store.playstation.com/fr-fr/product/EP6958-PPSA20721_00-0062886496486524",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2013/3736f2c64ff4382f8635e7d755325faca88b6bf1b6721cca.jpg"
     },
     {
@@ -18844,7 +18844,7 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202010/1520/QylW6RhRNrY9FWB6aC2LafnK.jpg"
     },
     {
-      "id": "EP1762-CUSA11011_00-XENONCROSSBUY000",
+      "id": "EP1762-PPSA06873_00-XENONPS500000000",
       "title": "Xenon Valkyrie+",
       "platform": "PS4",
       "store": "PlayStation Store",
@@ -18853,7 +18853,8 @@
       "originalPrice": 9.99,
       "currency": "EUR",
       "discountPercentage": 75,
-      "url": "https://store.playstation.com/fr-fr/product/EP1762-CUSA11011_00-XENONCROSSBUY000"
+      "url": "https://store.playstation.com/fr-fr/product/EP1762-PPSA06873_00-XENONPS500000000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202203/0515/36IkQVrQZAUbzQtyrmg9ouRB.png"
     },
     {
       "id": "EP4064-CUSA10650_00-YOKUSISLANDEXP00",
