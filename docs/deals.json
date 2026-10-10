@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T23:24:59.169Z",
+  "generatedAt": "2026-10-10T02:34:40.180Z",
   "region": "FR",
   "currency": "EUR",
   "symbol": "€",
@@ -118,7 +118,7 @@
     },
     {
       "title": "Demons Are Coming!",
-      "url": "https://store.playstation.com/fr-fr/product/UB0383-CUSA55400_00-0573292974589498",
+      "url": "https://store.playstation.com/fr-fr/product/UB0383-PPSA31227_00-0213195883730857",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202510/2711/240adc35b053d5d98704f55c437428aed1d30c4d69332d8b.png",
       "currentPrice": 0.99,
       "originalPrice": 9.99,
@@ -297,6 +297,16 @@
       "tier": "insane"
     },
     {
+      "title": "Biped",
+      "url": "https://store.playstation.com/fr-fr/product/EP6008-PPSA24591_00-0184863662672381",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202003/0310/2Y9EmUfSRfF9RDZ7mua0fpZx.jpg",
+      "currentPrice": 1.49,
+      "originalPrice": 14.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
       "title": "Golazo! Football League",
       "url": "https://store.playstation.com/fr-fr/product/EP4886-CUSA16607_00-GOLAZOFOOTBALLEU",
       "imageUrl": null,
@@ -310,16 +320,6 @@
       "title": "Adventures of Chris",
       "url": "https://store.playstation.com/fr-fr/product/EP5098-CUSA33314_00-5545330996396696",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0114/CmteNGwK436hS1Wp8o3Je8uu.jpg",
-      "currentPrice": 1.49,
-      "originalPrice": 14.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
-      "title": "Biped",
-      "url": "https://store.playstation.com/fr-fr/product/EP6008-PPSA24591_00-0184863662672381",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202003/0310/2Y9EmUfSRfF9RDZ7mua0fpZx.jpg",
       "currentPrice": 1.49,
       "originalPrice": 14.99,
       "discountPercentage": 90,
@@ -477,6 +477,26 @@
       "tier": "insane"
     },
     {
+      "title": "Gauntlet: Slayer Edition",
+      "url": "https://store.playstation.com/fr-fr/product/EP1018-CUSA00690_00-GAUNTLETGAME0001",
+      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202010/1520/qz6oCAUrRwCkFQebMVPSMdf8.png",
+      "currentPrice": 1.99,
+      "originalPrice": 19.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
+      "title": "Deep Diving Adventures",
+      "url": "https://store.playstation.com/fr-fr/product/EP1133-CUSA32742_00-6249967946770578",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202206/1508/9iBdJF3BtauWyrgZ27jq6Efe.jpg",
+      "currentPrice": 1.99,
+      "originalPrice": 19.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
       "title": "Aircraft Carrier Survival",
       "url": "https://store.playstation.com/fr-fr/product/EP3948-CUSA40256_00-0472458120455373",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202311/1310/0cab4ec70961306dab59151b15c4d4eb985f15d4ca0589de.jpg",
@@ -517,29 +537,9 @@
       "tier": "insane"
     },
     {
-      "title": "Deep Diving Adventures",
-      "url": "https://store.playstation.com/fr-fr/product/EP1133-CUSA32742_00-6249967946770578",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202206/1508/9iBdJF3BtauWyrgZ27jq6Efe.jpg",
-      "currentPrice": 1.99,
-      "originalPrice": 19.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
       "title": "FLASHOUT 3",
       "url": "https://store.playstation.com/fr-fr/product/EP1133-CUSA38153_00-0834589849184137",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202302/0311/218bac82508579ee547e89add2aaaa875fc862e01f4250d2.jpg",
-      "currentPrice": 1.99,
-      "originalPrice": 19.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
-      "title": "Gauntlet: Slayer Edition",
-      "url": "https://store.playstation.com/fr-fr/product/EP1018-CUSA00690_00-GAUNTLETGAME0001",
-      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202010/1520/qz6oCAUrRwCkFQebMVPSMdf8.png",
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -817,9 +817,9 @@
       "tier": "insane"
     },
     {
-      "title": "Cris Tales",
-      "url": "https://store.playstation.com/fr-fr/product/EP4908-PPSA02123_00-CRISTALES0000000",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202105/2121/yZ4rGekS6al49GL1MEkexwi5.jpg",
+      "title": "Lot Sherlock Holmes : Mystères ténébreux",
+      "url": "https://store.playstation.com/fr-fr/product/EP5205-CUSA34152_00-0472824749946652",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202406/1809/4ca1f64270fc808c03ba0684deddc90111cbf8b469aca0a7.jpg",
       "currentPrice": 3.99,
       "originalPrice": 39.99,
       "discountPercentage": 90,
@@ -827,9 +827,9 @@
       "tier": "insane"
     },
     {
-      "title": "Lot Sherlock Holmes : Mystères ténébreux",
-      "url": "https://store.playstation.com/fr-fr/product/EP5205-CUSA34152_00-0472824749946652",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202406/1809/4ca1f64270fc808c03ba0684deddc90111cbf8b469aca0a7.jpg",
+      "title": "Cris Tales",
+      "url": "https://store.playstation.com/fr-fr/product/EP4908-PPSA02123_00-CRISTALES0000000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202105/2121/yZ4rGekS6al49GL1MEkexwi5.jpg",
       "currentPrice": 3.99,
       "originalPrice": 39.99,
       "discountPercentage": 90,
