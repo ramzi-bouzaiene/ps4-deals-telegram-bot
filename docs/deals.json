@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T15:33:38.434Z",
+  "generatedAt": "2026-10-10T19:50:30.813Z",
   "region": "FR",
   "currency": "EUR",
   "symbol": "€",
@@ -12,8 +12,8 @@
     "avgDiscount": 69,
     "maxScore": 97,
     "maxScoreTitle": "Outcast – Second Contact Deluxe Edition",
-    "wishlistCount": 1,
-    "wishlistHits": 1
+    "wishlistCount": 3,
+    "wishlistHits": 3
   },
   "deals": [
     {
@@ -1019,10 +1019,24 @@
   ],
   "wishlist": [
     {
-      "title": "TEKKEN 7",
-      "url": "https://store.playstation.com/fr-fr/product/EP0700-CUSA06014_00-PS4TEKKEN7000001",
-      "targetPrice": 9.99,
-      "currentPrice": 9.99,
+      "title": "Red Dead Redemption 2",
+      "url": "https://store.playstation.com/fr-fr/product/EP1004-CUSA08519_00-REDEMPTIONFULL02",
+      "targetPrice": 14.99,
+      "currentPrice": 14.99,
+      "hit": true
+    },
+    {
+      "title": "Marvel’s Spider-Man : Édition Game of the Year",
+      "url": "https://store.playstation.com/fr-fr/product/EP9000-CUSA11993_00-000000000MSMGOTY",
+      "targetPrice": 29.99,
+      "currentPrice": 7.99,
+      "hit": true
+    },
+    {
+      "title": "God of War™",
+      "url": "https://store.playstation.com/fr-fr/product/EP9000-CUSA07410_00-0000000GODOFWARN",
+      "targetPrice": 19.99,
+      "currentPrice": 0,
       "hit": true
     }
   ]

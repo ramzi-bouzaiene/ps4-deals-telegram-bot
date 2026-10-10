@@ -209,5 +209,38 @@
     "url": "https://store.playstation.com/fr-fr/product/EP0700-CUSA06014_00-PS4TEKKEN7000001",
     "low": 9.99,
     "high": 9.99
+  },
+  "Red Dead Redemption 2": {
+    "history": [
+      {
+        "t": "2026-10-10T19:50:22.749Z",
+        "price": 14.99
+      }
+    ],
+    "url": "https://store.playstation.com/fr-fr/product/EP1004-CUSA08519_00-REDEMPTIONFULL02",
+    "low": 14.99,
+    "high": 14.99
+  },
+  "Marvel’s Spider-Man : Édition Game of the Year": {
+    "history": [
+      {
+        "t": "2026-10-10T19:50:26.288Z",
+        "price": 7.99
+      }
+    ],
+    "url": "https://store.playstation.com/fr-fr/product/EP9000-CUSA11993_00-000000000MSMGOTY",
+    "low": 7.99,
+    "high": 7.99
+  },
+  "God of War™": {
+    "history": [
+      {
+        "t": "2026-10-10T19:50:29.898Z",
+        "price": 0
+      }
+    ],
+    "url": "https://store.playstation.com/fr-fr/product/EP9000-CUSA07410_00-0000000GODOFWARN",
+    "low": 0,
+    "high": 0
   }
 }

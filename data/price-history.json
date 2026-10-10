@@ -13431,5 +13431,23 @@
         "date": "2026-10-08"
       }
     ]
+  },
+  "marvel-s-spider-man-edition-game-of-the-year": {
+    "prices": [
+      {
+        "price": 7.99,
+        "currency": "EUR",
+        "date": "2026-10-10"
+      }
+    ]
+  },
+  "god-of-war": {
+    "prices": [
+      {
+        "price": 0,
+        "currency": "EUR",
+        "date": "2026-10-10"
+      }
+    ]
   }
 }
