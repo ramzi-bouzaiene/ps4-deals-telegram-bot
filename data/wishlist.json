@@ -1,8 +1,20 @@
 [
   {
-    "gameId": "tekken-7",
-    "title": "TEKKEN 7",
-    "targetPrice": 9.99,
-    "url": "https://store.playstation.com/fr-fr/product/EP0700-CUSA06014_00-PS4TEKKEN7000001"
+    "gameId": "red-dead-redemption-2",
+    "title": "Red Dead Redemption 2",
+    "targetPrice": 14.99,
+    "url": "https://store.playstation.com/fr-fr/product/EP1004-CUSA08519_00-REDEMPTIONFULL02"
+  },
+  {
+    "gameId": "marvel-s-spider-man-edition-game-of-the-year",
+    "title": "Marvel’s Spider-Man : Édition Game of the Year",
+    "targetPrice": 29.99,
+    "url": "https://store.playstation.com/fr-fr/product/EP9000-CUSA11993_00-000000000MSMGOTY"
+  },
+  {
+    "gameId": "god-of-war",
+    "title": "God of War™",
+    "targetPrice": 19.99,
+    "url": "https://store.playstation.com/fr-fr/product/EP9000-CUSA07410_00-0000000GODOFWARN"
   }
 ]
