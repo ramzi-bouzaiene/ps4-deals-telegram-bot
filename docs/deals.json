@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T02:34:40.180Z",
+  "generatedAt": "2026-10-10T09:30:08.879Z",
   "region": "FR",
   "currency": "EUR",
   "symbol": "€",
@@ -247,9 +247,9 @@
       "tier": "insane"
     },
     {
-      "title": "OmegaBot",
-      "url": "https://store.playstation.com/fr-fr/product/EP5098-PPSA09169_00-8749790219608462",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202211/3015/wXqh0RaGlm3J5hzkBmvjzx5W.jpg",
+      "title": "UNABLES",
+      "url": "https://store.playstation.com/fr-fr/product/EP3948-CUSA45623_00-0183042090700748",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202402/2110/48391db7106172fb5f25903d178c414d629abc3b5457652e.png",
       "currentPrice": 1.29,
       "originalPrice": 12.99,
       "discountPercentage": 90,
@@ -257,9 +257,9 @@
       "tier": "insane"
     },
     {
-      "title": "UNABLES",
-      "url": "https://store.playstation.com/fr-fr/product/EP3948-CUSA45623_00-0183042090700748",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202402/2110/48391db7106172fb5f25903d178c414d629abc3b5457652e.png",
+      "title": "OmegaBot",
+      "url": "https://store.playstation.com/fr-fr/product/EP5098-PPSA09169_00-8749790219608462",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202211/3015/wXqh0RaGlm3J5hzkBmvjzx5W.jpg",
       "currentPrice": 1.29,
       "originalPrice": 12.99,
       "discountPercentage": 90,
@@ -307,9 +307,9 @@
       "tier": "insane"
     },
     {
-      "title": "Golazo! Football League",
-      "url": "https://store.playstation.com/fr-fr/product/EP4886-CUSA16607_00-GOLAZOFOOTBALLEU",
-      "imageUrl": null,
+      "title": "Blue Wednesday",
+      "url": "https://store.playstation.com/fr-fr/product/EP3948-PPSA26874_00-0800699338337944",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202502/1708/ffa50cf64413d5dd191ca24856d7058769c17cf174f627d9.jpg",
       "currentPrice": 1.49,
       "originalPrice": 14.99,
       "discountPercentage": 90,
@@ -320,6 +320,16 @@
       "title": "Adventures of Chris",
       "url": "https://store.playstation.com/fr-fr/product/EP5098-CUSA33314_00-5545330996396696",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0114/CmteNGwK436hS1Wp8o3Je8uu.jpg",
+      "currentPrice": 1.49,
+      "originalPrice": 14.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
+      "title": "Golazo! Football League",
+      "url": "https://store.playstation.com/fr-fr/product/EP4886-CUSA16607_00-GOLAZOFOOTBALLEU",
+      "imageUrl": null,
       "currentPrice": 1.49,
       "originalPrice": 14.99,
       "discountPercentage": 90,
@@ -350,16 +360,6 @@
       "title": "Beat Cop",
       "url": "https://store.playstation.com/fr-fr/product/EP4361-CUSA13642_00-BEATCOP000000000",
       "imageUrl": null,
-      "currentPrice": 1.49,
-      "originalPrice": 14.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
-      "title": "Blue Wednesday",
-      "url": "https://store.playstation.com/fr-fr/product/EP3948-PPSA26874_00-0800699338337944",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202502/1708/ffa50cf64413d5dd191ca24856d7058769c17cf174f627d9.jpg",
       "currentPrice": 1.49,
       "originalPrice": 14.99,
       "discountPercentage": 90,
@@ -457,16 +457,6 @@
       "tier": "insane"
     },
     {
-      "title": "Gordian Quest",
-      "url": "https://store.playstation.com/fr-fr/product/EP1877-PPSA18985_00-GORDIANQUEST0000",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202404/1118/a48e604bd3ff29c5c9ea9d6653db8201d6b2eca2e5c58dae.jpg",
-      "currentPrice": 1.99,
-      "originalPrice": 19.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
       "title": "Little Strays",
       "url": "https://store.playstation.com/fr-fr/product/UB0383-PPSA29189_00-0504266529563382",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202505/1409/c949555144f40cb7dcce439584ddd374f9026c36e9aee760.png",
@@ -477,9 +467,39 @@
       "tier": "insane"
     },
     {
+      "title": "Gordian Quest",
+      "url": "https://store.playstation.com/fr-fr/product/EP1877-PPSA18985_00-GORDIANQUEST0000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202404/1118/a48e604bd3ff29c5c9ea9d6653db8201d6b2eca2e5c58dae.jpg",
+      "currentPrice": 1.99,
+      "originalPrice": 19.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
       "title": "Gauntlet: Slayer Edition",
       "url": "https://store.playstation.com/fr-fr/product/EP1018-CUSA00690_00-GAUNTLETGAME0001",
       "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202010/1520/qz6oCAUrRwCkFQebMVPSMdf8.png",
+      "currentPrice": 1.99,
+      "originalPrice": 19.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
+      "title": "Alekhine's Gun",
+      "url": "https://store.playstation.com/fr-fr/product/EP1877-CUSA04381_00-ALEKHINESGUNMGUK",
+      "imageUrl": null,
+      "currentPrice": 1.99,
+      "originalPrice": 19.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
+      "title": "Baby Storm",
+      "url": "https://store.playstation.com/fr-fr/product/EP3948-CUSA40628_00-0138601061858270",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202304/1807/617397dc99a8f34c95108a03287bbf8aef11399a2a56cfae.png",
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -500,16 +520,6 @@
       "title": "Aircraft Carrier Survival",
       "url": "https://store.playstation.com/fr-fr/product/EP3948-CUSA40256_00-0472458120455373",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202311/1310/0cab4ec70961306dab59151b15c4d4eb985f15d4ca0589de.jpg",
-      "currentPrice": 1.99,
-      "originalPrice": 19.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
-      "title": "Alekhine's Gun",
-      "url": "https://store.playstation.com/fr-fr/product/EP1877-CUSA04381_00-ALEKHINESGUNMGUK",
-      "imageUrl": null,
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -557,9 +567,9 @@
       "tier": "insane"
     },
     {
-      "title": "Baby Storm",
-      "url": "https://store.playstation.com/fr-fr/product/EP3948-CUSA40628_00-0138601061858270",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202304/1807/617397dc99a8f34c95108a03287bbf8aef11399a2a56cfae.png",
+      "title": "Rise Eterna",
+      "url": "https://store.playstation.com/fr-fr/product/EP3948-CUSA28793_00-7821961153156105",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202107/1312/DdEm9sfIcA0xpMaulqVIMkkl.jpg",
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -590,16 +600,6 @@
       "title": "Oaken",
       "url": "https://store.playstation.com/fr-fr/product/EP5098-PPSA15867_00-0868629929703708",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1406/ce4a4bb7f47439ccb50f95f5b5e9a5b2b0adeaa6b0f00333.jpg",
-      "currentPrice": 1.99,
-      "originalPrice": 19.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
-      "title": "Rise Eterna",
-      "url": "https://store.playstation.com/fr-fr/product/EP3948-CUSA28793_00-7821961153156105",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202107/1312/DdEm9sfIcA0xpMaulqVIMkkl.jpg",
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -667,9 +667,9 @@
       "tier": "insane"
     },
     {
-      "title": "Realpolitiks New Power",
-      "url": "https://store.playstation.com/fr-fr/product/EP3948-CUSA18693_00-REALPOLITIKS0001",
-      "imageUrl": null,
+      "title": "Roguebook - Deluxe Edition",
+      "url": "https://store.playstation.com/fr-fr/product/EP4008-PPSA02076_00-7745972826179288",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202202/0314/HbIlr8QyGOvI0dcFAWPsY8pY.jpg",
       "currentPrice": 2.49,
       "originalPrice": 24.99,
       "discountPercentage": 90,
@@ -677,9 +677,9 @@
       "tier": "insane"
     },
     {
-      "title": "Roguebook - Deluxe Edition",
-      "url": "https://store.playstation.com/fr-fr/product/EP4008-PPSA02076_00-7745972826179288",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202202/0314/HbIlr8QyGOvI0dcFAWPsY8pY.jpg",
+      "title": "Realpolitiks New Power",
+      "url": "https://store.playstation.com/fr-fr/product/EP3948-CUSA18693_00-REALPOLITIKS0001",
+      "imageUrl": null,
       "currentPrice": 2.49,
       "originalPrice": 24.99,
       "discountPercentage": 90,
@@ -857,9 +857,9 @@
       "tier": "insane"
     },
     {
-      "title": "Batman: Return to Arkham",
-      "url": "https://store.playstation.com/fr-fr/product/EP1018-CUSA04607_00-RETURNTOARKHAM00",
-      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202010/1520/F1WFbqD8WCEWYGErUSk1OAOf.png",
+      "title": "Mortal Kombat 11",
+      "url": "https://store.playstation.com/fr-fr/product/EP1018-PPSA01619_00-00MORTALKOMBAT11",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202010/2000/aPVbncDz3LjjQpNQW6LhzNSK.jpg",
       "currentPrice": 4.99,
       "originalPrice": 49.99,
       "discountPercentage": 90,
@@ -867,9 +867,9 @@
       "tier": "insane"
     },
     {
-      "title": "Mortal Kombat 11",
-      "url": "https://store.playstation.com/fr-fr/product/EP1018-PPSA01619_00-00MORTALKOMBAT11",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202010/2000/aPVbncDz3LjjQpNQW6LhzNSK.jpg",
+      "title": "Batman: Return to Arkham",
+      "url": "https://store.playstation.com/fr-fr/product/EP1018-CUSA04607_00-RETURNTOARKHAM00",
+      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202010/1520/F1WFbqD8WCEWYGErUSk1OAOf.png",
       "currentPrice": 4.99,
       "originalPrice": 49.99,
       "discountPercentage": 90,
@@ -927,9 +927,9 @@
       "tier": "insane"
     },
     {
-      "title": "Heidelberg 1693",
-      "url": "https://store.playstation.com/fr-fr/product/EP5098-PPSA07038_00-7309017860455478",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202211/0809/AUto7QPEMGMIFYQFiKSS2Tuq.jpg",
+      "title": "Gunborg: Dark Matters",
+      "url": "https://store.playstation.com/fr-fr/product/EP5098-PPSA05779_00-GUNBORGDARKMATTE",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202201/2416/XFqzCnXu7EnCcOgVjh5MWvsh.jpg",
       "currentPrice": 1.94,
       "originalPrice": 14.99,
       "discountPercentage": 87,
@@ -937,9 +937,9 @@
       "tier": "insane"
     },
     {
-      "title": "Gunborg: Dark Matters",
-      "url": "https://store.playstation.com/fr-fr/product/EP5098-PPSA05779_00-GUNBORGDARKMATTE",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202201/2416/XFqzCnXu7EnCcOgVjh5MWvsh.jpg",
+      "title": "Heidelberg 1693",
+      "url": "https://store.playstation.com/fr-fr/product/EP5098-PPSA07038_00-7309017860455478",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202211/0809/AUto7QPEMGMIFYQFiKSS2Tuq.jpg",
       "currentPrice": 1.94,
       "originalPrice": 14.99,
       "discountPercentage": 87,
@@ -967,6 +967,16 @@
       "tier": "insane"
     },
     {
+      "title": "The Sinking City: Necronomicon Edition",
+      "url": "https://store.playstation.com/fr-fr/product/EP4008-CUSA13152_00-TSCSIEENECROBUN0",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202009/3014/Bgfw4A4spwY7KoryOqn8L8IU.jpg",
+      "currentPrice": 5.99,
+      "originalPrice": 59.99,
+      "discountPercentage": 90,
+      "score": 93,
+      "tier": "insane"
+    },
+    {
       "title": "Sniper Ghost Warrior Contracts 2 Complete Edition",
       "url": "https://store.playstation.com/fr-fr/product/EP4321-PPSA03131_00-9518271126471986",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202204/0513/xMfTHJ9xRfQLdttCUebKemIU.png",
@@ -980,16 +990,6 @@
       "title": "Relayer PS4 & PS5",
       "url": "https://store.playstation.com/fr-fr/product/EP8139-PPSA05876_00-RELAYERGAME00000",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202111/1111/kIboJiThVTfXz4Ks1dA6MBeI.jpg",
-      "currentPrice": 5.99,
-      "originalPrice": 59.99,
-      "discountPercentage": 90,
-      "score": 93,
-      "tier": "insane"
-    },
-    {
-      "title": "The Sinking City: Necronomicon Edition",
-      "url": "https://store.playstation.com/fr-fr/product/EP4008-CUSA13152_00-TSCSIEENECROBUN0",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202009/3014/Bgfw4A4spwY7KoryOqn8L8IU.jpg",
       "currentPrice": 5.99,
       "originalPrice": 59.99,
       "discountPercentage": 90,
