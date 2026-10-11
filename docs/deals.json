@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T02:04:27.899Z",
+  "generatedAt": "2026-10-11T09:11:09.617Z",
   "region": "FR",
   "currency": "EUR",
   "symbol": "€",
@@ -307,6 +307,16 @@
       "tier": "insane"
     },
     {
+      "title": "Adventures of Chris",
+      "url": "https://store.playstation.com/fr-fr/product/EP5098-CUSA33314_00-5545330996396696",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0114/CmteNGwK436hS1Wp8o3Je8uu.jpg",
+      "currentPrice": 1.49,
+      "originalPrice": 14.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
       "title": "Blue Wednesday",
       "url": "https://store.playstation.com/fr-fr/product/EP3948-PPSA26874_00-0800699338337944",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202502/1708/ffa50cf64413d5dd191ca24856d7058769c17cf174f627d9.jpg",
@@ -317,9 +327,9 @@
       "tier": "insane"
     },
     {
-      "title": "Adventures of Chris",
-      "url": "https://store.playstation.com/fr-fr/product/EP5098-CUSA33314_00-5545330996396696",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0114/CmteNGwK436hS1Wp8o3Je8uu.jpg",
+      "title": "Skautfold: Usurper",
+      "url": "https://store.playstation.com/fr-fr/product/EP5098-PPSA13683_00-0925871484233094",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202402/0123/b6d041b43dc6331c02294cf7141119b2da8753acdfb688d8.jpg",
       "currentPrice": 1.49,
       "originalPrice": 14.99,
       "discountPercentage": 90,
@@ -347,9 +357,9 @@
       "tier": "insane"
     },
     {
-      "title": "Skautfold: Usurper",
-      "url": "https://store.playstation.com/fr-fr/product/EP5098-PPSA13683_00-0925871484233094",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202402/0123/b6d041b43dc6331c02294cf7141119b2da8753acdfb688d8.jpg",
+      "title": "The Uncertain: Last Quiet Day",
+      "url": "https://store.playstation.com/fr-fr/product/EP6008-CUSA27193_00-9892558651788920",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202108/1910/VNSF9lTb8EOluX22s2OJJ6rI.jpg",
       "currentPrice": 1.49,
       "originalPrice": 14.99,
       "discountPercentage": 90,
@@ -400,16 +410,6 @@
       "title": "Overboss",
       "url": "https://store.playstation.com/fr-fr/product/EP3948-PPSA22876_00-0770858082508412",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202407/2412/2a2ceee6a8d3ff0a0d62e58ae89c850f0a52beec8b8c1075.jpg",
-      "currentPrice": 1.49,
-      "originalPrice": 14.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
-      "title": "The Uncertain: Last Quiet Day",
-      "url": "https://store.playstation.com/fr-fr/product/EP6008-CUSA27193_00-9892558651788920",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202108/1910/VNSF9lTb8EOluX22s2OJJ6rI.jpg",
       "currentPrice": 1.49,
       "originalPrice": 14.99,
       "discountPercentage": 90,
@@ -487,16 +487,6 @@
       "tier": "insane"
     },
     {
-      "title": "Alekhine's Gun",
-      "url": "https://store.playstation.com/fr-fr/product/EP1877-CUSA04381_00-ALEKHINESGUNMGUK",
-      "imageUrl": null,
-      "currentPrice": 1.99,
-      "originalPrice": 19.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
       "title": "Baby Storm",
       "url": "https://store.playstation.com/fr-fr/product/EP3948-CUSA40628_00-0138601061858270",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202304/1807/617397dc99a8f34c95108a03287bbf8aef11399a2a56cfae.png",
@@ -507,9 +497,49 @@
       "tier": "insane"
     },
     {
+      "title": "Hard West: Ultimate Edition",
+      "url": "https://store.playstation.com/fr-fr/product/EP3948-CUSA17408_00-HARDWEST00000001",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202006/1911/gXUiK2N6XtUGgPdaA2lU7HUc.jpg",
+      "currentPrice": 1.99,
+      "originalPrice": 19.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
+      "title": "Starsand",
+      "url": "https://store.playstation.com/fr-fr/product/EP3550-CUSA35138_00-STARSANDPS4EU000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202209/2708/jw1OHGbqjX7coJXVBY7UUooB.png",
+      "currentPrice": 1.99,
+      "originalPrice": 19.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
+      "title": "Alekhine's Gun",
+      "url": "https://store.playstation.com/fr-fr/product/EP1877-CUSA04381_00-ALEKHINESGUNMGUK",
+      "imageUrl": null,
+      "currentPrice": 1.99,
+      "originalPrice": 19.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
       "title": "Deep Diving Adventures",
       "url": "https://store.playstation.com/fr-fr/product/EP1133-CUSA32742_00-6249967946770578",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202206/1508/9iBdJF3BtauWyrgZ27jq6Efe.jpg",
+      "currentPrice": 1.99,
+      "originalPrice": 19.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
+      "title": "Rise Eterna",
+      "url": "https://store.playstation.com/fr-fr/product/EP3948-CUSA28793_00-7821961153156105",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202107/1312/DdEm9sfIcA0xpMaulqVIMkkl.jpg",
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -567,36 +597,6 @@
       "tier": "insane"
     },
     {
-      "title": "Rise Eterna",
-      "url": "https://store.playstation.com/fr-fr/product/EP3948-CUSA28793_00-7821961153156105",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202107/1312/DdEm9sfIcA0xpMaulqVIMkkl.jpg",
-      "currentPrice": 1.99,
-      "originalPrice": 19.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
-      "title": "Hard West: Ultimate Edition",
-      "url": "https://store.playstation.com/fr-fr/product/EP3948-CUSA17408_00-HARDWEST00000001",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202006/1911/gXUiK2N6XtUGgPdaA2lU7HUc.jpg",
-      "currentPrice": 1.99,
-      "originalPrice": 19.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
-      "title": "Help Will Come Tomorrow",
-      "url": "https://store.playstation.com/fr-fr/product/EP4886-CUSA19251_00-000000000000HWCT",
-      "imageUrl": null,
-      "currentPrice": 1.99,
-      "originalPrice": 19.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
       "title": "Oaken",
       "url": "https://store.playstation.com/fr-fr/product/EP5098-PPSA15867_00-0868629929703708",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1406/ce4a4bb7f47439ccb50f95f5b5e9a5b2b0adeaa6b0f00333.jpg",
@@ -607,9 +607,9 @@
       "tier": "insane"
     },
     {
-      "title": "Starsand",
-      "url": "https://store.playstation.com/fr-fr/product/EP3550-CUSA35138_00-STARSANDPS4EU000",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202209/2708/jw1OHGbqjX7coJXVBY7UUooB.png",
+      "title": "Help Will Come Tomorrow",
+      "url": "https://store.playstation.com/fr-fr/product/EP4886-CUSA19251_00-000000000000HWCT",
+      "imageUrl": null,
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -817,9 +817,9 @@
       "tier": "insane"
     },
     {
-      "title": "Cris Tales",
-      "url": "https://store.playstation.com/fr-fr/product/EP4908-PPSA02123_00-CRISTALES0000000",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202105/2121/yZ4rGekS6al49GL1MEkexwi5.jpg",
+      "title": "Lot Sherlock Holmes : Mystères ténébreux",
+      "url": "https://store.playstation.com/fr-fr/product/EP5205-CUSA34152_00-0472824749946652",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202406/1809/4ca1f64270fc808c03ba0684deddc90111cbf8b469aca0a7.jpg",
       "currentPrice": 3.99,
       "originalPrice": 39.99,
       "discountPercentage": 90,
@@ -827,9 +827,9 @@
       "tier": "insane"
     },
     {
-      "title": "Lot Sherlock Holmes : Mystères ténébreux",
-      "url": "https://store.playstation.com/fr-fr/product/EP5205-CUSA34152_00-0472824749946652",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202406/1809/4ca1f64270fc808c03ba0684deddc90111cbf8b469aca0a7.jpg",
+      "title": "Cris Tales",
+      "url": "https://store.playstation.com/fr-fr/product/EP4908-PPSA02123_00-CRISTALES0000000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202105/2121/yZ4rGekS6al49GL1MEkexwi5.jpg",
       "currentPrice": 3.99,
       "originalPrice": 39.99,
       "discountPercentage": 90,
@@ -967,9 +967,9 @@
       "tier": "insane"
     },
     {
-      "title": "The Sinking City: Necronomicon Edition",
-      "url": "https://store.playstation.com/fr-fr/product/EP4008-CUSA13152_00-TSCSIEENECROBUN0",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202009/3014/Bgfw4A4spwY7KoryOqn8L8IU.jpg",
+      "title": "Sniper Ghost Warrior Contracts 2 Complete Edition",
+      "url": "https://store.playstation.com/fr-fr/product/EP4321-PPSA03131_00-9518271126471986",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202204/0513/xMfTHJ9xRfQLdttCUebKemIU.png",
       "currentPrice": 5.99,
       "originalPrice": 59.99,
       "discountPercentage": 90,
@@ -977,9 +977,9 @@
       "tier": "insane"
     },
     {
-      "title": "Sniper Ghost Warrior Contracts 2 Complete Edition",
-      "url": "https://store.playstation.com/fr-fr/product/EP4321-PPSA03131_00-9518271126471986",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202204/0513/xMfTHJ9xRfQLdttCUebKemIU.png",
+      "title": "The Sinking City: Necronomicon Edition",
+      "url": "https://store.playstation.com/fr-fr/product/EP4008-CUSA13152_00-TSCSIEENECROBUN0",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202009/3014/Bgfw4A4spwY7KoryOqn8L8IU.jpg",
       "currentPrice": 5.99,
       "originalPrice": 59.99,
       "discountPercentage": 90,
