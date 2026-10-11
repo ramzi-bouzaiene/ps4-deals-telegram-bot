@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T23:18:05.607Z",
+  "generatedAt": "2026-10-11T02:04:27.899Z",
   "region": "FR",
   "currency": "EUR",
   "symbol": "€",
@@ -467,9 +467,9 @@
       "tier": "insane"
     },
     {
-      "title": "Gordian Quest",
-      "url": "https://store.playstation.com/fr-fr/product/EP1877-PPSA18985_00-GORDIANQUEST0000",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202404/1118/a48e604bd3ff29c5c9ea9d6653db8201d6b2eca2e5c58dae.jpg",
+      "title": "Gauntlet: Slayer Edition",
+      "url": "https://store.playstation.com/fr-fr/product/EP1018-CUSA00690_00-GAUNTLETGAME0001",
+      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202010/1520/qz6oCAUrRwCkFQebMVPSMdf8.png",
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -477,9 +477,9 @@
       "tier": "insane"
     },
     {
-      "title": "Gauntlet: Slayer Edition",
-      "url": "https://store.playstation.com/fr-fr/product/EP1018-CUSA00690_00-GAUNTLETGAME0001",
-      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202010/1520/qz6oCAUrRwCkFQebMVPSMdf8.png",
+      "title": "Gordian Quest",
+      "url": "https://store.playstation.com/fr-fr/product/EP1877-PPSA18985_00-GORDIANQUEST0000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202404/1118/a48e604bd3ff29c5c9ea9d6653db8201d6b2eca2e5c58dae.jpg",
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -817,9 +817,9 @@
       "tier": "insane"
     },
     {
-      "title": "Lot Sherlock Holmes : Mystères ténébreux",
-      "url": "https://store.playstation.com/fr-fr/product/EP5205-CUSA34152_00-0472824749946652",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202406/1809/4ca1f64270fc808c03ba0684deddc90111cbf8b469aca0a7.jpg",
+      "title": "Cris Tales",
+      "url": "https://store.playstation.com/fr-fr/product/EP4908-PPSA02123_00-CRISTALES0000000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202105/2121/yZ4rGekS6al49GL1MEkexwi5.jpg",
       "currentPrice": 3.99,
       "originalPrice": 39.99,
       "discountPercentage": 90,
@@ -827,9 +827,9 @@
       "tier": "insane"
     },
     {
-      "title": "Cris Tales",
-      "url": "https://store.playstation.com/fr-fr/product/EP4908-PPSA02123_00-CRISTALES0000000",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202105/2121/yZ4rGekS6al49GL1MEkexwi5.jpg",
+      "title": "Lot Sherlock Holmes : Mystères ténébreux",
+      "url": "https://store.playstation.com/fr-fr/product/EP5205-CUSA34152_00-0472824749946652",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202406/1809/4ca1f64270fc808c03ba0684deddc90111cbf8b469aca0a7.jpg",
       "currentPrice": 3.99,
       "originalPrice": 39.99,
       "discountPercentage": 90,
