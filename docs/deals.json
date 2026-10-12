@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T23:32:23.326Z",
+  "generatedAt": "2026-10-12T04:39:05.786Z",
   "region": "FR",
   "currency": "EUR",
   "symbol": "€",
@@ -24,6 +24,26 @@
       "originalPrice": 49.99,
       "discountPercentage": 95,
       "score": 97,
+      "tier": "insane"
+    },
+    {
+      "title": "Rise Eterna War",
+      "url": "https://store.playstation.com/fr-fr/product/EP3948-PPSA22629_00-0318529659793496",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202407/3010/7499b3b02697694ccbc6196813b2725120c1f7059e3531fa.jpg",
+      "currentPrice": 0.99,
+      "originalPrice": 9.99,
+      "discountPercentage": 90,
+      "score": 96,
+      "tier": "insane"
+    },
+    {
+      "title": "Skautfold: Shrouded in Sanity",
+      "url": "https://store.playstation.com/fr-fr/product/EP5098-PPSA13807_00-0876960800291102",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202201/1015/wF99jiyZVBTz5jS84FZRLNUe.jpg",
+      "currentPrice": 0.99,
+      "originalPrice": 9.99,
+      "discountPercentage": 90,
+      "score": 96,
       "tier": "insane"
     },
     {
@@ -70,16 +90,6 @@
       "title": "Season Match 3",
       "url": "https://store.playstation.com/fr-fr/product/EP1629-CUSA13657_00-SEASONMATCH30000",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202302/2715/7f8440a5bf2074dd856948f03905751ef1c983107e9225bd.png",
-      "currentPrice": 0.99,
-      "originalPrice": 9.99,
-      "discountPercentage": 90,
-      "score": 96,
-      "tier": "insane"
-    },
-    {
-      "title": "Skautfold: Shrouded in Sanity",
-      "url": "https://store.playstation.com/fr-fr/product/EP5098-PPSA13807_00-0876960800291102",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202201/1015/wF99jiyZVBTz5jS84FZRLNUe.jpg",
       "currentPrice": 0.99,
       "originalPrice": 9.99,
       "discountPercentage": 90,
@@ -140,16 +150,6 @@
       "title": "Q-YO Blaster",
       "url": "https://store.playstation.com/fr-fr/product/EP3948-CUSA26819_00-4183530654696739",
       "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202109/0311/Fw9JyriBnqg2JnwOdUTeTSOO.jpg",
-      "currentPrice": 0.99,
-      "originalPrice": 9.99,
-      "discountPercentage": 90,
-      "score": 96,
-      "tier": "insane"
-    },
-    {
-      "title": "Rise Eterna War",
-      "url": "https://store.playstation.com/fr-fr/product/EP3948-PPSA22629_00-0318529659793496",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202407/3010/7499b3b02697694ccbc6196813b2725120c1f7059e3531fa.jpg",
       "currentPrice": 0.99,
       "originalPrice": 9.99,
       "discountPercentage": 90,
@@ -337,16 +337,6 @@
       "tier": "insane"
     },
     {
-      "title": "Golazo! Football League",
-      "url": "https://store.playstation.com/fr-fr/product/EP4886-CUSA16607_00-GOLAZOFOOTBALLEU",
-      "imageUrl": null,
-      "currentPrice": 1.49,
-      "originalPrice": 14.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
       "title": "Skautfold: Into the Fray",
       "url": "https://store.playstation.com/fr-fr/product/EP5098-PPSA18716_00-0634520781407326",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202407/0908/cafa3d6402d192123a587d4184be299e40befd4841d84ee1.jpg",
@@ -360,6 +350,16 @@
       "title": "The Uncertain: Last Quiet Day",
       "url": "https://store.playstation.com/fr-fr/product/EP6008-CUSA27193_00-9892558651788920",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202108/1910/VNSF9lTb8EOluX22s2OJJ6rI.jpg",
+      "currentPrice": 1.49,
+      "originalPrice": 14.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
+      "title": "Golazo! Football League",
+      "url": "https://store.playstation.com/fr-fr/product/EP4886-CUSA16607_00-GOLAZOFOOTBALLEU",
+      "imageUrl": null,
       "currentPrice": 1.49,
       "originalPrice": 14.99,
       "discountPercentage": 90,
@@ -517,16 +517,6 @@
       "tier": "insane"
     },
     {
-      "title": "Alekhine's Gun",
-      "url": "https://store.playstation.com/fr-fr/product/EP1877-CUSA04381_00-ALEKHINESGUNMGUK",
-      "imageUrl": null,
-      "currentPrice": 1.99,
-      "originalPrice": 19.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
       "title": "Deep Diving Adventures",
       "url": "https://store.playstation.com/fr-fr/product/EP1133-CUSA32742_00-6249967946770578",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202206/1508/9iBdJF3BtauWyrgZ27jq6Efe.jpg",
@@ -550,6 +540,16 @@
       "title": "Aircraft Carrier Survival",
       "url": "https://store.playstation.com/fr-fr/product/EP3948-CUSA40256_00-0472458120455373",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202311/1310/0cab4ec70961306dab59151b15c4d4eb985f15d4ca0589de.jpg",
+      "currentPrice": 1.99,
+      "originalPrice": 19.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
+      "title": "Alekhine's Gun",
+      "url": "https://store.playstation.com/fr-fr/product/EP1877-CUSA04381_00-ALEKHINESGUNMGUK",
+      "imageUrl": null,
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
