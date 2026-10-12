@@ -35,22 +35,22 @@ Telegram bot for PS4 deals, wishlist price alerts, PS Plus free games and store 
 ### Infrastructure
 
 - **No database** — every state file is JSON, committed by the workflows (works on ephemeral runners).
-- **GitHub Actions** — `check-deals` every 30 min, `daily-deals` daily, `price-history` every 6 h, `rss` every 2 h, `bot` every 5 min, `ci` on push; each commit step retries with `pull --rebase`.
+- **GitHub Actions** — `check-deals` every 30 min, `daily-deals` daily, `price-history` every 6 h, `rss` every 2 h, `bot` every 5 min, `ci` on push; each commit step retries with a conflict-proof merge (`-X theirs`).
 - **Secrets stay secrets** — tokens only from GitHub Secrets or gitignored `.env`; never in code, logs or committed files.
 - **Dashboard** — `docs/index.html` + state files (GitHub Pages).
 - **Health checks** — `debug` mode, dry-run mode (no channel configured), `DATA_DIR` override for isolated tests.
 
 ## What it sends
 
-| Alert                          | When                                                                                          |
-| ------------------------------ | --------------------------------------------------------------------------------------------- |
-| 🏆 **New historical low**      | a tracked/discounted game drops below the lowest price this bot ever recorded                 |
-| 🔔 **Wishlist alert**          | a wishlist game reaches your target price                                                     |
-| 🔥 **Hot PS4 deal**            | a deal scores ≥ your minimum (default 80) — max 5 per run, never repeated for the same price  |
-| 🏆 **Daily best deals**        | every day at 07:00 UTC: the top N (default 5) deals by score, only genuinely good ones        |
-| 📣 **New PS Store promotions** | a new promo banner/campaign appears, or an official sale announcement on the PlayStation Blog |
-| 🗓 **Monthly PS Plus games**    | Sony announces the monthly PS Plus lineup, with store links resolved from search              |
-| 🆓 **Free games**              | free-to-play releases and “free” titles in the RSS feeds, immediately                         |
+| Alert                          | When                                                                                                    |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------- |
+| 🏆 **New historical low**      | a tracked/discounted game drops below the lowest price this bot ever recorded                           |
+| 🔔 **Wishlist alert**          | a wishlist game reaches your target price                                                               |
+| 🔥 **Hot PS4 deal**            | a deal scores ≥ your minimum (default 80) — max 5 per run, never repeated for the same price            |
+| 🏆 **Daily best deals**        | every day at 07:00 in Tunis (06:00 UTC): the top N (default 5) deals by score, only genuinely good ones |
+| 📣 **New PS Store promotions** | a new promo banner/campaign appears, or an official sale announcement on the PlayStation Blog           |
+| 🗓 **Monthly PS Plus games**    | Sony announces the monthly PS Plus lineup, with store links resolved from search                        |
+| 🆓 **Free games**              | free-to-play releases and “free” titles in the RSS feeds, immediately                                   |
 
 ## Setup
 
