@@ -11,7 +11,10 @@ permissions:
 
 concurrency:
   group: ps4-deals-bot
-  cancel-in-progress: true
+  # Never cancel a live poll mid-message — that loses replies AND uncommitted
+  # wishlist/settings changes. With cancel off, the next tick queues and starts
+  # the instant the current run exits, so the poll gap is only runner startup.
+  cancel-in-progress: false
 
 jobs:
   poll:
@@ -25,7 +28,7 @@ jobs:
           node-version: 22
           cache: npm
 
-      - run: npm ci
+      - run: npm ci --prefer-offline
 
       # Long-poll a little under 5 minutes so the next cron tick picks up
       # where this one left off. Private repos: change the cron to "*/15"
