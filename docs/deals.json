@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T04:39:05.786Z",
+  "generatedAt": "2026-10-12T12:48:10.750Z",
   "region": "FR",
   "currency": "EUR",
   "symbol": "€",
@@ -24,6 +24,16 @@
       "originalPrice": 49.99,
       "discountPercentage": 95,
       "score": 97,
+      "tier": "insane"
+    },
+    {
+      "title": "Violett",
+      "url": "https://store.playstation.com/fr-fr/product/EP3948-CUSA27460_00-1565560635386693",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202104/2714/XkBtB5OueDmpVNOWtgQMUgNB.jpg",
+      "currentPrice": 0.99,
+      "originalPrice": 9.99,
+      "discountPercentage": 90,
+      "score": 96,
       "tier": "insane"
     },
     {
@@ -160,16 +170,6 @@
       "title": "Sparkle 4 Tales",
       "url": "https://store.playstation.com/fr-fr/product/EP3948-CUSA20407_00-SPARKLE4TALES001",
       "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202012/1510/KhrI9THnhZfqC7eLhi23KgEl.jpg",
-      "currentPrice": 0.99,
-      "originalPrice": 9.99,
-      "discountPercentage": 90,
-      "score": 96,
-      "tier": "insane"
-    },
-    {
-      "title": "Violett",
-      "url": "https://store.playstation.com/fr-fr/product/EP3948-CUSA27460_00-1565560635386693",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202104/2714/XkBtB5OueDmpVNOWtgQMUgNB.jpg",
       "currentPrice": 0.99,
       "originalPrice": 9.99,
       "discountPercentage": 90,
@@ -337,6 +337,26 @@
       "tier": "insane"
     },
     {
+      "title": "Beat Cop",
+      "url": "https://store.playstation.com/fr-fr/product/EP4361-CUSA13642_00-BEATCOP000000000",
+      "imageUrl": null,
+      "currentPrice": 1.49,
+      "originalPrice": 14.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
+      "title": "Clunky Hero",
+      "url": "https://store.playstation.com/fr-fr/product/EP7686-CUSA39295_00-3331704668274529",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202211/2915/fvMDekdNnz0jOc4ATReGH1yd.jpg",
+      "currentPrice": 1.49,
+      "originalPrice": 14.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
       "title": "Skautfold: Into the Fray",
       "url": "https://store.playstation.com/fr-fr/product/EP5098-PPSA18716_00-0634520781407326",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202407/0908/cafa3d6402d192123a587d4184be299e40befd4841d84ee1.jpg",
@@ -360,26 +380,6 @@
       "title": "Golazo! Football League",
       "url": "https://store.playstation.com/fr-fr/product/EP4886-CUSA16607_00-GOLAZOFOOTBALLEU",
       "imageUrl": null,
-      "currentPrice": 1.49,
-      "originalPrice": 14.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
-      "title": "Beat Cop",
-      "url": "https://store.playstation.com/fr-fr/product/EP4361-CUSA13642_00-BEATCOP000000000",
-      "imageUrl": null,
-      "currentPrice": 1.49,
-      "originalPrice": 14.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
-      "title": "Clunky Hero",
-      "url": "https://store.playstation.com/fr-fr/product/EP7686-CUSA39295_00-3331704668274529",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202211/2915/fvMDekdNnz0jOc4ATReGH1yd.jpg",
       "currentPrice": 1.49,
       "originalPrice": 14.99,
       "discountPercentage": 90,
@@ -487,16 +487,6 @@
       "tier": "insane"
     },
     {
-      "title": "Baby Storm",
-      "url": "https://store.playstation.com/fr-fr/product/EP3948-CUSA40628_00-0138601061858270",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202304/1807/617397dc99a8f34c95108a03287bbf8aef11399a2a56cfae.png",
-      "currentPrice": 1.99,
-      "originalPrice": 19.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
       "title": "Hard West: Ultimate Edition",
       "url": "https://store.playstation.com/fr-fr/product/EP3948-CUSA17408_00-HARDWEST00000001",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202006/1911/gXUiK2N6XtUGgPdaA2lU7HUc.jpg",
@@ -517,9 +507,29 @@
       "tier": "insane"
     },
     {
+      "title": "Baby Storm",
+      "url": "https://store.playstation.com/fr-fr/product/EP3948-CUSA40628_00-0138601061858270",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202304/1807/617397dc99a8f34c95108a03287bbf8aef11399a2a56cfae.png",
+      "currentPrice": 1.99,
+      "originalPrice": 19.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
       "title": "Deep Diving Adventures",
       "url": "https://store.playstation.com/fr-fr/product/EP1133-CUSA32742_00-6249967946770578",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202206/1508/9iBdJF3BtauWyrgZ27jq6Efe.jpg",
+      "currentPrice": 1.99,
+      "originalPrice": 19.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
+      "title": "KURSK",
+      "url": "https://store.playstation.com/fr-fr/product/EP3948-CUSA28017_00-2315137972246748",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202108/1711/Q9YwNJkQm2tIUHWVEIShTOed.jpg",
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -587,16 +597,6 @@
       "tier": "insane"
     },
     {
-      "title": "KURSK",
-      "url": "https://store.playstation.com/fr-fr/product/EP3948-CUSA28017_00-2315137972246748",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202108/1711/Q9YwNJkQm2tIUHWVEIShTOed.jpg",
-      "currentPrice": 1.99,
-      "originalPrice": 19.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
       "title": "Oaken",
       "url": "https://store.playstation.com/fr-fr/product/EP5098-PPSA15867_00-0868629929703708",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1406/ce4a4bb7f47439ccb50f95f5b5e9a5b2b0adeaa6b0f00333.jpg",
@@ -647,9 +647,9 @@
       "tier": "insane"
     },
     {
-      "title": "Batora: Lost Haven",
-      "url": "https://store.playstation.com/fr-fr/product/EP4064-PPSA05514_00-5341032569762891",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202209/2811/U7DQL7YrgrciXNU4NWuKvKVO.jpg",
+      "title": "Panzer Dragoon: Remake",
+      "url": "https://store.playstation.com/fr-fr/product/EP3948-CUSA19484_00-PANZERDRAGOON001",
+      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202103/2413/ChyYcguOKee00h8RWhW1092r.jpg",
       "currentPrice": 2.49,
       "originalPrice": 24.99,
       "discountPercentage": 90,
@@ -657,9 +657,9 @@
       "tier": "insane"
     },
     {
-      "title": "Panzer Dragoon: Remake",
-      "url": "https://store.playstation.com/fr-fr/product/EP3948-CUSA19484_00-PANZERDRAGOON001",
-      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202103/2413/ChyYcguOKee00h8RWhW1092r.jpg",
+      "title": "Batora: Lost Haven",
+      "url": "https://store.playstation.com/fr-fr/product/EP4064-PPSA05514_00-5341032569762891",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202209/2811/U7DQL7YrgrciXNU4NWuKvKVO.jpg",
       "currentPrice": 2.49,
       "originalPrice": 24.99,
       "discountPercentage": 90,
@@ -797,9 +797,9 @@
       "tier": "insane"
     },
     {
-      "title": "MXGP 2021 - The Official Motocross Videogame",
-      "url": "https://store.playstation.com/fr-fr/product/EP4356-CUSA28534_00-MXGP2021FULLGAME",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202109/2209/bixw18w6eYVjg5Xti2pobwsT.jpg",
+      "title": "Sniper Ghost Warrior Contracts",
+      "url": "https://store.playstation.com/fr-fr/product/EP4321-CUSA14619_00-SGWCONTRACTS0001",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202204/1910/5m5dEbVwpWP7b6UjIEurWPcb.png",
       "currentPrice": 3.99,
       "originalPrice": 39.99,
       "discountPercentage": 90,
@@ -807,9 +807,9 @@
       "tier": "insane"
     },
     {
-      "title": "Sniper Ghost Warrior Contracts",
-      "url": "https://store.playstation.com/fr-fr/product/EP4321-CUSA14619_00-SGWCONTRACTS0001",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202204/1910/5m5dEbVwpWP7b6UjIEurWPcb.png",
+      "title": "MXGP 2021 - The Official Motocross Videogame",
+      "url": "https://store.playstation.com/fr-fr/product/EP4356-CUSA28534_00-MXGP2021FULLGAME",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202109/2209/bixw18w6eYVjg5Xti2pobwsT.jpg",
       "currentPrice": 3.99,
       "originalPrice": 39.99,
       "discountPercentage": 90,
