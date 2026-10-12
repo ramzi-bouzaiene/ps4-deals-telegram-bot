@@ -3,7 +3,9 @@ name: daily-deals
 # schedule-registration refresh 2026-10-08 — forces GitHub to re-read cron triggers
 on:
   schedule:
-    - cron: "0 7 * * *"
+    # GitHub cron is UTC. Tunisia is UTC+1 year-round (no DST),
+    # so 06:00 UTC = 07:00 in Tunis.
+    - cron: "0 6 * * *"
   workflow_dispatch:
 
 permissions:
