@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T06:31:27.599Z",
+  "generatedAt": "2026-10-14T12:41:39.296Z",
   "region": "FR",
   "currency": "EUR",
   "symbol": "€",
@@ -47,9 +47,9 @@
       "tier": "insane"
     },
     {
-      "title": "Rise Eterna War",
-      "url": "https://store.playstation.com/fr-fr/product/EP3948-PPSA22629_00-0318529659793496",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202407/3010/7499b3b02697694ccbc6196813b2725120c1f7059e3531fa.jpg",
+      "title": "Last Night of Winter",
+      "url": "https://store.playstation.com/fr-fr/product/EP5098-PPSA12359_00-LASTNIGHTWINTER0",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202405/3115/7591a1aa55396177a26d71910290bc36ea035fc3b5d4f7b4.jpg",
       "currentPrice": 0.99,
       "originalPrice": 9.99,
       "discountPercentage": 90,
@@ -57,9 +57,9 @@
       "tier": "insane"
     },
     {
-      "title": "Last Night of Winter",
-      "url": "https://store.playstation.com/fr-fr/product/EP5098-PPSA12359_00-LASTNIGHTWINTER0",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202405/3115/7591a1aa55396177a26d71910290bc36ea035fc3b5d4f7b4.jpg",
+      "title": "Rise Eterna War",
+      "url": "https://store.playstation.com/fr-fr/product/EP3948-PPSA22629_00-0318529659793496",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202407/3010/7499b3b02697694ccbc6196813b2725120c1f7059e3531fa.jpg",
       "currentPrice": 0.99,
       "originalPrice": 9.99,
       "discountPercentage": 90,
@@ -127,6 +127,16 @@
       "tier": "insane"
     },
     {
+      "title": "Q-YO Blaster",
+      "url": "https://store.playstation.com/fr-fr/product/EP3948-CUSA26819_00-4183530654696739",
+      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202109/0311/Fw9JyriBnqg2JnwOdUTeTSOO.jpg",
+      "currentPrice": 0.99,
+      "originalPrice": 9.99,
+      "discountPercentage": 90,
+      "score": 96,
+      "tier": "insane"
+    },
+    {
       "title": "Blocky Farm",
       "url": "https://store.playstation.com/fr-fr/product/EP3948-PPSA18444_00-0777391313944550",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202408/0110/a1f6f6fb83f6d3c0acaaeb2bb1775aa1fdcb179f0b8bb8d0.jpg",
@@ -150,16 +160,6 @@
       "title": "Goetia",
       "url": "https://store.playstation.com/fr-fr/product/EP3948-CUSA20339_00-GOETIA0000000001",
       "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202012/1513/8Ha5m3vtbaFMz0AwNOjK3hkG.jpg",
-      "currentPrice": 0.99,
-      "originalPrice": 9.99,
-      "discountPercentage": 90,
-      "score": 96,
-      "tier": "insane"
-    },
-    {
-      "title": "Q-YO Blaster",
-      "url": "https://store.playstation.com/fr-fr/product/EP3948-CUSA26819_00-4183530654696739",
-      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202109/0311/Fw9JyriBnqg2JnwOdUTeTSOO.jpg",
       "currentPrice": 0.99,
       "originalPrice": 9.99,
       "discountPercentage": 90,
@@ -327,9 +327,9 @@
       "tier": "insane"
     },
     {
-      "title": "Golazo! Football League",
-      "url": "https://store.playstation.com/fr-fr/product/EP4886-CUSA16607_00-GOLAZOFOOTBALLEU",
-      "imageUrl": null,
+      "title": "Skautfold: Usurper",
+      "url": "https://store.playstation.com/fr-fr/product/EP5098-PPSA13683_00-0925871484233094",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202402/0123/b6d041b43dc6331c02294cf7141119b2da8753acdfb688d8.jpg",
       "currentPrice": 1.49,
       "originalPrice": 14.99,
       "discountPercentage": 90,
@@ -337,9 +337,19 @@
       "tier": "insane"
     },
     {
-      "title": "Skautfold: Usurper",
-      "url": "https://store.playstation.com/fr-fr/product/EP5098-PPSA13683_00-0925871484233094",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202402/0123/b6d041b43dc6331c02294cf7141119b2da8753acdfb688d8.jpg",
+      "title": "The Uncertain: Last Quiet Day",
+      "url": "https://store.playstation.com/fr-fr/product/EP6008-CUSA27193_00-9892558651788920",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202108/1910/VNSF9lTb8EOluX22s2OJJ6rI.jpg",
+      "currentPrice": 1.49,
+      "originalPrice": 14.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
+      "title": "Golazo! Football League",
+      "url": "https://store.playstation.com/fr-fr/product/EP4886-CUSA16607_00-GOLAZOFOOTBALLEU",
+      "imageUrl": null,
       "currentPrice": 1.49,
       "originalPrice": 14.99,
       "discountPercentage": 90,
@@ -370,16 +380,6 @@
       "title": "Skautfold: Into the Fray",
       "url": "https://store.playstation.com/fr-fr/product/EP5098-PPSA18716_00-0634520781407326",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202407/0908/cafa3d6402d192123a587d4184be299e40befd4841d84ee1.jpg",
-      "currentPrice": 1.49,
-      "originalPrice": 14.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
-      "title": "The Uncertain: Last Quiet Day",
-      "url": "https://store.playstation.com/fr-fr/product/EP6008-CUSA27193_00-9892558651788920",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202108/1910/VNSF9lTb8EOluX22s2OJJ6rI.jpg",
       "currentPrice": 1.49,
       "originalPrice": 14.99,
       "discountPercentage": 90,
@@ -537,16 +537,6 @@
       "tier": "insane"
     },
     {
-      "title": "KURSK",
-      "url": "https://store.playstation.com/fr-fr/product/EP3948-CUSA28017_00-2315137972246748",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202108/1711/Q9YwNJkQm2tIUHWVEIShTOed.jpg",
-      "currentPrice": 1.99,
-      "originalPrice": 19.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
       "title": "Rise Eterna",
       "url": "https://store.playstation.com/fr-fr/product/EP3948-CUSA28793_00-7821961153156105",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202107/1312/DdEm9sfIcA0xpMaulqVIMkkl.jpg",
@@ -560,6 +550,16 @@
       "title": "Starsand",
       "url": "https://store.playstation.com/fr-fr/product/EP3550-CUSA35138_00-STARSANDPS4EU000",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202209/2708/jw1OHGbqjX7coJXVBY7UUooB.png",
+      "currentPrice": 1.99,
+      "originalPrice": 19.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
+      "title": "KURSK",
+      "url": "https://store.playstation.com/fr-fr/product/EP3948-CUSA28017_00-2315137972246748",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202108/1711/Q9YwNJkQm2tIUHWVEIShTOed.jpg",
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
