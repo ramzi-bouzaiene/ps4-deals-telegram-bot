@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T05:00:21.645Z",
+  "generatedAt": "2026-10-15T09:46:56.006Z",
   "region": "FR",
   "currency": "EUR",
   "symbol": "€",
@@ -24,6 +24,16 @@
       "originalPrice": 49.99,
       "discountPercentage": 95,
       "score": 97,
+      "tier": "insane"
+    },
+    {
+      "title": "Goetia",
+      "url": "https://store.playstation.com/fr-fr/product/EP3948-CUSA20339_00-GOETIA0000000001",
+      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202012/1513/8Ha5m3vtbaFMz0AwNOjK3hkG.jpg",
+      "currentPrice": 0.99,
+      "originalPrice": 9.99,
+      "discountPercentage": 90,
+      "score": 96,
       "tier": "insane"
     },
     {
@@ -97,16 +107,6 @@
       "tier": "insane"
     },
     {
-      "title": "Jubilee",
-      "url": "https://store.playstation.com/fr-fr/product/EP5098-PPSA18145_00-0680441106191529",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202312/1810/bfd93f8c9ad5774e6373bc9e9902c55dcc7e781f287cadcb.jpg",
-      "currentPrice": 0.99,
-      "originalPrice": 9.99,
-      "discountPercentage": 90,
-      "score": 96,
-      "tier": "insane"
-    },
-    {
       "title": "SturmFront - The Mutant War: Übel Edition",
       "url": "https://store.playstation.com/fr-fr/product/EP5098-PPSA09816_00-1193057821053684",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202103/0815/UrWr8IktwiP4RzhmSPX0h4yZ.jpg",
@@ -148,7 +148,7 @@
     },
     {
       "title": "Demons Are Coming!",
-      "url": "https://store.playstation.com/fr-fr/product/UB0383-PPSA31227_00-0213195883730857",
+      "url": "https://store.playstation.com/fr-fr/product/UB0383-CUSA55400_00-0573292974589498",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202510/2711/240adc35b053d5d98704f55c437428aed1d30c4d69332d8b.png",
       "currentPrice": 0.99,
       "originalPrice": 9.99,
@@ -157,9 +157,9 @@
       "tier": "insane"
     },
     {
-      "title": "Goetia",
-      "url": "https://store.playstation.com/fr-fr/product/EP3948-CUSA20339_00-GOETIA0000000001",
-      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202012/1513/8Ha5m3vtbaFMz0AwNOjK3hkG.jpg",
+      "title": "Jubilee",
+      "url": "https://store.playstation.com/fr-fr/product/EP5098-PPSA18145_00-0680441106191529",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202312/1810/bfd93f8c9ad5774e6373bc9e9902c55dcc7e781f287cadcb.jpg",
       "currentPrice": 0.99,
       "originalPrice": 9.99,
       "discountPercentage": 90,
@@ -517,9 +517,9 @@
       "tier": "insane"
     },
     {
-      "title": "Hard West: Ultimate Edition",
-      "url": "https://store.playstation.com/fr-fr/product/EP3948-CUSA17408_00-HARDWEST00000001",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202006/1911/gXUiK2N6XtUGgPdaA2lU7HUc.jpg",
+      "title": "Deep Diving Adventures",
+      "url": "https://store.playstation.com/fr-fr/product/EP1133-CUSA32742_00-6249967946770578",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202206/1508/9iBdJF3BtauWyrgZ27jq6Efe.jpg",
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -527,9 +527,9 @@
       "tier": "insane"
     },
     {
-      "title": "Deep Diving Adventures",
-      "url": "https://store.playstation.com/fr-fr/product/EP1133-CUSA32742_00-6249967946770578",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202206/1508/9iBdJF3BtauWyrgZ27jq6Efe.jpg",
+      "title": "Hard West: Ultimate Edition",
+      "url": "https://store.playstation.com/fr-fr/product/EP3948-CUSA17408_00-HARDWEST00000001",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202006/1911/gXUiK2N6XtUGgPdaA2lU7HUc.jpg",
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -667,9 +667,9 @@
       "tier": "insane"
     },
     {
-      "title": "Roguebook - Deluxe Edition",
-      "url": "https://store.playstation.com/fr-fr/product/EP4008-PPSA02076_00-7745972826179288",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202202/0314/HbIlr8QyGOvI0dcFAWPsY8pY.jpg",
+      "title": "Realpolitiks New Power",
+      "url": "https://store.playstation.com/fr-fr/product/EP3948-CUSA18693_00-REALPOLITIKS0001",
+      "imageUrl": null,
       "currentPrice": 2.49,
       "originalPrice": 24.99,
       "discountPercentage": 90,
@@ -677,9 +677,9 @@
       "tier": "insane"
     },
     {
-      "title": "Realpolitiks New Power",
-      "url": "https://store.playstation.com/fr-fr/product/EP3948-CUSA18693_00-REALPOLITIKS0001",
-      "imageUrl": null,
+      "title": "Roguebook - Deluxe Edition",
+      "url": "https://store.playstation.com/fr-fr/product/EP4008-PPSA02076_00-7745972826179288",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202202/0314/HbIlr8QyGOvI0dcFAWPsY8pY.jpg",
       "currentPrice": 2.49,
       "originalPrice": 24.99,
       "discountPercentage": 90,
@@ -797,9 +797,9 @@
       "tier": "insane"
     },
     {
-      "title": "MXGP 2021 - The Official Motocross Videogame",
-      "url": "https://store.playstation.com/fr-fr/product/EP4356-CUSA28534_00-MXGP2021FULLGAME",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202109/2209/bixw18w6eYVjg5Xti2pobwsT.jpg",
+      "title": "Sniper Ghost Warrior Contracts",
+      "url": "https://store.playstation.com/fr-fr/product/EP4321-CUSA14619_00-SGWCONTRACTS0001",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202204/1910/5m5dEbVwpWP7b6UjIEurWPcb.png",
       "currentPrice": 3.99,
       "originalPrice": 39.99,
       "discountPercentage": 90,
@@ -807,9 +807,9 @@
       "tier": "insane"
     },
     {
-      "title": "Sniper Ghost Warrior Contracts",
-      "url": "https://store.playstation.com/fr-fr/product/EP4321-CUSA14619_00-SGWCONTRACTS0001",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202204/1910/5m5dEbVwpWP7b6UjIEurWPcb.png",
+      "title": "MXGP 2021 - The Official Motocross Videogame",
+      "url": "https://store.playstation.com/fr-fr/product/EP4356-CUSA28534_00-MXGP2021FULLGAME",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202109/2209/bixw18w6eYVjg5Xti2pobwsT.jpg",
       "currentPrice": 3.99,
       "originalPrice": 39.99,
       "discountPercentage": 90,
