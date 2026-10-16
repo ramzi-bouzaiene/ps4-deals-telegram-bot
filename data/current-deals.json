@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-15T21:58:06.113Z",
+  "fetchedAt": "2026-10-16T00:12:48.911Z",
   "region": "FR",
   "deals": [
     {
@@ -169,6 +169,19 @@
       "discountPercentage": 50,
       "url": "https://store.playstation.com/fr-fr/product/EP1004-PPSA30523_00-REDEMPTION000001",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202511/1414/28668a5e2f1f34295ccb9732e83d512615b05bf567ba7fd5.jpg"
+    },
+    {
+      "id": "EP4497-PPSA04029_00-0000000000000N22",
+      "title": "Cyberpunk 2077",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 19.99,
+      "originalPrice": 49.99,
+      "currency": "EUR",
+      "discountPercentage": 60,
+      "url": "https://store.playstation.com/fr-fr/product/EP4497-PPSA04029_00-0000000000000N22",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202111/3013/UjQ1pWQiHwymgQQ6q4pWQkMC.png"
     },
     {
       "id": "EP0001-PPSA01490_00-GAME000000000000",
@@ -1812,6 +1825,19 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202508/1811/75482f6ce83fd30599c649622670ff96a1566b768def65bd.png"
     },
     {
+      "id": "EP0102-CUSA01222_00-SFVCE00000000000",
+      "title": "Street Fighter V: Champion Edition",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 9.99,
+      "originalPrice": 19.99,
+      "currency": "EUR",
+      "discountPercentage": 50,
+      "url": "https://store.playstation.com/fr-fr/product/EP0102-CUSA01222_00-SFVCE00000000000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202011/0608/z42qq27JXWv4aErvrCIrx4xq.jpg"
+    },
+    {
       "id": "EP2377-PPSA01735_00-PLANETCOASTER000",
       "title": "Planet Coaster: Édition console",
       "platform": "PS4",
@@ -3026,6 +3052,19 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202501/2815/1d448742dca395f6c2939295c5c716b34a720f5b6dbf52ba.jpg"
     },
     {
+      "id": "EP9000-CUSA01839_00-USF4DEV00104SCEE",
+      "title": "Ultra Street Fighter™ IV",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 3.99,
+      "originalPrice": 24.99,
+      "currency": "EUR",
+      "discountPercentage": 84,
+      "url": "https://store.playstation.com/fr-fr/product/EP9000-CUSA01839_00-USF4DEV00104SCEE",
+      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202011/0204/UPNRRFNpD8HRzp1r2bQfydar.png"
+    },
+    {
       "id": "EP0177-CUSA12781_00-HOKUTOGOTOGB0000",
       "title": "Fist of the North Star: Lost Paradise",
       "platform": "PS4",
@@ -3062,6 +3101,19 @@
       "discountPercentage": 80,
       "url": "https://store.playstation.com/fr-fr/product/EP1003-CUSA08779_00-BLKHRT0000000000",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202009/2920/WGeG8QUapXBge9N3BTkP2vqp.png"
+    },
+    {
+      "id": "EP0102-CUSA07997_00-SF30FULLGAME0001",
+      "title": "Street Fighter 30th Anniversary Collection",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 4.49,
+      "originalPrice": 29.99,
+      "currency": "EUR",
+      "discountPercentage": 85,
+      "url": "https://store.playstation.com/fr-fr/product/EP0102-CUSA07997_00-SF30FULLGAME0001",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202009/2405/nWSBLpqWXn6yiBv5JjGNENV8.png"
     },
     {
       "id": "EP0082-CUSA32853_00-TFBL000000000000",
@@ -6275,6 +6327,19 @@
       "url": "https://store.playstation.com/fr-fr/product/EP1302-CUSA06591_00-0000000000000000"
     },
     {
+      "id": "EP0102-CUSA33213_00-CFCBUNDLE0000002",
+      "title": "Capcom Fighting Collection 1 + 2 Bundle",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 23.99,
+      "originalPrice": 59.99,
+      "currency": "EUR",
+      "discountPercentage": 60,
+      "url": "https://store.playstation.com/fr-fr/product/EP0102-CUSA33213_00-CFCBUNDLE0000002",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202504/2501/60f47ee3c2537af847349f3ed8f4ba769f04e4e1eb202982.png"
+    },
+    {
       "id": "EP0281-PPSA04645_00-8950972305249045",
       "title": "Cobra Kai 2: Dojos Rising",
       "platform": "PS4",
@@ -7677,6 +7742,19 @@
       "discountPercentage": 55,
       "url": "https://store.playstation.com/fr-fr/product/EP5439-CUSA14212_00-GENZEROULTIMATEB",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202409/1711/a4be0e971a3156953be3f826a3568863504cc7528c9cd62e.png"
+    },
+    {
+      "id": "EP0102-CUSA01222_00-SFVCES5PPBUND000",
+      "title": "Street Fighter V: Champion Edition + Season 5 Premium Pass Bundle",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 19.99,
+      "originalPrice": 39.99,
+      "currency": "EUR",
+      "discountPercentage": 50,
+      "url": "https://store.playstation.com/fr-fr/product/EP0102-CUSA01222_00-SFVCES5PPBUND000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202012/2308/FCWZEfnMyTE0Esw5vtUUNd6k.png"
     },
     {
       "id": "EP4040-PPSA03685_00-GHOSTRUNNERCMPLT",
@@ -13524,6 +13602,19 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202507/1007/2db2ac8427fab80f76b2fbfa48c0c78b99e7873dbb29e651.jpg"
     },
     {
+      "id": "EP0102-CUSA11890_00-CSSGCFULLGAME000",
+      "title": "Capcom Beat 'Em Up Bundle",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 9.99,
+      "originalPrice": 19.99,
+      "currency": "EUR",
+      "discountPercentage": 50,
+      "url": "https://store.playstation.com/fr-fr/product/EP0102-CUSA11890_00-CSSGCFULLGAME000",
+      "imageUrl": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA12046_00/9/i_d98fc069a026b5205f0a0f4d7b9839d8ab7e7d15da41e0f3ada555498423e7bd/i/pic0.png"
+    },
+    {
       "id": "EP0281-CUSA04751_00-CARTOONNETWORKBR",
       "title": "Cartoon Network: Battle Crashers",
       "platform": "PS4",
@@ -13893,7 +13984,7 @@
       "url": "https://store.playstation.com/fr-fr/product/EP8062-CUSA20191_00-3001199027585589"
     },
     {
-      "id": "UB0383-PPSA31227_00-0213195883730857",
+      "id": "UB0383-CUSA55400_00-0573292974589498",
       "title": "Demons Are Coming!",
       "platform": "PS4",
       "store": "PlayStation Store",
@@ -13902,7 +13993,7 @@
       "originalPrice": 9.99,
       "currency": "EUR",
       "discountPercentage": 90,
-      "url": "https://store.playstation.com/fr-fr/product/UB0383-PPSA31227_00-0213195883730857",
+      "url": "https://store.playstation.com/fr-fr/product/UB0383-CUSA55400_00-0573292974589498",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202510/2711/240adc35b053d5d98704f55c437428aed1d30c4d69332d8b.png"
     },
     {

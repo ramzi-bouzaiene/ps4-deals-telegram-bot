@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-15T21:58:14.675Z",
+  "generatedAt": "2026-10-16T00:12:56.530Z",
   "region": "FR",
   "currency": "EUR",
   "symbol": "€",
   "minimumDealScore": 80,
   "stats": {
-    "total": 1483,
-    "scored60": 1480,
-    "scored80": 1083,
+    "total": 1490,
+    "scored60": 1486,
+    "scored80": 1085,
     "scored90": 311,
     "avgDiscount": 69,
     "maxScore": 97,
@@ -148,7 +148,7 @@
     },
     {
       "title": "Demons Are Coming!",
-      "url": "https://store.playstation.com/fr-fr/product/UB0383-PPSA31227_00-0213195883730857",
+      "url": "https://store.playstation.com/fr-fr/product/UB0383-CUSA55400_00-0573292974589498",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202510/2711/240adc35b053d5d98704f55c437428aed1d30c4d69332d8b.png",
       "currentPrice": 0.99,
       "originalPrice": 9.99,

@@ -13449,5 +13449,68 @@
         "date": "2026-10-10"
       }
     ]
+  },
+  "cyberpunk-2077": {
+    "prices": [
+      {
+        "price": 19.99,
+        "currency": "EUR",
+        "date": "2026-10-16"
+      }
+    ]
+  },
+  "street-fighter-v-champion-edition": {
+    "prices": [
+      {
+        "price": 9.99,
+        "currency": "EUR",
+        "date": "2026-10-16"
+      }
+    ]
+  },
+  "ultra-street-fighter-iv": {
+    "prices": [
+      {
+        "price": 3.99,
+        "currency": "EUR",
+        "date": "2026-10-16"
+      }
+    ]
+  },
+  "street-fighter-30th-anniversary-collection": {
+    "prices": [
+      {
+        "price": 4.49,
+        "currency": "EUR",
+        "date": "2026-10-16"
+      }
+    ]
+  },
+  "capcom-fighting-collection-1-2-bundle": {
+    "prices": [
+      {
+        "price": 23.99,
+        "currency": "EUR",
+        "date": "2026-10-16"
+      }
+    ]
+  },
+  "street-fighter-v-champion-edition-season-5-premium-pass-bundle": {
+    "prices": [
+      {
+        "price": 19.99,
+        "currency": "EUR",
+        "date": "2026-10-16"
+      }
+    ]
+  },
+  "capcom-beat-em-up-bundle": {
+    "prices": [
+      {
+        "price": 9.99,
+        "currency": "EUR",
+        "date": "2026-10-16"
+      }
+    ]
   }
 }
