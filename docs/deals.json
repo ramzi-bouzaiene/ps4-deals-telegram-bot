@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T04:50:43.435Z",
+  "generatedAt": "2026-10-17T09:02:26.140Z",
   "region": "FR",
   "currency": "EUR",
   "symbol": "€",
@@ -237,9 +237,9 @@
       "tier": "insane"
     },
     {
-      "title": "Flooded",
-      "url": "https://store.playstation.com/fr-fr/product/EP3948-CUSA45179_00-0495073557711347",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202312/1407/f30389d1c4e128270e9bb00423a532be538a1247b8720005.jpg",
+      "title": "OmegaBot",
+      "url": "https://store.playstation.com/fr-fr/product/EP5098-PPSA09169_00-8749790219608462",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202211/3015/wXqh0RaGlm3J5hzkBmvjzx5W.jpg",
       "currentPrice": 1.29,
       "originalPrice": 12.99,
       "discountPercentage": 90,
@@ -257,9 +257,9 @@
       "tier": "insane"
     },
     {
-      "title": "OmegaBot",
-      "url": "https://store.playstation.com/fr-fr/product/EP5098-PPSA09169_00-8749790219608462",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202211/3015/wXqh0RaGlm3J5hzkBmvjzx5W.jpg",
+      "title": "Flooded",
+      "url": "https://store.playstation.com/fr-fr/product/EP3948-CUSA45179_00-0495073557711347",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202312/1407/f30389d1c4e128270e9bb00423a532be538a1247b8720005.jpg",
       "currentPrice": 1.29,
       "originalPrice": 12.99,
       "discountPercentage": 90,
@@ -300,16 +300,6 @@
       "title": "Biped",
       "url": "https://store.playstation.com/fr-fr/product/EP6008-PPSA24591_00-0184863662672381",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202003/0310/2Y9EmUfSRfF9RDZ7mua0fpZx.jpg",
-      "currentPrice": 1.49,
-      "originalPrice": 14.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
-      "title": "Adventures of Chris",
-      "url": "https://store.playstation.com/fr-fr/product/EP5098-CUSA33314_00-5545330996396696",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0114/CmteNGwK436hS1Wp8o3Je8uu.jpg",
       "currentPrice": 1.49,
       "originalPrice": 14.99,
       "discountPercentage": 90,
@@ -390,6 +380,16 @@
       "title": "May’s Mysteries: The Secret of Dragonville",
       "url": "https://store.playstation.com/fr-fr/product/EP4886-CUSA29160_00-9195893140644016",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202108/3009/7d1gSGsSjmoInnTBa8sKk1c2.jpg",
+      "currentPrice": 1.49,
+      "originalPrice": 14.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
+      "title": "Adventures of Chris",
+      "url": "https://store.playstation.com/fr-fr/product/EP5098-CUSA33314_00-5545330996396696",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0114/CmteNGwK436hS1Wp8o3Je8uu.jpg",
       "currentPrice": 1.49,
       "originalPrice": 14.99,
       "discountPercentage": 90,
@@ -487,16 +487,6 @@
       "tier": "insane"
     },
     {
-      "title": "Gordian Quest",
-      "url": "https://store.playstation.com/fr-fr/product/EP1877-PPSA18985_00-GORDIANQUEST0000",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202404/1118/a48e604bd3ff29c5c9ea9d6653db8201d6b2eca2e5c58dae.jpg",
-      "currentPrice": 1.99,
-      "originalPrice": 19.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
       "title": "Alekhine's Gun",
       "url": "https://store.playstation.com/fr-fr/product/EP1877-CUSA04381_00-ALEKHINESGUNMGUK",
       "imageUrl": null,
@@ -507,9 +497,9 @@
       "tier": "insane"
     },
     {
-      "title": "Baby Storm",
-      "url": "https://store.playstation.com/fr-fr/product/EP3948-CUSA40628_00-0138601061858270",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202304/1807/617397dc99a8f34c95108a03287bbf8aef11399a2a56cfae.png",
+      "title": "FLASHOUT 3",
+      "url": "https://store.playstation.com/fr-fr/product/EP1133-CUSA38153_00-0834589849184137",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202302/0311/218bac82508579ee547e89add2aaaa875fc862e01f4250d2.jpg",
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -517,9 +507,9 @@
       "tier": "insane"
     },
     {
-      "title": "FLASHOUT 3",
-      "url": "https://store.playstation.com/fr-fr/product/EP1133-CUSA38153_00-0834589849184137",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202302/0311/218bac82508579ee547e89add2aaaa875fc862e01f4250d2.jpg",
+      "title": "Gordian Quest",
+      "url": "https://store.playstation.com/fr-fr/product/EP1877-PPSA18985_00-GORDIANQUEST0000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202404/1118/a48e604bd3ff29c5c9ea9d6653db8201d6b2eca2e5c58dae.jpg",
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -547,16 +537,6 @@
       "tier": "insane"
     },
     {
-      "title": "KURSK",
-      "url": "https://store.playstation.com/fr-fr/product/EP3948-CUSA28017_00-2315137972246748",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202108/1711/Q9YwNJkQm2tIUHWVEIShTOed.jpg",
-      "currentPrice": 1.99,
-      "originalPrice": 19.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
       "title": "Deep Diving Adventures",
       "url": "https://store.playstation.com/fr-fr/product/EP1133-CUSA32742_00-6249967946770578",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202206/1508/9iBdJF3BtauWyrgZ27jq6Efe.jpg",
@@ -567,9 +547,29 @@
       "tier": "insane"
     },
     {
+      "title": "KURSK",
+      "url": "https://store.playstation.com/fr-fr/product/EP3948-CUSA28017_00-2315137972246748",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202108/1711/Q9YwNJkQm2tIUHWVEIShTOed.jpg",
+      "currentPrice": 1.99,
+      "originalPrice": 19.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
       "title": "Starsand",
       "url": "https://store.playstation.com/fr-fr/product/EP3550-CUSA35138_00-STARSANDPS4EU000",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202209/2708/jw1OHGbqjX7coJXVBY7UUooB.png",
+      "currentPrice": 1.99,
+      "originalPrice": 19.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
+      "title": "Baby Storm",
+      "url": "https://store.playstation.com/fr-fr/product/EP3948-CUSA40628_00-0138601061858270",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202304/1807/617397dc99a8f34c95108a03287bbf8aef11399a2a56cfae.png",
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
