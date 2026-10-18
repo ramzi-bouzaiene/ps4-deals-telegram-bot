@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T23:47:55.318Z",
+  "generatedAt": "2026-10-18T03:19:51.964Z",
   "region": "FR",
   "currency": "EUR",
   "symbol": "€",
@@ -47,6 +47,16 @@
       "tier": "insane"
     },
     {
+      "title": "Skautfold: Shrouded in Sanity",
+      "url": "https://store.playstation.com/fr-fr/product/EP5098-PPSA13807_00-0876960800291102",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202201/1015/wF99jiyZVBTz5jS84FZRLNUe.jpg",
+      "currentPrice": 0.99,
+      "originalPrice": 9.99,
+      "discountPercentage": 90,
+      "score": 96,
+      "tier": "insane"
+    },
+    {
       "title": "Violett",
       "url": "https://store.playstation.com/fr-fr/product/EP3948-CUSA27460_00-1565560635386693",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202104/2714/XkBtB5OueDmpVNOWtgQMUgNB.jpg",
@@ -57,9 +67,9 @@
       "tier": "insane"
     },
     {
-      "title": "Skautfold: Shrouded in Sanity",
-      "url": "https://store.playstation.com/fr-fr/product/EP5098-PPSA13807_00-0876960800291102",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202201/1015/wF99jiyZVBTz5jS84FZRLNUe.jpg",
+      "title": "Criminal Expert",
+      "url": "https://store.playstation.com/fr-fr/product/EP3948-CUSA40258_00-0914574647579727",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0807/340e2cc86cd11f40908fd2995972fe54ad08fd729e5e4b38.jpg",
       "currentPrice": 0.99,
       "originalPrice": 9.99,
       "discountPercentage": 90,
@@ -80,16 +90,6 @@
       "title": "Rise Eterna War",
       "url": "https://store.playstation.com/fr-fr/product/EP3948-PPSA22629_00-0318529659793496",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202407/3010/7499b3b02697694ccbc6196813b2725120c1f7059e3531fa.jpg",
-      "currentPrice": 0.99,
-      "originalPrice": 9.99,
-      "discountPercentage": 90,
-      "score": 96,
-      "tier": "insane"
-    },
-    {
-      "title": "Criminal Expert",
-      "url": "https://store.playstation.com/fr-fr/product/EP3948-CUSA40258_00-0914574647579727",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0807/340e2cc86cd11f40908fd2995972fe54ad08fd729e5e4b38.jpg",
       "currentPrice": 0.99,
       "originalPrice": 9.99,
       "discountPercentage": 90,
@@ -148,7 +148,7 @@
     },
     {
       "title": "Demons Are Coming!",
-      "url": "https://store.playstation.com/fr-fr/product/UB0383-CUSA55400_00-0573292974589498",
+      "url": "https://store.playstation.com/fr-fr/product/UB0383-PPSA31227_00-0213195883730857",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202510/2711/240adc35b053d5d98704f55c437428aed1d30c4d69332d8b.png",
       "currentPrice": 0.99,
       "originalPrice": 9.99,
@@ -307,6 +307,16 @@
       "tier": "insane"
     },
     {
+      "title": "Golazo! Football League",
+      "url": "https://store.playstation.com/fr-fr/product/EP4886-CUSA16607_00-GOLAZOFOOTBALLEU",
+      "imageUrl": null,
+      "currentPrice": 1.49,
+      "originalPrice": 14.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
       "title": "Skautfold: Usurper",
       "url": "https://store.playstation.com/fr-fr/product/EP5098-PPSA13683_00-0925871484233094",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202402/0123/b6d041b43dc6331c02294cf7141119b2da8753acdfb688d8.jpg",
@@ -320,16 +330,6 @@
       "title": "The Uncertain: Last Quiet Day",
       "url": "https://store.playstation.com/fr-fr/product/EP6008-CUSA27193_00-9892558651788920",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202108/1910/VNSF9lTb8EOluX22s2OJJ6rI.jpg",
-      "currentPrice": 1.49,
-      "originalPrice": 14.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
-      "title": "Golazo! Football League",
-      "url": "https://store.playstation.com/fr-fr/product/EP4886-CUSA16607_00-GOLAZOFOOTBALLEU",
-      "imageUrl": null,
       "currentPrice": 1.49,
       "originalPrice": 14.99,
       "discountPercentage": 90,
@@ -537,16 +537,6 @@
       "tier": "insane"
     },
     {
-      "title": "Deep Diving Adventures",
-      "url": "https://store.playstation.com/fr-fr/product/EP1133-CUSA32742_00-6249967946770578",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202206/1508/9iBdJF3BtauWyrgZ27jq6Efe.jpg",
-      "currentPrice": 1.99,
-      "originalPrice": 19.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
       "title": "KURSK",
       "url": "https://store.playstation.com/fr-fr/product/EP3948-CUSA28017_00-2315137972246748",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202108/1711/Q9YwNJkQm2tIUHWVEIShTOed.jpg",
@@ -580,6 +570,16 @@
       "title": "Curved Space",
       "url": "https://store.playstation.com/fr-fr/product/EP1877-PPSA02818_00-CURVEDSPACE00000",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202105/2422/8jm1kzWEhKG4lsA5OPFlAEla.png",
+      "currentPrice": 1.99,
+      "originalPrice": 19.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
+      "title": "Deep Diving Adventures",
+      "url": "https://store.playstation.com/fr-fr/product/EP1133-CUSA32742_00-6249967946770578",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202206/1508/9iBdJF3BtauWyrgZ27jq6Efe.jpg",
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
