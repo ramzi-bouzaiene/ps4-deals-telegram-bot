@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T03:19:51.964Z",
+  "generatedAt": "2026-10-18T08:16:06.102Z",
   "region": "FR",
   "currency": "EUR",
   "symbol": "€",
@@ -307,6 +307,16 @@
       "tier": "insane"
     },
     {
+      "title": "The Uncertain: Last Quiet Day",
+      "url": "https://store.playstation.com/fr-fr/product/EP6008-CUSA27193_00-9892558651788920",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202108/1910/VNSF9lTb8EOluX22s2OJJ6rI.jpg",
+      "currentPrice": 1.49,
+      "originalPrice": 14.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
       "title": "Golazo! Football League",
       "url": "https://store.playstation.com/fr-fr/product/EP4886-CUSA16607_00-GOLAZOFOOTBALLEU",
       "imageUrl": null,
@@ -320,16 +330,6 @@
       "title": "Skautfold: Usurper",
       "url": "https://store.playstation.com/fr-fr/product/EP5098-PPSA13683_00-0925871484233094",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202402/0123/b6d041b43dc6331c02294cf7141119b2da8753acdfb688d8.jpg",
-      "currentPrice": 1.49,
-      "originalPrice": 14.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
-      "title": "The Uncertain: Last Quiet Day",
-      "url": "https://store.playstation.com/fr-fr/product/EP6008-CUSA27193_00-9892558651788920",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202108/1910/VNSF9lTb8EOluX22s2OJJ6rI.jpg",
       "currentPrice": 1.49,
       "originalPrice": 14.99,
       "discountPercentage": 90,
@@ -360,6 +360,26 @@
       "title": "Clunky Hero",
       "url": "https://store.playstation.com/fr-fr/product/EP7686-CUSA39295_00-3331704668274529",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202211/2915/fvMDekdNnz0jOc4ATReGH1yd.jpg",
+      "currentPrice": 1.49,
+      "originalPrice": 14.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
+      "title": "Overboss",
+      "url": "https://store.playstation.com/fr-fr/product/EP3948-PPSA22876_00-0770858082508412",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202407/2412/2a2ceee6a8d3ff0a0d62e58ae89c850f0a52beec8b8c1075.jpg",
+      "currentPrice": 1.49,
+      "originalPrice": 14.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
+      "title": "Time Loader",
+      "url": "https://store.playstation.com/fr-fr/product/EP6008-CUSA30591_00-7800865168715916",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202110/1113/Z5Aj10PPE5IMUMwxk8PaTi4V.jpg",
       "currentPrice": 1.49,
       "originalPrice": 14.99,
       "discountPercentage": 90,
@@ -400,26 +420,6 @@
       "title": "Funtasia",
       "url": "https://store.playstation.com/fr-fr/product/EP6704-CUSA34339_00-0927198309562069",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202309/0613/5ced0c80f4bd38540ebd14425191f2245551f22fb70e33ab.png",
-      "currentPrice": 1.49,
-      "originalPrice": 14.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
-      "title": "Overboss",
-      "url": "https://store.playstation.com/fr-fr/product/EP3948-PPSA22876_00-0770858082508412",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202407/2412/2a2ceee6a8d3ff0a0d62e58ae89c850f0a52beec8b8c1075.jpg",
-      "currentPrice": 1.49,
-      "originalPrice": 14.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
-      "title": "Time Loader",
-      "url": "https://store.playstation.com/fr-fr/product/EP6008-CUSA30591_00-7800865168715916",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202110/1113/Z5Aj10PPE5IMUMwxk8PaTi4V.jpg",
       "currentPrice": 1.49,
       "originalPrice": 14.99,
       "discountPercentage": 90,
@@ -487,16 +487,6 @@
       "tier": "insane"
     },
     {
-      "title": "Alekhine's Gun",
-      "url": "https://store.playstation.com/fr-fr/product/EP1877-CUSA04381_00-ALEKHINESGUNMGUK",
-      "imageUrl": null,
-      "currentPrice": 1.99,
-      "originalPrice": 19.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
       "title": "FLASHOUT 3",
       "url": "https://store.playstation.com/fr-fr/product/EP1133-CUSA38153_00-0834589849184137",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202302/0311/218bac82508579ee547e89add2aaaa875fc862e01f4250d2.jpg",
@@ -507,9 +497,9 @@
       "tier": "insane"
     },
     {
-      "title": "Gordian Quest",
-      "url": "https://store.playstation.com/fr-fr/product/EP1877-PPSA18985_00-GORDIANQUEST0000",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202404/1118/a48e604bd3ff29c5c9ea9d6653db8201d6b2eca2e5c58dae.jpg",
+      "title": "Starsand",
+      "url": "https://store.playstation.com/fr-fr/product/EP3550-CUSA35138_00-STARSANDPS4EU000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202209/2708/jw1OHGbqjX7coJXVBY7UUooB.png",
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -517,9 +507,9 @@
       "tier": "insane"
     },
     {
-      "title": "Hard West: Ultimate Edition",
-      "url": "https://store.playstation.com/fr-fr/product/EP3948-CUSA17408_00-HARDWEST00000001",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202006/1911/gXUiK2N6XtUGgPdaA2lU7HUc.jpg",
+      "title": "Alekhine's Gun",
+      "url": "https://store.playstation.com/fr-fr/product/EP1877-CUSA04381_00-ALEKHINESGUNMGUK",
+      "imageUrl": null,
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -547,9 +537,9 @@
       "tier": "insane"
     },
     {
-      "title": "Starsand",
-      "url": "https://store.playstation.com/fr-fr/product/EP3550-CUSA35138_00-STARSANDPS4EU000",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202209/2708/jw1OHGbqjX7coJXVBY7UUooB.png",
+      "title": "Hard West: Ultimate Edition",
+      "url": "https://store.playstation.com/fr-fr/product/EP3948-CUSA17408_00-HARDWEST00000001",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202006/1911/gXUiK2N6XtUGgPdaA2lU7HUc.jpg",
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -587,6 +577,16 @@
       "tier": "insane"
     },
     {
+      "title": "Gordian Quest",
+      "url": "https://store.playstation.com/fr-fr/product/EP1877-PPSA18985_00-GORDIANQUEST0000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202404/1118/a48e604bd3ff29c5c9ea9d6653db8201d6b2eca2e5c58dae.jpg",
+      "currentPrice": 1.99,
+      "originalPrice": 19.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
       "title": "Oaken",
       "url": "https://store.playstation.com/fr-fr/product/EP5098-PPSA15867_00-0868629929703708",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1406/ce4a4bb7f47439ccb50f95f5b5e9a5b2b0adeaa6b0f00333.jpg",
@@ -597,9 +597,9 @@
       "tier": "insane"
     },
     {
-      "title": "Arietta of Spirits PS4 & PS5",
-      "url": "https://store.playstation.com/fr-fr/product/EP5098-PPSA19390_00-0110026338560643",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202312/1208/578e255efc21896d10f4657bc4bb68e9fd10e34e18668f6e.jpg",
+      "title": "Help Will Come Tomorrow",
+      "url": "https://store.playstation.com/fr-fr/product/EP4886-CUSA19251_00-000000000000HWCT",
+      "imageUrl": null,
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -607,9 +607,9 @@
       "tier": "insane"
     },
     {
-      "title": "Help Will Come Tomorrow",
-      "url": "https://store.playstation.com/fr-fr/product/EP4886-CUSA19251_00-000000000000HWCT",
-      "imageUrl": null,
+      "title": "Arietta of Spirits PS4 & PS5",
+      "url": "https://store.playstation.com/fr-fr/product/EP5098-PPSA19390_00-0110026338560643",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202312/1208/578e255efc21896d10f4657bc4bb68e9fd10e34e18668f6e.jpg",
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
