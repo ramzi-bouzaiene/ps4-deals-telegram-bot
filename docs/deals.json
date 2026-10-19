@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-18T23:31:35.761Z",
+  "generatedAt": "2026-10-19T03:32:33.244Z",
   "region": "FR",
   "currency": "EUR",
   "symbol": "€",
   "minimumDealScore": 80,
   "stats": {
-    "total": 1490,
-    "scored60": 1487,
+    "total": 1489,
+    "scored60": 1486,
     "scored80": 1085,
     "scored90": 313,
     "avgDiscount": 69,
@@ -47,29 +47,9 @@
       "tier": "insane"
     },
     {
-      "title": "Skautfold: Shrouded in Sanity",
-      "url": "https://store.playstation.com/fr-fr/product/EP5098-PPSA13807_00-0876960800291102",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202201/1015/wF99jiyZVBTz5jS84FZRLNUe.jpg",
-      "currentPrice": 0.99,
-      "originalPrice": 9.99,
-      "discountPercentage": 90,
-      "score": 96,
-      "tier": "insane"
-    },
-    {
       "title": "Violett",
       "url": "https://store.playstation.com/fr-fr/product/EP3948-CUSA27460_00-1565560635386693",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202104/2714/XkBtB5OueDmpVNOWtgQMUgNB.jpg",
-      "currentPrice": 0.99,
-      "originalPrice": 9.99,
-      "discountPercentage": 90,
-      "score": 96,
-      "tier": "insane"
-    },
-    {
-      "title": "Criminal Expert",
-      "url": "https://store.playstation.com/fr-fr/product/EP3948-CUSA40258_00-0914574647579727",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0807/340e2cc86cd11f40908fd2995972fe54ad08fd729e5e4b38.jpg",
       "currentPrice": 0.99,
       "originalPrice": 9.99,
       "discountPercentage": 90,
@@ -90,6 +70,26 @@
       "title": "Rise Eterna War",
       "url": "https://store.playstation.com/fr-fr/product/EP3948-PPSA22629_00-0318529659793496",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202407/3010/7499b3b02697694ccbc6196813b2725120c1f7059e3531fa.jpg",
+      "currentPrice": 0.99,
+      "originalPrice": 9.99,
+      "discountPercentage": 90,
+      "score": 96,
+      "tier": "insane"
+    },
+    {
+      "title": "Skautfold: Shrouded in Sanity",
+      "url": "https://store.playstation.com/fr-fr/product/EP5098-PPSA13807_00-0876960800291102",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202201/1015/wF99jiyZVBTz5jS84FZRLNUe.jpg",
+      "currentPrice": 0.99,
+      "originalPrice": 9.99,
+      "discountPercentage": 90,
+      "score": 96,
+      "tier": "insane"
+    },
+    {
+      "title": "Criminal Expert",
+      "url": "https://store.playstation.com/fr-fr/product/EP3948-CUSA40258_00-0914574647579727",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0807/340e2cc86cd11f40908fd2995972fe54ad08fd729e5e4b38.jpg",
       "currentPrice": 0.99,
       "originalPrice": 9.99,
       "discountPercentage": 90,
@@ -148,7 +148,7 @@
     },
     {
       "title": "Demons Are Coming!",
-      "url": "https://store.playstation.com/fr-fr/product/UB0383-PPSA31227_00-0213195883730857",
+      "url": "https://store.playstation.com/fr-fr/product/UB0383-CUSA55400_00-0573292974589498",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202510/2711/240adc35b053d5d98704f55c437428aed1d30c4d69332d8b.png",
       "currentPrice": 0.99,
       "originalPrice": 9.99,
@@ -347,16 +347,6 @@
       "tier": "insane"
     },
     {
-      "title": "Blue Wednesday",
-      "url": "https://store.playstation.com/fr-fr/product/EP3948-PPSA26874_00-0800699338337944",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202502/1708/ffa50cf64413d5dd191ca24856d7058769c17cf174f627d9.jpg",
-      "currentPrice": 1.49,
-      "originalPrice": 14.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
       "title": "Clunky Hero",
       "url": "https://store.playstation.com/fr-fr/product/EP7686-CUSA39295_00-3331704668274529",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202211/2915/fvMDekdNnz0jOc4ATReGH1yd.jpg",
@@ -400,6 +390,16 @@
       "title": "May’s Mysteries: The Secret of Dragonville",
       "url": "https://store.playstation.com/fr-fr/product/EP4886-CUSA29160_00-9195893140644016",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202108/3009/7d1gSGsSjmoInnTBa8sKk1c2.jpg",
+      "currentPrice": 1.49,
+      "originalPrice": 14.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
+      "title": "Blue Wednesday",
+      "url": "https://store.playstation.com/fr-fr/product/EP3948-PPSA26874_00-0800699338337944",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202502/1708/ffa50cf64413d5dd191ca24856d7058769c17cf174f627d9.jpg",
       "currentPrice": 1.49,
       "originalPrice": 14.99,
       "discountPercentage": 90,
@@ -517,9 +517,9 @@
       "tier": "insane"
     },
     {
-      "title": "Rise Eterna",
-      "url": "https://store.playstation.com/fr-fr/product/EP3948-CUSA28793_00-7821961153156105",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202107/1312/DdEm9sfIcA0xpMaulqVIMkkl.jpg",
+      "title": "Deep Diving Adventures",
+      "url": "https://store.playstation.com/fr-fr/product/EP1133-CUSA32742_00-6249967946770578",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202206/1508/9iBdJF3BtauWyrgZ27jq6Efe.jpg",
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -567,16 +567,6 @@
       "tier": "insane"
     },
     {
-      "title": "Deep Diving Adventures",
-      "url": "https://store.playstation.com/fr-fr/product/EP1133-CUSA32742_00-6249967946770578",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202206/1508/9iBdJF3BtauWyrgZ27jq6Efe.jpg",
-      "currentPrice": 1.99,
-      "originalPrice": 19.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
       "title": "Gordian Quest",
       "url": "https://store.playstation.com/fr-fr/product/EP1877-PPSA18985_00-GORDIANQUEST0000",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202404/1118/a48e604bd3ff29c5c9ea9d6653db8201d6b2eca2e5c58dae.jpg",
@@ -590,6 +580,16 @@
       "title": "Oaken",
       "url": "https://store.playstation.com/fr-fr/product/EP5098-PPSA15867_00-0868629929703708",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1406/ce4a4bb7f47439ccb50f95f5b5e9a5b2b0adeaa6b0f00333.jpg",
+      "currentPrice": 1.99,
+      "originalPrice": 19.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
+      "title": "Rise Eterna",
+      "url": "https://store.playstation.com/fr-fr/product/EP3948-CUSA28793_00-7821961153156105",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202107/1312/DdEm9sfIcA0xpMaulqVIMkkl.jpg",
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -927,9 +927,9 @@
       "tier": "insane"
     },
     {
-      "title": "Heidelberg 1693",
-      "url": "https://store.playstation.com/fr-fr/product/EP5098-PPSA07038_00-7309017860455478",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202211/0809/AUto7QPEMGMIFYQFiKSS2Tuq.jpg",
+      "title": "Gunborg: Dark Matters",
+      "url": "https://store.playstation.com/fr-fr/product/EP5098-PPSA05779_00-GUNBORGDARKMATTE",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202201/2416/XFqzCnXu7EnCcOgVjh5MWvsh.jpg",
       "currentPrice": 1.94,
       "originalPrice": 14.99,
       "discountPercentage": 87,
@@ -937,9 +937,9 @@
       "tier": "insane"
     },
     {
-      "title": "Gunborg: Dark Matters",
-      "url": "https://store.playstation.com/fr-fr/product/EP5098-PPSA05779_00-GUNBORGDARKMATTE",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202201/2416/XFqzCnXu7EnCcOgVjh5MWvsh.jpg",
+      "title": "Heidelberg 1693",
+      "url": "https://store.playstation.com/fr-fr/product/EP5098-PPSA07038_00-7309017860455478",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202211/0809/AUto7QPEMGMIFYQFiKSS2Tuq.jpg",
       "currentPrice": 1.94,
       "originalPrice": 14.99,
       "discountPercentage": 87,
