@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T05:42:40.857Z",
+  "generatedAt": "2026-10-20T11:00:48.002Z",
   "region": "FR",
   "currency": "EUR",
   "symbol": "€",
@@ -27,6 +27,16 @@
       "tier": "insane"
     },
     {
+      "title": "Blocky Farm",
+      "url": "https://store.playstation.com/fr-fr/product/EP3948-PPSA18444_00-0777391313944550",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202408/0110/a1f6f6fb83f6d3c0acaaeb2bb1775aa1fdcb179f0b8bb8d0.jpg",
+      "currentPrice": 0.99,
+      "originalPrice": 9.99,
+      "discountPercentage": 90,
+      "score": 96,
+      "tier": "insane"
+    },
+    {
       "title": "Goetia",
       "url": "https://store.playstation.com/fr-fr/product/EP3948-CUSA20339_00-GOETIA0000000001",
       "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202012/1513/8Ha5m3vtbaFMz0AwNOjK3hkG.jpg",
@@ -47,16 +57,6 @@
       "tier": "insane"
     },
     {
-      "title": "Last Night of Winter",
-      "url": "https://store.playstation.com/fr-fr/product/EP5098-PPSA12359_00-LASTNIGHTWINTER0",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202405/3115/7591a1aa55396177a26d71910290bc36ea035fc3b5d4f7b4.jpg",
-      "currentPrice": 0.99,
-      "originalPrice": 9.99,
-      "discountPercentage": 90,
-      "score": 96,
-      "tier": "insane"
-    },
-    {
       "title": "SturmFront - The Mutant War: Übel Edition",
       "url": "https://store.playstation.com/fr-fr/product/EP5098-PPSA09816_00-1193057821053684",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202103/0815/UrWr8IktwiP4RzhmSPX0h4yZ.jpg",
@@ -70,6 +70,16 @@
       "title": "Criminal Expert",
       "url": "https://store.playstation.com/fr-fr/product/EP3948-CUSA40258_00-0914574647579727",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0807/340e2cc86cd11f40908fd2995972fe54ad08fd729e5e4b38.jpg",
+      "currentPrice": 0.99,
+      "originalPrice": 9.99,
+      "discountPercentage": 90,
+      "score": 96,
+      "tier": "insane"
+    },
+    {
+      "title": "Last Night of Winter",
+      "url": "https://store.playstation.com/fr-fr/product/EP5098-PPSA12359_00-LASTNIGHTWINTER0",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202405/3115/7591a1aa55396177a26d71910290bc36ea035fc3b5d4f7b4.jpg",
       "currentPrice": 0.99,
       "originalPrice": 9.99,
       "discountPercentage": 90,
@@ -127,9 +137,9 @@
       "tier": "insane"
     },
     {
-      "title": "Season Match 3",
-      "url": "https://store.playstation.com/fr-fr/product/EP1629-CUSA13657_00-SEASONMATCH30000",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202302/2715/7f8440a5bf2074dd856948f03905751ef1c983107e9225bd.png",
+      "title": "VIRUS: The Outbreak",
+      "url": "https://store.playstation.com/fr-fr/product/EP3948-CUSA29017_00-4903588602202199",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202402/2912/416bd84e0edb1244d80db2be590a5af89ecc025c04b78d55.jpg",
       "currentPrice": 0.99,
       "originalPrice": 9.99,
       "discountPercentage": 90,
@@ -137,9 +147,9 @@
       "tier": "insane"
     },
     {
-      "title": "Blocky Farm",
-      "url": "https://store.playstation.com/fr-fr/product/EP3948-PPSA18444_00-0777391313944550",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202408/0110/a1f6f6fb83f6d3c0acaaeb2bb1775aa1fdcb179f0b8bb8d0.jpg",
+      "title": "Season Match 3",
+      "url": "https://store.playstation.com/fr-fr/product/EP1629-CUSA13657_00-SEASONMATCH30000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202302/2715/7f8440a5bf2074dd856948f03905751ef1c983107e9225bd.png",
       "currentPrice": 0.99,
       "originalPrice": 9.99,
       "discountPercentage": 90,
@@ -170,16 +180,6 @@
       "title": "Sparkle 4 Tales",
       "url": "https://store.playstation.com/fr-fr/product/EP3948-CUSA20407_00-SPARKLE4TALES001",
       "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202012/1510/KhrI9THnhZfqC7eLhi23KgEl.jpg",
-      "currentPrice": 0.99,
-      "originalPrice": 9.99,
-      "discountPercentage": 90,
-      "score": 96,
-      "tier": "insane"
-    },
-    {
-      "title": "VIRUS: The Outbreak",
-      "url": "https://store.playstation.com/fr-fr/product/EP3948-CUSA29017_00-4903588602202199",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202402/2912/416bd84e0edb1244d80db2be590a5af89ecc025c04b78d55.jpg",
       "currentPrice": 0.99,
       "originalPrice": 9.99,
       "discountPercentage": 90,
@@ -307,9 +307,9 @@
       "tier": "insane"
     },
     {
-      "title": "The Uncertain: Last Quiet Day",
-      "url": "https://store.playstation.com/fr-fr/product/EP6008-CUSA27193_00-9892558651788920",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202108/1910/VNSF9lTb8EOluX22s2OJJ6rI.jpg",
+      "title": "Golazo! Football League",
+      "url": "https://store.playstation.com/fr-fr/product/EP4886-CUSA16607_00-GOLAZOFOOTBALLEU",
+      "imageUrl": null,
       "currentPrice": 1.49,
       "originalPrice": 14.99,
       "discountPercentage": 90,
@@ -317,9 +317,9 @@
       "tier": "insane"
     },
     {
-      "title": "Golazo! Football League",
-      "url": "https://store.playstation.com/fr-fr/product/EP4886-CUSA16607_00-GOLAZOFOOTBALLEU",
-      "imageUrl": null,
+      "title": "The Uncertain: Last Quiet Day",
+      "url": "https://store.playstation.com/fr-fr/product/EP6008-CUSA27193_00-9892558651788920",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202108/1910/VNSF9lTb8EOluX22s2OJJ6rI.jpg",
       "currentPrice": 1.49,
       "originalPrice": 14.99,
       "discountPercentage": 90,
@@ -340,6 +340,16 @@
       "title": "Clunky Hero",
       "url": "https://store.playstation.com/fr-fr/product/EP7686-CUSA39295_00-3331704668274529",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202211/2915/fvMDekdNnz0jOc4ATReGH1yd.jpg",
+      "currentPrice": 1.49,
+      "originalPrice": 14.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
+      "title": "Adventures of Chris",
+      "url": "https://store.playstation.com/fr-fr/product/EP5098-CUSA33314_00-5545330996396696",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0114/CmteNGwK436hS1Wp8o3Je8uu.jpg",
       "currentPrice": 1.49,
       "originalPrice": 14.99,
       "discountPercentage": 90,
@@ -377,16 +387,6 @@
       "tier": "insane"
     },
     {
-      "title": "Blue Wednesday",
-      "url": "https://store.playstation.com/fr-fr/product/EP3948-PPSA26874_00-0800699338337944",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202502/1708/ffa50cf64413d5dd191ca24856d7058769c17cf174f627d9.jpg",
-      "currentPrice": 1.49,
-      "originalPrice": 14.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
       "title": "Skautfold: Into the Fray",
       "url": "https://store.playstation.com/fr-fr/product/EP5098-PPSA18716_00-0634520781407326",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202407/0908/cafa3d6402d192123a587d4184be299e40befd4841d84ee1.jpg",
@@ -397,9 +397,9 @@
       "tier": "insane"
     },
     {
-      "title": "May’s Mysteries: The Secret of Dragonville",
-      "url": "https://store.playstation.com/fr-fr/product/EP4886-CUSA29160_00-9195893140644016",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202108/3009/7d1gSGsSjmoInnTBa8sKk1c2.jpg",
+      "title": "Blue Wednesday",
+      "url": "https://store.playstation.com/fr-fr/product/EP3948-PPSA26874_00-0800699338337944",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202502/1708/ffa50cf64413d5dd191ca24856d7058769c17cf174f627d9.jpg",
       "currentPrice": 1.49,
       "originalPrice": 14.99,
       "discountPercentage": 90,
@@ -407,9 +407,9 @@
       "tier": "insane"
     },
     {
-      "title": "Adventures of Chris",
-      "url": "https://store.playstation.com/fr-fr/product/EP5098-CUSA33314_00-5545330996396696",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0114/CmteNGwK436hS1Wp8o3Je8uu.jpg",
+      "title": "May’s Mysteries: The Secret of Dragonville",
+      "url": "https://store.playstation.com/fr-fr/product/EP4886-CUSA29160_00-9195893140644016",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202108/3009/7d1gSGsSjmoInnTBa8sKk1c2.jpg",
       "currentPrice": 1.49,
       "originalPrice": 14.99,
       "discountPercentage": 90,
@@ -477,9 +477,9 @@
       "tier": "insane"
     },
     {
-      "title": "Aircraft Carrier Survival",
-      "url": "https://store.playstation.com/fr-fr/product/EP3948-CUSA40256_00-0472458120455373",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202311/1310/0cab4ec70961306dab59151b15c4d4eb985f15d4ca0589de.jpg",
+      "title": "FLASHOUT 3",
+      "url": "https://store.playstation.com/fr-fr/product/EP1133-CUSA38153_00-0834589849184137",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202302/0311/218bac82508579ee547e89add2aaaa875fc862e01f4250d2.jpg",
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -487,9 +487,9 @@
       "tier": "insane"
     },
     {
-      "title": "FLASHOUT 3",
-      "url": "https://store.playstation.com/fr-fr/product/EP1133-CUSA38153_00-0834589849184137",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202302/0311/218bac82508579ee547e89add2aaaa875fc862e01f4250d2.jpg",
+      "title": "Aircraft Carrier Survival",
+      "url": "https://store.playstation.com/fr-fr/product/EP3948-CUSA40256_00-0472458120455373",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202311/1310/0cab4ec70961306dab59151b15c4d4eb985f15d4ca0589de.jpg",
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -717,9 +717,9 @@
       "tier": "insane"
     },
     {
-      "title": "Fobia - St. Dinfna Hotel",
-      "url": "https://store.playstation.com/fr-fr/product/EP1877-CUSA30959_00-FOBIA00000000000",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202206/2223/eKayUbhMyVlwZhID9Bp0kbrF.jpg",
+      "title": "Extinction",
+      "url": "https://store.playstation.com/fr-fr/product/EP4908-CUSA11687_00-EXTINCTIONGAME00",
+      "imageUrl": null,
       "currentPrice": 2.99,
       "originalPrice": 29.99,
       "discountPercentage": 90,
@@ -727,9 +727,9 @@
       "tier": "insane"
     },
     {
-      "title": "Extinction",
-      "url": "https://store.playstation.com/fr-fr/product/EP4908-CUSA11687_00-EXTINCTIONGAME00",
-      "imageUrl": null,
+      "title": "Fobia - St. Dinfna Hotel",
+      "url": "https://store.playstation.com/fr-fr/product/EP1877-CUSA30959_00-FOBIA00000000000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202206/2223/eKayUbhMyVlwZhID9Bp0kbrF.jpg",
       "currentPrice": 2.99,
       "originalPrice": 29.99,
       "discountPercentage": 90,
@@ -797,16 +797,6 @@
       "tier": "insane"
     },
     {
-      "title": "MXGP 2021 - The Official Motocross Videogame",
-      "url": "https://store.playstation.com/fr-fr/product/EP4356-CUSA28534_00-MXGP2021FULLGAME",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202109/2209/bixw18w6eYVjg5Xti2pobwsT.jpg",
-      "currentPrice": 3.99,
-      "originalPrice": 39.99,
-      "discountPercentage": 90,
-      "score": 94,
-      "tier": "insane"
-    },
-    {
       "title": "Sniper Ghost Warrior Contracts",
       "url": "https://store.playstation.com/fr-fr/product/EP4321-CUSA14619_00-SGWCONTRACTS0001",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202204/1910/5m5dEbVwpWP7b6UjIEurWPcb.png",
@@ -817,9 +807,9 @@
       "tier": "insane"
     },
     {
-      "title": "Cris Tales",
-      "url": "https://store.playstation.com/fr-fr/product/EP4908-PPSA02123_00-CRISTALES0000000",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202105/2121/yZ4rGekS6al49GL1MEkexwi5.jpg",
+      "title": "MXGP 2021 - The Official Motocross Videogame",
+      "url": "https://store.playstation.com/fr-fr/product/EP4356-CUSA28534_00-MXGP2021FULLGAME",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202109/2209/bixw18w6eYVjg5Xti2pobwsT.jpg",
       "currentPrice": 3.99,
       "originalPrice": 39.99,
       "discountPercentage": 90,
@@ -830,6 +820,16 @@
       "title": "Lot Sherlock Holmes : Mystères ténébreux",
       "url": "https://store.playstation.com/fr-fr/product/EP5205-CUSA34152_00-0472824749946652",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202406/1809/4ca1f64270fc808c03ba0684deddc90111cbf8b469aca0a7.jpg",
+      "currentPrice": 3.99,
+      "originalPrice": 39.99,
+      "discountPercentage": 90,
+      "score": 94,
+      "tier": "insane"
+    },
+    {
+      "title": "Cris Tales",
+      "url": "https://store.playstation.com/fr-fr/product/EP4908-PPSA02123_00-CRISTALES0000000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202105/2121/yZ4rGekS6al49GL1MEkexwi5.jpg",
       "currentPrice": 3.99,
       "originalPrice": 39.99,
       "discountPercentage": 90,
