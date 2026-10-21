@@ -18242,5 +18242,113 @@
         "date": "2026-10-21"
       }
     ]
+  },
+  "house-flipper-vr": {
+    "prices": [
+      {
+        "price": 5.99,
+        "currency": "EUR",
+        "date": "2026-10-21"
+      }
+    ]
+  },
+  "operation-polygon-storm": {
+    "prices": [
+      {
+        "price": 5.99,
+        "currency": "EUR",
+        "date": "2026-10-21"
+      }
+    ]
+  },
+  "south-park-l-annale-du-destin-edition-gold": {
+    "prices": [
+      {
+        "price": 14.99,
+        "currency": "EUR",
+        "date": "2026-10-21"
+      }
+    ]
+  },
+  "touche-coule": {
+    "prices": [
+      {
+        "price": 4.49,
+        "currency": "EUR",
+        "date": "2026-10-21"
+      }
+    ]
+  },
+  "naruto-to-boruto-shinobi-striker-ultimate-edition": {
+    "prices": [
+      {
+        "price": 19.99,
+        "currency": "EUR",
+        "date": "2026-10-21"
+      }
+    ]
+  },
+  "final-fantasy-type-0-hd": {
+    "prices": [
+      {
+        "price": 5.99,
+        "currency": "EUR",
+        "date": "2026-10-21"
+      }
+    ]
+  },
+  "edition-de-luxe-de-dragon-age-inquisition": {
+    "prices": [
+      {
+        "price": 4.99,
+        "currency": "EUR",
+        "date": "2026-10-21"
+      }
+    ]
+  },
+  "motogp15": {
+    "prices": [
+      {
+        "price": 0.99,
+        "currency": "EUR",
+        "date": "2026-10-21"
+      }
+    ]
+  },
+  "mega-man-legacy-collection": {
+    "prices": [
+      {
+        "price": 5.99,
+        "currency": "EUR",
+        "date": "2026-10-21"
+      }
+    ]
+  },
+  "thumper-ps4-ps5": {
+    "prices": [
+      {
+        "price": 6.99,
+        "currency": "EUR",
+        "date": "2026-10-21"
+      }
+    ]
+  },
+  "observation": {
+    "prices": [
+      {
+        "price": 4.99,
+        "currency": "EUR",
+        "date": "2026-10-21"
+      }
+    ]
+  },
+  "monstrum": {
+    "prices": [
+      {
+        "price": 1.99,
+        "currency": "EUR",
+        "date": "2026-10-21"
+      }
+    ]
   }
 }
