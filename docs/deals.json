@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-21T12:11:52.906Z",
+  "generatedAt": "2026-10-21T17:33:07.733Z",
   "region": "FR",
   "currency": "EUR",
   "symbol": "€",
   "minimumDealScore": 80,
   "stats": {
     "total": 1624,
-    "scored60": 1620,
-    "scored80": 1202,
+    "scored60": 1621,
+    "scored80": 1205,
     "scored90": 375,
     "avgDiscount": 70,
     "maxScore": 97,
@@ -897,6 +897,16 @@
       "tier": "insane"
     },
     {
+      "title": "Silver Chains",
+      "url": "https://store.playstation.com/fr-fr/product/EP0822-CUSA10248_00-SILVERCHAPS4SIEE",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202101/1115/kzUevI2YUWu0quEstl0rA0fc.jpg",
+      "currentPrice": 2.49,
+      "originalPrice": 24.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
       "title": "Close to the Sun",
       "url": "https://store.playstation.com/fr-fr/product/EP4382-CUSA15504_00-CLOSETOTHESUN000",
       "imageUrl": null,
@@ -1003,16 +1013,6 @@
       "currentPrice": 5.99,
       "originalPrice": 74.99,
       "discountPercentage": 92,
-      "score": 94,
-      "tier": "insane"
-    },
-    {
-      "title": "Injustice:Les Dieux sont parmi nous Édition Ultime",
-      "url": "https://store.playstation.com/fr-fr/product/EP1018-CUSA00051_00-INJUSTICEULTIMAT",
-      "imageUrl": null,
-      "currentPrice": 5.39,
-      "originalPrice": 59.99,
-      "discountPercentage": 91,
       "score": 94,
       "tier": "insane"
     }

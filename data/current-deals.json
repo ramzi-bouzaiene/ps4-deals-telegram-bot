@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-21T12:11:45.695Z",
+  "fetchedAt": "2026-10-21T17:32:59.171Z",
   "region": "FR",
   "deals": [
     {
@@ -1759,7 +1759,7 @@
       "currency": "EUR",
       "discountPercentage": 50,
       "url": "https://store.playstation.com/fr-fr/product/EP1003-CUSA00086_00-TESOCP2025BUNDLE",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202606/2618/e5680bcdd9c17a91ff42f8eaf3536923d6899b2441f18f9f.jpg"
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1214/5592b2772cecb6e3cf2a03b82db877aa71ac744edee2e07c.jpg"
     },
     {
       "id": "EP0114-PPSA02184_00-6997552349846199",
@@ -4225,7 +4225,7 @@
       "currency": "EUR",
       "discountPercentage": 75,
       "url": "https://store.playstation.com/fr-fr/product/EP1003-PPSA02018_00-ESOMORROWINDBUND",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202606/2618/4c4d51cca45b9138a548ba084aadbe6f04cfebf07ad6f80a.jpg"
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0517/f096e75ad3206a92ef2778695b76a1864faa59ddfac61350.jpg"
     },
     {
       "id": "UP4363-PPSA15493_00-ATOMFALLDLCCOMP0",
