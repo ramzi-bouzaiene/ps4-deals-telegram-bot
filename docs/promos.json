@@ -20,7 +20,35 @@
     "d8ac2723-b97b-11ef-9987-f6a8e5345001",
     "0877a161-dad2-11ee-9d6a-d6ec549ae369",
     "8d9c06ad-b97b-11ef-be2a-62d9753c20f0",
-    "c7e3ea5b-dad1-11ee-a31f-a2110459ffc0"
+    "c7e3ea5b-dad1-11ee-a31f-a2110459ffc0",
+    "be0442f2-ccb6-11f1-8841-6a471cbf7a82",
+    "a2d5c116-be42-11f1-ac9c-e63b0656bc18",
+    "69493e99-c8bc-11f1-8e8f-42c633776907"
   ],
-  "items": []
+  "items": [
+    {
+      "t": "2026-10-21T13:46:13.273Z",
+      "title": "Des jeux à petit prix",
+      "link": "https://store.playstation.com/fr-fr/category/cb8ec4c1-0a4a-4ff9-8d97-e2b85f2f0f39/1",
+      "type": "store"
+    },
+    {
+      "t": "2026-10-21T13:46:13.273Z",
+      "title": "La planète des offres",
+      "link": "https://store.playstation.com/fr-fr/category/11276272-7cfd-4cf7-b84d-510b516bdd1b/1",
+      "type": "store"
+    },
+    {
+      "t": "2026-10-21T13:46:13.273Z",
+      "title": "Halloween",
+      "link": "https://store.playstation.com/fr-fr/category/1081ee34-bea1-442b-a545-58183cdc63af/1",
+      "type": "store"
+    },
+    {
+      "t": "2026-10-21T12:00:08.000Z",
+      "title": "PlayStation Store’s Planet of the Deals promotion is live now",
+      "link": "https://blog.playstation.com/2026/10/21/playstation-stores-planet-of-the-deals-promotion-is-live-now/",
+      "type": "rss"
+    }
+  ]
 }
