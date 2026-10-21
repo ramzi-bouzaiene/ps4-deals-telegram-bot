@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-21T06:21:50.928Z",
+  "generatedAt": "2026-10-21T12:11:52.906Z",
   "region": "FR",
   "currency": "EUR",
   "symbol": "€",
   "minimumDealScore": 80,
   "stats": {
-    "total": 1615,
-    "scored60": 1612,
-    "scored80": 1189,
-    "scored90": 373,
+    "total": 1624,
+    "scored60": 1620,
+    "scored80": 1202,
+    "scored90": 375,
     "avgDiscount": 70,
     "maxScore": 97,
     "maxScoreTitle": "Outward Definitive Edition",
@@ -97,9 +97,9 @@
       "tier": "insane"
     },
     {
-      "title": "Criminal Expert",
-      "url": "https://store.playstation.com/fr-fr/product/EP3948-CUSA40258_00-0914574647579727",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0807/340e2cc86cd11f40908fd2995972fe54ad08fd729e5e4b38.jpg",
+      "title": "MotoGP™15",
+      "url": "https://store.playstation.com/fr-fr/product/EP4356-CUSA02041_00-MOTOGP15FULLGAME",
+      "imageUrl": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA02041_00/3/i_1c28afe3d593c52d2c5ae45d2d0d163c204908acd4ed20101fc9d4c5ae845286/i/pic0.png",
       "currentPrice": 0.99,
       "originalPrice": 9.99,
       "discountPercentage": 90,
@@ -107,9 +107,9 @@
       "tier": "insane"
     },
     {
-      "title": "Last Night of Winter",
-      "url": "https://store.playstation.com/fr-fr/product/EP5098-PPSA12359_00-LASTNIGHTWINTER0",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202405/3115/7591a1aa55396177a26d71910290bc36ea035fc3b5d4f7b4.jpg",
+      "title": "Criminal Expert",
+      "url": "https://store.playstation.com/fr-fr/product/EP3948-CUSA40258_00-0914574647579727",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0807/340e2cc86cd11f40908fd2995972fe54ad08fd729e5e4b38.jpg",
       "currentPrice": 0.99,
       "originalPrice": 9.99,
       "discountPercentage": 90,
@@ -157,9 +157,9 @@
       "tier": "insane"
     },
     {
-      "title": "Q-YO Blaster",
-      "url": "https://store.playstation.com/fr-fr/product/EP3948-CUSA26819_00-4183530654696739",
-      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202109/0311/Fw9JyriBnqg2JnwOdUTeTSOO.jpg",
+      "title": "Last Night of Winter",
+      "url": "https://store.playstation.com/fr-fr/product/EP5098-PPSA12359_00-LASTNIGHTWINTER0",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202405/3115/7591a1aa55396177a26d71910290bc36ea035fc3b5d4f7b4.jpg",
       "currentPrice": 0.99,
       "originalPrice": 9.99,
       "discountPercentage": 90,
@@ -257,6 +257,16 @@
       "tier": "insane"
     },
     {
+      "title": "Flooded",
+      "url": "https://store.playstation.com/fr-fr/product/EP3948-CUSA45179_00-0495073557711347",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202312/1407/f30389d1c4e128270e9bb00423a532be538a1247b8720005.jpg",
+      "currentPrice": 1.29,
+      "originalPrice": 12.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
       "title": "OmegaBot",
       "url": "https://store.playstation.com/fr-fr/product/EP5098-PPSA09169_00-8749790219608462",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202211/3015/wXqh0RaGlm3J5hzkBmvjzx5W.jpg",
@@ -327,9 +337,9 @@
       "tier": "insane"
     },
     {
-      "title": "Skautfold: Usurper",
-      "url": "https://store.playstation.com/fr-fr/product/EP5098-PPSA13683_00-0925871484233094",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202402/0123/b6d041b43dc6331c02294cf7141119b2da8753acdfb688d8.jpg",
+      "title": "Golazo! Football League",
+      "url": "https://store.playstation.com/fr-fr/product/EP4886-CUSA16607_00-GOLAZOFOOTBALLEU",
+      "imageUrl": null,
       "currentPrice": 1.49,
       "originalPrice": 14.99,
       "discountPercentage": 90,
@@ -337,9 +347,9 @@
       "tier": "insane"
     },
     {
-      "title": "Golazo! Football League",
-      "url": "https://store.playstation.com/fr-fr/product/EP4886-CUSA16607_00-GOLAZOFOOTBALLEU",
-      "imageUrl": null,
+      "title": "Skautfold: Usurper",
+      "url": "https://store.playstation.com/fr-fr/product/EP5098-PPSA13683_00-0925871484233094",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202402/0123/b6d041b43dc6331c02294cf7141119b2da8753acdfb688d8.jpg",
       "currentPrice": 1.49,
       "originalPrice": 14.99,
       "discountPercentage": 90,
@@ -507,9 +517,9 @@
       "tier": "insane"
     },
     {
-      "title": "Tomb Raider: Anniversary PS4 & PS5",
-      "url": "https://store.playstation.com/fr-fr/product/UP8489-PPSA27718_00-0618689374962365",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202509/1818/a467974daa6546dfdf02d62de1e82664005e802d7c0f97ef.jpg",
+      "title": "Handball 21",
+      "url": "https://store.playstation.com/fr-fr/product/EP4008-CUSA15460_00-HB21SIEE00000000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202011/1213/cn2czZ1lrJBDVJBmNRxjm0Y8.jpg",
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -517,9 +527,9 @@
       "tier": "insane"
     },
     {
-      "title": "Handball 21",
-      "url": "https://store.playstation.com/fr-fr/product/EP4008-CUSA15460_00-HB21SIEE00000000",
-      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202011/1213/cn2czZ1lrJBDVJBmNRxjm0Y8.jpg",
+      "title": "Tomb Raider: Anniversary PS4 & PS5",
+      "url": "https://store.playstation.com/fr-fr/product/UP8489-PPSA27718_00-0618689374962365",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202509/1818/a467974daa6546dfdf02d62de1e82664005e802d7c0f97ef.jpg",
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -747,6 +757,16 @@
       "tier": "insane"
     },
     {
+      "title": "Monstrum",
+      "url": "https://store.playstation.com/fr-fr/product/EP4541-CUSA12700_00-MONSTRUMEU000000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202011/0204/QDYjVcvNxM9x93OQ0LSDrGDz.png",
+      "currentPrice": 1.99,
+      "originalPrice": 19.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
       "title": "Buildings Have Feelings Too!",
       "url": "https://store.playstation.com/fr-fr/product/EP1121-CUSA15469_00-BHFT000000000001",
       "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202104/1610/aHz3G1ozf9xicakrWzX9rxWO.jpg",
@@ -790,26 +810,6 @@
       "title": "INSIDE",
       "url": "https://store.playstation.com/fr-fr/product/EP2054-CUSA02754_00-INSIDE0000000000",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202508/1811/75482f6ce83fd30599c649622670ff96a1566b768def65bd.png",
-      "currentPrice": 2.19,
-      "originalPrice": 21.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
-      "title": "Cute Puppy Academy: Extended Edition",
-      "url": "https://store.playstation.com/fr-fr/product/UB0383-PPSA28905_00-0537823898691504",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202508/1413/a70562c91cb7d2796883c3934e5909e5a2f552742eaa46d3.png",
-      "currentPrice": 2.19,
-      "originalPrice": 21.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
-      "title": "Cute Puppy Academy: Legend Edition",
-      "url": "https://store.playstation.com/fr-fr/product/UB0383-PPSA28905_00-0262775343637767",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202507/0213/4a9f093123f54a51e7d3ec850b0071f0cecd7bdc1eb648d5.png",
       "currentPrice": 2.19,
       "originalPrice": 21.99,
       "discountPercentage": 90,

@@ -18350,5 +18350,95 @@
         "date": "2026-10-21"
       }
     ]
+  },
+  "tomb-raider-i-iii-remastered-starring-lara-croft": {
+    "prices": [
+      {
+        "price": 5.99,
+        "currency": "EUR",
+        "date": "2026-10-21"
+      }
+    ]
+  },
+  "dead-cells-medley-of-pain-bundle": {
+    "prices": [
+      {
+        "price": 19.99,
+        "currency": "EUR",
+        "date": "2026-10-21"
+      }
+    ]
+  },
+  "monster-hunter-rise-ps4-ps5": {
+    "prices": [
+      {
+        "price": 4.79,
+        "currency": "EUR",
+        "date": "2026-10-21"
+      }
+    ]
+  },
+  "dead-nation-apocalypse-edition": {
+    "prices": [
+      {
+        "price": 5.99,
+        "currency": "EUR",
+        "date": "2026-10-21"
+      }
+    ]
+  },
+  "tomb-raider-i-vi-remastered": {
+    "prices": [
+      {
+        "price": 10.99,
+        "currency": "EUR",
+        "date": "2026-10-21"
+      }
+    ]
+  },
+  "sword-art-online-alicization-lycoris": {
+    "prices": [
+      {
+        "price": 9.99,
+        "currency": "EUR",
+        "date": "2026-10-21"
+      }
+    ]
+  },
+  "mega-man-x-legacy-collection-2": {
+    "prices": [
+      {
+        "price": 7.99,
+        "currency": "EUR",
+        "date": "2026-10-21"
+      }
+    ]
+  },
+  "silver-chains": {
+    "prices": [
+      {
+        "price": 2.49,
+        "currency": "EUR",
+        "date": "2026-10-21"
+      }
+    ]
+  },
+  "cat-quest": {
+    "prices": [
+      {
+        "price": 3.24,
+        "currency": "EUR",
+        "date": "2026-10-21"
+      }
+    ]
+  },
+  "cat-quest-the-fur-tastic-trilogy": {
+    "prices": [
+      {
+        "price": 13.99,
+        "currency": "EUR",
+        "date": "2026-10-21"
+      }
+    ]
   }
 }
