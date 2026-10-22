@@ -2548,8 +2548,8 @@
     "sentAt": "2026-10-08T13:23:43.984Z"
   },
   "red-dead-redemption-2:wishlist": {
-    "lastPrice": 14.99,
-    "sentAt": "2026-10-10T19:50:29.899Z"
+    "lastPrice": 4.99,
+    "sentAt": "2026-10-22T00:06:57.272Z"
   },
   "marvel-s-spider-man-edition-game-of-the-year:wishlist": {
     "lastPrice": 7.99,
@@ -2574,5 +2574,25 @@
   "aer-memories-of-old:hot": {
     "lastPrice": 0.99,
     "sentAt": "2026-10-21T06:21:50.484Z"
+  },
+  "stellar-interface:historical-low": {
+    "lastPrice": 3.95,
+    "sentAt": "2026-10-22T00:06:56.021Z"
+  },
+  "vagrus-the-riven-realms:historical-low": {
+    "lastPrice": 17.99,
+    "sentAt": "2026-10-22T00:06:56.557Z"
+  },
+  "red-dead-redemption-2:historical-low": {
+    "lastPrice": 4.99,
+    "sentAt": "2026-10-22T00:06:57.095Z"
+  },
+  "deponia:hot": {
+    "lastPrice": 0.99,
+    "sentAt": "2026-10-22T00:06:57.476Z"
+  },
+  "motogp15:hot": {
+    "lastPrice": 0.99,
+    "sentAt": "2026-10-22T00:06:57.649Z"
   }
 }
