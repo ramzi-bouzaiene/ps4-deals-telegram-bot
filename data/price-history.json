@@ -25467,5 +25467,32 @@
         "date": "2026-10-22"
       }
     ]
+  },
+  "heads-up-phones-down-edition": {
+    "prices": [
+      {
+        "price": 1.99,
+        "currency": "EUR",
+        "date": "2026-10-22"
+      }
+    ]
+  },
+  "shakes-on-a-plane": {
+    "prices": [
+      {
+        "price": 1.99,
+        "currency": "EUR",
+        "date": "2026-10-22"
+      }
+    ]
+  },
+  "shame-legacy": {
+    "prices": [
+      {
+        "price": 4.49,
+        "currency": "EUR",
+        "date": "2026-10-22"
+      }
+    ]
   }
 }
