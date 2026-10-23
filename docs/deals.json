@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T22:59:40.781Z",
+  "generatedAt": "2026-10-23T01:24:36.482Z",
   "region": "FR",
   "currency": "EUR",
   "symbol": "€",
@@ -737,6 +737,16 @@
       "tier": "insane"
     },
     {
+      "title": "Itorah",
+      "url": "https://store.playstation.com/fr-fr/product/EP5470-CUSA34062_00-3743363992579314",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202304/1911/3b844d058f8d34bec4c4c3f12754084cd8a81cf874f87141.jpg",
+      "currentPrice": 1.99,
+      "originalPrice": 19.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
       "title": "Phantom Breaker: Omnia",
       "url": "https://store.playstation.com/fr-fr/product/EP8050-CUSA18881_00-PBOMNIAGAMEEU001",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202202/0305/EZAgFNdR8kTaWvTrYORTTJF5.jpg",
@@ -750,16 +760,6 @@
       "title": "NECROPOLIS: A Diabolical Dungeon Delve",
       "url": "https://store.playstation.com/fr-fr/product/EP0700-CUSA05243_00-NECROPOLIS00E300",
       "imageUrl": null,
-      "currentPrice": 1.99,
-      "originalPrice": 19.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
-      "title": "Itorah",
-      "url": "https://store.playstation.com/fr-fr/product/EP5470-CUSA34062_00-3743363992579314",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202304/1911/3b844d058f8d34bec4c4c3f12754084cd8a81cf874f87141.jpg",
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
