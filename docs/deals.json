@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T23:20:23.810Z",
+  "generatedAt": "2026-10-24T01:49:40.727Z",
   "region": "FR",
   "currency": "EUR",
   "symbol": "€",
@@ -277,9 +277,9 @@
       "tier": "insane"
     },
     {
-      "title": "The Coma 2: Vicious Sisters",
-      "url": "https://store.playstation.com/fr-fr/product/EP0822-CUSA18822_00-THECOMA2SIEE0000",
-      "imageUrl": null,
+      "title": "The Coma: Recut",
+      "url": "https://store.playstation.com/fr-fr/product/EP8925-CUSA09134_00-COMAPS400000000E",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202503/1009/017cc351d7bc4273777b3454d40900439d88e8bf918c51ce.jpg",
       "currentPrice": 1.49,
       "originalPrice": 14.99,
       "discountPercentage": 90,
@@ -287,9 +287,9 @@
       "tier": "insane"
     },
     {
-      "title": "The Coma: Recut",
-      "url": "https://store.playstation.com/fr-fr/product/EP8925-CUSA09134_00-COMAPS400000000E",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202503/1009/017cc351d7bc4273777b3454d40900439d88e8bf918c51ce.jpg",
+      "title": "The Coma 2: Vicious Sisters",
+      "url": "https://store.playstation.com/fr-fr/product/EP0822-CUSA18822_00-THECOMA2SIEE0000",
+      "imageUrl": null,
       "currentPrice": 1.49,
       "originalPrice": 14.99,
       "discountPercentage": 90,
@@ -747,9 +747,9 @@
       "tier": "insane"
     },
     {
-      "title": "Shakes on a Plane",
-      "url": "https://store.playstation.com/fr-fr/product/EP5470-CUSA28364_00-7654710681036779",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202107/1508/ISCvvddqSJzJKi1iSqo91cME.png",
+      "title": "Itorah",
+      "url": "https://store.playstation.com/fr-fr/product/EP5470-CUSA34062_00-3743363992579314",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202304/1911/3b844d058f8d34bec4c4c3f12754084cd8a81cf874f87141.jpg",
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -757,9 +757,9 @@
       "tier": "insane"
     },
     {
-      "title": "Itorah",
-      "url": "https://store.playstation.com/fr-fr/product/EP5470-CUSA34062_00-3743363992579314",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202304/1911/3b844d058f8d34bec4c4c3f12754084cd8a81cf874f87141.jpg",
+      "title": "Shakes on a Plane",
+      "url": "https://store.playstation.com/fr-fr/product/EP5470-CUSA28364_00-7654710681036779",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202107/1508/ISCvvddqSJzJKi1iSqo91cME.png",
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
