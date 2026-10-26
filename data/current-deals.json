@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-26T12:22:13.155Z",
+  "fetchedAt": "2026-10-26T18:49:01.282Z",
   "region": "FR",
   "deals": [
     {
@@ -3659,6 +3659,19 @@
       "discountPercentage": 50,
       "url": "https://store.playstation.com/fr-fr/product/UP0002-PPSA18010_00-TH1234RDLXBDL001",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202510/1322/81601d51685a897d60d4fb623f6dc82428678df287be6202.png"
+    },
+    {
+      "id": "EP1188-CUSA40995_00-AMNESIATHEBUNKER",
+      "title": "Amnesia: The Bunker",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 6.24,
+      "originalPrice": 24.99,
+      "currency": "EUR",
+      "discountPercentage": 75,
+      "url": "https://store.playstation.com/fr-fr/product/EP1188-CUSA40995_00-AMNESIATHEBUNKER",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202305/1613/38a4a734f538390a9a441a1d6a3ffbc801ec905f25c1f126.jpg"
     },
     {
       "id": "EP0700-CUSA08767_00-NTBSSDELUXEED000",

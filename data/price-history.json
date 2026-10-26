@@ -25494,5 +25494,14 @@
         "date": "2026-10-22"
       }
     ]
+  },
+  "amnesia-the-bunker": {
+    "prices": [
+      {
+        "price": 6.24,
+        "currency": "EUR",
+        "date": "2026-10-26"
+      }
+    ]
   }
 }
