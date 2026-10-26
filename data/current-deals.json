@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-26T18:49:01.282Z",
+  "fetchedAt": "2026-10-26T23:02:59.426Z",
   "region": "FR",
   "deals": [
     {
@@ -223,19 +223,6 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202511/0516/19041a8b39331f56de9b7a3f22140f207ad0f327d593047b.jpg"
     },
     {
-      "id": "EP9000-CUSA08809_00-SOTC0000000000EU",
-      "title": "Shadow of the Colossus™",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 4.79,
-      "originalPrice": 39.99,
-      "currency": "EUR",
-      "discountPercentage": 88,
-      "url": "https://store.playstation.com/fr-fr/product/EP9000-CUSA08809_00-SOTC0000000000EU",
-      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202010/2621/Nn4IUORGlwf1p6NSbBqINU8j.png"
-    },
-    {
       "id": "EP9000-CUSA10249_00-THELASTOFUSPART2",
       "title": "The Last of Us Part II",
       "platform": "PS4",
@@ -273,19 +260,6 @@
       "discountPercentage": 75,
       "url": "https://store.playstation.com/fr-fr/product/EP0102-PPSA01557_00-VILLAGEFULLGAMEX",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202101/0812/QDaRpXJyMxLjNvrNbpTgXf41.png"
-    },
-    {
-      "id": "EP9000-CUSA00717_00-DETROIT000000001",
-      "title": "Detroit: Become Human",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 5.09,
-      "originalPrice": 29.99,
-      "currency": "EUR",
-      "discountPercentage": 83,
-      "url": "https://store.playstation.com/fr-fr/product/EP9000-CUSA00717_00-DETROIT000000001",
-      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202010/2119/VljHbt4vhc3Bmn8s83kFAPVg.png"
     },
     {
       "id": "EP0002-CUSA07399_00-CRASHNSANETRLOGY",
@@ -677,19 +651,6 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202010/0922/QIa2mMQzgdowM5XubKO69kEu.jpg"
     },
     {
-      "id": "EP9000-CUSA00511_00-GBEYONDTWO000001",
-      "title": "BEYOND: Two Souls™",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 5.69,
-      "originalPrice": 29.99,
-      "currency": "EUR",
-      "discountPercentage": 81,
-      "url": "https://store.playstation.com/fr-fr/product/EP9000-CUSA00511_00-GBEYONDTWO000001",
-      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202010/1520/TTm2SsEGCU1Kg55f3zSgVbdU.png"
-    },
-    {
       "id": "EP4062-PPSA02874_00-SRTTRPS5SIEE0000",
       "title": "Saints Row: The Third Remastered",
       "platform": "PS4",
@@ -844,19 +805,6 @@
       "discountPercentage": 90,
       "url": "https://store.playstation.com/fr-fr/product/EP0082-CUSA05716_00-RISEOFTOMBRAIDER",
       "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202010/1618/0PRx6kuqW0qRZmGhDV3tzEj3.png"
-    },
-    {
-      "id": "EP9000-CUSA12982_00-MEDIEVILHD000001",
-      "title": "MediEvil",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 5.09,
-      "originalPrice": 29.99,
-      "currency": "EUR",
-      "discountPercentage": 83,
-      "url": "https://store.playstation.com/fr-fr/product/EP9000-CUSA12982_00-MEDIEVILHD000001",
-      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202010/2621/qhVnK53UsydABj0eufw1gCwX.png"
     },
     {
       "id": "EP0700-PPSA06487_00-SMGDARKPICTURESB",
@@ -4106,8 +4054,7 @@
       "originalPrice": 19.99,
       "currency": "EUR",
       "discountPercentage": 60,
-      "url": "https://store.playstation.com/fr-fr/product/EP1001-CUSA03986_00-BIOSHOCKCOMPLETE",
-      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202010/1520/ViKFKlCfahoC4r0pKoXzHG6O.png"
+      "url": "https://store.playstation.com/fr-fr/product/EP1001-CUSA03986_00-BIOSHOCKCOMPLETE"
     },
     {
       "id": "EP9000-CUSA00006_00-KNACK00000000000",
@@ -4762,19 +4709,6 @@
       "url": "https://store.playstation.com/fr-fr/product/EP5004-CUSA12860_00-0000000000000000"
     },
     {
-      "id": "EP9000-CUSA16206_00-00000000MIMVRDLX",
-      "title": "Édition numérique spéciale de Marvel's Iron Man VR",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 4.99,
-      "originalPrice": 49.99,
-      "currency": "EUR",
-      "discountPercentage": 90,
-      "url": "https://store.playstation.com/fr-fr/product/EP9000-CUSA16206_00-00000000MIMVRDLX",
-      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202010/2122/PjNOSo7CmIhP71f3MAF7SJPc.png"
-    },
-    {
       "id": "EP4295-CUSA19392_00-FORTBOYARD2020EU",
       "title": "Fort Boyard Nouvelle Edition",
       "platform": "PS4",
@@ -4786,19 +4720,6 @@
       "discountPercentage": 80,
       "url": "https://store.playstation.com/fr-fr/product/EP4295-CUSA19392_00-FORTBOYARD2020EU",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202006/1816/ceSMsntyiKUMa7V11WAA1A99.jpg"
-    },
-    {
-      "id": "EP9000-CUSA02171_00-0011223344556677",
-      "title": "Everybody’s Golf",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 7.59,
-      "originalPrice": 39.99,
-      "currency": "EUR",
-      "discountPercentage": 81,
-      "url": "https://store.playstation.com/fr-fr/product/EP9000-CUSA02171_00-0011223344556677",
-      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202010/2621/ZmPqksYdd5WfHV3p8xPZVNl6.png"
     },
     {
       "id": "EP1188-CUSA19272_00-AMNESIAREBIRTH20",
