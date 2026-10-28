@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T04:20:23.129Z",
+  "generatedAt": "2026-10-28T10:45:17.237Z",
   "region": "FR",
   "currency": "EUR",
   "symbol": "€",
@@ -67,9 +67,9 @@
       "tier": "insane"
     },
     {
-      "title": "Deponia",
-      "url": "https://store.playstation.com/fr-fr/product/EP8923-CUSA03770_00-D0001DEPONIA1PS4",
-      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202102/2614/gEewI4uT0hM19CTmRacKJslC.jpg",
+      "title": "AER - Memories of Old",
+      "url": "https://store.playstation.com/fr-fr/product/EP8923-CUSA03176_00-FORGOTTENKEYAER0",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202501/2114/bf895b900555e34551cee94c575113326029d81683bb5190.jpg",
       "currentPrice": 0.99,
       "originalPrice": 9.99,
       "discountPercentage": 90,
@@ -77,9 +77,19 @@
       "tier": "insane"
     },
     {
-      "title": "AER - Memories of Old",
-      "url": "https://store.playstation.com/fr-fr/product/EP8923-CUSA03176_00-FORGOTTENKEYAER0",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202501/2114/bf895b900555e34551cee94c575113326029d81683bb5190.jpg",
+      "title": "TOKI",
+      "url": "https://store.playstation.com/fr-fr/product/EP4295-CUSA15162_00-TOKI000000000EUR",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202311/2413/bcd6badfffb3a9c6956b0af3ebaef44d6e161a1c698846e2.jpg",
+      "currentPrice": 0.99,
+      "originalPrice": 9.99,
+      "discountPercentage": 90,
+      "score": 96,
+      "tier": "insane"
+    },
+    {
+      "title": "Deponia",
+      "url": "https://store.playstation.com/fr-fr/product/EP8923-CUSA03770_00-D0001DEPONIA1PS4",
+      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202102/2614/gEewI4uT0hM19CTmRacKJslC.jpg",
       "currentPrice": 0.99,
       "originalPrice": 9.99,
       "discountPercentage": 90,
@@ -120,16 +130,6 @@
       "title": "Chaos on Deponia",
       "url": "https://store.playstation.com/fr-fr/product/EP8923-CUSA08542_00-DAEEUDEPONIA2000",
       "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202102/2615/eU8Oe17CZXEZDqV2Ofg26iPO.jpg",
-      "currentPrice": 0.99,
-      "originalPrice": 9.99,
-      "discountPercentage": 90,
-      "score": 96,
-      "tier": "insane"
-    },
-    {
-      "title": "TOKI",
-      "url": "https://store.playstation.com/fr-fr/product/EP4295-CUSA15162_00-TOKI000000000EUR",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202311/2413/bcd6badfffb3a9c6956b0af3ebaef44d6e161a1c698846e2.jpg",
       "currentPrice": 0.99,
       "originalPrice": 9.99,
       "discountPercentage": 90,
@@ -297,8 +297,8 @@
       "tier": "insane"
     },
     {
-      "title": "Runbow",
-      "url": "https://store.playstation.com/fr-fr/product/EP0822-CUSA08488_00-RUNBOWPS4SIEE000",
+      "title": "The Coma 2: Vicious Sisters",
+      "url": "https://store.playstation.com/fr-fr/product/EP0822-CUSA18822_00-THECOMA2SIEE0000",
       "imageUrl": null,
       "currentPrice": 1.49,
       "originalPrice": 14.99,
@@ -307,8 +307,8 @@
       "tier": "insane"
     },
     {
-      "title": "The Coma 2: Vicious Sisters",
-      "url": "https://store.playstation.com/fr-fr/product/EP0822-CUSA18822_00-THECOMA2SIEE0000",
+      "title": "Runbow",
+      "url": "https://store.playstation.com/fr-fr/product/EP0822-CUSA08488_00-RUNBOWPS4SIEE000",
       "imageUrl": null,
       "currentPrice": 1.49,
       "originalPrice": 14.99,
@@ -327,9 +327,9 @@
       "tier": "insane"
     },
     {
-      "title": "Suhoshin",
-      "url": "https://store.playstation.com/fr-fr/product/EP7754-CUSA36204_00-4692967194291116",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202210/1216/32T0JPPXpIvo7vyZlmIGJWVg.jpg",
+      "title": "Bridge Constructor Portal",
+      "url": "https://store.playstation.com/fr-fr/product/EP0822-CUSA09604_00-BRIDPORPS4SCEE00",
+      "imageUrl": null,
       "currentPrice": 1.49,
       "originalPrice": 14.99,
       "discountPercentage": 90,
@@ -337,9 +337,9 @@
       "tier": "insane"
     },
     {
-      "title": "Dead Age",
-      "url": "https://store.playstation.com/fr-fr/product/EP0822-CUSA08403_00-DEADAGEPS4SIEE00",
-      "imageUrl": null,
+      "title": "Suhoshin",
+      "url": "https://store.playstation.com/fr-fr/product/EP7754-CUSA36204_00-4692967194291116",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202210/1216/32T0JPPXpIvo7vyZlmIGJWVg.jpg",
       "currentPrice": 1.49,
       "originalPrice": 14.99,
       "discountPercentage": 90,
@@ -357,9 +357,9 @@
       "tier": "insane"
     },
     {
-      "title": "Pizza Tycoon",
-      "url": "https://store.playstation.com/fr-fr/product/EP5470-CUSA32396_00-5582905702753607",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202302/0314/1bc0d6e3e1a7264f18d5630bcb9eef8b93e5715e7661719a.jpg",
+      "title": "Dead Age",
+      "url": "https://store.playstation.com/fr-fr/product/EP0822-CUSA08403_00-DEADAGEPS4SIEE00",
+      "imageUrl": null,
       "currentPrice": 1.49,
       "originalPrice": 14.99,
       "discountPercentage": 90,
@@ -367,9 +367,9 @@
       "tier": "insane"
     },
     {
-      "title": "Bridge Constructor Portal",
-      "url": "https://store.playstation.com/fr-fr/product/EP0822-CUSA09604_00-BRIDPORPS4SCEE00",
-      "imageUrl": null,
+      "title": "Pizza Tycoon",
+      "url": "https://store.playstation.com/fr-fr/product/EP5470-CUSA32396_00-5582905702753607",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202302/0314/1bc0d6e3e1a7264f18d5630bcb9eef8b93e5715e7661719a.jpg",
       "currentPrice": 1.49,
       "originalPrice": 14.99,
       "discountPercentage": 90,
@@ -390,6 +390,16 @@
       "title": "Fantasy Friends",
       "url": "https://store.playstation.com/fr-fr/product/EP8208-CUSA20653_00-FANTA00GAMEEUR01",
       "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202011/0410/KMmBGwnlqsM01jvRT43Sfonp.jpg",
+      "currentPrice": 1.49,
+      "originalPrice": 14.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
+      "title": "Flying Soldiers",
+      "url": "https://store.playstation.com/fr-fr/product/EP3877-CUSA20588_00-FLYINGBASEGAME00",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202012/0416/oJVjbPTUHNuqp6I6CTXNjBlm.jpg",
       "currentPrice": 1.49,
       "originalPrice": 14.99,
       "discountPercentage": 90,
@@ -430,16 +440,6 @@
       "title": "Albedo: Eyes From Outer Space",
       "url": "https://store.playstation.com/fr-fr/product/EP1121-CUSA02588_00-0000000000000000",
       "imageUrl": null,
-      "currentPrice": 1.49,
-      "originalPrice": 14.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
-      "title": "Flying Soldiers",
-      "url": "https://store.playstation.com/fr-fr/product/EP3877-CUSA20588_00-FLYINGBASEGAME00",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202012/0416/oJVjbPTUHNuqp6I6CTXNjBlm.jpg",
       "currentPrice": 1.49,
       "originalPrice": 14.99,
       "discountPercentage": 90,
@@ -617,16 +617,6 @@
       "tier": "insane"
     },
     {
-      "title": "Shadow Point",
-      "url": "https://store.playstation.com/fr-fr/product/EP8936-CUSA29187_00-6173067824627008",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202203/1812/hcDs9B5UpGchd1lvQqfrfjqh.jpg",
-      "currentPrice": 1.99,
-      "originalPrice": 19.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
       "title": "Monster Crown",
       "url": "https://store.playstation.com/fr-fr/product/EP4541-CUSA14484_00-MONSTERCROWNEU00",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202109/0909/aHcbT2BJ2t43w4hZmXOBFHry.jpg",
@@ -657,6 +647,16 @@
       "tier": "insane"
     },
     {
+      "title": "Shadow Point",
+      "url": "https://store.playstation.com/fr-fr/product/EP8936-CUSA29187_00-6173067824627008",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202203/1812/hcDs9B5UpGchd1lvQqfrfjqh.jpg",
+      "currentPrice": 1.99,
+      "originalPrice": 19.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
       "title": "The Inner World - The Last Wind Monk",
       "url": "https://store.playstation.com/fr-fr/product/EP4365-CUSA08990_00-INNERLWPS4SIEE00",
       "imageUrl": null,
@@ -677,6 +677,16 @@
       "tier": "insane"
     },
     {
+      "title": "Monstrum",
+      "url": "https://store.playstation.com/fr-fr/product/EP4541-CUSA12700_00-MONSTRUMEU000000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202011/0204/QDYjVcvNxM9x93OQ0LSDrGDz.png",
+      "currentPrice": 1.99,
+      "originalPrice": 19.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
       "title": "Season Match Bundle",
       "url": "https://store.playstation.com/fr-fr/product/EP1629-CUSA14720_00-SEASONMATCH1A2A3",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202406/2608/5b01672fb6faeb09ee7cb57c0334850df20fb704ce2bf393.png",
@@ -687,29 +697,9 @@
       "tier": "insane"
     },
     {
-      "title": "Lacuna",
-      "url": "https://store.playstation.com/fr-fr/product/EP5470-CUSA29933_00-6716400165985341",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202111/0313/10mQRiSz7h1bXjmdEXJ9BHW7.jpg",
-      "currentPrice": 1.99,
-      "originalPrice": 19.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
       "title": "The Dark Eye: Memoria",
       "url": "https://store.playstation.com/fr-fr/product/EP8923-CUSA19119_00-DAEEUTDEM0000001",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202101/2515/yWVpNgAyo9cBM5QPwbJXP5d6.png",
-      "currentPrice": 1.99,
-      "originalPrice": 19.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
-      "title": "Monstrum",
-      "url": "https://store.playstation.com/fr-fr/product/EP4541-CUSA12700_00-MONSTRUMEU000000",
-      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202011/0204/QDYjVcvNxM9x93OQ0LSDrGDz.png",
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -730,6 +720,16 @@
       "title": "Dick Wilde 2",
       "url": "https://store.playstation.com/fr-fr/product/EP3495-CUSA14236_00-0000000000000000",
       "imageUrl": null,
+      "currentPrice": 1.99,
+      "originalPrice": 19.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
+      "title": "Lacuna",
+      "url": "https://store.playstation.com/fr-fr/product/EP5470-CUSA29933_00-6716400165985341",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202111/0313/10mQRiSz7h1bXjmdEXJ9BHW7.jpg",
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -787,9 +787,9 @@
       "tier": "insane"
     },
     {
-      "title": "Paper Cut Mansion",
-      "url": "https://store.playstation.com/fr-fr/product/EP5360-PPSA09516_00-PAPERCUTMANPS5EU",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202211/0809/hcWrjz7drx6aIW4Eo3dRKl8Z.png",
+      "title": "Relicta",
+      "url": "https://store.playstation.com/fr-fr/product/EP3617-CUSA17918_00-ERELICTAMAINRV00",
+      "imageUrl": null,
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -827,19 +827,9 @@
       "tier": "insane"
     },
     {
-      "title": "Relicta",
-      "url": "https://store.playstation.com/fr-fr/product/EP3617-CUSA17918_00-ERELICTAMAINRV00",
-      "imageUrl": null,
-      "currentPrice": 1.99,
-      "originalPrice": 19.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
-      "title": "Ginga Force",
-      "url": "https://store.playstation.com/fr-fr/product/EP4034-CUSA19582_00-0000GINGAFORCEEU",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202008/2608/jX21dDEEK1QEXddjMeEioCC9.png",
+      "title": "Paper Cut Mansion",
+      "url": "https://store.playstation.com/fr-fr/product/EP5360-PPSA09516_00-PAPERCUTMANPS5EU",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202211/0809/hcWrjz7drx6aIW4Eo3dRKl8Z.png",
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -850,6 +840,16 @@
       "title": "Shakes on a Plane",
       "url": "https://store.playstation.com/fr-fr/product/EP5470-CUSA28364_00-7654710681036779",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202107/1508/ISCvvddqSJzJKi1iSqo91cME.png",
+      "currentPrice": 1.99,
+      "originalPrice": 19.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
+      "title": "Ginga Force",
+      "url": "https://store.playstation.com/fr-fr/product/EP4034-CUSA19582_00-0000GINGAFORCEEU",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202008/2608/jX21dDEEK1QEXddjMeEioCC9.png",
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
