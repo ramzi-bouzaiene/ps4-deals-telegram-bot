@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T08:06:38.725Z",
+  "generatedAt": "2026-10-29T15:25:56.495Z",
   "region": "FR",
   "currency": "EUR",
   "symbol": "€",
@@ -117,16 +117,6 @@
       "tier": "insane"
     },
     {
-      "title": "Bridge Constructor Stunts",
-      "url": "https://store.playstation.com/fr-fr/product/EP0822-CUSA04738_00-BCSTUNTSPS4SIEE0",
-      "imageUrl": null,
-      "currentPrice": 0.99,
-      "originalPrice": 9.99,
-      "discountPercentage": 90,
-      "score": 96,
-      "tier": "insane"
-    },
-    {
       "title": "Chaos on Deponia",
       "url": "https://store.playstation.com/fr-fr/product/EP8923-CUSA08542_00-DAEEUDEPONIA2000",
       "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202102/2615/eU8Oe17CZXEZDqV2Ofg26iPO.jpg",
@@ -137,9 +127,9 @@
       "tier": "insane"
     },
     {
-      "title": "Blackguards 2",
-      "url": "https://store.playstation.com/fr-fr/product/EP4365-CUSA07275_00-DAEDAKALYBLACKG2",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202308/1415/0b75ba0455815b7fe67f324c3f12936a64094b5fbf7ff5e5.jpg",
+      "title": "Bridge Constructor Stunts",
+      "url": "https://store.playstation.com/fr-fr/product/EP0822-CUSA04738_00-BCSTUNTSPS4SIEE0",
+      "imageUrl": null,
       "currentPrice": 0.99,
       "originalPrice": 9.99,
       "discountPercentage": 90,
@@ -150,6 +140,16 @@
       "title": "Sherlock Purr 2",
       "url": "https://store.playstation.com/fr-fr/product/EB0575-PPSA21176_00-0857943967427969",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202401/1816/c7446a613b76e32864ee35ebc93c46b5f89f08acdf880f0a.png",
+      "currentPrice": 0.99,
+      "originalPrice": 9.99,
+      "discountPercentage": 90,
+      "score": 96,
+      "tier": "insane"
+    },
+    {
+      "title": "Blackguards 2",
+      "url": "https://store.playstation.com/fr-fr/product/EP4365-CUSA07275_00-DAEDAKALYBLACKG2",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202308/1415/0b75ba0455815b7fe67f324c3f12936a64094b5fbf7ff5e5.jpg",
       "currentPrice": 0.99,
       "originalPrice": 9.99,
       "discountPercentage": 90,
@@ -287,8 +287,8 @@
       "tier": "insane"
     },
     {
-      "title": "The Coma 2: Vicious Sisters",
-      "url": "https://store.playstation.com/fr-fr/product/EP0822-CUSA18822_00-THECOMA2SIEE0000",
+      "title": "Runbow",
+      "url": "https://store.playstation.com/fr-fr/product/EP0822-CUSA08488_00-RUNBOWPS4SIEE000",
       "imageUrl": null,
       "currentPrice": 1.49,
       "originalPrice": 14.99,
@@ -297,8 +297,8 @@
       "tier": "insane"
     },
     {
-      "title": "Runbow",
-      "url": "https://store.playstation.com/fr-fr/product/EP0822-CUSA08488_00-RUNBOWPS4SIEE000",
+      "title": "The Coma 2: Vicious Sisters",
+      "url": "https://store.playstation.com/fr-fr/product/EP0822-CUSA18822_00-THECOMA2SIEE0000",
       "imageUrl": null,
       "currentPrice": 1.49,
       "originalPrice": 14.99,
@@ -377,16 +377,6 @@
       "tier": "insane"
     },
     {
-      "title": "Pizza Tycoon",
-      "url": "https://store.playstation.com/fr-fr/product/EP5470-CUSA32396_00-5582905702753607",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202302/0314/1bc0d6e3e1a7264f18d5630bcb9eef8b93e5715e7661719a.jpg",
-      "currentPrice": 1.49,
-      "originalPrice": 14.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
       "title": "Fantasy Friends",
       "url": "https://store.playstation.com/fr-fr/product/EP8208-CUSA20653_00-FANTA00GAMEEUR01",
       "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202011/0410/KMmBGwnlqsM01jvRT43Sfonp.jpg",
@@ -420,6 +410,16 @@
       "title": "The Innsmouth Case",
       "url": "https://store.playstation.com/fr-fr/product/EP5470-CUSA27534_00-0142023266845908",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202106/1015/b5I0e46FRCBCGwwoAYYDZAXp.jpg",
+      "currentPrice": 1.49,
+      "originalPrice": 14.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
+      "title": "Pizza Tycoon",
+      "url": "https://store.playstation.com/fr-fr/product/EP5470-CUSA32396_00-5582905702753607",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202302/0314/1bc0d6e3e1a7264f18d5630bcb9eef8b93e5715e7661719a.jpg",
       "currentPrice": 1.49,
       "originalPrice": 14.99,
       "discountPercentage": 90,
@@ -657,16 +657,6 @@
       "tier": "insane"
     },
     {
-      "title": "Season Match Bundle",
-      "url": "https://store.playstation.com/fr-fr/product/EP1629-CUSA14720_00-SEASONMATCH1A2A3",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202406/2608/5b01672fb6faeb09ee7cb57c0334850df20fb704ce2bf393.png",
-      "currentPrice": 1.99,
-      "originalPrice": 19.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
       "title": "Itorah",
       "url": "https://store.playstation.com/fr-fr/product/EP5470-CUSA34062_00-3743363992579314",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202304/1911/3b844d058f8d34bec4c4c3f12754084cd8a81cf874f87141.jpg",
@@ -690,6 +680,16 @@
       "title": "Dick Wilde 2",
       "url": "https://store.playstation.com/fr-fr/product/EP3495-CUSA14236_00-0000000000000000",
       "imageUrl": null,
+      "currentPrice": 1.99,
+      "originalPrice": 19.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
+      "title": "Season Match Bundle",
+      "url": "https://store.playstation.com/fr-fr/product/EP1629-CUSA14720_00-SEASONMATCH1A2A3",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202406/2608/5b01672fb6faeb09ee7cb57c0334850df20fb704ce2bf393.png",
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -787,16 +787,6 @@
       "tier": "insane"
     },
     {
-      "title": "Sublevel Zero Redux",
-      "url": "https://store.playstation.com/fr-fr/product/EP1121-CUSA03030_00-0000000000000000",
-      "imageUrl": null,
-      "currentPrice": 1.99,
-      "originalPrice": 19.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
       "title": "The Dark Eye: Chains of Satinav",
       "url": "https://store.playstation.com/fr-fr/product/EP8923-CUSA19117_00-DAEEUTDES0000001",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202101/2515/ntzmdD2Wq8a4YQzPovme3UkA.png",
@@ -817,6 +807,16 @@
       "tier": "insane"
     },
     {
+      "title": "Ginga Force",
+      "url": "https://store.playstation.com/fr-fr/product/EP4034-CUSA19582_00-0000GINGAFORCEEU",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202008/2608/jX21dDEEK1QEXddjMeEioCC9.png",
+      "currentPrice": 1.99,
+      "originalPrice": 19.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
       "title": "Paper Cut Mansion",
       "url": "https://store.playstation.com/fr-fr/product/EP5360-PPSA09516_00-PAPERCUTMANPS5EU",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202211/0809/hcWrjz7drx6aIW4Eo3dRKl8Z.png",
@@ -830,16 +830,6 @@
       "title": "Relicta",
       "url": "https://store.playstation.com/fr-fr/product/EP3617-CUSA17918_00-ERELICTAMAINRV00",
       "imageUrl": null,
-      "currentPrice": 1.99,
-      "originalPrice": 19.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
-      "title": "Ginga Force",
-      "url": "https://store.playstation.com/fr-fr/product/EP4034-CUSA19582_00-0000GINGAFORCEEU",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202008/2608/jX21dDEEK1QEXddjMeEioCC9.png",
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -899,6 +889,16 @@
     {
       "title": "Crimson Keep",
       "url": "https://store.playstation.com/fr-fr/product/EP1121-CUSA14432_00-CRIMSONKEEP00001",
+      "imageUrl": null,
+      "currentPrice": 1.99,
+      "originalPrice": 19.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
+      "title": "Sublevel Zero Redux",
+      "url": "https://store.playstation.com/fr-fr/product/EP1121-CUSA03030_00-0000000000000000",
       "imageUrl": null,
       "currentPrice": 1.99,
       "originalPrice": 19.99,
@@ -1007,9 +1007,9 @@
       "tier": "insane"
     },
     {
-      "title": "Silver Chains",
-      "url": "https://store.playstation.com/fr-fr/product/EP0822-CUSA10248_00-SILVERCHAPS4SIEE",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202101/1115/kzUevI2YUWu0quEstl0rA0fc.jpg",
+      "title": "Vambrace: Cold Soul",
+      "url": "https://store.playstation.com/fr-fr/product/EP0822-CUSA16900_00-VAMBRACESIEE0000",
+      "imageUrl": null,
       "currentPrice": 2.49,
       "originalPrice": 24.99,
       "discountPercentage": 90,
