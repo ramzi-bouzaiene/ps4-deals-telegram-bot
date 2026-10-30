@@ -24,9 +24,16 @@
     "be0442f2-ccb6-11f1-8841-6a471cbf7a82",
     "a2d5c116-be42-11f1-ac9c-e63b0656bc18",
     "69493e99-c8bc-11f1-8e8f-42c633776907",
-    "500cbcf1-d319-11f1-a076-124b6081481b"
+    "500cbcf1-d319-11f1-a076-124b6081481b",
+    "68122db7-bd84-11f1-ac9c-e63b0656bc18"
   ],
   "items": [
+    {
+      "t": "2026-10-30T12:51:30.918Z",
+      "title": "Économisez maintenant",
+      "link": "https://store.playstation.com/fr-fr/category/11276272-7cfd-4cf7-b84d-510b516bdd1b/1",
+      "type": "store"
+    },
     {
       "t": "2026-10-28T22:33:06.756Z",
       "title": "Halloween",
