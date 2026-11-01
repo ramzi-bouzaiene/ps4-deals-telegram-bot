@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T22:45:32.245Z",
+  "generatedAt": "2026-11-01T01:55:19.777Z",
   "region": "FR",
   "currency": "EUR",
   "symbol": "€",
@@ -487,9 +487,9 @@
       "tier": "insane"
     },
     {
-      "title": "Mervils: A VR Adventure",
-      "url": "https://store.playstation.com/fr-fr/product/EP1962-CUSA06310_00-MERVILSPSVR00002",
-      "imageUrl": null,
+      "title": "Demons Are Coming! - Ultimate Battle",
+      "url": "https://store.playstation.com/fr-fr/product/UB0383-PPSA31227_00-0916148321126734",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202511/2616/66a23b4e524b40aac49440e119b148258364f5ea9839d380.png",
       "currentPrice": 1.59,
       "originalPrice": 15.99,
       "discountPercentage": 90,
@@ -497,9 +497,9 @@
       "tier": "insane"
     },
     {
-      "title": "Demons Are Coming! - Ultimate Battle",
-      "url": "https://store.playstation.com/fr-fr/product/UB0383-PPSA31227_00-0916148321126734",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202511/2616/66a23b4e524b40aac49440e119b148258364f5ea9839d380.png",
+      "title": "Mervils: A VR Adventure",
+      "url": "https://store.playstation.com/fr-fr/product/EP1962-CUSA06310_00-MERVILSPSVR00002",
+      "imageUrl": null,
       "currentPrice": 1.59,
       "originalPrice": 15.99,
       "discountPercentage": 90,
@@ -627,26 +627,6 @@
       "tier": "insane"
     },
     {
-      "title": "Itorah",
-      "url": "https://store.playstation.com/fr-fr/product/EP5470-CUSA34062_00-3743363992579314",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202304/1911/3b844d058f8d34bec4c4c3f12754084cd8a81cf874f87141.jpg",
-      "currentPrice": 1.99,
-      "originalPrice": 19.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
-      "title": "Monster Crown",
-      "url": "https://store.playstation.com/fr-fr/product/EP4541-CUSA14484_00-MONSTERCROWNEU00",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202109/0909/aHcbT2BJ2t43w4hZmXOBFHry.jpg",
-      "currentPrice": 1.99,
-      "originalPrice": 19.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
       "title": "Phantom Breaker: Omnia",
       "url": "https://store.playstation.com/fr-fr/product/EP8050-CUSA18881_00-PBOMNIAGAMEEU001",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202202/0305/EZAgFNdR8kTaWvTrYORTTJF5.jpg",
@@ -660,6 +640,26 @@
       "title": "The Inner World - The Last Wind Monk",
       "url": "https://store.playstation.com/fr-fr/product/EP4365-CUSA08990_00-INNERLWPS4SIEE00",
       "imageUrl": null,
+      "currentPrice": 1.99,
+      "originalPrice": 19.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
+      "title": "Itorah",
+      "url": "https://store.playstation.com/fr-fr/product/EP5470-CUSA34062_00-3743363992579314",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202304/1911/3b844d058f8d34bec4c4c3f12754084cd8a81cf874f87141.jpg",
+      "currentPrice": 1.99,
+      "originalPrice": 19.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
+      "title": "Monster Crown",
+      "url": "https://store.playstation.com/fr-fr/product/EP4541-CUSA14484_00-MONSTERCROWNEU00",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202109/0909/aHcbT2BJ2t43w4hZmXOBFHry.jpg",
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -847,16 +847,6 @@
       "tier": "insane"
     },
     {
-      "title": "FORECLOSED",
-      "url": "https://store.playstation.com/fr-fr/product/EP1121-CUSA25005_00-3808050314772279",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202102/0413/7fMrqMRpa7i7pcSg2Qtkqgyh.jpg",
-      "currentPrice": 1.99,
-      "originalPrice": 19.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
       "title": "Shakes on a Plane",
       "url": "https://store.playstation.com/fr-fr/product/EP5470-CUSA28364_00-7654710681036779",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202107/1508/ISCvvddqSJzJKi1iSqo91cME.png",
@@ -900,6 +890,16 @@
       "title": "Crimson Keep",
       "url": "https://store.playstation.com/fr-fr/product/EP1121-CUSA14432_00-CRIMSONKEEP00001",
       "imageUrl": null,
+      "currentPrice": 1.99,
+      "originalPrice": 19.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
+      "title": "FORECLOSED",
+      "url": "https://store.playstation.com/fr-fr/product/EP1121-CUSA25005_00-3808050314772279",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202102/0413/7fMrqMRpa7i7pcSg2Qtkqgyh.jpg",
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
