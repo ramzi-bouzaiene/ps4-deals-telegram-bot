@@ -241,10 +241,14 @@
       {
         "t": "2026-10-10T19:50:29.898Z",
         "price": 0
+      },
+      {
+        "t": "2026-11-04T06:53:07.290Z",
+        "price": 9.99
       }
     ],
     "url": "https://store.playstation.com/fr-fr/product/EP9000-CUSA07410_00-0000000GODOFWARN",
     "low": 0,
-    "high": 0
+    "high": 9.99
   }
 }

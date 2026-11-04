@@ -2556,8 +2556,8 @@
     "sentAt": "2026-10-10T19:50:30.309Z"
   },
   "god-of-war:wishlist": {
-    "lastPrice": 0,
-    "sentAt": "2026-10-10T19:50:30.674Z"
+    "lastPrice": 9.99,
+    "sentAt": "2026-11-04T06:53:07.291Z"
   },
   "neon-abyss:historical-low": {
     "lastPrice": 4.99,
@@ -2606,5 +2606,9 @@
   "heads-up-phones-down-edition:hot": {
     "lastPrice": 1.99,
     "sentAt": "2026-10-22T10:27:03.495Z"
+  },
+  "crystar:hot": {
+    "lastPrice": 0.99,
+    "sentAt": "2026-11-04T06:53:07.291Z"
   }
 }
