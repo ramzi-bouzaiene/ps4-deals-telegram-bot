@@ -26,9 +26,30 @@
     "69493e99-c8bc-11f1-8e8f-42c633776907",
     "500cbcf1-d319-11f1-a076-124b6081481b",
     "68122db7-bd84-11f1-ac9c-e63b0656bc18",
-    "bc95904a-d6ce-11f1-8a65-6e0665828692"
+    "bc95904a-d6ce-11f1-8a65-6e0665828692",
+    "a9fb61e1-ce68-11f1-9e14-9ad0712246e8",
+    "7667adf8-d6fa-11f1-8b37-767bf55df29e",
+    "c2a728c8-cc09-11f1-922e-161964fd8b22"
   ],
   "items": [
+    {
+      "t": "2026-11-04T02:19:42.211Z",
+      "title": "Black Friday",
+      "link": "https://store.playstation.com/fr-fr/category/5298ddd6-5475-4e26-8e73-820355a3fae6/1",
+      "type": "store"
+    },
+    {
+      "t": "2026-11-04T02:19:42.211Z",
+      "title": "La planète des offres",
+      "link": "https://store.playstation.com/fr-fr/category/11276272-7cfd-4cf7-b84d-510b516bdd1b/1",
+      "type": "store"
+    },
+    {
+      "t": "2026-11-04T02:19:42.210Z",
+      "title": "Économisez maintenant",
+      "link": "https://store.playstation.com/fr-fr/category/5298ddd6-5475-4e26-8e73-820355a3fae6/1",
+      "type": "store"
+    },
     {
       "t": "2026-11-03T16:14:38.716Z",
       "title": "Des offres exceptionnelles tout au long du mois de novembre",
