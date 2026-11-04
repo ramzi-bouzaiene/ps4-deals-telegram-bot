@@ -32758,5 +32758,68 @@
         "date": "2026-11-04"
       }
     ]
+  },
+  "the-king-of-fighters-xv-ultimate-edition": {
+    "prices": [
+      {
+        "price": 14.99,
+        "currency": "EUR",
+        "date": "2026-11-04"
+      }
+    ]
+  },
+  "dicey-dungeons-ps4-ps5": {
+    "prices": [
+      {
+        "price": 7.49,
+        "currency": "EUR",
+        "date": "2026-11-04"
+      }
+    ]
+  },
+  "sonic-frontiers-edition-digital-deluxe-ps4-ps5": {
+    "prices": [
+      {
+        "price": 14.99,
+        "currency": "EUR",
+        "date": "2026-11-04"
+      }
+    ]
+  },
+  "dark-light": {
+    "prices": [
+      {
+        "price": 9.99,
+        "currency": "EUR",
+        "date": "2026-11-04"
+      }
+    ]
+  },
+  "tropico-5": {
+    "prices": [
+      {
+        "price": 7.99,
+        "currency": "EUR",
+        "date": "2026-11-04"
+      }
+    ]
+  },
+  "quiplash-2-interlashional-dites-n-importe-quoi": {
+    "prices": [
+      {
+        "price": 5.49,
+        "currency": "EUR",
+        "date": "2026-11-04"
+      }
+    ]
+  },
+  "pumped-bmx": {
+    "prices": [
+      {
+        "price": 0.99,
+        "currency": "EUR",
+        "date": "2026-11-04"
+      }
+    ]
   }
 }
