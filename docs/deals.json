@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-03T19:10:30.715Z",
+  "generatedAt": "2026-11-04T00:07:30.500Z",
   "region": "FR",
   "currency": "EUR",
   "symbol": "€",
   "minimumDealScore": 80,
   "stats": {
-    "total": 1334,
-    "scored60": 1329,
-    "scored80": 989,
-    "scored90": 363,
-    "avgDiscount": 71,
+    "total": 1615,
+    "scored60": 1598,
+    "scored80": 1048,
+    "scored90": 360,
+    "avgDiscount": 70,
     "maxScore": 98,
     "maxScoreTitle": "ROAD TO EXOTICS",
     "wishlistCount": 3,
@@ -54,6 +54,16 @@
       "originalPrice": 39.99,
       "discountPercentage": 95,
       "score": 97,
+      "tier": "insane"
+    },
+    {
+      "title": "CRYSTAR",
+      "url": "https://store.playstation.com/fr-fr/product/EP4947-CUSA15257_00-0000000000000000",
+      "imageUrl": null,
+      "currentPrice": 0.99,
+      "originalPrice": 19.99,
+      "discountPercentage": 95,
+      "score": 96,
       "tier": "insane"
     },
     {
@@ -467,16 +477,6 @@
       "tier": "insane"
     },
     {
-      "title": "Three Minutes To Eight",
-      "url": "https://store.playstation.com/fr-fr/product/EP5470-CUSA43052_00-0424189799957069",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202310/2614/905c8b5ff0df9a6f0708b9052caa7e9a86da3fbc7d3b8dc1.jpg",
-      "currentPrice": 1.49,
-      "originalPrice": 14.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
       "title": "Super Meat Boy",
       "url": "https://store.playstation.com/fr-fr/product/EP1051-CUSA03454_00-0614198109191981",
       "imageUrl": null,
@@ -522,16 +522,6 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202102/1116/jHMtQgydN8otuKkLbHWf9ypy.jpg",
       "currentPrice": 1.79,
       "originalPrice": 17.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
-      "title": "XEL",
-      "url": "https://store.playstation.com/fr-fr/product/EP5470-CUSA34220_00-1974871844301027",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202304/1809/a0ac191f2112d8cb38d4d14499031e79ad00582fe25e2255.jpg",
-      "currentPrice": 1.89,
-      "originalPrice": 18.99,
       "discountPercentage": 90,
       "score": 95,
       "tier": "insane"
@@ -907,36 +897,6 @@
       "tier": "insane"
     },
     {
-      "title": "Sublevel Zero Redux",
-      "url": "https://store.playstation.com/fr-fr/product/EP1121-CUSA03030_00-0000000000000000",
-      "imageUrl": null,
-      "currentPrice": 1.99,
-      "originalPrice": 19.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
-      "title": "The Church In The Darkness",
-      "url": "https://store.playstation.com/fr-fr/product/EP5661-CUSA07492_00-THECHURCHINTHEDA",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202302/0604/0f22bfef846018f2907ccde5028209e6b59e40d03fe23a94.jpg",
-      "currentPrice": 1.99,
-      "originalPrice": 19.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
-      "title": "Trulon: The Shadow Engine",
-      "url": "https://store.playstation.com/fr-fr/product/EP0822-CUSA07696_00-TRULONTPS4SIEE00",
-      "imageUrl": null,
-      "currentPrice": 1.99,
-      "originalPrice": 19.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
       "title": "XEL - Complete Edition",
       "url": "https://store.playstation.com/fr-fr/product/EP5470-CUSA34220_00-4974253324654527",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202304/1809/a0ac191f2112d8cb38d4d14499031e79ad00582fe25e2255.jpg",
@@ -1010,6 +970,46 @@
       "title": "MXGP3 - Special Edition",
       "url": "https://store.playstation.com/fr-fr/product/EP4356-CUSA07864_00-MXGP3SPECIALEDIT",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202009/2515/VtrrPis1b2MNWWjq3ad7aion.jpg",
+      "currentPrice": 2.49,
+      "originalPrice": 24.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
+      "title": "The Coma 2: Vicious Sisters - Digital Deluxe Bundle",
+      "url": "https://store.playstation.com/fr-fr/product/EP0822-CUSA18822_00-THECOMA2DDESIEE0",
+      "imageUrl": null,
+      "currentPrice": 2.49,
+      "originalPrice": 24.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
+      "title": "Everreach: Project Eden",
+      "url": "https://store.playstation.com/fr-fr/product/EP0822-CUSA18934_00-EVERREACHSIEE000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202006/1911/QNoKN6TvpIns5c6OH0Gqqa7a.jpg",
+      "currentPrice": 2.49,
+      "originalPrice": 24.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
+      "title": "Silver Chains",
+      "url": "https://store.playstation.com/fr-fr/product/EP0822-CUSA10248_00-SILVERCHAPS4SIEE",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202101/1115/kzUevI2YUWu0quEstl0rA0fc.jpg",
+      "currentPrice": 2.49,
+      "originalPrice": 24.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
+      "title": "Fantasy Friends : Sous l'Océan",
+      "url": "https://store.playstation.com/fr-fr/product/EP8208-CUSA27856_00-FANTASEAGAMEEUR1",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202108/1208/B11ZvwyTDmWvSGdOw2IACGAe.jpg",
       "currentPrice": 2.49,
       "originalPrice": 24.99,
       "discountPercentage": 90,
