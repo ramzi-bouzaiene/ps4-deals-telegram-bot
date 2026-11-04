@@ -29,9 +29,16 @@
     "bc95904a-d6ce-11f1-8a65-6e0665828692",
     "a9fb61e1-ce68-11f1-9e14-9ad0712246e8",
     "7667adf8-d6fa-11f1-8b37-767bf55df29e",
-    "c2a728c8-cc09-11f1-922e-161964fd8b22"
+    "c2a728c8-cc09-11f1-922e-161964fd8b22",
+    "a7fec65f-c3ee-11f1-a657-622f9683730a"
   ],
   "items": [
+    {
+      "t": "2026-11-04T12:06:48.384Z",
+      "title": "Des jeux à petit prix",
+      "link": "https://store.playstation.com/fr-fr/category/59431f5d-1af0-42e6-ae2e-59c7edd02048/1",
+      "type": "store"
+    },
     {
       "t": "2026-11-04T02:19:42.211Z",
       "title": "Black Friday",
