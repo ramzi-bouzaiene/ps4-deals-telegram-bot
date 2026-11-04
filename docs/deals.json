@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T15:10:56.303Z",
+  "generatedAt": "2026-11-04T21:26:17.579Z",
   "region": "FR",
   "currency": "EUR",
   "symbol": "€",
@@ -7,7 +7,7 @@
   "stats": {
     "total": 1702,
     "scored60": 1693,
-    "scored80": 1261,
+    "scored80": 1264,
     "scored90": 452,
     "avgDiscount": 71,
     "maxScore": 98,
@@ -170,6 +170,16 @@
       "title": "Blackguards 2",
       "url": "https://store.playstation.com/fr-fr/product/EP4365-CUSA07275_00-DAEDAKALYBLACKG2",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202308/1415/0b75ba0455815b7fe67f324c3f12936a64094b5fbf7ff5e5.jpg",
+      "currentPrice": 0.99,
+      "originalPrice": 9.99,
+      "discountPercentage": 90,
+      "score": 96,
+      "tier": "insane"
+    },
+    {
+      "title": "Pumped BMX +",
+      "url": "https://store.playstation.com/fr-fr/product/EP4395-CUSA02589_00-PUMPED2SCEECROSS",
+      "imageUrl": null,
       "currentPrice": 0.99,
       "originalPrice": 9.99,
       "discountPercentage": 90,
@@ -1000,16 +1010,6 @@
       "title": "Agony",
       "url": "https://store.playstation.com/fr-fr/product/EP3617-CUSA11622_00-AGONY00000000666",
       "imageUrl": null,
-      "currentPrice": 1.99,
-      "originalPrice": 19.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
-      "title": "Ankora: Lost Days",
-      "url": "https://store.playstation.com/fr-fr/product/EP3721-CUSA35001_00-1798730925446745",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202303/2419/786257ccf96b0bf8f7247ad8a7a12c3955d411aad5daccfc.jpg",
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
