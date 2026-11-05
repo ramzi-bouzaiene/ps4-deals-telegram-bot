@@ -39148,5 +39148,122 @@
         "date": "2026-11-05"
       }
     ]
+  },
+  "warhammer-40-000-mechanicus": {
+    "prices": [
+      {
+        "price": 3.99,
+        "currency": "EUR",
+        "date": "2026-11-05"
+      }
+    ]
+  },
+  "young-souls": {
+    "prices": [
+      {
+        "price": 4.99,
+        "currency": "EUR",
+        "date": "2026-11-05"
+      }
+    ]
+  },
+  "vampyr": {
+    "prices": [
+      {
+        "price": 7.99,
+        "currency": "EUR",
+        "date": "2026-11-05"
+      }
+    ]
+  },
+  "wolfenstein-alt-history-collection": {
+    "prices": [
+      {
+        "price": 13.99,
+        "currency": "EUR",
+        "date": "2026-11-05"
+      }
+    ]
+  },
+  "warriors-abyss-edition-ultime-hack-n-dash": {
+    "prices": [
+      {
+        "price": 26.39,
+        "currency": "EUR",
+        "date": "2026-11-05"
+      }
+    ]
+  },
+  "watch-dogs-legion-edition-deluxe": {
+    "prices": [
+      {
+        "price": 11.99,
+        "currency": "EUR",
+        "date": "2026-11-05"
+      }
+    ]
+  },
+  "visco-collection": {
+    "prices": [
+      {
+        "price": 5.99,
+        "currency": "EUR",
+        "date": "2026-11-05"
+      }
+    ]
+  },
+  "worldend-syndrome": {
+    "prices": [
+      {
+        "price": 3.99,
+        "currency": "EUR",
+        "date": "2026-11-05"
+      }
+    ]
+  },
+  "wrc-collection": {
+    "prices": [
+      {
+        "price": 2.49,
+        "currency": "EUR",
+        "date": "2026-11-05"
+      }
+    ]
+  },
+  "under-night-in-birth-exe-late-st": {
+    "prices": [
+      {
+        "price": 2.49,
+        "currency": "EUR",
+        "date": "2026-11-05"
+      }
+    ]
+  },
+  "zombie-army-trilogy": {
+    "prices": [
+      {
+        "price": 4.99,
+        "currency": "EUR",
+        "date": "2026-11-05"
+      }
+    ]
+  },
+  "warriors-abyss-edition-hack-n-dash": {
+    "prices": [
+      {
+        "price": 13.19,
+        "currency": "EUR",
+        "date": "2026-11-05"
+      }
+    ]
+  },
+  "ultratron": {
+    "prices": [
+      {
+        "price": 0.99,
+        "currency": "EUR",
+        "date": "2026-11-05"
+      }
+    ]
   }
 }
