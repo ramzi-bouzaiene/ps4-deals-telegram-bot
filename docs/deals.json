@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-05T17:33:59.927Z",
+  "generatedAt": "2026-11-05T23:20:50.623Z",
   "region": "FR",
   "currency": "EUR",
   "symbol": "€",
   "minimumDealScore": 80,
   "stats": {
     "total": 1541,
-    "scored60": 1527,
-    "scored80": 1129,
-    "scored90": 362,
+    "scored60": 1531,
+    "scored80": 1133,
+    "scored90": 363,
     "avgDiscount": 69,
     "maxScore": 98,
     "maxScoreTitle": "CRYSTAR",
