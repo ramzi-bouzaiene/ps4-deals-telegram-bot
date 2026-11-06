@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-06T11:52:19.330Z",
+  "generatedAt": "2026-11-06T18:58:27.778Z",
   "region": "FR",
   "currency": "EUR",
   "symbol": "€",
   "minimumDealScore": 80,
   "stats": {
-    "total": 1545,
-    "scored60": 1535,
-    "scored80": 1136,
-    "scored90": 365,
+    "total": 1547,
+    "scored60": 1537,
+    "scored80": 1140,
+    "scored90": 368,
     "avgDiscount": 69,
     "maxScore": 98,
     "maxScoreTitle": "CRYSTAR",
@@ -100,6 +100,16 @@
       "title": "Ultratron",
       "url": "https://store.playstation.com/fr-fr/product/EP4395-CUSA00336_00-ULTRATRONCROSSBY",
       "imageUrl": null,
+      "currentPrice": 0.99,
+      "originalPrice": 9.99,
+      "discountPercentage": 90,
+      "score": 96,
+      "tier": "insane"
+    },
+    {
+      "title": "Wraith: The Oblivion - Afterlife",
+      "url": "https://store.playstation.com/fr-fr/product/EP2907-CUSA29261_00-2058976049183776",
+      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202110/2608/Szg0MsrEXMvXGY8KuBZqxyi5.jpg",
       "currentPrice": 0.99,
       "originalPrice": 9.99,
       "discountPercentage": 90,
@@ -240,6 +250,16 @@
       "title": "Startenders: Barman Intergalactique",
       "url": "https://store.playstation.com/fr-fr/product/EP5816-PPSA09575_00-5948074153462564",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202202/1416/2HDWYSNwUZ4mIdxpEg9NNdof.png",
+      "currentPrice": 1.49,
+      "originalPrice": 14.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
+      "title": "Wulverblade",
+      "url": "https://store.playstation.com/fr-fr/product/EP0196-CUSA10396_00-0000000000000000",
+      "imageUrl": null,
       "currentPrice": 1.49,
       "originalPrice": 14.99,
       "discountPercentage": 90,
@@ -427,6 +447,16 @@
       "tier": "insane"
     },
     {
+      "title": "Mr. DRILLER DrillLand PS4 & PS5",
+      "url": "https://store.playstation.com/fr-fr/product/EP0700-PPSA02645_00-PS5MRDRILLERDL0E",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202110/1313/WgtwiuKNUd0Yf1cCNgb8bsHq.jpg",
+      "currentPrice": 1.99,
+      "originalPrice": 19.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
       "title": "Agents of Mayhem",
       "url": "https://store.playstation.com/fr-fr/product/EP4062-CUSA03067_00-AGENTSOFMAYHEMDS",
       "imageUrl": null,
@@ -550,16 +580,6 @@
       "title": "Kowloon High-School Chronicle",
       "url": "https://store.playstation.com/fr-fr/product/EP4293-CUSA27034_00-KOWLOON0000EU010",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202211/0421/IW8QM7wgm1EvqvM4nb961DUB.png",
-      "currentPrice": 1.99,
-      "originalPrice": 19.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
-      "title": "Mr. DRILLER DrillLand PS4 & PS5",
-      "url": "https://store.playstation.com/fr-fr/product/EP0700-PPSA02645_00-PS5MRDRILLERDL0E",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202110/1313/WgtwiuKNUd0Yf1cCNgb8bsHq.jpg",
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -777,9 +797,9 @@
       "tier": "insane"
     },
     {
-      "title": "Pure Farming 2018",
-      "url": "https://store.playstation.com/fr-fr/product/EP2911-CUSA09177_00-PUREFARMING2018G",
-      "imageUrl": null,
+      "title": "Archetype Arcadia",
+      "url": "https://store.playstation.com/fr-fr/product/EP4293-PPSA13422_00-AARCADIA0SIEEPS5",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1210/a61b19590f25e46789040ca5bba828b69334084763b83cf7.jpg",
       "currentPrice": 2.99,
       "originalPrice": 29.99,
       "discountPercentage": 90,
@@ -787,9 +807,19 @@
       "tier": "insane"
     },
     {
-      "title": "Archetype Arcadia",
-      "url": "https://store.playstation.com/fr-fr/product/EP4293-PPSA13422_00-AARCADIA0SIEEPS5",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1210/a61b19590f25e46789040ca5bba828b69334084763b83cf7.jpg",
+      "title": "Ultimate Fishing Simulator",
+      "url": "https://store.playstation.com/fr-fr/product/EP1549-CUSA25897_00-CLABS0UFS2020101",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202012/1511/4geDu8gBvTUcqXuCVsMzpcdR.jpg",
+      "currentPrice": 2.99,
+      "originalPrice": 29.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
+      "title": "Pure Farming 2018",
+      "url": "https://store.playstation.com/fr-fr/product/EP2911-CUSA09177_00-PUREFARMING2018G",
+      "imageUrl": null,
       "currentPrice": 2.99,
       "originalPrice": 29.99,
       "discountPercentage": 90,
@@ -980,36 +1010,6 @@
       "title": "Sniper Ghost Warrior Contracts 2 Ultimate Edition",
       "url": "https://store.playstation.com/fr-fr/product/EP4321-PPSA03131_00-4808331744420553",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202107/3010/230zlIRedluy6EpAKb5vo0kM.jpg",
-      "currentPrice": 4.99,
-      "originalPrice": 49.99,
-      "discountPercentage": 90,
-      "score": 94,
-      "tier": "insane"
-    },
-    {
-      "title": "Darksiders III Digital Deluxe Edition",
-      "url": "https://store.playstation.com/fr-fr/product/EP4389-CUSA08798_00-DS3DIGITALDELUXE",
-      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202010/1612/eM7TZM6reGmPxwyURzJN4e3U.jpg",
-      "currentPrice": 4.99,
-      "originalPrice": 49.99,
-      "discountPercentage": 90,
-      "score": 94,
-      "tier": "insane"
-    },
-    {
-      "title": "Zombie Army Trilogy",
-      "url": "https://store.playstation.com/fr-fr/product/EP4529-CUSA01345_00-ZATRILOGY0000000",
-      "imageUrl": null,
-      "currentPrice": 4.99,
-      "originalPrice": 49.99,
-      "discountPercentage": 90,
-      "score": 94,
-      "tier": "insane"
-    },
-    {
-      "title": "Port Royale 4",
-      "url": "https://store.playstation.com/fr-fr/product/EP4365-PPSA02814_00-00PORTROYALE4PS5",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202010/0514/QjrrTDke5fURbnSE0WqkoYmU.jpg",
       "currentPrice": 4.99,
       "originalPrice": 49.99,
       "discountPercentage": 90,
