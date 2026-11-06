@@ -39373,5 +39373,104 @@
         "date": "2026-11-05"
       }
     ]
+  },
+  "world-of-outlaws-dirt-racing-24-gold-edition": {
+    "prices": [
+      {
+        "price": 13.99,
+        "currency": "EUR",
+        "date": "2026-11-06"
+      }
+    ]
+  },
+  "unturned": {
+    "prices": [
+      {
+        "price": 9.99,
+        "currency": "EUR",
+        "date": "2026-11-06"
+      }
+    ]
+  },
+  "trinity-trigger": {
+    "prices": [
+      {
+        "price": 9.99,
+        "currency": "EUR",
+        "date": "2026-11-06"
+      }
+    ]
+  },
+  "white-day-ultimate-horror-edition": {
+    "prices": [
+      {
+        "price": 9.99,
+        "currency": "EUR",
+        "date": "2026-11-06"
+      }
+    ]
+  },
+  "ultimate-fishing-simulator": {
+    "prices": [
+      {
+        "price": 2.99,
+        "currency": "EUR",
+        "date": "2026-11-06"
+      }
+    ]
+  },
+  "two-point-hospital-and-two-point-campus-double-pack-ps4-ps5": {
+    "prices": [
+      {
+        "price": 19.99,
+        "currency": "EUR",
+        "date": "2026-11-06"
+      }
+    ]
+  },
+  "valthirian-arc-hero-school-story-2": {
+    "prices": [
+      {
+        "price": 4.99,
+        "currency": "EUR",
+        "date": "2026-11-06"
+      }
+    ]
+  },
+  "wulverblade": {
+    "prices": [
+      {
+        "price": 1.49,
+        "currency": "EUR",
+        "date": "2026-11-06"
+      }
+    ]
+  },
+  "you-suck-at-parking": {
+    "prices": [
+      {
+        "price": 3.99,
+        "currency": "EUR",
+        "date": "2026-11-06"
+      }
+    ]
+  },
+  "wraith-the-oblivion-afterlife": {
+    "prices": [
+      {
+        "price": 0.99,
+        "currency": "EUR",
+        "date": "2026-11-06"
+      }
+    ]
+  },
+  "worms-rumble-digital-deluxe-edition-ps4-ps5": {
+    "prices": [
+      {
+        "price": 4.39,
+        "currency": "EUR",
+        "date": "2026-11-06"
+      }
+    ]
   }
 }
