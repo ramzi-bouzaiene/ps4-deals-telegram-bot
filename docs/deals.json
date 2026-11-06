@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T23:20:50.623Z",
+  "generatedAt": "2026-11-06T03:33:44.457Z",
   "region": "FR",
   "currency": "EUR",
   "symbol": "€",
@@ -437,6 +437,16 @@
       "tier": "insane"
     },
     {
+      "title": "Agony",
+      "url": "https://store.playstation.com/fr-fr/product/EP3617-CUSA11622_00-AGONY00000000666",
+      "imageUrl": null,
+      "currentPrice": 1.99,
+      "originalPrice": 19.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
       "title": "Dark Devotion",
       "url": "https://store.playstation.com/fr-fr/product/EP5539-CUSA14354_00-DARKDEVOTION0000",
       "imageUrl": null,
@@ -450,16 +460,6 @@
       "title": "Hunting Simulator",
       "url": "https://store.playstation.com/fr-fr/product/EP4008-CUSA07164_00-HUNTINGSIMULATOR",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202009/3016/VxfUR4qMARlqZEtC9EOINuQh.jpg",
-      "currentPrice": 1.99,
-      "originalPrice": 19.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
-      "title": "Agony",
-      "url": "https://store.playstation.com/fr-fr/product/EP3617-CUSA11622_00-AGONY00000000666",
-      "imageUrl": null,
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -657,6 +657,16 @@
       "tier": "insane"
     },
     {
+      "title": "Les Schtroumpfs - Mission Malfeuille",
+      "url": "https://store.playstation.com/fr-fr/product/EP4295-CUSA26670_00-SMURFSPS400000EU",
+      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202109/2809/yNUhoz0Wk8Ssqfkr6fGTvywa.jpeg",
+      "currentPrice": 2.49,
+      "originalPrice": 24.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
       "title": "UNDER NIGHT IN-BIRTH Exe:Late[st]",
       "url": "https://store.playstation.com/fr-fr/product/EP4293-CUSA09420_00-UNIEXEST00000000",
       "imageUrl": null,
@@ -700,16 +710,6 @@
       "title": "Holy Potatoes! A Bundle?!",
       "url": "https://store.playstation.com/fr-fr/product/EP4034-CUSA13024_00-HPBUNDLEAWSWIS00",
       "imageUrl": null,
-      "currentPrice": 2.49,
-      "originalPrice": 24.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
-      "title": "Les Schtroumpfs - Mission Malfeuille",
-      "url": "https://store.playstation.com/fr-fr/product/EP4295-CUSA26670_00-SMURFSPS400000EU",
-      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202109/2809/yNUhoz0Wk8Ssqfkr6fGTvywa.jpeg",
       "currentPrice": 2.49,
       "originalPrice": 24.99,
       "discountPercentage": 90,
@@ -897,6 +897,16 @@
       "tier": "insane"
     },
     {
+      "title": "GUILTY GEAR Xrd Rev.2",
+      "url": "https://store.playstation.com/fr-fr/product/EP4293-CUSA08260_00-GGXRDREV2EU00100",
+      "imageUrl": null,
+      "currentPrice": 3.99,
+      "originalPrice": 39.99,
+      "discountPercentage": 90,
+      "score": 94,
+      "tier": "insane"
+    },
+    {
       "title": "Sherlock Holmes: Crimes and Punishments",
       "url": "https://store.playstation.com/fr-fr/product/EP5205-CUSA18876_00-SH7CPFROGWARESUA",
       "imageUrl": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA18141_00/6/i_c06837d73c31ce2ce30d1436702f3f35ecf6327698324b81a08e86bc134fb89f/i/pic0.png",
@@ -939,16 +949,6 @@
     {
       "title": "Destiny Connect: Tick-Tock Travelers",
       "url": "https://store.playstation.com/fr-fr/product/EP1063-CUSA15547_00-DESTINYCONNECT00",
-      "imageUrl": null,
-      "currentPrice": 3.99,
-      "originalPrice": 39.99,
-      "discountPercentage": 90,
-      "score": 94,
-      "tier": "insane"
-    },
-    {
-      "title": "GUILTY GEAR Xrd Rev.2",
-      "url": "https://store.playstation.com/fr-fr/product/EP4293-CUSA08260_00-GGXRDREV2EU00100",
       "imageUrl": null,
       "currentPrice": 3.99,
       "originalPrice": 39.99,
