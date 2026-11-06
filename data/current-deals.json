@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-06T18:58:17.585Z",
+  "fetchedAt": "2026-11-06T23:41:51.690Z",
   "region": "FR",
   "deals": [
     {
@@ -19747,6 +19747,19 @@
       "discountPercentage": 50,
       "url": "https://store.playstation.com/fr-fr/product/EP7905-PPSA22192_00-0558793663449726",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202407/2319/8a617273a2f7aca21516d5ecd9d9468d7094cb35a6b8869d.jpg"
+    },
+    {
+      "id": "EP4886-PPSA15216_00-0237314537492753",
+      "title": "Tin Can + Starward Rogue Deluxe Bundle",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 8.39,
+      "originalPrice": 29.99,
+      "currency": "EUR",
+      "discountPercentage": 72,
+      "url": "https://store.playstation.com/fr-fr/product/EP4886-PPSA15216_00-0237314537492753",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202404/1712/68b8d8525d8db1e70d5e1850954859f6bb4b889aa8ab2c51.jpg"
     }
   ]
 }
