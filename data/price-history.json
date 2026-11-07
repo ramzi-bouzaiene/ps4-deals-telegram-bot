@@ -39472,5 +39472,140 @@
         "date": "2026-11-06"
       }
     ]
+  },
+  "windjammers": {
+    "prices": [
+      {
+        "price": 3.74,
+        "currency": "EUR",
+        "date": "2026-11-07"
+      }
+    ]
+  },
+  "windjammers-2": {
+    "prices": [
+      {
+        "price": 4.99,
+        "currency": "EUR",
+        "date": "2026-11-07"
+      }
+    ]
+  },
+  "ys-memories-of-celceta": {
+    "prices": [
+      {
+        "price": 8.99,
+        "currency": "EUR",
+        "date": "2026-11-07"
+      }
+    ]
+  },
+  "void-trrlm-void-terrarium": {
+    "prices": [
+      {
+        "price": 7.49,
+        "currency": "EUR",
+        "date": "2026-11-07"
+      }
+    ]
+  },
+  "tunche": {
+    "prices": [
+      {
+        "price": 4.99,
+        "currency": "EUR",
+        "date": "2026-11-07"
+      }
+    ]
+  },
+  "wavetale": {
+    "prices": [
+      {
+        "price": 4.49,
+        "currency": "EUR",
+        "date": "2026-11-07"
+      }
+    ]
+  },
+  "xiii": {
+    "prices": [
+      {
+        "price": 1.99,
+        "currency": "EUR",
+        "date": "2026-11-07"
+      }
+    ]
+  },
+  "vengeful-guardian-moonrider": {
+    "prices": [
+      {
+        "price": 5.94,
+        "currency": "EUR",
+        "date": "2026-11-07"
+      }
+    ]
+  },
+  "various-daylife": {
+    "prices": [
+      {
+        "price": 11.59,
+        "currency": "EUR",
+        "date": "2026-11-07"
+      }
+    ]
+  },
+  "tram-simulator-urban-transit": {
+    "prices": [
+      {
+        "price": 5.99,
+        "currency": "EUR",
+        "date": "2026-11-07"
+      }
+    ]
+  },
+  "travis-strikes-again-no-more-heroes-complete-edition": {
+    "prices": [
+      {
+        "price": 4.79,
+        "currency": "EUR",
+        "date": "2026-11-07"
+      }
+    ]
+  },
+  "zombie-soup": {
+    "prices": [
+      {
+        "price": 1.89,
+        "currency": "EUR",
+        "date": "2026-11-07"
+      }
+    ]
+  },
+  "valentino-rossi-the-game": {
+    "prices": [
+      {
+        "price": 1.49,
+        "currency": "EUR",
+        "date": "2026-11-07"
+      }
+    ]
+  },
+  "valentino-rossi-the-game-digital-deluxe": {
+    "prices": [
+      {
+        "price": 3.49,
+        "currency": "EUR",
+        "date": "2026-11-07"
+      }
+    ]
+  },
+  "valentino-rossi-the-game-special-edition": {
+    "prices": [
+      {
+        "price": 2.49,
+        "currency": "EUR",
+        "date": "2026-11-07"
+      }
+    ]
   }
 }
