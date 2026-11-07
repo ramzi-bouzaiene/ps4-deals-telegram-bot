@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T11:33:04.919Z",
+  "generatedAt": "2026-11-07T17:30:34.134Z",
   "region": "FR",
   "currency": "EUR",
   "symbol": "€",
@@ -7,8 +7,8 @@
   "stats": {
     "total": 1536,
     "scored60": 1526,
-    "scored80": 1131,
-    "scored90": 366,
+    "scored80": 1135,
+    "scored90": 367,
     "avgDiscount": 69,
     "maxScore": 98,
     "maxScoreTitle": "CRYSTAR",
@@ -297,6 +297,16 @@
       "tier": "insane"
     },
     {
+      "title": "Valentino Rossi The Game",
+      "url": "https://store.playstation.com/fr-fr/product/EP4356-CUSA05164_00-MOTOGPVR46FGAME0",
+      "imageUrl": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA05311_00/5/i_3d744ee62a4da11232e95457991f3f4fedadfee2b5762f64b0e8c11a65cface5/i/pic0.png",
+      "currentPrice": 1.49,
+      "originalPrice": 14.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
       "title": "Flying Soldiers (Game + Avatar Pack)",
       "url": "https://store.playstation.com/fr-fr/product/EP3877-CUSA20588_00-FLYINGAVATARBUND",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202012/0416/oJVjbPTUHNuqp6I6CTXNjBlm.jpg",
@@ -352,6 +362,16 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202205/2015/HM5FYjFiugGT5YrzdeoQ18CS.jpg",
       "currentPrice": 1.79,
       "originalPrice": 17.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
+      "title": "Zombie Soup",
+      "url": "https://store.playstation.com/fr-fr/product/EP7786-PPSA15904_00-ZOMBIESOUPEU0000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/2114/4e3e0ae505d427d12a87cbd3c31b619e2c98f769a58df305.jpg",
+      "currentPrice": 1.89,
+      "originalPrice": 18.99,
       "discountPercentage": 90,
       "score": 95,
       "tier": "insane"
@@ -460,6 +480,16 @@
       "title": "Dark Devotion",
       "url": "https://store.playstation.com/fr-fr/product/EP5539-CUSA14354_00-DARKDEVOTION0000",
       "imageUrl": null,
+      "currentPrice": 1.99,
+      "originalPrice": 19.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
+      "title": "XIII",
+      "url": "https://store.playstation.com/fr-fr/product/EP4295-CUSA19085_00-XIIIEUROPE000000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202208/0512/iadts6x0cDLBGE6RQoNlhX2C.png",
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -687,6 +717,16 @@
       "tier": "insane"
     },
     {
+      "title": "Valentino Rossi The Game - Special Edition",
+      "url": "https://store.playstation.com/fr-fr/product/EP4356-CUSA05164_00-MOTOGPVR46SPEEDI",
+      "imageUrl": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA05311_00/5/i_3d744ee62a4da11232e95457991f3f4fedadfee2b5762f64b0e8c11a65cface5/i/pic0.png",
+      "currentPrice": 2.49,
+      "originalPrice": 24.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
       "title": "Blind",
       "url": "https://store.playstation.com/fr-fr/product/EP8921-CUSA11114_00-0000000000001105",
       "imageUrl": null,
@@ -867,6 +907,16 @@
       "tier": "insane"
     },
     {
+      "title": "Valentino Rossi The Game - Digital Deluxe",
+      "url": "https://store.playstation.com/fr-fr/product/EP4356-CUSA05164_00-VRTGDIGITALDELUX",
+      "imageUrl": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA05234_00/2/i_2de0a9d18548ba9b77fa7c7acd18f6d17a1984b883745f150caf41240c1bac72/i/pic0.png",
+      "currentPrice": 3.49,
+      "originalPrice": 34.99,
+      "discountPercentage": 90,
+      "score": 94,
+      "tier": "insane"
+    },
+    {
       "title": "Sniper Ghost Warrior Contracts 2",
       "url": "https://store.playstation.com/fr-fr/product/EP4321-PPSA03131_00-6029635495956336",
       "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202107/3009/OuekbgLwZj5a97irDhiIdZyC.jpg",
@@ -962,56 +1012,6 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202103/0302/4KBc1OqoBb61PlGMrnE3YYaW.png",
       "currentPrice": 3.99,
       "originalPrice": 39.99,
-      "discountPercentage": 90,
-      "score": 94,
-      "tier": "insane"
-    },
-    {
-      "title": "Sniper Ghost Warrior Contracts 2 Ultimate Edition",
-      "url": "https://store.playstation.com/fr-fr/product/EP4321-PPSA03131_00-4808331744420553",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202107/3010/230zlIRedluy6EpAKb5vo0kM.jpg",
-      "currentPrice": 4.99,
-      "originalPrice": 49.99,
-      "discountPercentage": 90,
-      "score": 94,
-      "tier": "insane"
-    },
-    {
-      "title": "Darksiders III Digital Deluxe Edition",
-      "url": "https://store.playstation.com/fr-fr/product/EP4389-CUSA08798_00-DS3DIGITALDELUXE",
-      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202010/1612/eM7TZM6reGmPxwyURzJN4e3U.jpg",
-      "currentPrice": 4.99,
-      "originalPrice": 49.99,
-      "discountPercentage": 90,
-      "score": 94,
-      "tier": "insane"
-    },
-    {
-      "title": "Zombie Army Trilogy",
-      "url": "https://store.playstation.com/fr-fr/product/EP4529-CUSA01345_00-ZATRILOGY0000000",
-      "imageUrl": null,
-      "currentPrice": 4.99,
-      "originalPrice": 49.99,
-      "discountPercentage": 90,
-      "score": 94,
-      "tier": "insane"
-    },
-    {
-      "title": "BLAZBLUE CROSS TAG BATTLE Special Edition",
-      "url": "https://store.playstation.com/fr-fr/product/EP4293-CUSA12009_00-BBTAGSP0000000B2",
-      "imageUrl": null,
-      "currentPrice": 4.99,
-      "originalPrice": 49.99,
-      "discountPercentage": 90,
-      "score": 94,
-      "tier": "insane"
-    },
-    {
-      "title": "Port Royale 4",
-      "url": "https://store.playstation.com/fr-fr/product/EP4365-PPSA02814_00-00PORTROYALE4PS5",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202010/0514/QjrrTDke5fURbnSE0WqkoYmU.jpg",
-      "currentPrice": 4.99,
-      "originalPrice": 49.99,
       "discountPercentage": 90,
       "score": 94,
       "tier": "insane"
