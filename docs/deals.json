@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T22:45:54.285Z",
+  "generatedAt": "2026-11-09T02:25:51.119Z",
   "region": "FR",
   "currency": "EUR",
   "symbol": "€",
@@ -397,16 +397,6 @@
       "tier": "insane"
     },
     {
-      "title": "Ys Origin",
-      "url": "https://store.playstation.com/fr-fr/product/EP1470-CUSA06702_00-DOTEMUYSORIGIN01",
-      "imageUrl": null,
-      "currentPrice": 1.99,
-      "originalPrice": 19.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
       "title": "Layers of Fear (2016)",
       "url": "https://store.playstation.com/fr-fr/product/EP1875-CUSA04497_00-LAYERSOFFEAR0000",
       "imageUrl": null,
@@ -420,6 +410,16 @@
       "title": "One Piece Pirate Warriors 3",
       "url": "https://store.playstation.com/fr-fr/product/EP0700-CUSA01742_00-PROJECTOP3EU0000",
       "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202010/0900/vF8bP7fTkXDxgwoRDdMMTpkR.png",
+      "currentPrice": 1.99,
+      "originalPrice": 19.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
+      "title": "Ys Origin",
+      "url": "https://store.playstation.com/fr-fr/product/EP1470-CUSA06702_00-DOTEMUYSORIGIN01",
+      "imageUrl": null,
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -497,8 +497,8 @@
       "tier": "insane"
     },
     {
-      "title": "BlazBlue Chronophantasma Extend",
-      "url": "https://store.playstation.com/fr-fr/product/EP4293-CUSA03254_00-BBCPPS4000001000",
+      "title": "Agony",
+      "url": "https://store.playstation.com/fr-fr/product/EP3617-CUSA11622_00-AGONY00000000666",
       "imageUrl": null,
       "currentPrice": 1.99,
       "originalPrice": 19.99,
@@ -507,8 +507,8 @@
       "tier": "insane"
     },
     {
-      "title": "Agony",
-      "url": "https://store.playstation.com/fr-fr/product/EP3617-CUSA11622_00-AGONY00000000666",
+      "title": "BlazBlue Chronophantasma Extend",
+      "url": "https://store.playstation.com/fr-fr/product/EP4293-CUSA03254_00-BBCPPS4000001000",
       "imageUrl": null,
       "currentPrice": 1.99,
       "originalPrice": 19.99,
@@ -767,9 +767,9 @@
       "tier": "insane"
     },
     {
-      "title": "Sniper Elite 3",
-      "url": "https://store.playstation.com/fr-fr/product/EP4040-CUSA00286_00-SNIPERELITE30000",
-      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202010/1520/HC4OJH9vRR1baUl7oJ1Grd0v.png",
+      "title": "Frostpunk: Console Edition",
+      "url": "https://store.playstation.com/fr-fr/product/EP4361-CUSA15690_00-FROSTPUNKGAME000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202107/1311/QYmKLq0XVd0S7SNec0wf8JWb.jpg",
       "currentPrice": 2.99,
       "originalPrice": 29.99,
       "discountPercentage": 90,
@@ -777,9 +777,9 @@
       "tier": "insane"
     },
     {
-      "title": "Frostpunk: Console Edition",
-      "url": "https://store.playstation.com/fr-fr/product/EP4361-CUSA15690_00-FROSTPUNKGAME000",
-      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202107/1311/QYmKLq0XVd0S7SNec0wf8JWb.jpg",
+      "title": "Sniper Elite 3",
+      "url": "https://store.playstation.com/fr-fr/product/EP4040-CUSA00286_00-SNIPERELITE30000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202010/1520/HC4OJH9vRR1baUl7oJ1Grd0v.png",
       "currentPrice": 2.99,
       "originalPrice": 29.99,
       "discountPercentage": 90,
