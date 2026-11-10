@@ -31,9 +31,16 @@
     "7667adf8-d6fa-11f1-8b37-767bf55df29e",
     "c2a728c8-cc09-11f1-922e-161964fd8b22",
     "a7fec65f-c3ee-11f1-a657-622f9683730a",
-    "5c17e995-d8bf-11f1-aeae-7a017234b1a1"
+    "5c17e995-d8bf-11f1-aeae-7a017234b1a1",
+    "84ee1f9e-da5e-11f1-a1c5-72f0f1449e9d"
   ],
   "items": [
+    {
+      "t": "2026-11-10T20:48:57.942Z",
+      "title": "Précommander Maintenant",
+      "link": "https://store.playstation.com/fr-fr/category/33d71055-e472-499d-af5e-fa83acf3abaf/1",
+      "type": "store"
+    },
     {
       "t": "2026-11-05T09:28:22.581Z",
       "title": "Grand Theft Auto VI",
