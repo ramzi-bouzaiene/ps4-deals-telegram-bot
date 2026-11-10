@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T20:58:29.370Z",
+  "generatedAt": "2026-11-10T03:22:29.404Z",
   "region": "FR",
   "currency": "EUR",
   "symbol": "€",
@@ -247,16 +247,6 @@
       "tier": "insane"
     },
     {
-      "title": "Startenders: Barman Intergalactique",
-      "url": "https://store.playstation.com/fr-fr/product/EP5816-PPSA09575_00-5948074153462564",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202202/1416/2HDWYSNwUZ4mIdxpEg9NNdof.png",
-      "currentPrice": 1.49,
-      "originalPrice": 14.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
       "title": "Joe Dever’s Lone Wolf Console Edition",
       "url": "https://store.playstation.com/fr-fr/product/EP4040-CUSA03743_00-LONEWOLF00000000",
       "imageUrl": null,
@@ -280,6 +270,16 @@
       "title": "Action Henk",
       "url": "https://store.playstation.com/fr-fr/product/EP4395-CUSA02910_00-ACTIONHENKPS4000",
       "imageUrl": null,
+      "currentPrice": 1.49,
+      "originalPrice": 14.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
+      "title": "Startenders: Barman Intergalactique",
+      "url": "https://store.playstation.com/fr-fr/product/EP5816-PPSA09575_00-5948074153462564",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202202/1416/2HDWYSNwUZ4mIdxpEg9NNdof.png",
       "currentPrice": 1.49,
       "originalPrice": 14.99,
       "discountPercentage": 90,
@@ -437,16 +437,6 @@
       "tier": "insane"
     },
     {
-      "title": "KILL la KILL - IF",
-      "url": "https://store.playstation.com/fr-fr/product/EP4293-CUSA16022_00-000000000KLKGAME",
-      "imageUrl": null,
-      "currentPrice": 1.99,
-      "originalPrice": 19.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
       "title": "Layers of Fear (2016)",
       "url": "https://store.playstation.com/fr-fr/product/EP1875-CUSA04497_00-LAYERSOFFEAR0000",
       "imageUrl": null,
@@ -467,9 +457,29 @@
       "tier": "insane"
     },
     {
+      "title": "KILL la KILL - IF",
+      "url": "https://store.playstation.com/fr-fr/product/EP4293-CUSA16022_00-000000000KLKGAME",
+      "imageUrl": null,
+      "currentPrice": 1.99,
+      "originalPrice": 19.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
       "title": "XIII",
       "url": "https://store.playstation.com/fr-fr/product/EP4295-CUSA19085_00-XIIIEUROPE000000",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202208/0512/iadts6x0cDLBGE6RQoNlhX2C.png",
+      "currentPrice": 1.99,
+      "originalPrice": 19.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
+      "title": "Agony",
+      "url": "https://store.playstation.com/fr-fr/product/EP3617-CUSA11622_00-AGONY00000000666",
+      "imageUrl": null,
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -500,16 +510,6 @@
       "title": "Mr. DRILLER DrillLand PS4 & PS5",
       "url": "https://store.playstation.com/fr-fr/product/EP0700-PPSA02645_00-PS5MRDRILLERDL0E",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202110/1313/WgtwiuKNUd0Yf1cCNgb8bsHq.jpg",
-      "currentPrice": 1.99,
-      "originalPrice": 19.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
-      "title": "Agony",
-      "url": "https://store.playstation.com/fr-fr/product/EP3617-CUSA11622_00-AGONY00000000666",
-      "imageUrl": null,
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -977,9 +977,9 @@
       "tier": "insane"
     },
     {
-      "title": "Sherlock Holmes: The Devil's Daughter",
-      "url": "https://store.playstation.com/fr-fr/product/EP5205-CUSA26518_00-2515160832071212",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202105/2413/SiAEMKLFrhCVePbOrWf6h3Xg.jpg",
+      "title": "Homefront®: The Revolution 'Freedom Fighter' Bundle",
+      "url": "https://store.playstation.com/fr-fr/product/EP4062-CUSA00938_00-HFDIGITALDELUXEE",
+      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202010/1520/mlXQrbFpYsA80f1p7mZhmm31.jpg",
       "currentPrice": 3.99,
       "originalPrice": 39.99,
       "discountPercentage": 90,
@@ -987,9 +987,9 @@
       "tier": "insane"
     },
     {
-      "title": "Homefront®: The Revolution 'Freedom Fighter' Bundle",
-      "url": "https://store.playstation.com/fr-fr/product/EP4062-CUSA00938_00-HFDIGITALDELUXEE",
-      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202010/1520/mlXQrbFpYsA80f1p7mZhmm31.jpg",
+      "title": "Sherlock Holmes: The Devil's Daughter",
+      "url": "https://store.playstation.com/fr-fr/product/EP5205-CUSA26518_00-2515160832071212",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202105/2413/SiAEMKLFrhCVePbOrWf6h3Xg.jpg",
       "currentPrice": 3.99,
       "originalPrice": 39.99,
       "discountPercentage": 90,
