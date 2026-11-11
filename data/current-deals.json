@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-10T19:24:29.074Z",
+  "fetchedAt": "2026-11-11T00:12:03.131Z",
   "region": "FR",
   "deals": [
     {
@@ -17101,7 +17101,7 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202205/1403/twNX89vULfW7nZBadbeVndKi.jpg"
     },
     {
-      "id": "EP7108-CUSA29979_00-PUZZLEBUNDLEEUP4",
+      "id": "EP7108-PPSA12561_00-PUZZLEBUNDLEEUP5",
       "title": "Pack réflexion Draknek & Friends",
       "platform": "PS4",
       "store": "PlayStation Store",
@@ -17110,8 +17110,8 @@
       "originalPrice": 44.99,
       "currency": "EUR",
       "discountPercentage": 60,
-      "url": "https://store.playstation.com/fr-fr/product/EP7108-CUSA29979_00-PUZZLEBUNDLEEUP4",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202307/2720/adc763e4ba9cb140a79983d8e4941018d2efd3adfa44287d.jpeg"
+      "url": "https://store.playstation.com/fr-fr/product/EP7108-PPSA12561_00-PUZZLEBUNDLEEUP5",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202307/2720/e0141367a2d49da904a739ce02d08fc2a20722085228f4ac.jpeg"
     },
     {
       "id": "EP0700-CUSA29665_00-PACMUSEUMPLUS001",
@@ -19595,6 +19595,18 @@
       "currency": "EUR",
       "discountPercentage": 80,
       "url": "https://store.playstation.com/fr-fr/product/EP3245-CUSA09478_00-METRONOMGAME0008"
+    },
+    {
+      "id": "EP1661-CUSA12172_00-SYPS4THEMOOSEMAN",
+      "title": "The Mooseman",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 2.39,
+      "originalPrice": 7.99,
+      "currency": "EUR",
+      "discountPercentage": 70,
+      "url": "https://store.playstation.com/fr-fr/product/EP1661-CUSA12172_00-SYPS4THEMOOSEMAN"
     }
   ]
 }
