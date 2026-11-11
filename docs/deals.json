@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-11T06:57:21.995Z",
+  "generatedAt": "2026-11-11T14:59:43.131Z",
   "region": "FR",
   "currency": "EUR",
   "symbol": "€",
   "minimumDealScore": 80,
   "stats": {
-    "total": 1537,
-    "scored60": 1527,
-    "scored80": 1136,
-    "scored90": 368,
+    "total": 1538,
+    "scored60": 1528,
+    "scored80": 1137,
+    "scored90": 369,
     "avgDiscount": 69,
     "maxScore": 98,
     "maxScoreTitle": "CRYSTAR",
@@ -257,6 +257,16 @@
       "tier": "insane"
     },
     {
+      "title": "Valentino Rossi The Game",
+      "url": "https://store.playstation.com/fr-fr/product/EP4356-CUSA05164_00-MOTOGPVR46FGAME0",
+      "imageUrl": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA05311_00/5/i_3d744ee62a4da11232e95457991f3f4fedadfee2b5762f64b0e8c11a65cface5/i/pic0.png",
+      "currentPrice": 1.49,
+      "originalPrice": 14.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
       "title": "The Swindle",
       "url": "https://store.playstation.com/fr-fr/product/EP4395-CUSA02311_00-THESWINDLECROSSB",
       "imageUrl": null,
@@ -280,16 +290,6 @@
       "title": "Startenders: Barman Intergalactique",
       "url": "https://store.playstation.com/fr-fr/product/EP5816-PPSA09575_00-5948074153462564",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202202/1416/2HDWYSNwUZ4mIdxpEg9NNdof.png",
-      "currentPrice": 1.49,
-      "originalPrice": 14.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
-      "title": "Valentino Rossi The Game",
-      "url": "https://store.playstation.com/fr-fr/product/EP4356-CUSA05164_00-MOTOGPVR46FGAME0",
-      "imageUrl": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA05311_00/5/i_3d744ee62a4da11232e95457991f3f4fedadfee2b5762f64b0e8c11a65cface5/i/pic0.png",
       "currentPrice": 1.49,
       "originalPrice": 14.99,
       "discountPercentage": 90,
@@ -637,6 +637,16 @@
       "tier": "insane"
     },
     {
+      "title": "The Padre",
+      "url": "https://store.playstation.com/fr-fr/product/EP3385-CUSA12898_00-THEPADRE00000000",
+      "imageUrl": null,
+      "currentPrice": 1.99,
+      "originalPrice": 19.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
       "title": "Summer in Mara",
       "url": "https://store.playstation.com/fr-fr/product/EP3721-CUSA18531_00-D000000000001001",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202011/0517/LlixCBdDWsdzkIyMxs3Bstrt.jpg",
@@ -847,9 +857,9 @@
       "tier": "insane"
     },
     {
-      "title": "Ultimate Fishing Simulator",
-      "url": "https://store.playstation.com/fr-fr/product/EP1549-CUSA25897_00-CLABS0UFS2020101",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202012/1511/4geDu8gBvTUcqXuCVsMzpcdR.jpg",
+      "title": "Tennis World Tour - Roland-Garros Edition",
+      "url": "https://store.playstation.com/fr-fr/product/EP4008-CUSA09876_00-TENNISWTEBRGEDIT",
+      "imageUrl": null,
       "currentPrice": 2.99,
       "originalPrice": 29.99,
       "discountPercentage": 90,
@@ -857,9 +867,9 @@
       "tier": "insane"
     },
     {
-      "title": "Tennis World Tour - Roland-Garros Edition",
-      "url": "https://store.playstation.com/fr-fr/product/EP4008-CUSA09876_00-TENNISWTEBRGEDIT",
-      "imageUrl": null,
+      "title": "Ultimate Fishing Simulator",
+      "url": "https://store.playstation.com/fr-fr/product/EP1549-CUSA25897_00-CLABS0UFS2020101",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202012/1511/4geDu8gBvTUcqXuCVsMzpcdR.jpg",
       "currentPrice": 2.99,
       "originalPrice": 29.99,
       "discountPercentage": 90,
@@ -1000,16 +1010,6 @@
       "title": "Destiny Connect: Tick-Tock Travelers",
       "url": "https://store.playstation.com/fr-fr/product/EP1063-CUSA15547_00-DESTINYCONNECT00",
       "imageUrl": null,
-      "currentPrice": 3.99,
-      "originalPrice": 39.99,
-      "discountPercentage": 90,
-      "score": 94,
-      "tier": "insane"
-    },
-    {
-      "title": "Poison Control",
-      "url": "https://store.playstation.com/fr-fr/product/EP1063-CUSA24433_00-DOKUMUSU00000000",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202103/0302/4KBc1OqoBb61PlGMrnE3YYaW.png",
       "currentPrice": 3.99,
       "originalPrice": 39.99,
       "discountPercentage": 90,
