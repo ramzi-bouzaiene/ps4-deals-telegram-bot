@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-11T21:51:48.995Z",
+  "generatedAt": "2026-11-12T02:44:03.817Z",
   "region": "FR",
   "currency": "EUR",
   "symbol": "€",
   "minimumDealScore": 80,
   "stats": {
-    "total": 1538,
-    "scored60": 1528,
-    "scored80": 1137,
-    "scored90": 369,
+    "total": 1544,
+    "scored60": 1534,
+    "scored80": 1141,
+    "scored90": 370,
     "avgDiscount": 69,
     "maxScore": 98,
     "maxScoreTitle": "CRYSTAR",
@@ -127,9 +127,9 @@
       "tier": "insane"
     },
     {
-      "title": "Aery – Heaven & Hell",
-      "url": "https://store.playstation.com/fr-fr/product/EP5987-CUSA43468_00-0667306010168761",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202307/1812/612b1bcf938570978e03d1c098c54d7b000832adb25dfa23.jpg",
+      "title": "Mech Mechanic Simulator",
+      "url": "https://store.playstation.com/fr-fr/product/EP1549-CUSA29889_00-CLABS0MMS2021071",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202201/1318/8NrWQMcqNXqO8633EPPkamI8.png",
       "currentPrice": 0.99,
       "originalPrice": 9.99,
       "discountPercentage": 90,
@@ -137,9 +137,9 @@
       "tier": "insane"
     },
     {
-      "title": "Mech Mechanic Simulator",
-      "url": "https://store.playstation.com/fr-fr/product/EP1549-CUSA29889_00-CLABS0MMS2021071",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202201/1318/8NrWQMcqNXqO8633EPPkamI8.png",
+      "title": "Aery – Heaven & Hell",
+      "url": "https://store.playstation.com/fr-fr/product/EP5987-CUSA43468_00-0667306010168761",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202307/1812/612b1bcf938570978e03d1c098c54d7b000832adb25dfa23.jpg",
       "currentPrice": 0.99,
       "originalPrice": 9.99,
       "discountPercentage": 90,
@@ -277,16 +277,6 @@
       "tier": "insane"
     },
     {
-      "title": "Action Henk",
-      "url": "https://store.playstation.com/fr-fr/product/EP4395-CUSA02910_00-ACTIONHENKPS4000",
-      "imageUrl": null,
-      "currentPrice": 1.49,
-      "originalPrice": 14.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
       "title": "Startenders: Barman Intergalactique",
       "url": "https://store.playstation.com/fr-fr/product/EP5816-PPSA09575_00-5948074153462564",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202202/1416/2HDWYSNwUZ4mIdxpEg9NNdof.png",
@@ -299,6 +289,16 @@
     {
       "title": "Wulverblade",
       "url": "https://store.playstation.com/fr-fr/product/EP0196-CUSA10396_00-0000000000000000",
+      "imageUrl": null,
+      "currentPrice": 1.49,
+      "originalPrice": 14.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
+      "title": "Action Henk",
+      "url": "https://store.playstation.com/fr-fr/product/EP4395-CUSA02910_00-ACTIONHENKPS4000",
       "imageUrl": null,
       "currentPrice": 1.49,
       "originalPrice": 14.99,
@@ -349,6 +349,16 @@
     {
       "title": "Claire: Extended Cut",
       "url": "https://store.playstation.com/fr-fr/product/EP0310-CUSA05466_00-CLAIREEXTENDEDCU",
+      "imageUrl": null,
+      "currentPrice": 1.69,
+      "originalPrice": 16.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
+      "title": "The Stealth Inc 1 & 2 Ultimate-est Edition",
+      "url": "https://store.playstation.com/fr-fr/product/EP4395-CUSA01431_00-SINCULTIMATEST00",
       "imageUrl": null,
       "currentPrice": 1.69,
       "originalPrice": 16.99,
@@ -487,16 +497,6 @@
       "tier": "insane"
     },
     {
-      "title": "Agony",
-      "url": "https://store.playstation.com/fr-fr/product/EP3617-CUSA11622_00-AGONY00000000666",
-      "imageUrl": null,
-      "currentPrice": 1.99,
-      "originalPrice": 19.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
       "title": "BlazBlue Chronophantasma Extend",
       "url": "https://store.playstation.com/fr-fr/product/EP4293-CUSA03254_00-BBCPPS4000001000",
       "imageUrl": null,
@@ -510,6 +510,16 @@
       "title": "Mr. DRILLER DrillLand PS4 & PS5",
       "url": "https://store.playstation.com/fr-fr/product/EP0700-PPSA02645_00-PS5MRDRILLERDL0E",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202110/1313/WgtwiuKNUd0Yf1cCNgb8bsHq.jpg",
+      "currentPrice": 1.99,
+      "originalPrice": 19.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
+      "title": "Agony",
+      "url": "https://store.playstation.com/fr-fr/product/EP3617-CUSA11622_00-AGONY00000000666",
+      "imageUrl": null,
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -987,16 +997,6 @@
       "tier": "insane"
     },
     {
-      "title": "WORLDEND SYNDROME",
-      "url": "https://store.playstation.com/fr-fr/product/EP4293-CUSA15380_00-WESEUGAME0000000",
-      "imageUrl": null,
-      "currentPrice": 3.99,
-      "originalPrice": 39.99,
-      "discountPercentage": 90,
-      "score": 94,
-      "tier": "insane"
-    },
-    {
       "title": "Homefront®: The Revolution 'Freedom Fighter' Bundle",
       "url": "https://store.playstation.com/fr-fr/product/EP4062-CUSA00938_00-HFDIGITALDELUXEE",
       "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202010/1520/mlXQrbFpYsA80f1p7mZhmm31.jpg",
@@ -1007,8 +1007,8 @@
       "tier": "insane"
     },
     {
-      "title": "Destiny Connect: Tick-Tock Travelers",
-      "url": "https://store.playstation.com/fr-fr/product/EP1063-CUSA15547_00-DESTINYCONNECT00",
+      "title": "WORLDEND SYNDROME",
+      "url": "https://store.playstation.com/fr-fr/product/EP4293-CUSA15380_00-WESEUGAME0000000",
       "imageUrl": null,
       "currentPrice": 3.99,
       "originalPrice": 39.99,
