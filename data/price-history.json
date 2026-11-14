@@ -39625,5 +39625,41 @@
         "date": "2026-11-13"
       }
     ]
+  },
+  "turok-trilogy-bundle": {
+    "prices": [
+      {
+        "price": 14.99,
+        "currency": "EUR",
+        "date": "2026-11-14"
+      }
+    ]
+  },
+  "xuan-yuan-sword-7": {
+    "prices": [
+      {
+        "price": 19.99,
+        "currency": "EUR",
+        "date": "2026-11-14"
+      }
+    ]
+  },
+  "we-love-katamari-reroll-royal-reverie-special-edition": {
+    "prices": [
+      {
+        "price": 9.99,
+        "currency": "EUR",
+        "date": "2026-11-14"
+      }
+    ]
+  },
+  "united-assault-final-stand": {
+    "prices": [
+      {
+        "price": 4.99,
+        "currency": "EUR",
+        "date": "2026-11-14"
+      }
+    ]
   }
 }
