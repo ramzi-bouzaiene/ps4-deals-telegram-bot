@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-15T06:58:56.219Z",
+  "generatedAt": "2026-11-15T14:40:13.398Z",
   "region": "FR",
   "currency": "EUR",
   "symbol": "€",
   "minimumDealScore": 80,
   "stats": {
-    "total": 1534,
-    "scored60": 1524,
-    "scored80": 1134,
-    "scored90": 366,
+    "total": 1533,
+    "scored60": 1523,
+    "scored80": 1133,
+    "scored90": 365,
     "avgDiscount": 69,
     "maxScore": 98,
     "maxScoreTitle": "CRYSTAR",
@@ -349,16 +349,6 @@
     {
       "title": "Claire: Extended Cut",
       "url": "https://store.playstation.com/fr-fr/product/EP0310-CUSA05466_00-CLAIREEXTENDEDCU",
-      "imageUrl": null,
-      "currentPrice": 1.69,
-      "originalPrice": 16.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
-      "title": "The Stealth Inc 1 & 2 Ultimate-est Edition",
-      "url": "https://store.playstation.com/fr-fr/product/EP4395-CUSA01431_00-SINCULTIMATEST00",
       "imageUrl": null,
       "currentPrice": 1.69,
       "originalPrice": 16.99,
@@ -1010,6 +1000,16 @@
       "title": "Sniper Ghost Warrior Contracts 2 Ultimate Edition",
       "url": "https://store.playstation.com/fr-fr/product/EP4321-PPSA03131_00-4808331744420553",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202107/3010/230zlIRedluy6EpAKb5vo0kM.jpg",
+      "currentPrice": 4.99,
+      "originalPrice": 49.99,
+      "discountPercentage": 90,
+      "score": 94,
+      "tier": "insane"
+    },
+    {
+      "title": "Darksiders III Digital Deluxe Edition",
+      "url": "https://store.playstation.com/fr-fr/product/EP4389-CUSA08798_00-DS3DIGITALDELUXE",
+      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202010/1612/eM7TZM6reGmPxwyURzJN4e3U.jpg",
       "currentPrice": 4.99,
       "originalPrice": 49.99,
       "discountPercentage": 90,
