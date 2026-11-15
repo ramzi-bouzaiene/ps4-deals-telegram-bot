@@ -39661,5 +39661,68 @@
         "date": "2026-11-14"
       }
     ]
+  },
+  "warhammer-40-000-shootas-blood-teef": {
+    "prices": [
+      {
+        "price": 7.99,
+        "currency": "EUR",
+        "date": "2026-11-15"
+      }
+    ]
+  },
+  "umamusume-pretty-derby-party-dash-special-edition": {
+    "prices": [
+      {
+        "price": 17.99,
+        "currency": "EUR",
+        "date": "2026-11-15"
+      }
+    ]
+  },
+  "vasara-collection": {
+    "prices": [
+      {
+        "price": 3.99,
+        "currency": "EUR",
+        "date": "2026-11-15"
+      }
+    ]
+  },
+  "winter-ember": {
+    "prices": [
+      {
+        "price": 8.99,
+        "currency": "EUR",
+        "date": "2026-11-15"
+      }
+    ]
+  },
+  "who-pressed-mute-on-uncle-marcus": {
+    "prices": [
+      {
+        "price": 5.19,
+        "currency": "EUR",
+        "date": "2026-11-15"
+      }
+    ]
+  },
+  "whisper-le-debut-d-une-belle-amitie": {
+    "prices": [
+      {
+        "price": 4.99,
+        "currency": "EUR",
+        "date": "2026-11-15"
+      }
+    ]
+  },
+  "tribal-pass": {
+    "prices": [
+      {
+        "price": 1.19,
+        "currency": "EUR",
+        "date": "2026-11-15"
+      }
+    ]
   }
 }
