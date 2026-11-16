@@ -204,6 +204,11 @@
         "price": 4.99,
         "currency": "EUR",
         "date": "2026-10-22"
+      },
+      {
+        "price": 14.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
       }
     ]
   },
@@ -231,6 +236,11 @@
         "price": 8.99,
         "currency": "EUR",
         "date": "2026-10-08"
+      },
+      {
+        "price": 5.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
       }
     ]
   },
@@ -344,6 +354,11 @@
         "price": 12.49,
         "currency": "EUR",
         "date": "2026-10-22"
+      },
+      {
+        "price": 9.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
       }
     ]
   },
@@ -632,6 +647,11 @@
         "price": 13.99,
         "currency": "EUR",
         "date": "2026-10-08"
+      },
+      {
+        "price": 17.49,
+        "currency": "EUR",
+        "date": "2026-11-16"
       }
     ]
   },
@@ -758,6 +778,11 @@
         "price": 8.99,
         "currency": "EUR",
         "date": "2026-10-08"
+      },
+      {
+        "price": 7.49,
+        "currency": "EUR",
+        "date": "2026-11-16"
       }
     ]
   },
@@ -857,6 +882,11 @@
         "price": 11.99,
         "currency": "EUR",
         "date": "2026-10-08"
+      },
+      {
+        "price": 13.59,
+        "currency": "EUR",
+        "date": "2026-11-16"
       }
     ]
   },
@@ -1046,6 +1076,11 @@
         "price": 14.99,
         "currency": "EUR",
         "date": "2026-10-08"
+      },
+      {
+        "price": 12.49,
+        "currency": "EUR",
+        "date": "2026-11-16"
       }
     ]
   },
@@ -1280,6 +1315,11 @@
         "price": 9.99,
         "currency": "EUR",
         "date": "2026-10-08"
+      },
+      {
+        "price": 8.74,
+        "currency": "EUR",
+        "date": "2026-11-16"
       }
     ]
   },
@@ -1415,6 +1455,11 @@
         "price": 4.49,
         "currency": "EUR",
         "date": "2026-10-08"
+      },
+      {
+        "price": 3.59,
+        "currency": "EUR",
+        "date": "2026-11-16"
       }
     ]
   },
@@ -1802,6 +1847,11 @@
         "price": 3.99,
         "currency": "EUR",
         "date": "2026-10-08"
+      },
+      {
+        "price": 4.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
       }
     ]
   },
@@ -2000,6 +2050,11 @@
         "price": 1.99,
         "currency": "EUR",
         "date": "2026-10-08"
+      },
+      {
+        "price": 4.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
       }
     ]
   },
@@ -2072,6 +2127,11 @@
         "price": 10.49,
         "currency": "EUR",
         "date": "2026-10-08"
+      },
+      {
+        "price": 8.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
       }
     ]
   },
@@ -3548,6 +3608,11 @@
         "price": 3.99,
         "currency": "EUR",
         "date": "2026-10-08"
+      },
+      {
+        "price": 4.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
       }
     ]
   },
@@ -4133,6 +4198,11 @@
         "price": 1.79,
         "currency": "EUR",
         "date": "2026-10-08"
+      },
+      {
+        "price": 1.34,
+        "currency": "EUR",
+        "date": "2026-11-16"
       }
     ]
   },
@@ -4151,6 +4221,11 @@
         "price": 5.99,
         "currency": "EUR",
         "date": "2026-10-08"
+      },
+      {
+        "price": 6.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
       }
     ]
   },
@@ -4205,6 +4280,11 @@
         "price": 20.99,
         "currency": "EUR",
         "date": "2026-10-08"
+      },
+      {
+        "price": 17.49,
+        "currency": "EUR",
+        "date": "2026-11-16"
       }
     ]
   },
@@ -4390,6 +4470,11 @@
         "price": 9.44,
         "currency": "EUR",
         "date": "2026-11-04"
+      },
+      {
+        "price": 8.74,
+        "currency": "EUR",
+        "date": "2026-11-16"
       }
     ]
   },
@@ -5299,6 +5384,11 @@
         "price": 2.99,
         "currency": "EUR",
         "date": "2026-10-08"
+      },
+      {
+        "price": 0.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
       }
     ]
   },
@@ -5659,6 +5749,11 @@
         "price": 3.74,
         "currency": "EUR",
         "date": "2026-10-08"
+      },
+      {
+        "price": 2.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
       }
     ]
   },
@@ -6892,6 +6987,11 @@
         "price": 10.99,
         "currency": "EUR",
         "date": "2026-10-08"
+      },
+      {
+        "price": 13.74,
+        "currency": "EUR",
+        "date": "2026-11-16"
       }
     ]
   },
@@ -7063,6 +7163,11 @@
         "price": 29.69,
         "currency": "EUR",
         "date": "2026-10-08"
+      },
+      {
+        "price": 22.49,
+        "currency": "EUR",
+        "date": "2026-11-16"
       }
     ]
   },
@@ -7306,6 +7411,11 @@
         "price": 3.99,
         "currency": "EUR",
         "date": "2026-10-08"
+      },
+      {
+        "price": 2.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
       }
     ]
   },
@@ -7315,6 +7425,11 @@
         "price": 5.19,
         "currency": "EUR",
         "date": "2026-10-08"
+      },
+      {
+        "price": 3.89,
+        "currency": "EUR",
+        "date": "2026-11-16"
       }
     ]
   },
@@ -7324,6 +7439,11 @@
         "price": 4.79,
         "currency": "EUR",
         "date": "2026-10-08"
+      },
+      {
+        "price": 3.59,
+        "currency": "EUR",
+        "date": "2026-11-16"
       }
     ]
   },
@@ -7477,6 +7597,11 @@
         "price": 8.99,
         "currency": "EUR",
         "date": "2026-10-08"
+      },
+      {
+        "price": 4.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
       }
     ]
   },
@@ -7918,6 +8043,11 @@
         "price": 2.99,
         "currency": "EUR",
         "date": "2026-10-08"
+      },
+      {
+        "price": 2.24,
+        "currency": "EUR",
+        "date": "2026-11-16"
       }
     ]
   },
@@ -13302,6 +13432,11 @@
         "price": 9.99,
         "currency": "EUR",
         "date": "2026-10-08"
+      },
+      {
+        "price": 12.49,
+        "currency": "EUR",
+        "date": "2026-11-16"
       }
     ]
   },
@@ -39722,6 +39857,2058 @@
         "price": 1.19,
         "currency": "EUR",
         "date": "2026-11-15"
+      }
+    ]
+  },
+  "call-of-duty-black-ops-ii": {
+    "prices": [
+      {
+        "price": 19.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "call-of-duty-black-ops": {
+    "prices": [
+      {
+        "price": 19.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "call-of-duty-black-ops-iii-zombies-chronicles-edition": {
+    "prices": [
+      {
+        "price": 14.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "battlefield-1": {
+    "prices": [
+      {
+        "price": 4.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "sekiro-shadows-die-twice-edition-goty": {
+    "prices": [
+      {
+        "price": 34.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "battlefield-4": {
+    "prices": [
+      {
+        "price": 4.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "tom-clancy-s-the-division-2": {
+    "prices": [
+      {
+        "price": 7.49,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "the-crew-motorfest": {
+    "prices": [
+      {
+        "price": 11.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "far-cry-6-edition-game-of-the-year": {
+    "prices": [
+      {
+        "price": 29.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "danganronpa-v3-killing-harmony": {
+    "prices": [
+      {
+        "price": 11.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "five-nights-at-freddy-s-security-breach": {
+    "prices": [
+      {
+        "price": 19.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "matchbox-aventures-en-voitures": {
+    "prices": [
+      {
+        "price": 7.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "the-crew-motorfest-bundle-cross-gen": {
+    "prices": [
+      {
+        "price": 13.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "hot-wheels-unleashed-2-turbocharged-ps4-ps5": {
+    "prices": [
+      {
+        "price": 5.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "farcry-3-classic-edition": {
+    "prices": [
+      {
+        "price": 7.49,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "south-park-le-baton-de-la-verite": {
+    "prices": [
+      {
+        "price": 7.49,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "asterix-obelix-xxl3-le-menhir-de-cristal": {
+    "prices": [
+      {
+        "price": 1.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "empire-of-sin": {
+    "prices": [
+      {
+        "price": 9.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "danganronpa-s-ultimate-summer-camp": {
+    "prices": [
+      {
+        "price": 3.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "neva": {
+    "prices": [
+      {
+        "price": 9.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "the-messenger": {
+    "prices": [
+      {
+        "price": 3.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "warhammer-40-000-battlesector": {
+    "prices": [
+      {
+        "price": 17.49,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "call-of-duty-black-ops-iii-zombies-chronicles-deluxe": {
+    "prices": [
+      {
+        "price": 34.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "the-catch-carp-coarse-collector-s-edition": {
+    "prices": [
+      {
+        "price": 6.59,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "assassin-s-creed-iii-remastered": {
+    "prices": [
+      {
+        "price": 9.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "ofc-ultimate-fighting-club": {
+    "prices": [
+      {
+        "price": 5.24,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "assassin-s-creed-odyssey": {
+    "prices": [
+      {
+        "price": 13.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "farcry-6": {
+    "prices": [
+      {
+        "price": 17.49,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "asterix-obelix-xxl-2": {
+    "prices": [
+      {
+        "price": 1.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "castlevania-advance-collection": {
+    "prices": [
+      {
+        "price": 9.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "sword-art-online-hollow-realization": {
+    "prices": [
+      {
+        "price": 9.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "chained-climb-together": {
+    "prices": [
+      {
+        "price": 1.79,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "marvel-s-spider-man-miles-morales-ps4-ps5": {
+    "prices": [
+      {
+        "price": 29.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "assassin-s-creed-mirage": {
+    "prices": [
+      {
+        "price": 14.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "16-bit-soccer": {
+    "prices": [
+      {
+        "price": 2.39,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "428-shibuya-scramble": {
+    "prices": [
+      {
+        "price": 7.49,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "502-s-arcade": {
+    "prices": [
+      {
+        "price": 2.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "adventures-in-time-space-ps4-ps5": {
+    "prices": [
+      {
+        "price": 5.19,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "aew-fight-forever-ultimate-edition": {
+    "prices": [
+      {
+        "price": 24.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "after-the-fall-complete-edition": {
+    "prices": [
+      {
+        "price": 5.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "agatha-christie-collection-2": {
+    "prices": [
+      {
+        "price": 8.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "a-hole-new-world-bundle-game-theme": {
+    "prices": [
+      {
+        "price": 1.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "airheart-tales-of-broken-wings": {
+    "prices": [
+      {
+        "price": 5.39,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "air-twister": {
+    "prices": [
+      {
+        "price": 4.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "ai-the-somnium-files": {
+    "prices": [
+      {
+        "price": 3.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "alchemist-adventure": {
+    "prices": [
+      {
+        "price": 3.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "alder-s-blood-definitive-edition": {
+    "prices": [
+      {
+        "price": 5.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "alternate-jake-hunter-daedalus-the-awakening-of-golden-jazz": {
+    "prices": [
+      {
+        "price": 4.31,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "aqua-kitty-dx-pawsome-bundle": {
+    "prices": [
+      {
+        "price": 2.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "aqua-kitty-milk-mine-defender-dx": {
+    "prices": [
+      {
+        "price": 1.97,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "arkanoid-eternal-battle": {
+    "prices": [
+      {
+        "price": 1.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "artpulse": {
+    "prices": [
+      {
+        "price": 2.59,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "assassin-s-creed-mirage-master-assassin-edition": {
+    "prices": [
+      {
+        "price": 26.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "assassin-s-creed-odyssey-edition-ultimate": {
+    "prices": [
+      {
+        "price": 22.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "astebros": {
+    "prices": [
+      {
+        "price": 2.59,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "astro-aqua-kitty-bundle": {
+    "prices": [
+      {
+        "price": 3.89,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "atelier-firis-the-alchemist-and-the-mysterious-journey-dx": {
+    "prices": [
+      {
+        "price": 19.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "atelier-lydie-suelle-the-alchemists-and-the-mysterious-paintings-dx": {
+    "prices": [
+      {
+        "price": 19.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "atelier-meruru-the-apprentice-of-arland-dx": {
+    "prices": [
+      {
+        "price": 9.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "atelier-rorona-the-alchemist-of-arland-dx": {
+    "prices": [
+      {
+        "price": 9.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "atelier-sophie-the-alchemist-of-the-mysterious-book-dx": {
+    "prices": [
+      {
+        "price": 19.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "atelier-totori-the-adventurer-of-arland-dx": {
+    "prices": [
+      {
+        "price": 9.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "atelier-yumia-l-alchimiste-des-souvenirs-et-la-terre-revee-edition-digitale-deluxe-ps4": {
+    "prices": [
+      {
+        "price": 34.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "atelier-yumia-l-alchimiste-des-souvenirs-et-la-terre-revee-edition-digitale-deluxe-ps4-ps5": {
+    "prices": [
+      {
+        "price": 39.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "atv-drift-tricks": {
+    "prices": [
+      {
+        "price": 1.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "bad-dreams": {
+    "prices": [
+      {
+        "price": 1.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "bai-qu-hundreds-of-melodies-ps4-ps5": {
+    "prices": [
+      {
+        "price": 3.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "barn-finders": {
+    "prices": [
+      {
+        "price": 6.64,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "bassmaster-fishing-ps4-and-ps5": {
+    "prices": [
+      {
+        "price": 2.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "beat-hazard-arcade": {
+    "prices": [
+      {
+        "price": 5.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "ben-10-offre": {
+    "prices": [
+      {
+        "price": 14.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "besiege": {
+    "prices": [
+      {
+        "price": 6.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "binaries": {
+    "prices": [
+      {
+        "price": 2.19,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "bioprototype": {
+    "prices": [
+      {
+        "price": 3.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "bioweaver": {
+    "prices": [
+      {
+        "price": 4.79,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "bit-dungeon-plus-bundle-game-theme": {
+    "prices": [
+      {
+        "price": 2.79,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "bladestorm-nightmare": {
+    "prices": [
+      {
+        "price": 14.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "blair-witch-deluxe-edition": {
+    "prices": [
+      {
+        "price": 6.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "blazerush": {
+    "prices": [
+      {
+        "price": 3.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "bookypets-legends": {
+    "prices": [
+      {
+        "price": 3.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "bratz-affiche-ta-mode-edition-complete": {
+    "prices": [
+      {
+        "price": 12.24,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "briks-head-to-head": {
+    "prices": [
+      {
+        "price": 7.59,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "bring-to-light": {
+    "prices": [
+      {
+        "price": 10.49,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "bubsy-the-woolies-strike-back": {
+    "prices": [
+      {
+        "price": 3.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "burly-men-at-sea": {
+    "prices": [
+      {
+        "price": 1.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "burly-men-at-sea-maestro-beard-edition": {
+    "prices": [
+      {
+        "price": 2.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "cannon-dancer-osman": {
+    "prices": [
+      {
+        "price": 2.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "cargo": {
+    "prices": [
+      {
+        "price": 3.89,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "cartoon-party-collection-3-en-1": {
+    "prices": [
+      {
+        "price": 8.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "case-files-behind-closed-doors": {
+    "prices": [
+      {
+        "price": 3.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "catan-edition-pour-console-super-deluxe": {
+    "prices": [
+      {
+        "price": 5.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "cave-digger-vr": {
+    "prices": [
+      {
+        "price": 1.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "chaos-code-new-sign-of-catastrophe": {
+    "prices": [
+      {
+        "price": 3.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "chariot": {
+    "prices": [
+      {
+        "price": 2.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "chariot-bundle": {
+    "prices": [
+      {
+        "price": 3.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "chibi-ninja-shino-kun-treasure-of-demon-tower-ps4-ps5": {
+    "prices": [
+      {
+        "price": 2.79,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "childhood-heroes-3-en-1": {
+    "prices": [
+      {
+        "price": 9.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "chivalry-2-king-s-edition-ps4-ps5": {
+    "prices": [
+      {
+        "price": 11.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "chivalry-2-special-edition-ps4-ps5": {
+    "prices": [
+      {
+        "price": 9.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "cities-skylines-mayor-s-edition": {
+    "prices": [
+      {
+        "price": 24.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "city-of-brass": {
+    "prices": [
+      {
+        "price": 3.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "cladun-returns-this-is-sengoku": {
+    "prices": [
+      {
+        "price": 2.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "clan-n": {
+    "prices": [
+      {
+        "price": 7.49,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "clockwork-aquario": {
+    "prices": [
+      {
+        "price": 1.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "cobra-kai-2-dojos-rising-nemesis-edition": {
+    "prices": [
+      {
+        "price": 11.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "cold-iron": {
+    "prices": [
+      {
+        "price": 1.39,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "conception-plus-maidens-of-the-twelve-stars": {
+    "prices": [
+      {
+        "price": 8.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "contra-operation-galuga-ps4-ps5": {
+    "prices": [
+      {
+        "price": 19.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "corbid-a-colorful-adventure": {
+    "prices": [
+      {
+        "price": 1.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "corbid-colorful-edition": {
+    "prices": [
+      {
+        "price": 2.59,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "cotton-100": {
+    "prices": [
+      {
+        "price": 1.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "cotton-fantasy": {
+    "prices": [
+      {
+        "price": 4.79,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "cotton-reboot": {
+    "prices": [
+      {
+        "price": 7.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "course-avec-ryan-edition-road-trip-deluxe": {
+    "prices": [
+      {
+        "price": 4.49,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "crimsonland": {
+    "prices": [
+      {
+        "price": 3.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "croc-s-dynamite-blast": {
+    "prices": [
+      {
+        "price": 2.39,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "croc-s-world": {
+    "prices": [
+      {
+        "price": 2.39,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "croc-s-world-2": {
+    "prices": [
+      {
+        "price": 2.59,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "croc-s-world-3": {
+    "prices": [
+      {
+        "price": 2.39,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "croc-s-world-4": {
+    "prices": [
+      {
+        "price": 2.39,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "croc-s-world-5": {
+    "prices": [
+      {
+        "price": 2.59,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "croc-s-world-run": {
+    "prices": [
+      {
+        "price": 2.59,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "crypt-of-the-necrodancer": {
+    "prices": [
+      {
+        "price": 2.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "crysis-remastered-trilogy": {
+    "prices": [
+      {
+        "price": 12.49,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "culinary-cooking-master-simulator": {
+    "prices": [
+      {
+        "price": 4.54,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "cursed-castilla-maldita-castilla-ex": {
+    "prices": [
+      {
+        "price": 2.39,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "cute-puppy-academy-dream-island": {
+    "prices": [
+      {
+        "price": 2.19,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "damascus-gear-operation-osaka-hd-edition": {
+    "prices": [
+      {
+        "price": 4.79,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "damascus-gear-operation-tokyo-hd-edition": {
+    "prices": [
+      {
+        "price": 1.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "danganronpa-another-episode-ultra-despair-girls": {
+    "prices": [
+      {
+        "price": 5.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "dariusburst-another-chronicle-ex": {
+    "prices": [
+      {
+        "price": 11.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "darius-cozmic-collection-console": {
+    "prices": [
+      {
+        "price": 16.49,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "darkest-dungeon-ancestral-edition": {
+    "prices": [
+      {
+        "price": 11.09,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "darkness-rollercoaster-definitive-edition": {
+    "prices": [
+      {
+        "price": 1.59,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "darkness-rollercoaster-light-saber-edition": {
+    "prices": [
+      {
+        "price": 1.19,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "darkness-rollercoaster-ultimate-shooter-edition": {
+    "prices": [
+      {
+        "price": 1.59,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "dead-end-job": {
+    "prices": [
+      {
+        "price": 2.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "dead-or-alive-5-last-round": {
+    "prices": [
+      {
+        "price": 9.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "de-exit-eternal-matters": {
+    "prices": [
+      {
+        "price": 5.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "demon-gaze-extra": {
+    "prices": [
+      {
+        "price": 5.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "demons-are-coming-hell-knight": {
+    "prices": [
+      {
+        "price": 1.24,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-deluxe-edition-ps4-ps5": {
+    "prices": [
+      {
+        "price": 24.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-ps4-ps5": {
+    "prices": [
+      {
+        "price": 19.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "deserted": {
+    "prices": [
+      {
+        "price": 4.79,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "destins-le-jeu-de-la-vie-2-pack-vie-de-luxe": {
+    "prices": [
+      {
+        "price": 11.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "destropolis": {
+    "prices": [
+      {
+        "price": 1.79,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "destroy-all-humans-jumbo-pack": {
+    "prices": [
+      {
+        "price": 19.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "detached": {
+    "prices": [
+      {
+        "price": 5.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "detention": {
+    "prices": [
+      {
+        "price": 3.29,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "devastator": {
+    "prices": [
+      {
+        "price": 2.79,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "discolored": {
+    "prices": [
+      {
+        "price": 3.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "discolored-2": {
+    "prices": [
+      {
+        "price": 7.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "doggy-up": {
+    "prices": [
+      {
+        "price": 2.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "donut-break-2-mega-game-bundle": {
+    "prices": [
+      {
+        "price": 7.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "dragon-audit": {
+    "prices": [
+      {
+        "price": 4.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "dreamers-bundle": {
+    "prices": [
+      {
+        "price": 19.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "dreamworks-dragons-legendes-des-neuf-royaumes": {
+    "prices": [
+      {
+        "price": 5.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "earth-defense-force4-1-wingdiver-the-shooter": {
+    "prices": [
+      {
+        "price": 2.39,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "earth-defense-force-world-brothers": {
+    "prices": [
+      {
+        "price": 11.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "earth-defense-force-world-brothers-2-deluxe-edition-ps4-ps5": {
+    "prices": [
+      {
+        "price": 26.24,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "embraced-by-autumn-ps4-ps5": {
+    "prices": [
+      {
+        "price": 7.59,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "escouade-de-sauvetage-de-ryan": {
+    "prices": [
+      {
+        "price": 5.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "euro-fishing-ultimate-edition": {
+    "prices": [
+      {
+        "price": 8.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "everdream-valley-ps4-ps5": {
+    "prices": [
+      {
+        "price": 7.49,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "everspace-edition-stellar": {
+    "prices": [
+      {
+        "price": 5.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "fallen-legion-revenants": {
+    "prices": [
+      {
+        "price": 7.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "far-cry-primal-apex-edition": {
+    "prices": [
+      {
+        "price": 8.74,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "fast-furious-spy-racers-l-ascension-de-sh1ft3r-edition-complete": {
+    "prices": [
+      {
+        "price": 8.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "fire-pro-wrestling-world": {
+    "prices": [
+      {
+        "price": 7.49,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "fire-pro-wrestling-world-deluxe-edition": {
+    "prices": [
+      {
+        "price": 13.49,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "fishing-north-atlantic": {
+    "prices": [
+      {
+        "price": 5.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "fishing-sim-world-pro-tour-collector-s-edition": {
+    "prices": [
+      {
+        "price": 8.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "five-nights-at-freddy-s-help-wanted": {
+    "prices": [
+      {
+        "price": 14.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "flippin-kaktus": {
+    "prices": [
+      {
+        "price": 4.79,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "flower-shop-summer-in-fairbrook-ps4-ps5": {
+    "prices": [
+      {
+        "price": 3.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "food-truck-simulator": {
+    "prices": [
+      {
+        "price": 5.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "fort-boyard-les-defis-pere-fouras": {
+    "prices": [
+      {
+        "price": 7.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "fujii-a-magical-gardening-adventure": {
+    "prices": [
+      {
+        "price": 3.59,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "funko-fusion-mega-man-pack-bundle": {
+    "prices": [
+      {
+        "price": 4.19,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "garfield-collection-2-en-1": {
+    "prices": [
+      {
+        "price": 11.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "garou-mark-of-the-wolves": {
+    "prices": [
+      {
+        "price": 2.24,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "ghostbusters-the-video-game-remastered": {
+    "prices": [
+      {
+        "price": 5.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "ghoulboy-bundle-game-theme": {
+    "prices": [
+      {
+        "price": 2.39,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "giraffe-and-annika": {
+    "prices": [
+      {
+        "price": 8.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "gleamlight": {
+    "prices": [
+      {
+        "price": 3.39,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "golden-force": {
+    "prices": [
+      {
+        "price": 3.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "gravity-thrust": {
+    "prices": [
+      {
+        "price": 2.39,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "gray-dawn": {
+    "prices": [
+      {
+        "price": 3.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "gryphon-knight-epic-edition-definitive": {
+    "prices": [
+      {
+        "price": 4.54,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "guns-n-runs": {
+    "prices": [
+      {
+        "price": 2.59,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "hazel-sky": {
+    "prices": [
+      {
+        "price": 4.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "heavy-fire-red-shadow": {
+    "prices": [
+      {
+        "price": 7.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "henchman-story": {
+    "prices": [
+      {
+        "price": 5.24,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "heroes-of-the-monkey-tavern": {
+    "prices": [
+      {
+        "price": 4.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "hidden-gems-collection-3-en-1": {
+    "prices": [
+      {
+        "price": 8.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "home-sweet-home": {
+    "prices": [
+      {
+        "price": 5.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "hopping-girl-kohane-ex": {
+    "prices": [
+      {
+        "price": 9.59,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "horned-knight": {
+    "prices": [
+      {
+        "price": 2.39,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "horse-tales-la-vallee-d-emeraude-deluxe": {
+    "prices": [
+      {
+        "price": 9.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "hotline-miami-collection": {
+    "prices": [
+      {
+        "price": 6.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "hot-wheels-unleashed-2-turbocharged-deluxe-edition-ps4-ps5": {
+    "prices": [
+      {
+        "price": 8.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "hot-wheels-unleashed-2-turbocharged-legendary-edition-ps4-ps5": {
+    "prices": [
+      {
+        "price": 11.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "how-to-fool-a-liar-king-remastered-ps4-ps5": {
+    "prices": [
+      {
+        "price": 5.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "hyper-sentinel": {
+    "prices": [
+      {
+        "price": 3.49,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "i-and-me": {
+    "prices": [
+      {
+        "price": 1.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "iconoclasts": {
+    "prices": [
+      {
+        "price": 3.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "i-hate-running-backwards": {
+    "prices": [
+      {
+        "price": 2.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "i-m-hungry": {
+    "prices": [
+      {
+        "price": 6.79,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "immortals-fenyx-rising-edition-gold-ps4-ps5": {
+    "prices": [
+      {
+        "price": 14.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "indie-essentials-walking-simulators-2": {
+    "prices": [
+      {
+        "price": 5.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "intrepid-izzy-ps4-ps5": {
+    "prices": [
+      {
+        "price": 4.39,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "irem-collection-volume-1-2-bundle": {
+    "prices": [
+      {
+        "price": 11.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "iron-crypticle": {
+    "prices": [
+      {
+        "price": 2.69,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "jet-set-knights": {
+    "prices": [
+      {
+        "price": 1.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "jewel-fever-2": {
+    "prices": [
+      {
+        "price": 2.39,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "jewel-fever-3": {
+    "prices": [
+      {
+        "price": 2.39,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "jewel-rotation": {
+    "prices": [
+      {
+        "price": 2.39,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "kaichu-the-kaiju-dating-sim": {
+    "prices": [
+      {
+        "price": 3.49,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "kamiwaza-way-of-the-thief": {
+    "prices": [
+      {
+        "price": 7.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "katana-kami-a-way-of-the-samurai-story": {
+    "prices": [
+      {
+        "price": 5.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "kingdom-come-deliverance-saga-bundle": {
+    "prices": [
+      {
+        "price": 29.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "kingdom-coronation-collection": {
+    "prices": [
+      {
+        "price": 24.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "kingdoms-of-amalur-re-reckoning-fate-edition": {
+    "prices": [
+      {
+        "price": 13.74,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "klonoa-phantasy-reverie-series-ps4-ps5": {
+    "prices": [
+      {
+        "price": 12.49,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "lair-of-the-clockwork-god": {
+    "prices": [
+      {
+        "price": 3.59,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "la-mulana": {
+    "prices": [
+      {
+        "price": 4.49,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "la-mulana-2": {
+    "prices": [
+      {
+        "price": 7.49,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "l-edition-gold-de-paladins": {
+    "prices": [
+      {
+        "price": 5.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
       }
     ]
   }
