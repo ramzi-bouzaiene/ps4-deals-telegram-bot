@@ -43311,5 +43311,23 @@
         "date": "2026-11-16"
       }
     ]
+  },
+  "peppa-pig-aventures-autour-du-monde": {
+    "prices": [
+      {
+        "price": 5.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "the-jackbox-survey-scramble": {
+    "prices": [
+      {
+        "price": 4.99,
+        "currency": "EUR",
+        "date": "2026-11-16"
+      }
+    ]
   }
 }

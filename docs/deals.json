@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-16T07:04:45.201Z",
+  "generatedAt": "2026-11-16T17:19:31.851Z",
   "region": "FR",
   "currency": "EUR",
   "symbol": "€",
   "minimumDealScore": 80,
   "stats": {
-    "total": 1501,
-    "scored60": 1491,
+    "total": 1495,
+    "scored60": 1485,
     "scored80": 1120,
-    "scored90": 383,
+    "scored90": 380,
     "avgDiscount": 71,
     "maxScore": 98,
     "maxScoreTitle": "CRYSTAR",
@@ -507,6 +507,16 @@
       "tier": "insane"
     },
     {
+      "title": "Tennis World Tour",
+      "url": "https://store.playstation.com/fr-fr/product/EP4008-CUSA09876_00-TWTSIEE000000000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202010/1915/n88Fu2hQ4cxipYooHuwcLXBk.jpg",
+      "currentPrice": 1.99,
+      "originalPrice": 19.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
       "title": "XIII",
       "url": "https://store.playstation.com/fr-fr/product/EP4295-CUSA19085_00-XIIIEUROPE000000",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202208/0512/iadts6x0cDLBGE6RQoNlhX2C.png",
@@ -580,16 +590,6 @@
       "title": "RICO",
       "url": "https://store.playstation.com/fr-fr/product/EP4034-CUSA11248_00-RICO000000000000",
       "imageUrl": null,
-      "currentPrice": 1.99,
-      "originalPrice": 19.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
-      "title": "Tennis World Tour",
-      "url": "https://store.playstation.com/fr-fr/product/EP4008-CUSA09876_00-TWTSIEE000000000",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202010/1915/n88Fu2hQ4cxipYooHuwcLXBk.jpg",
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -807,6 +807,16 @@
       "tier": "insane"
     },
     {
+      "title": "Metro Exodus",
+      "url": "https://store.playstation.com/fr-fr/product/EP4062-PPSA01749_00-METROEXODUS0GEN9",
+      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202011/0414/g33sqSWPtRPmejWlhC6hjYoU.png",
+      "currentPrice": 2.99,
+      "originalPrice": 29.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
       "title": "LIMBO & INSIDE Bundle",
       "url": "https://store.playstation.com/fr-fr/product/EP2054-CUSA01369_00-7598584263277541",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202512/0815/f15404b5f1b6a6288fb6b6648e094288b4d17f736e0bfbd6.jpg",
@@ -840,16 +850,6 @@
       "title": "Tennis World Tour - Roland-Garros Edition",
       "url": "https://store.playstation.com/fr-fr/product/EP4008-CUSA09876_00-TENNISWTEBRGEDIT",
       "imageUrl": null,
-      "currentPrice": 2.99,
-      "originalPrice": 29.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
-      "title": "Metro Exodus",
-      "url": "https://store.playstation.com/fr-fr/product/EP4062-PPSA01749_00-METROEXODUS0GEN9",
-      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202011/0414/g33sqSWPtRPmejWlhC6hjYoU.png",
       "currentPrice": 2.99,
       "originalPrice": 29.99,
       "discountPercentage": 90,
