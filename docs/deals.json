@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-17T08:59:54.996Z",
+  "generatedAt": "2026-11-17T18:25:49.876Z",
   "region": "FR",
   "currency": "EUR",
   "symbol": "€",
   "minimumDealScore": 80,
   "stats": {
-    "total": 1600,
-    "scored60": 1590,
-    "scored80": 1215,
-    "scored90": 418,
+    "total": 1602,
+    "scored60": 1593,
+    "scored80": 1220,
+    "scored90": 421,
     "avgDiscount": 72,
     "maxScore": 98,
     "maxScoreTitle": "CRYSTAR",
@@ -192,16 +192,6 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202511/2413/b6f590a16b3d5aa2e60506ab672fc707353a86609b35a0a6.jpg",
       "currentPrice": 1.12,
       "originalPrice": 11.25,
-      "discountPercentage": 90,
-      "score": 96,
-      "tier": "insane"
-    },
-    {
-      "title": "SteamWorld Dig 2",
-      "url": "https://store.playstation.com/fr-fr/product/EP4473-CUSA07987_00-00SWDIG2CROSSBUY",
-      "imageUrl": null,
-      "currentPrice": 1.99,
-      "originalPrice": 19.99,
       "discountPercentage": 90,
       "score": 96,
       "tier": "insane"
@@ -559,6 +549,16 @@
     {
       "title": "RICO",
       "url": "https://store.playstation.com/fr-fr/product/EP4034-CUSA11248_00-RICO000000000000",
+      "imageUrl": null,
+      "currentPrice": 1.99,
+      "originalPrice": 19.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
+      "title": "SteamWorld Dig 2",
+      "url": "https://store.playstation.com/fr-fr/product/EP4473-CUSA07987_00-00SWDIG2CROSSBUY",
       "imageUrl": null,
       "currentPrice": 1.99,
       "originalPrice": 19.99,
