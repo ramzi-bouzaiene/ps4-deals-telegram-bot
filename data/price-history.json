@@ -3165,6 +3165,11 @@
         "price": 2.99,
         "currency": "EUR",
         "date": "2026-10-08"
+      },
+      {
+        "price": 1.99,
+        "currency": "EUR",
+        "date": "2026-11-17"
       }
     ]
   },
@@ -44580,6 +44585,114 @@
     "prices": [
       {
         "price": 2.24,
+        "currency": "EUR",
+        "date": "2026-11-17"
+      }
+    ]
+  },
+  "warriors-all-stars": {
+    "prices": [
+      {
+        "price": 8.99,
+        "currency": "EUR",
+        "date": "2026-11-17"
+      }
+    ]
+  },
+  "disciples-liberation-digital-deluxe-edition-ps4-ps5": {
+    "prices": [
+      {
+        "price": 14.99,
+        "currency": "EUR",
+        "date": "2026-11-17"
+      }
+    ]
+  },
+  "the-walking-dead-l-ultime-saison-season-pass": {
+    "prices": [
+      {
+        "price": 5.99,
+        "currency": "EUR",
+        "date": "2026-11-17"
+      }
+    ]
+  },
+  "sword-and-fairy-together-forever-ps4-ps5": {
+    "prices": [
+      {
+        "price": 13.99,
+        "currency": "EUR",
+        "date": "2026-11-17"
+      }
+    ]
+  },
+  "scandinavian-cottage-survival-simulator": {
+    "prices": [
+      {
+        "price": 7.49,
+        "currency": "EUR",
+        "date": "2026-11-17"
+      }
+    ]
+  },
+  "earth-defense-force-6-ps4-ps5": {
+    "prices": [
+      {
+        "price": 24.59,
+        "currency": "EUR",
+        "date": "2026-11-17"
+      }
+    ]
+  },
+  "zombie-army-4-dead-war-complete-edition": {
+    "prices": [
+      {
+        "price": 23.99,
+        "currency": "EUR",
+        "date": "2026-11-17"
+      }
+    ]
+  },
+  "wallachia-reign-of-dracula": {
+    "prices": [
+      {
+        "price": 2.99,
+        "currency": "EUR",
+        "date": "2026-11-17"
+      }
+    ]
+  },
+  "exocross": {
+    "prices": [
+      {
+        "price": 4.99,
+        "currency": "EUR",
+        "date": "2026-11-17"
+      }
+    ]
+  },
+  "fear-of-biosec-avatar-bundle": {
+    "prices": [
+      {
+        "price": 2.99,
+        "currency": "EUR",
+        "date": "2026-11-17"
+      }
+    ]
+  },
+  "what-the-golf": {
+    "prices": [
+      {
+        "price": 8.49,
+        "currency": "EUR",
+        "date": "2026-11-17"
+      }
+    ]
+  },
+  "the-shadow-warrior-collection": {
+    "prices": [
+      {
+        "price": 9.99,
         "currency": "EUR",
         "date": "2026-11-17"
       }
