@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-16T17:19:31.851Z",
+  "generatedAt": "2026-11-17T00:58:56.055Z",
   "region": "FR",
   "currency": "EUR",
   "symbol": "€",
   "minimumDealScore": 80,
   "stats": {
-    "total": 1495,
-    "scored60": 1485,
-    "scored80": 1120,
+    "total": 1492,
+    "scored60": 1482,
+    "scored80": 1119,
     "scored90": 380,
     "avgDiscount": 71,
     "maxScore": 98,
@@ -177,16 +177,6 @@
       "tier": "insane"
     },
     {
-      "title": "Coffee Crisis",
-      "url": "https://store.playstation.com/fr-fr/product/EP4681-CUSA16512_00-0000000000000001",
-      "imageUrl": null,
-      "currentPrice": 0.99,
-      "originalPrice": 9.99,
-      "discountPercentage": 90,
-      "score": 96,
-      "tier": "insane"
-    },
-    {
       "title": "Surgeon Simulator: Anniversary Edition",
       "url": "https://store.playstation.com/fr-fr/product/EP4491-CUSA00861_00-SURGEONSIM000001",
       "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202011/0204/XfRceqkPd7Y4TWKZmYmXDwua.png",
@@ -242,16 +232,6 @@
       "imageUrl": null,
       "currentPrice": 1.29,
       "originalPrice": 12.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
-      "title": "Cold Iron",
-      "url": "https://store.playstation.com/fr-fr/product/EP3325-CUSA11281_00-COLDIRON00000000",
-      "imageUrl": null,
-      "currentPrice": 1.39,
-      "originalPrice": 13.99,
       "discountPercentage": 90,
       "score": 95,
       "tier": "insane"
@@ -637,8 +617,8 @@
       "tier": "insane"
     },
     {
-      "title": "GUILTY GEAR Xrd -REVELATOR-",
-      "url": "https://store.playstation.com/fr-fr/product/EP4293-CUSA04759_00-GGXRDREVEU000100",
+      "title": "Ritual: Crown of Horns",
+      "url": "https://store.playstation.com/fr-fr/product/EP3385-CUSA18415_00-RITUALCOH000DDFD",
       "imageUrl": null,
       "currentPrice": 1.99,
       "originalPrice": 19.99,
@@ -647,8 +627,8 @@
       "tier": "insane"
     },
     {
-      "title": "Ritual: Crown of Horns",
-      "url": "https://store.playstation.com/fr-fr/product/EP3385-CUSA18415_00-RITUALCOH000DDFD",
+      "title": "GUILTY GEAR Xrd -REVELATOR-",
+      "url": "https://store.playstation.com/fr-fr/product/EP4293-CUSA04759_00-GGXRDREVEU000100",
       "imageUrl": null,
       "currentPrice": 1.99,
       "originalPrice": 19.99,
@@ -1010,6 +990,26 @@
       "title": "One Piece Burning Blood",
       "url": "https://store.playstation.com/fr-fr/product/EP0700-CUSA03584_00-ONEPIECEBBPS4000",
       "imageUrl": null,
+      "currentPrice": 3.99,
+      "originalPrice": 39.99,
+      "discountPercentage": 90,
+      "score": 94,
+      "tier": "insane"
+    },
+    {
+      "title": "Warhammer 40,000: Mechanicus",
+      "url": "https://store.playstation.com/fr-fr/product/EP4365-CUSA17615_00-WAR40KMECHANICUS",
+      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202007/1710/gkreeKo4JZ8iqpyCuKsaKz49.png",
+      "currentPrice": 3.99,
+      "originalPrice": 39.99,
+      "discountPercentage": 90,
+      "score": 94,
+      "tier": "insane"
+    },
+    {
+      "title": "Sherlock Holmes: The Devil's Daughter",
+      "url": "https://store.playstation.com/fr-fr/product/EP5205-CUSA26518_00-2515160832071212",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202105/2413/SiAEMKLFrhCVePbOrWf6h3Xg.jpg",
       "currentPrice": 3.99,
       "originalPrice": 39.99,
       "discountPercentage": 90,

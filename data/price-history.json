@@ -2332,6 +2332,11 @@
         "price": 7.49,
         "currency": "EUR",
         "date": "2026-10-08"
+      },
+      {
+        "price": 4.49,
+        "currency": "EUR",
+        "date": "2026-11-17"
       }
     ]
   },
@@ -43327,6 +43332,33 @@
         "price": 4.99,
         "currency": "EUR",
         "date": "2026-11-16"
+      }
+    ]
+  },
+  "sniper-elite-4-digital-deluxe-edition": {
+    "prices": [
+      {
+        "price": 9.99,
+        "currency": "EUR",
+        "date": "2026-11-17"
+      }
+    ]
+  },
+  "mother-russia-bleeds": {
+    "prices": [
+      {
+        "price": 2.59,
+        "currency": "EUR",
+        "date": "2026-11-17"
+      }
+    ]
+  },
+  "the-pedestrian": {
+    "prices": [
+      {
+        "price": 3.99,
+        "currency": "EUR",
+        "date": "2026-11-17"
       }
     ]
   }
