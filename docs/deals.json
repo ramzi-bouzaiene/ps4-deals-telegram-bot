@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-18T08:55:19.682Z",
+  "generatedAt": "2026-11-18T17:50:23.737Z",
   "region": "FR",
   "currency": "EUR",
   "symbol": "€",
   "minimumDealScore": 80,
   "stats": {
-    "total": 1678,
-    "scored60": 1667,
-    "scored80": 1281,
-    "scored90": 430,
+    "total": 1679,
+    "scored60": 1668,
+    "scored80": 1282,
+    "scored90": 431,
     "avgDiscount": 72,
     "maxScore": 98,
     "maxScoreTitle": "CRYSTAR",
@@ -99,6 +99,16 @@
     {
       "title": "Lone Survivor: The Director's Cut",
       "url": "https://store.playstation.com/fr-fr/product/EP4395-CUSA01049_00-LONESURVIVORDCUT",
+      "imageUrl": null,
+      "currentPrice": 0.99,
+      "originalPrice": 9.99,
+      "discountPercentage": 90,
+      "score": 96,
+      "tier": "insane"
+    },
+    {
+      "title": "Pumped BMX +",
+      "url": "https://store.playstation.com/fr-fr/product/EP4395-CUSA02589_00-PUMPED2SCEECROSS",
       "imageUrl": null,
       "currentPrice": 0.99,
       "originalPrice": 9.99,
@@ -1000,16 +1010,6 @@
       "title": "One Piece Burning Blood",
       "url": "https://store.playstation.com/fr-fr/product/EP0700-CUSA03584_00-ONEPIECEBBPS4000",
       "imageUrl": null,
-      "currentPrice": 3.99,
-      "originalPrice": 39.99,
-      "discountPercentage": 90,
-      "score": 94,
-      "tier": "insane"
-    },
-    {
-      "title": "Sniper Ghost Warrior Contracts 2",
-      "url": "https://store.playstation.com/fr-fr/product/EP4321-PPSA03131_00-6029635495956336",
-      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202107/3009/OuekbgLwZj5a97irDhiIdZyC.jpg",
       "currentPrice": 3.99,
       "originalPrice": 39.99,
       "discountPercentage": 90,

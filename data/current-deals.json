@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-18T08:55:15.325Z",
+  "fetchedAt": "2026-11-18T17:50:19.445Z",
   "region": "FR",
   "deals": [
     {
@@ -21432,6 +21432,18 @@
       "currency": "EUR",
       "discountPercentage": 90,
       "url": "https://store.playstation.com/fr-fr/product/EP4395-CUSA01049_00-LONESURVIVORDCUT"
+    },
+    {
+      "id": "EP4395-CUSA02589_00-PUMPED2SCEECROSS",
+      "title": "Pumped BMX +",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 0.99,
+      "originalPrice": 9.99,
+      "currency": "EUR",
+      "discountPercentage": 90,
+      "url": "https://store.playstation.com/fr-fr/product/EP4395-CUSA02589_00-PUMPED2SCEECROSS"
     }
   ]
 }
