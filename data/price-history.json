@@ -1333,6 +1333,11 @@
         "price": 19.99,
         "currency": "EUR",
         "date": "2026-10-08"
+      },
+      {
+        "price": 14.99,
+        "currency": "EUR",
+        "date": "2026-11-18"
       }
     ]
   },
@@ -3179,6 +3184,11 @@
         "price": 2.99,
         "currency": "EUR",
         "date": "2026-10-08"
+      },
+      {
+        "price": 1.49,
+        "currency": "EUR",
+        "date": "2026-11-18"
       }
     ]
   },
@@ -8887,6 +8897,11 @@
         "price": 13.99,
         "currency": "EUR",
         "date": "2026-10-08"
+      },
+      {
+        "price": 9.99,
+        "currency": "EUR",
+        "date": "2026-11-18"
       }
     ]
   },
@@ -9140,6 +9155,11 @@
         "price": 7.99,
         "currency": "EUR",
         "date": "2026-10-08"
+      },
+      {
+        "price": 5.99,
+        "currency": "EUR",
+        "date": "2026-11-18"
       }
     ]
   },
@@ -9916,6 +9936,11 @@
         "price": 8.99,
         "currency": "EUR",
         "date": "2026-10-08"
+      },
+      {
+        "price": 7.49,
+        "currency": "EUR",
+        "date": "2026-11-18"
       }
     ]
   },
@@ -11646,6 +11671,11 @@
         "price": 5.99,
         "currency": "EUR",
         "date": "2026-10-08"
+      },
+      {
+        "price": 4.49,
+        "currency": "EUR",
+        "date": "2026-11-18"
       }
     ]
   },
@@ -12115,6 +12145,11 @@
         "price": 9.99,
         "currency": "EUR",
         "date": "2026-10-08"
+      },
+      {
+        "price": 7.99,
+        "currency": "EUR",
+        "date": "2026-11-18"
       }
     ]
   },
@@ -12701,6 +12736,11 @@
         "price": 5.99,
         "currency": "EUR",
         "date": "2026-10-08"
+      },
+      {
+        "price": 3.99,
+        "currency": "EUR",
+        "date": "2026-11-18"
       }
     ]
   },
@@ -44734,6 +44774,294 @@
     "prices": [
       {
         "price": 5.99,
+        "currency": "EUR",
+        "date": "2026-11-18"
+      }
+    ]
+  },
+  "g-darius-hd": {
+    "prices": [
+      {
+        "price": 11.99,
+        "currency": "EUR",
+        "date": "2026-11-18"
+      }
+    ]
+  },
+  "turbo-overkill-ps4-ps5": {
+    "prices": [
+      {
+        "price": 5.99,
+        "currency": "EUR",
+        "date": "2026-11-18"
+      }
+    ]
+  },
+  "forever-delicious-bundle": {
+    "prices": [
+      {
+        "price": 12.49,
+        "currency": "EUR",
+        "date": "2026-11-18"
+      }
+    ]
+  },
+  "united-assault-world-war-2": {
+    "prices": [
+      {
+        "price": 9.99,
+        "currency": "EUR",
+        "date": "2026-11-18"
+      }
+    ]
+  },
+  "sakura-succubus-7-ps4-ps5": {
+    "prices": [
+      {
+        "price": 4.99,
+        "currency": "EUR",
+        "date": "2026-11-18"
+      }
+    ]
+  },
+  "trails-of-cold-steel-iii-digital-deluxe-edition": {
+    "prices": [
+      {
+        "price": 27.99,
+        "currency": "EUR",
+        "date": "2026-11-18"
+      }
+    ]
+  },
+  "shenmue-iii-digital-deluxe-edition": {
+    "prices": [
+      {
+        "price": 17.99,
+        "currency": "EUR",
+        "date": "2026-11-18"
+      }
+    ]
+  },
+  "yars-rising": {
+    "prices": [
+      {
+        "price": 8.99,
+        "currency": "EUR",
+        "date": "2026-11-18"
+      }
+    ]
+  },
+  "submerged": {
+    "prices": [
+      {
+        "price": 3.59,
+        "currency": "EUR",
+        "date": "2026-11-18"
+      }
+    ]
+  },
+  "hentai-girls-succubus": {
+    "prices": [
+      {
+        "price": 4.49,
+        "currency": "EUR",
+        "date": "2026-11-18"
+      }
+    ]
+  },
+  "lost-words-beyond-the-page": {
+    "prices": [
+      {
+        "price": 5.24,
+        "currency": "EUR",
+        "date": "2026-11-18"
+      }
+    ]
+  },
+  "toy-soldiers-hd": {
+    "prices": [
+      {
+        "price": 9.89,
+        "currency": "EUR",
+        "date": "2026-11-18"
+      }
+    ]
+  },
+  "irem-collection-volume-2-ps4-ps5": {
+    "prices": [
+      {
+        "price": 6.24,
+        "currency": "EUR",
+        "date": "2026-11-18"
+      }
+    ]
+  },
+  "dynasty-warriors-9-digital-deluxe-edition": {
+    "prices": [
+      {
+        "price": 17.99,
+        "currency": "EUR",
+        "date": "2026-11-18"
+      }
+    ]
+  },
+  "let-s-revolution-ps4-ps5": {
+    "prices": [
+      {
+        "price": 6.99,
+        "currency": "EUR",
+        "date": "2026-11-18"
+      }
+    ]
+  },
+  "saturnalia-ps4-ps5": {
+    "prices": [
+      {
+        "price": 5.99,
+        "currency": "EUR",
+        "date": "2026-11-18"
+      }
+    ]
+  },
+  "sudden-strike-4-complete-collection": {
+    "prices": [
+      {
+        "price": 15.99,
+        "currency": "EUR",
+        "date": "2026-11-18"
+      }
+    ]
+  },
+  "sword-art-online-last-recollection-ps4-ps5": {
+    "prices": [
+      {
+        "price": 9.59,
+        "currency": "EUR",
+        "date": "2026-11-18"
+      }
+    ]
+  },
+  "jitsu-squad": {
+    "prices": [
+      {
+        "price": 4.79,
+        "currency": "EUR",
+        "date": "2026-11-18"
+      }
+    ]
+  },
+  "turrican-flashback-collection": {
+    "prices": [
+      {
+        "price": 4.79,
+        "currency": "EUR",
+        "date": "2026-11-18"
+      }
+    ]
+  },
+  "pj-masks-power-heroes-une-puissante-alliance": {
+    "prices": [
+      {
+        "price": 7.99,
+        "currency": "EUR",
+        "date": "2026-11-18"
+      }
+    ]
+  },
+  "shadow-of-the-ninja-reborn": {
+    "prices": [
+      {
+        "price": 7.99,
+        "currency": "EUR",
+        "date": "2026-11-18"
+      }
+    ]
+  },
+  "ship-graveyard-simulator-collection": {
+    "prices": [
+      {
+        "price": 17.49,
+        "currency": "EUR",
+        "date": "2026-11-18"
+      }
+    ]
+  },
+  "terror-of-hemasaurus": {
+    "prices": [
+      {
+        "price": 7.49,
+        "currency": "EUR",
+        "date": "2026-11-18"
+      }
+    ]
+  },
+  "foto-boy-flashstar-ps4-ps5": {
+    "prices": [
+      {
+        "price": 2.99,
+        "currency": "EUR",
+        "date": "2026-11-18"
+      }
+    ]
+  },
+  "ty-the-tasmanian-tiger-hd-bundle": {
+    "prices": [
+      {
+        "price": 9.97,
+        "currency": "EUR",
+        "date": "2026-11-18"
+      }
+    ]
+  },
+  "tropico-6-el-prez-edition": {
+    "prices": [
+      {
+        "price": 11.24,
+        "currency": "EUR",
+        "date": "2026-11-18"
+      }
+    ]
+  },
+  "panorama-cotton": {
+    "prices": [
+      {
+        "price": 1.99,
+        "currency": "EUR",
+        "date": "2026-11-18"
+      }
+    ]
+  },
+  "tape-unveil-the-memories": {
+    "prices": [
+      {
+        "price": 1.99,
+        "currency": "EUR",
+        "date": "2026-11-18"
+      }
+    ]
+  },
+  "tmnt-le-destin-de-splinter-edition-gold": {
+    "prices": [
+      {
+        "price": 10.49,
+        "currency": "EUR",
+        "date": "2026-11-18"
+      }
+    ]
+  },
+  "pawbay": {
+    "prices": [
+      {
+        "price": 4.99,
+        "currency": "EUR",
+        "date": "2026-11-18"
+      }
+    ]
+  },
+  "the-hong-kong-massacre": {
+    "prices": [
+      {
+        "price": 3.99,
         "currency": "EUR",
         "date": "2026-11-18"
       }
