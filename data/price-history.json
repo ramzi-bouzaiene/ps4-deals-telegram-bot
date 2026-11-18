@@ -7682,6 +7682,11 @@
         "price": 5.99,
         "currency": "EUR",
         "date": "2026-10-08"
+      },
+      {
+        "price": 3.74,
+        "currency": "EUR",
+        "date": "2026-11-18"
       }
     ]
   },
@@ -44695,6 +44700,42 @@
         "price": 9.99,
         "currency": "EUR",
         "date": "2026-11-17"
+      }
+    ]
+  },
+  "irem-collection-volume-1-ps4-ps5": {
+    "prices": [
+      {
+        "price": 6.24,
+        "currency": "EUR",
+        "date": "2026-11-18"
+      }
+    ]
+  },
+  "we-are-ofk": {
+    "prices": [
+      {
+        "price": 5.99,
+        "currency": "EUR",
+        "date": "2026-11-18"
+      }
+    ]
+  },
+  "gunlord-x": {
+    "prices": [
+      {
+        "price": 3.99,
+        "currency": "EUR",
+        "date": "2026-11-18"
+      }
+    ]
+  },
+  "townsmen-a-kingdom-rebuilt": {
+    "prices": [
+      {
+        "price": 5.99,
+        "currency": "EUR",
+        "date": "2026-11-18"
       }
     ]
   }

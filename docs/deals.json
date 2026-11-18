@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-17T18:25:49.876Z",
+  "generatedAt": "2026-11-18T01:10:50.079Z",
   "region": "FR",
   "currency": "EUR",
   "symbol": "€",
   "minimumDealScore": 80,
   "stats": {
-    "total": 1602,
-    "scored60": 1593,
-    "scored80": 1220,
-    "scored90": 421,
+    "total": 1597,
+    "scored60": 1588,
+    "scored80": 1215,
+    "scored90": 419,
     "avgDiscount": 72,
     "maxScore": 98,
     "maxScoreTitle": "CRYSTAR",
@@ -267,8 +267,8 @@
       "tier": "insane"
     },
     {
-      "title": "Action Henk",
-      "url": "https://store.playstation.com/fr-fr/product/EP4395-CUSA02910_00-ACTIONHENKPS4000",
+      "title": "Wulverblade",
+      "url": "https://store.playstation.com/fr-fr/product/EP0196-CUSA10396_00-0000000000000000",
       "imageUrl": null,
       "currentPrice": 1.49,
       "originalPrice": 14.99,
@@ -277,8 +277,8 @@
       "tier": "insane"
     },
     {
-      "title": "Wulverblade",
-      "url": "https://store.playstation.com/fr-fr/product/EP0196-CUSA10396_00-0000000000000000",
+      "title": "Action Henk",
+      "url": "https://store.playstation.com/fr-fr/product/EP4395-CUSA02910_00-ACTIONHENKPS4000",
       "imageUrl": null,
       "currentPrice": 1.49,
       "originalPrice": 14.99,
@@ -507,9 +507,9 @@
       "tier": "insane"
     },
     {
-      "title": "Agony",
-      "url": "https://store.playstation.com/fr-fr/product/EP3617-CUSA11622_00-AGONY00000000666",
-      "imageUrl": null,
+      "title": "XIII",
+      "url": "https://store.playstation.com/fr-fr/product/EP4295-CUSA19085_00-XIIIEUROPE000000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202208/0512/iadts6x0cDLBGE6RQoNlhX2C.png",
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -517,9 +517,9 @@
       "tier": "insane"
     },
     {
-      "title": "XIII",
-      "url": "https://store.playstation.com/fr-fr/product/EP4295-CUSA19085_00-XIIIEUROPE000000",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202208/0512/iadts6x0cDLBGE6RQoNlhX2C.png",
+      "title": "Agony",
+      "url": "https://store.playstation.com/fr-fr/product/EP3617-CUSA11622_00-AGONY00000000666",
+      "imageUrl": null,
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -657,16 +657,6 @@
       "tier": "insane"
     },
     {
-      "title": "GUILTY GEAR Xrd -REVELATOR-",
-      "url": "https://store.playstation.com/fr-fr/product/EP4293-CUSA04759_00-GGXRDREVEU000100",
-      "imageUrl": null,
-      "currentPrice": 1.99,
-      "originalPrice": 19.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
       "title": "Ritual: Crown of Horns",
       "url": "https://store.playstation.com/fr-fr/product/EP3385-CUSA18415_00-RITUALCOH000DDFD",
       "imageUrl": null,
@@ -680,6 +670,16 @@
       "title": "Mr. DRILLER DrillLand PS4 & PS5",
       "url": "https://store.playstation.com/fr-fr/product/EP0700-PPSA02645_00-PS5MRDRILLERDL0E",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202110/1313/WgtwiuKNUd0Yf1cCNgb8bsHq.jpg",
+      "currentPrice": 1.99,
+      "originalPrice": 19.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
+      "title": "GUILTY GEAR Xrd -REVELATOR-",
+      "url": "https://store.playstation.com/fr-fr/product/EP4293-CUSA04759_00-GGXRDREVEU000100",
+      "imageUrl": null,
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
