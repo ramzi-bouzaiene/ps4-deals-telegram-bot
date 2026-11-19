@@ -11200,6 +11200,11 @@
         "price": 1.49,
         "currency": "EUR",
         "date": "2026-10-08"
+      },
+      {
+        "price": 1.94,
+        "currency": "EUR",
+        "date": "2026-11-19"
       }
     ]
   },
@@ -45353,6 +45358,15 @@
     "prices": [
       {
         "price": 1.49,
+        "currency": "EUR",
+        "date": "2026-11-19"
+      }
+    ]
+  },
+  "wobbledogs-console-edition": {
+    "prices": [
+      {
+        "price": 4.99,
         "currency": "EUR",
         "date": "2026-11-19"
       }

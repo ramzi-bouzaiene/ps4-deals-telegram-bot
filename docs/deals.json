@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-19T06:40:58.488Z",
+  "generatedAt": "2026-11-19T16:22:36.691Z",
   "region": "FR",
   "currency": "EUR",
   "symbol": "€",
   "minimumDealScore": 80,
   "stats": {
-    "total": 1719,
-    "scored60": 1705,
-    "scored80": 1283,
-    "scored90": 406,
+    "total": 1722,
+    "scored60": 1710,
+    "scored80": 1295,
+    "scored90": 411,
     "avgDiscount": 71,
     "maxScore": 98,
     "maxScoreTitle": "CRYSTAR",
@@ -97,16 +97,6 @@
       "tier": "insane"
     },
     {
-      "title": "Shinorubi",
-      "url": "https://store.playstation.com/fr-fr/product/EP5098-PPSA09526_00-6878945196780017",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202311/2709/5ae33fb9a38a0e1746931056f07eb2b68173258de7f54ce5.jpg",
-      "currentPrice": 1.99,
-      "originalPrice": 19.99,
-      "discountPercentage": 90,
-      "score": 96,
-      "tier": "insane"
-    },
-    {
       "title": "Lot Sherlock Holmes : Mystères ténébreux",
       "url": "https://store.playstation.com/fr-fr/product/EP5205-CUSA34152_00-0472824749946652",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202406/1809/4ca1f64270fc808c03ba0684deddc90111cbf8b469aca0a7.jpg",
@@ -147,8 +137,8 @@
       "tier": "insane"
     },
     {
-      "title": "SteamWorld Heist",
-      "url": "https://store.playstation.com/fr-fr/product/EP4473-CUSA01478_00-SWHCROSSBUY00000",
+      "title": "Feudal Alloy",
+      "url": "https://store.playstation.com/fr-fr/product/EP4800-CUSA14936_00-0000111122223334",
       "imageUrl": null,
       "currentPrice": 1.49,
       "originalPrice": 14.99,
@@ -370,6 +360,16 @@
       "title": "RICO",
       "url": "https://store.playstation.com/fr-fr/product/EP4034-CUSA11248_00-RICO000000000000",
       "imageUrl": null,
+      "currentPrice": 1.99,
+      "originalPrice": 19.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
+      "title": "Shinorubi",
+      "url": "https://store.playstation.com/fr-fr/product/EP5098-PPSA09526_00-6878945196780017",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202311/2709/5ae33fb9a38a0e1746931056f07eb2b68173258de7f54ce5.jpg",
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -707,9 +707,9 @@
       "tier": "insane"
     },
     {
-      "title": "Tennis World Tour - Roland-Garros Edition",
-      "url": "https://store.playstation.com/fr-fr/product/EP4008-CUSA09876_00-TENNISWTEBRGEDIT",
-      "imageUrl": null,
+      "title": "SBK™22 PS4 & PS5",
+      "url": "https://store.playstation.com/fr-fr/product/EP4356-PPSA05749_00-SBK22FULLGAME000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202205/1809/ic0FNLYr3SNKSOyGVXRTPKxM.jpg",
       "currentPrice": 2.99,
       "originalPrice": 29.99,
       "discountPercentage": 90,
@@ -717,9 +717,9 @@
       "tier": "insane"
     },
     {
-      "title": "SBK™22 PS4 & PS5",
-      "url": "https://store.playstation.com/fr-fr/product/EP4356-PPSA05749_00-SBK22FULLGAME000",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202205/1809/ic0FNLYr3SNKSOyGVXRTPKxM.jpg",
+      "title": "Tennis World Tour - Roland-Garros Edition",
+      "url": "https://store.playstation.com/fr-fr/product/EP4008-CUSA09876_00-TENNISWTEBRGEDIT",
+      "imageUrl": null,
       "currentPrice": 2.99,
       "originalPrice": 29.99,
       "discountPercentage": 90,
@@ -770,6 +770,16 @@
       "title": "Vampire: The Masquerade - Swansong",
       "url": "https://store.playstation.com/fr-fr/product/EP6665-CUSA33241_00-VTMS000000000000",
       "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202102/0315/XDnzEWWPDuurhBqfpOdV2uYd.jpg",
+      "currentPrice": 2.99,
+      "originalPrice": 29.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
+      "title": "Sébastien Loeb Rally EVO - Special Edition",
+      "url": "https://store.playstation.com/fr-fr/product/EP4356-CUSA02021_00-SLRSE00000000000",
+      "imageUrl": null,
       "currentPrice": 2.99,
       "originalPrice": 29.99,
       "discountPercentage": 90,
@@ -1000,16 +1010,6 @@
       "title": "Zombie Army Trilogy",
       "url": "https://store.playstation.com/fr-fr/product/EP4529-CUSA01345_00-ZATRILOGY0000000",
       "imageUrl": null,
-      "currentPrice": 4.99,
-      "originalPrice": 49.99,
-      "discountPercentage": 90,
-      "score": 94,
-      "tier": "insane"
-    },
-    {
-      "title": "Monster Energy Supercross 4 - Special Edition",
-      "url": "https://store.playstation.com/fr-fr/product/EP4356-CUSA20277_00-SX4SPECEDITION00",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202012/3018/s1PBZZMKi96CRTzea7h8qr2l.jpg",
       "currentPrice": 4.99,
       "originalPrice": 49.99,
       "discountPercentage": 90,
