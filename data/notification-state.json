@@ -2722,5 +2722,13 @@
   "horror-tales-the-beggar:historical-low": {
     "lastPrice": 3.74,
     "sentAt": "2026-11-18T01:10:49.668Z"
+  },
+  "promenade:historical-low": {
+    "lastPrice": 4.99,
+    "sentAt": "2026-11-19T06:40:57.833Z"
+  },
+  "shinorubi:historical-low": {
+    "lastPrice": 1.99,
+    "sentAt": "2026-11-19T06:40:58.168Z"
   }
 }
