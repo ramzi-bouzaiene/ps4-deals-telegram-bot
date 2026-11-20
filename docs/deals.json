@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-20T04:11:18.119Z",
+  "generatedAt": "2026-11-20T13:27:40.405Z",
   "region": "FR",
   "currency": "EUR",
   "symbol": "€",
   "minimumDealScore": 80,
   "stats": {
-    "total": 1716,
+    "total": 1717,
     "scored60": 1703,
-    "scored80": 1282,
-    "scored90": 401,
+    "scored80": 1274,
+    "scored90": 394,
     "avgDiscount": 71,
     "maxScore": 98,
     "maxScoreTitle": "CRYSTAR",
@@ -107,16 +107,6 @@
       "tier": "insane"
     },
     {
-      "title": "Joe Dever’s Lone Wolf Console Edition",
-      "url": "https://store.playstation.com/fr-fr/product/EP4040-CUSA03743_00-LONEWOLF00000000",
-      "imageUrl": null,
-      "currentPrice": 1.49,
-      "originalPrice": 14.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
       "title": "Startenders: Barman Intergalactique",
       "url": "https://store.playstation.com/fr-fr/product/EP5816-PPSA09575_00-5948074153462564",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202202/1416/2HDWYSNwUZ4mIdxpEg9NNdof.png",
@@ -127,9 +117,9 @@
       "tier": "insane"
     },
     {
-      "title": "Valentino Rossi The Game",
-      "url": "https://store.playstation.com/fr-fr/product/EP4356-CUSA05164_00-MOTOGPVR46FGAME0",
-      "imageUrl": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA05311_00/5/i_3d744ee62a4da11232e95457991f3f4fedadfee2b5762f64b0e8c11a65cface5/i/pic0.png",
+      "title": "Joe Dever’s Lone Wolf Console Edition",
+      "url": "https://store.playstation.com/fr-fr/product/EP4040-CUSA03743_00-LONEWOLF00000000",
+      "imageUrl": null,
       "currentPrice": 1.49,
       "originalPrice": 14.99,
       "discountPercentage": 90,
@@ -167,9 +157,9 @@
       "tier": "insane"
     },
     {
-      "title": "Thief Simulator",
-      "url": "https://store.playstation.com/fr-fr/product/EP1549-CUSA20097_00-CLABS0TS20200430",
-      "imageUrl": null,
+      "title": "Astérix & Obélix XXL3: Le Menhir de Cristal",
+      "url": "https://store.playstation.com/fr-fr/product/EP4295-PPSA07498_00-ASTERIXXXL3PS5EU",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202211/2415/Wl4stVFZcSQuF3mJwI1ZWsmN.png",
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -177,9 +167,9 @@
       "tier": "insane"
     },
     {
-      "title": "Astérix & Obélix XXL3: Le Menhir de Cristal",
-      "url": "https://store.playstation.com/fr-fr/product/EP4295-PPSA07498_00-ASTERIXXXL3PS5EU",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202211/2415/Wl4stVFZcSQuF3mJwI1ZWsmN.png",
+      "title": "Thief Simulator",
+      "url": "https://store.playstation.com/fr-fr/product/EP1549-CUSA20097_00-CLABS0TS20200430",
+      "imageUrl": null,
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -357,9 +347,9 @@
       "tier": "insane"
     },
     {
-      "title": "XIII",
-      "url": "https://store.playstation.com/fr-fr/product/EP4295-CUSA19085_00-XIIIEUROPE000000",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202208/0512/iadts6x0cDLBGE6RQoNlhX2C.png",
+      "title": "Dark Devotion",
+      "url": "https://store.playstation.com/fr-fr/product/EP5539-CUSA14354_00-DARKDEVOTION0000",
+      "imageUrl": null,
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -367,9 +357,9 @@
       "tier": "insane"
     },
     {
-      "title": "Dark Devotion",
-      "url": "https://store.playstation.com/fr-fr/product/EP5539-CUSA14354_00-DARKDEVOTION0000",
-      "imageUrl": null,
+      "title": "XIII",
+      "url": "https://store.playstation.com/fr-fr/product/EP4295-CUSA19085_00-XIIIEUROPE000000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202208/0512/iadts6x0cDLBGE6RQoNlhX2C.png",
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -387,9 +377,9 @@
       "tier": "insane"
     },
     {
-      "title": "Agents of Mayhem",
-      "url": "https://store.playstation.com/fr-fr/product/EP4062-CUSA03067_00-AGENTSOFMAYHEMDS",
-      "imageUrl": null,
+      "title": "Ankora: Lost Days",
+      "url": "https://store.playstation.com/fr-fr/product/EP3721-CUSA35001_00-1798730925446745",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202303/2419/786257ccf96b0bf8f7247ad8a7a12c3955d411aad5daccfc.jpg",
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -397,9 +387,9 @@
       "tier": "insane"
     },
     {
-      "title": "Ankora: Lost Days",
-      "url": "https://store.playstation.com/fr-fr/product/EP3721-CUSA35001_00-1798730925446745",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202303/2419/786257ccf96b0bf8f7247ad8a7a12c3955d411aad5daccfc.jpg",
+      "title": "Agents of Mayhem",
+      "url": "https://store.playstation.com/fr-fr/product/EP4062-CUSA03067_00-AGENTSOFMAYHEMDS",
+      "imageUrl": null,
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -417,9 +407,9 @@
       "tier": "insane"
     },
     {
-      "title": "BLAZBLUE CROSS TAG BATTLE",
-      "url": "https://store.playstation.com/fr-fr/product/EP4293-CUSA12009_00-BBTAGPS400001000",
-      "imageUrl": null,
+      "title": "The Wild Eight",
+      "url": "https://store.playstation.com/fr-fr/product/EP4638-CUSA20408_00-THEWILDEIGHT2020",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202010/0618/LBOgi6OMmXd92YB3ZphfDeTZ.jpg",
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -427,9 +417,9 @@
       "tier": "insane"
     },
     {
-      "title": "The Wild Eight",
-      "url": "https://store.playstation.com/fr-fr/product/EP4638-CUSA20408_00-THEWILDEIGHT2020",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202010/0618/LBOgi6OMmXd92YB3ZphfDeTZ.jpg",
+      "title": "BLAZBLUE CROSS TAG BATTLE",
+      "url": "https://store.playstation.com/fr-fr/product/EP4293-CUSA12009_00-BBTAGPS400001000",
+      "imageUrl": null,
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -517,8 +507,8 @@
       "tier": "insane"
     },
     {
-      "title": "Hard Reset Redux",
-      "url": "https://store.playstation.com/fr-fr/product/EP8909-CUSA04050_00-HARDRESET0000000",
+      "title": "EARTH DEFENSE FORCE4.1 WINGDIVER THE SHOOTER",
+      "url": "https://store.playstation.com/fr-fr/product/EP3036-CUSA11309_00-0000000000000000",
       "imageUrl": null,
       "currentPrice": 2.39,
       "originalPrice": 23.99,
@@ -527,8 +517,8 @@
       "tier": "insane"
     },
     {
-      "title": "EARTH DEFENSE FORCE4.1 WINGDIVER THE SHOOTER",
-      "url": "https://store.playstation.com/fr-fr/product/EP3036-CUSA11309_00-0000000000000000",
+      "title": "Hard Reset Redux",
+      "url": "https://store.playstation.com/fr-fr/product/EP8909-CUSA04050_00-HARDRESET0000000",
       "imageUrl": null,
       "currentPrice": 2.39,
       "originalPrice": 23.99,
@@ -560,6 +550,16 @@
       "title": "UNDER NIGHT IN-BIRTH Exe:Late[st]",
       "url": "https://store.playstation.com/fr-fr/product/EP4293-CUSA09420_00-UNIEXEST00000000",
       "imageUrl": null,
+      "currentPrice": 2.49,
+      "originalPrice": 24.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
+      "title": "Roguebook - Deluxe Edition",
+      "url": "https://store.playstation.com/fr-fr/product/EP4008-PPSA02076_00-7745972826179288",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202202/0314/HbIlr8QyGOvI0dcFAWPsY8pY.jpg",
       "currentPrice": 2.49,
       "originalPrice": 24.99,
       "discountPercentage": 90,
@@ -600,16 +600,6 @@
       "title": "Holy Potatoes! A Bundle?!",
       "url": "https://store.playstation.com/fr-fr/product/EP4034-CUSA13024_00-HPBUNDLEAWSWIS00",
       "imageUrl": null,
-      "currentPrice": 2.49,
-      "originalPrice": 24.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
-      "title": "Roguebook - Deluxe Edition",
-      "url": "https://store.playstation.com/fr-fr/product/EP4008-PPSA02076_00-7745972826179288",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202202/0314/HbIlr8QyGOvI0dcFAWPsY8pY.jpg",
       "currentPrice": 2.49,
       "originalPrice": 24.99,
       "discountPercentage": 90,
@@ -687,16 +677,6 @@
       "tier": "insane"
     },
     {
-      "title": "Ride 2",
-      "url": "https://store.playstation.com/fr-fr/product/EP4356-CUSA05921_00-RIDE2FULLGAME000",
-      "imageUrl": null,
-      "currentPrice": 2.99,
-      "originalPrice": 29.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
       "title": "Lords of the Fallen - Complete Edition (2014)",
       "url": "https://store.playstation.com/fr-fr/product/EP4321-CUSA00377_00-COMPLETEBUNDLE01",
       "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202010/0916/11O7XNf4QLDzVWZUaQol2SzT.png",
@@ -707,9 +687,9 @@
       "tier": "insane"
     },
     {
-      "title": "SBK™22 PS4 & PS5",
-      "url": "https://store.playstation.com/fr-fr/product/EP4356-PPSA05749_00-SBK22FULLGAME000",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202205/1809/ic0FNLYr3SNKSOyGVXRTPKxM.jpg",
+      "title": "Ride 2",
+      "url": "https://store.playstation.com/fr-fr/product/EP4356-CUSA05921_00-RIDE2FULLGAME000",
+      "imageUrl": null,
       "currentPrice": 2.99,
       "originalPrice": 29.99,
       "discountPercentage": 90,
@@ -730,6 +710,16 @@
       "title": "Ultimate Fishing Simulator",
       "url": "https://store.playstation.com/fr-fr/product/EP1549-CUSA25897_00-CLABS0UFS2020101",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202012/1511/4geDu8gBvTUcqXuCVsMzpcdR.jpg",
+      "currentPrice": 2.99,
+      "originalPrice": 29.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
+      "title": "SBK™22 PS4 & PS5",
+      "url": "https://store.playstation.com/fr-fr/product/EP4356-PPSA05749_00-SBK22FULLGAME000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202205/1809/ic0FNLYr3SNKSOyGVXRTPKxM.jpg",
       "currentPrice": 2.99,
       "originalPrice": 29.99,
       "discountPercentage": 90,
@@ -1010,6 +1000,16 @@
       "title": "Monster Energy Supercross 4 - Special Edition",
       "url": "https://store.playstation.com/fr-fr/product/EP4356-CUSA20277_00-SX4SPECEDITION00",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202012/3018/s1PBZZMKi96CRTzea7h8qr2l.jpg",
+      "currentPrice": 4.99,
+      "originalPrice": 49.99,
+      "discountPercentage": 90,
+      "score": 94,
+      "tier": "insane"
+    },
+    {
+      "title": "Ride 2 Special Edition",
+      "url": "https://store.playstation.com/fr-fr/product/EP4356-CUSA05921_00-RIDE2SPECIALED00",
+      "imageUrl": null,
       "currentPrice": 4.99,
       "originalPrice": 49.99,
       "discountPercentage": 90,
