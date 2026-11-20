@@ -2730,5 +2730,17 @@
   "shinorubi:historical-low": {
     "lastPrice": 1.99,
     "sentAt": "2026-11-19T06:40:58.168Z"
+  },
+  "dance-of-death-du-lac-fey:historical-low": {
+    "lastPrice": 5.59,
+    "sentAt": "2026-11-20T04:11:16.865Z"
+  },
+  "volgarr-the-viking-ii-ps4-ps5:historical-low": {
+    "lastPrice": 4.99,
+    "sentAt": "2026-11-20T04:11:17.392Z"
+  },
+  "terraformers-deluxe-bundle:historical-low": {
+    "lastPrice": 14.84,
+    "sentAt": "2026-11-20T04:11:17.873Z"
   }
 }

@@ -2118,6 +2118,11 @@
         "price": 5.99,
         "currency": "EUR",
         "date": "2026-10-08"
+      },
+      {
+        "price": 4.99,
+        "currency": "EUR",
+        "date": "2026-11-20"
       }
     ]
   },
@@ -5776,6 +5781,11 @@
         "price": 7.99,
         "currency": "EUR",
         "date": "2026-10-08"
+      },
+      {
+        "price": 5.59,
+        "currency": "EUR",
+        "date": "2026-11-20"
       }
     ]
   },
@@ -12198,6 +12208,11 @@
         "price": 16.49,
         "currency": "EUR",
         "date": "2026-10-08"
+      },
+      {
+        "price": 14.84,
+        "currency": "EUR",
+        "date": "2026-11-20"
       }
     ]
   },
@@ -45369,6 +45384,60 @@
         "price": 4.99,
         "currency": "EUR",
         "date": "2026-11-19"
+      }
+    ]
+  },
+  "crymachina-digital-deluxe-edition": {
+    "prices": [
+      {
+        "price": 31.99,
+        "currency": "EUR",
+        "date": "2026-11-20"
+      }
+    ]
+  },
+  "elemental-knights-r-darkarthur-premiumpack": {
+    "prices": [
+      {
+        "price": 3.99,
+        "currency": "EUR",
+        "date": "2026-11-20"
+      }
+    ]
+  },
+  "sin-slayers": {
+    "prices": [
+      {
+        "price": 4.99,
+        "currency": "EUR",
+        "date": "2026-11-20"
+      }
+    ]
+  },
+  "submerged-hidden-depths": {
+    "prices": [
+      {
+        "price": 5.99,
+        "currency": "EUR",
+        "date": "2026-11-20"
+      }
+    ]
+  },
+  "dreamwalker-never-fall-asleep": {
+    "prices": [
+      {
+        "price": 4.49,
+        "currency": "EUR",
+        "date": "2026-11-20"
+      }
+    ]
+  },
+  "wartile": {
+    "prices": [
+      {
+        "price": 6.99,
+        "currency": "EUR",
+        "date": "2026-11-20"
       }
     ]
   }

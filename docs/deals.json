@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-19T23:10:23.050Z",
+  "generatedAt": "2026-11-20T04:11:18.119Z",
   "region": "FR",
   "currency": "EUR",
   "symbol": "€",
   "minimumDealScore": 80,
   "stats": {
-    "total": 1722,
-    "scored60": 1710,
-    "scored80": 1295,
-    "scored90": 411,
+    "total": 1716,
+    "scored60": 1703,
+    "scored80": 1282,
+    "scored90": 401,
     "avgDiscount": 71,
     "maxScore": 98,
     "maxScoreTitle": "CRYSTAR",
@@ -137,16 +137,6 @@
       "tier": "insane"
     },
     {
-      "title": "Feudal Alloy",
-      "url": "https://store.playstation.com/fr-fr/product/EP4800-CUSA14936_00-0000111122223334",
-      "imageUrl": null,
-      "currentPrice": 1.49,
-      "originalPrice": 14.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
       "title": "Claire: Extended Cut",
       "url": "https://store.playstation.com/fr-fr/product/EP0310-CUSA05466_00-CLAIREEXTENDEDCU",
       "imageUrl": null,
@@ -217,9 +207,9 @@
       "tier": "insane"
     },
     {
-      "title": "Arkanoid Eternal Battle",
-      "url": "https://store.playstation.com/fr-fr/product/EP4295-PPSA06327_00-ARKEBPS5000000EU",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202210/2408/EnlSePgFs7DjiwIsz8EgaB1k.png",
+      "title": "ASTÉRIX & OBÉLIX XXL 2",
+      "url": "https://store.playstation.com/fr-fr/product/EP4295-PPSA08164_00-AOXXL2PS500000EU",
+      "imageUrl": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA13367_00/3/i_0ea39a637f8c960a674ceda4a5e665307b14c1755517c2138128fc2ada700cae/i/pic0.png",
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -237,9 +227,9 @@
       "tier": "insane"
     },
     {
-      "title": "ASTÉRIX & OBÉLIX XXL 2",
-      "url": "https://store.playstation.com/fr-fr/product/EP4295-PPSA08164_00-AOXXL2PS500000EU",
-      "imageUrl": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA13367_00/3/i_0ea39a637f8c960a674ceda4a5e665307b14c1755517c2138128fc2ada700cae/i/pic0.png",
+      "title": "Arkanoid Eternal Battle",
+      "url": "https://store.playstation.com/fr-fr/product/EP4295-PPSA06327_00-ARKEBPS5000000EU",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202210/2408/EnlSePgFs7DjiwIsz8EgaB1k.png",
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -297,9 +287,9 @@
       "tier": "insane"
     },
     {
-      "title": "Overpass",
-      "url": "https://store.playstation.com/fr-fr/product/EP4008-CUSA15489_00-OPSIEE0000000000",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202009/1513/lslcq14cANqrNq5TEIeJOln7.jpg",
+      "title": "2Dark",
+      "url": "https://store.playstation.com/fr-fr/product/EP4008-CUSA04802_00-2DARKTHEGAMEAUI3",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202009/1414/pAf6qEsfz24UNw54C41tsQc6.jpg",
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -307,9 +297,9 @@
       "tier": "insane"
     },
     {
-      "title": "2Dark",
-      "url": "https://store.playstation.com/fr-fr/product/EP4008-CUSA04802_00-2DARKTHEGAMEAUI3",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202009/1414/pAf6qEsfz24UNw54C41tsQc6.jpg",
+      "title": "Overpass",
+      "url": "https://store.playstation.com/fr-fr/product/EP4008-CUSA15489_00-OPSIEE0000000000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202009/1513/lslcq14cANqrNq5TEIeJOln7.jpg",
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -327,16 +317,6 @@
       "tier": "insane"
     },
     {
-      "title": "Agony",
-      "url": "https://store.playstation.com/fr-fr/product/EP3617-CUSA11622_00-AGONY00000000666",
-      "imageUrl": null,
-      "currentPrice": 1.99,
-      "originalPrice": 19.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
       "title": "BlazBlue Chronophantasma Extend",
       "url": "https://store.playstation.com/fr-fr/product/EP4293-CUSA03254_00-BBCPPS4000001000",
       "imageUrl": null,
@@ -347,8 +327,8 @@
       "tier": "insane"
     },
     {
-      "title": "Dark Devotion",
-      "url": "https://store.playstation.com/fr-fr/product/EP5539-CUSA14354_00-DARKDEVOTION0000",
+      "title": "Agony",
+      "url": "https://store.playstation.com/fr-fr/product/EP3617-CUSA11622_00-AGONY00000000666",
       "imageUrl": null,
       "currentPrice": 1.99,
       "originalPrice": 19.99,
@@ -387,8 +367,8 @@
       "tier": "insane"
     },
     {
-      "title": "Agents of Mayhem",
-      "url": "https://store.playstation.com/fr-fr/product/EP4062-CUSA03067_00-AGENTSOFMAYHEMDS",
+      "title": "Dark Devotion",
+      "url": "https://store.playstation.com/fr-fr/product/EP5539-CUSA14354_00-DARKDEVOTION0000",
       "imageUrl": null,
       "currentPrice": 1.99,
       "originalPrice": 19.99,
@@ -400,6 +380,16 @@
       "title": "Fury Unleashed",
       "url": "https://store.playstation.com/fr-fr/product/EP2250-CUSA15995_00-FURYUNLEASHED000",
       "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202006/1912/9pfWQWQBl0nSBr563gpg5EfA.png",
+      "currentPrice": 1.99,
+      "originalPrice": 19.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
+      "title": "Agents of Mayhem",
+      "url": "https://store.playstation.com/fr-fr/product/EP4062-CUSA03067_00-AGENTSOFMAYHEMDS",
+      "imageUrl": null,
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -627,6 +617,16 @@
       "tier": "insane"
     },
     {
+      "title": "Little Strays: Beyond Havana",
+      "url": "https://store.playstation.com/fr-fr/product/UB0383-PPSA29189_00-0699906939219332",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202512/0310/d8ba5ad05c26969b3be8de3cb817f98a17ceceae392e2ff1.png",
+      "currentPrice": 2.69,
+      "originalPrice": 26.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
       "title": "Sniper Elite 3",
       "url": "https://store.playstation.com/fr-fr/product/EP4040-CUSA00286_00-SNIPERELITE30000",
       "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202010/1520/HC4OJH9vRR1baUl7oJ1Grd0v.png",
@@ -727,9 +727,9 @@
       "tier": "insane"
     },
     {
-      "title": "Pure Farming 2018",
-      "url": "https://store.playstation.com/fr-fr/product/EP2911-CUSA09177_00-PUREFARMING2018G",
-      "imageUrl": null,
+      "title": "Ultimate Fishing Simulator",
+      "url": "https://store.playstation.com/fr-fr/product/EP1549-CUSA25897_00-CLABS0UFS2020101",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202012/1511/4geDu8gBvTUcqXuCVsMzpcdR.jpg",
       "currentPrice": 2.99,
       "originalPrice": 29.99,
       "discountPercentage": 90,
@@ -737,9 +737,9 @@
       "tier": "insane"
     },
     {
-      "title": "Ultimate Fishing Simulator",
-      "url": "https://store.playstation.com/fr-fr/product/EP1549-CUSA25897_00-CLABS0UFS2020101",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202012/1511/4geDu8gBvTUcqXuCVsMzpcdR.jpg",
+      "title": "Pure Farming 2018",
+      "url": "https://store.playstation.com/fr-fr/product/EP2911-CUSA09177_00-PUREFARMING2018G",
+      "imageUrl": null,
       "currentPrice": 2.99,
       "originalPrice": 29.99,
       "discountPercentage": 90,
@@ -770,16 +770,6 @@
       "title": "Vampire: The Masquerade - Swansong",
       "url": "https://store.playstation.com/fr-fr/product/EP6665-CUSA33241_00-VTMS000000000000",
       "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202102/0315/XDnzEWWPDuurhBqfpOdV2uYd.jpg",
-      "currentPrice": 2.99,
-      "originalPrice": 29.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
-      "title": "Sébastien Loeb Rally EVO - Special Edition",
-      "url": "https://store.playstation.com/fr-fr/product/EP4356-CUSA02021_00-SLRSE00000000000",
-      "imageUrl": null,
       "currentPrice": 2.99,
       "originalPrice": 29.99,
       "discountPercentage": 90,
@@ -887,6 +877,16 @@
       "tier": "insane"
     },
     {
+      "title": "GUILTY GEAR Xrd Rev.2",
+      "url": "https://store.playstation.com/fr-fr/product/EP4293-CUSA08260_00-GGXRDREV2EU00100",
+      "imageUrl": null,
+      "currentPrice": 3.99,
+      "originalPrice": 39.99,
+      "discountPercentage": 90,
+      "score": 94,
+      "tier": "insane"
+    },
+    {
       "title": "Warhammer 40,000: Mechanicus",
       "url": "https://store.playstation.com/fr-fr/product/EP4365-CUSA17615_00-WAR40KMECHANICUS",
       "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202007/1710/gkreeKo4JZ8iqpyCuKsaKz49.png",
@@ -900,16 +900,6 @@
       "title": "Sherlock Holmes: The Devil's Daughter",
       "url": "https://store.playstation.com/fr-fr/product/EP5205-CUSA26518_00-2515160832071212",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202105/2413/SiAEMKLFrhCVePbOrWf6h3Xg.jpg",
-      "currentPrice": 3.99,
-      "originalPrice": 39.99,
-      "discountPercentage": 90,
-      "score": 94,
-      "tier": "insane"
-    },
-    {
-      "title": "GUILTY GEAR Xrd Rev.2",
-      "url": "https://store.playstation.com/fr-fr/product/EP4293-CUSA08260_00-GGXRDREV2EU00100",
-      "imageUrl": null,
       "currentPrice": 3.99,
       "originalPrice": 39.99,
       "discountPercentage": 90,
@@ -1010,6 +1000,16 @@
       "title": "Zombie Army Trilogy",
       "url": "https://store.playstation.com/fr-fr/product/EP4529-CUSA01345_00-ZATRILOGY0000000",
       "imageUrl": null,
+      "currentPrice": 4.99,
+      "originalPrice": 49.99,
+      "discountPercentage": 90,
+      "score": 94,
+      "tier": "insane"
+    },
+    {
+      "title": "Monster Energy Supercross 4 - Special Edition",
+      "url": "https://store.playstation.com/fr-fr/product/EP4356-CUSA20277_00-SX4SPECEDITION00",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202012/3018/s1PBZZMKi96CRTzea7h8qr2l.jpg",
       "currentPrice": 4.99,
       "originalPrice": 49.99,
       "discountPercentage": 90,
