@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-21T10:42:30.859Z",
+  "generatedAt": "2026-11-21T17:53:58.864Z",
   "region": "FR",
   "currency": "EUR",
   "symbol": "€",
   "minimumDealScore": 80,
   "stats": {
     "total": 1393,
-    "scored60": 1382,
-    "scored80": 976,
-    "scored90": 267,
+    "scored60": 1384,
+    "scored80": 977,
+    "scored90": 271,
     "avgDiscount": 69,
     "maxScore": 97,
     "maxScoreTitle": "Umihara Kawase BaZooKa!",
