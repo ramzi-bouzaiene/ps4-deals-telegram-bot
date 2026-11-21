@@ -756,8 +756,8 @@
     "sentAt": "2026-10-08T13:23:43.983Z"
   },
   "pro-fishing-simulator:hot": {
-    "lastPrice": 1.99,
-    "sentAt": "2026-10-08T13:23:43.983Z"
+    "lastPrice": 0.99,
+    "sentAt": "2026-11-21T02:43:38.796Z"
   },
   "shalnor-legends-2-trials-of-thunder:hot": {
     "lastPrice": 1.99,
@@ -2424,8 +2424,8 @@
     "sentAt": "2026-10-08T13:23:43.984Z"
   },
   "coffee-crisis:hot": {
-    "lastPrice": 2.99,
-    "sentAt": "2026-10-08T13:23:43.984Z"
+    "lastPrice": 0.99,
+    "sentAt": "2026-11-21T02:43:39.149Z"
   },
   "creatura:hot": {
     "lastPrice": 2.99,
@@ -2556,8 +2556,8 @@
     "sentAt": "2026-10-10T19:50:30.309Z"
   },
   "god-of-war:wishlist": {
-    "lastPrice": 9.99,
-    "sentAt": "2026-11-04T06:53:07.291Z"
+    "lastPrice": 0,
+    "sentAt": "2026-11-21T02:43:38.619Z"
   },
   "neon-abyss:historical-low": {
     "lastPrice": 4.99,
@@ -2742,5 +2742,141 @@
   "terraformers-deluxe-bundle:historical-low": {
     "lastPrice": 14.84,
     "sentAt": "2026-11-20T04:11:17.873Z"
+  },
+  "monster-jam-showdown-ps4-ps5:historical-low": {
+    "lastPrice": 7.49,
+    "sentAt": "2026-11-21T02:43:32.073Z"
+  },
+  "tardy:historical-low": {
+    "lastPrice": 1.49,
+    "sentAt": "2026-11-21T02:43:32.627Z"
+  },
+  "parking-jam-thief-puzzle:historical-low": {
+    "lastPrice": 3.19,
+    "sentAt": "2026-11-21T02:43:33.087Z"
+  },
+  "mahjong:historical-low": {
+    "lastPrice": 1.99,
+    "sentAt": "2026-11-21T02:43:33.261Z"
+  },
+  "habroxia:historical-low": {
+    "lastPrice": 2.49,
+    "sentAt": "2026-11-21T02:43:33.433Z"
+  },
+  "habroxia-2:historical-low": {
+    "lastPrice": 2.49,
+    "sentAt": "2026-11-21T02:43:33.631Z"
+  },
+  "holy-potatoes-a-weapon-shop:historical-low": {
+    "lastPrice": 1.49,
+    "sentAt": "2026-11-21T02:43:33.798Z"
+  },
+  "holy-potatoes-we-re-in-space:historical-low": {
+    "lastPrice": 1.49,
+    "sentAt": "2026-11-21T02:43:33.975Z"
+  },
+  "holy-potatoes-what-the-hell:historical-low": {
+    "lastPrice": 1.49,
+    "sentAt": "2026-11-21T02:43:34.142Z"
+  },
+  "i-robot:historical-low": {
+    "lastPrice": 5.99,
+    "sentAt": "2026-11-21T02:43:34.316Z"
+  },
+  "lunar-lander-beyond:historical-low": {
+    "lastPrice": 7.49,
+    "sentAt": "2026-11-21T02:43:34.481Z"
+  },
+  "metal-tales-overkill:historical-low": {
+    "lastPrice": 2.99,
+    "sentAt": "2026-11-21T02:43:34.659Z"
+  },
+  "missile-command-recharged:historical-low": {
+    "lastPrice": 1.79,
+    "sentAt": "2026-11-21T02:43:34.829Z"
+  },
+  "mr-run-and-jump:historical-low": {
+    "lastPrice": 6.24,
+    "sentAt": "2026-11-21T02:43:35.006Z"
+  },
+  "pachi-pachi-2-on-a-roll:historical-low": {
+    "lastPrice": 2.09,
+    "sentAt": "2026-11-21T02:43:35.177Z"
+  },
+  "parking-jam-complete-edition:historical-low": {
+    "lastPrice": 2.79,
+    "sentAt": "2026-11-21T02:43:35.359Z"
+  },
+  "persona-3-dancing-in-moonlight:historical-low": {
+    "lastPrice": 7.49,
+    "sentAt": "2026-11-21T02:43:35.525Z"
+  },
+  "power-rangers-battle-for-the-grid-edition-collector:historical-low": {
+    "lastPrice": 4.49,
+    "sentAt": "2026-11-21T02:43:35.699Z"
+  },
+  "premium-pool-arena:historical-low": {
+    "lastPrice": 2.99,
+    "sentAt": "2026-11-21T02:43:35.872Z"
+  },
+  "psychological-horror-bundle:historical-low": {
+    "lastPrice": 8.74,
+    "sentAt": "2026-11-21T02:43:36.057Z"
+  },
+  "puff-up-9-minigames:historical-low": {
+    "lastPrice": 3.99,
+    "sentAt": "2026-11-21T02:43:36.231Z"
+  },
+  "rebel-transmute:historical-low": {
+    "lastPrice": 7.99,
+    "sentAt": "2026-11-21T02:43:36.407Z"
+  },
+  "releaseburg:historical-low": {
+    "lastPrice": 1.99,
+    "sentAt": "2026-11-21T02:43:36.580Z"
+  },
+  "retro-horror-bundle:historical-low": {
+    "lastPrice": 12.24,
+    "sentAt": "2026-11-21T02:43:36.760Z"
+  },
+  "run-tekila-run:historical-low": {
+    "lastPrice": 2.99,
+    "sentAt": "2026-11-21T02:43:36.928Z"
+  },
+  "sophstar:historical-low": {
+    "lastPrice": 1.94,
+    "sentAt": "2026-11-21T02:43:37.115Z"
+  },
+  "spirit-roots:historical-low": {
+    "lastPrice": 2.09,
+    "sentAt": "2026-11-21T02:43:37.284Z"
+  },
+  "steampunk-tower-2:historical-low": {
+    "lastPrice": 2.49,
+    "sentAt": "2026-11-21T02:43:37.473Z"
+  },
+  "super-cyborg:historical-low": {
+    "lastPrice": 2.09,
+    "sentAt": "2026-11-21T02:43:37.710Z"
+  },
+  "super-perils-of-baking:historical-low": {
+    "lastPrice": 2.99,
+    "sentAt": "2026-11-21T02:43:37.899Z"
+  },
+  "sweet-witches:historical-low": {
+    "lastPrice": 1.49,
+    "sentAt": "2026-11-21T02:43:38.073Z"
+  },
+  "tempest-4000:historical-low": {
+    "lastPrice": 2.99,
+    "sentAt": "2026-11-21T02:43:38.250Z"
+  },
+  "terraformers-tin-can-complete-edition:historical-low": {
+    "lastPrice": 15.74,
+    "sentAt": "2026-11-21T02:43:38.419Z"
+  },
+  "umihara-kawase-bazooka:hot": {
+    "lastPrice": 1.49,
+    "sentAt": "2026-11-21T02:43:38.977Z"
   }
 }
