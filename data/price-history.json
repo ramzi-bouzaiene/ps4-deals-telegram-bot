@@ -47649,5 +47649,86 @@
         "date": "2026-11-21"
       }
     ]
+  },
+  "the-quintessential-quintuplets-double-pack": {
+    "prices": [
+      {
+        "price": 29.99,
+        "currency": "EUR",
+        "date": "2026-11-21"
+      }
+    ]
+  },
+  "the-wild-at-heart": {
+    "prices": [
+      {
+        "price": 7.49,
+        "currency": "EUR",
+        "date": "2026-11-21"
+      }
+    ]
+  },
+  "ys-ix-monstrum-nox-digital-deluxe-edition": {
+    "prices": [
+      {
+        "price": 29.99,
+        "currency": "EUR",
+        "date": "2026-11-21"
+      }
+    ]
+  },
+  "the-missing-j-j-macfield-and-the-island-of-memories": {
+    "prices": [
+      {
+        "price": 4.99,
+        "currency": "EUR",
+        "date": "2026-11-21"
+      }
+    ]
+  },
+  "turrican-anthology-vol-i": {
+    "prices": [
+      {
+        "price": 4.89,
+        "currency": "EUR",
+        "date": "2026-11-21"
+      }
+    ]
+  },
+  "une-chaise-dans-une-piece-greenwater": {
+    "prices": [
+      {
+        "price": 4.39,
+        "currency": "EUR",
+        "date": "2026-11-21"
+      }
+    ]
+  },
+  "would-you-like-to-run-an-idol-cafe-2-ps4-ps5": {
+    "prices": [
+      {
+        "price": 3.99,
+        "currency": "EUR",
+        "date": "2026-11-21"
+      }
+    ]
+  },
+  "would-you-like-to-run-an-idol-cafe-3-ps4-ps5": {
+    "prices": [
+      {
+        "price": 3.99,
+        "currency": "EUR",
+        "date": "2026-11-21"
+      }
+    ]
+  },
+  "x-morph-defense": {
+    "prices": [
+      {
+        "price": 3.99,
+        "currency": "EUR",
+        "date": "2026-11-21"
+      }
+    ]
   }
 }
