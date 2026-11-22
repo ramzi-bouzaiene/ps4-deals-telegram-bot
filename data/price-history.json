@@ -47730,5 +47730,14 @@
         "date": "2026-11-21"
       }
     ]
+  },
+  "touhou-genso-wanderer-reloaded": {
+    "prices": [
+      {
+        "price": 7.49,
+        "currency": "EUR",
+        "date": "2026-11-22"
+      }
+    ]
   }
 }
