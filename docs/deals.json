@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-22T02:52:01.915Z",
+  "generatedAt": "2026-11-22T10:47:48.117Z",
   "region": "FR",
   "currency": "EUR",
   "symbol": "€",
   "minimumDealScore": 80,
   "stats": {
-    "total": 1395,
-    "scored60": 1386,
-    "scored80": 978,
-    "scored90": 271,
+    "total": 1394,
+    "scored60": 1385,
+    "scored80": 979,
+    "scored90": 272,
     "avgDiscount": 69,
     "maxScore": 97,
     "maxScoreTitle": "Umihara Kawase BaZooKa!",
@@ -57,9 +57,9 @@
       "tier": "insane"
     },
     {
-      "title": "Season Match 2",
-      "url": "https://store.playstation.com/fr-fr/product/EP1629-CUSA13520_00-SEASONMATCH20000",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202301/1611/wTeLSGrh21tFfULQzuTRIVn9.png",
+      "title": "SturmFront - The Mutant War: Übel Edition",
+      "url": "https://store.playstation.com/fr-fr/product/EP5098-PPSA09816_00-1193057821053684",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202103/0815/UrWr8IktwiP4RzhmSPX0h4yZ.jpg",
       "currentPrice": 0.99,
       "originalPrice": 9.99,
       "discountPercentage": 90,
@@ -67,9 +67,9 @@
       "tier": "insane"
     },
     {
-      "title": "SturmFront - The Mutant War: Übel Edition",
-      "url": "https://store.playstation.com/fr-fr/product/EP5098-PPSA09816_00-1193057821053684",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202103/0815/UrWr8IktwiP4RzhmSPX0h4yZ.jpg",
+      "title": "Season Match 2",
+      "url": "https://store.playstation.com/fr-fr/product/EP1629-CUSA13520_00-SEASONMATCH20000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202301/1611/wTeLSGrh21tFfULQzuTRIVn9.png",
       "currentPrice": 0.99,
       "originalPrice": 9.99,
       "discountPercentage": 90,
@@ -237,16 +237,6 @@
       "tier": "insane"
     },
     {
-      "title": "ASTÉRIX & OBÉLIX XXL 2",
-      "url": "https://store.playstation.com/fr-fr/product/EP4295-PPSA08164_00-AOXXL2PS500000EU",
-      "imageUrl": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA13367_00/3/i_0ea39a637f8c960a674ceda4a5e665307b14c1755517c2138128fc2ada700cae/i/pic0.png",
-      "currentPrice": 1.99,
-      "originalPrice": 19.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
       "title": "TT Isle of Man: Ride on the Edge",
       "url": "https://store.playstation.com/fr-fr/product/EP4008-CUSA08912_00-TT00000000000000",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202009/2109/N5pbGlPgTQgXvUCaux95s7TR.jpg",
@@ -257,9 +247,19 @@
       "tier": "insane"
     },
     {
-      "title": "Arkanoid Eternal Battle",
-      "url": "https://store.playstation.com/fr-fr/product/EP4295-PPSA06327_00-ARKEBPS5000000EU",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202210/2408/EnlSePgFs7DjiwIsz8EgaB1k.png",
+      "title": "ASTÉRIX & OBÉLIX XXL 2",
+      "url": "https://store.playstation.com/fr-fr/product/EP4295-PPSA08164_00-AOXXL2PS500000EU",
+      "imageUrl": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA13367_00/3/i_0ea39a637f8c960a674ceda4a5e665307b14c1755517c2138128fc2ada700cae/i/pic0.png",
+      "currentPrice": 1.99,
+      "originalPrice": 19.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
+      "title": "Sébastien Loeb Rally EVO",
+      "url": "https://store.playstation.com/fr-fr/product/EP4356-CUSA02021_00-SLREVOFULLGAME00",
+      "imageUrl": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA05778_00/4/i_27f4ca30f73acaffd4f4f58bf0059667498da057801469ac44bc71360b31726b/i/pic0.png",
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -277,9 +277,9 @@
       "tier": "insane"
     },
     {
-      "title": "Sébastien Loeb Rally EVO",
-      "url": "https://store.playstation.com/fr-fr/product/EP4356-CUSA02021_00-SLREVOFULLGAME00",
-      "imageUrl": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA05778_00/4/i_27f4ca30f73acaffd4f4f58bf0059667498da057801469ac44bc71360b31726b/i/pic0.png",
+      "title": "Arkanoid Eternal Battle",
+      "url": "https://store.playstation.com/fr-fr/product/EP4295-PPSA06327_00-ARKEBPS5000000EU",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202210/2408/EnlSePgFs7DjiwIsz8EgaB1k.png",
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -307,9 +307,9 @@
       "tier": "insane"
     },
     {
-      "title": "SteamWorld Dig 2",
-      "url": "https://store.playstation.com/fr-fr/product/EP4473-CUSA07987_00-00SWDIG2CROSSBUY",
-      "imageUrl": null,
+      "title": "Shinorubi",
+      "url": "https://store.playstation.com/fr-fr/product/EP5098-PPSA09526_00-6878945196780017",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202311/2709/5ae33fb9a38a0e1746931056f07eb2b68173258de7f54ce5.jpg",
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -317,9 +317,9 @@
       "tier": "insane"
     },
     {
-      "title": "Shinorubi",
-      "url": "https://store.playstation.com/fr-fr/product/EP5098-PPSA09526_00-6878945196780017",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202311/2709/5ae33fb9a38a0e1746931056f07eb2b68173258de7f54ce5.jpg",
+      "title": "SteamWorld Dig 2",
+      "url": "https://store.playstation.com/fr-fr/product/EP4473-CUSA07987_00-00SWDIG2CROSSBUY",
+      "imageUrl": null,
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -447,9 +447,9 @@
       "tier": "insane"
     },
     {
-      "title": "Vampire: The Masquerade - Swansong",
-      "url": "https://store.playstation.com/fr-fr/product/EP6665-CUSA33241_00-VTMS000000000000",
-      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202102/0315/XDnzEWWPDuurhBqfpOdV2uYd.jpg",
+      "title": "Sébastien Loeb Rally EVO - Special Edition",
+      "url": "https://store.playstation.com/fr-fr/product/EP4356-CUSA02021_00-SLRSE00000000000",
+      "imageUrl": null,
       "currentPrice": 2.99,
       "originalPrice": 29.99,
       "discountPercentage": 90,
@@ -457,9 +457,9 @@
       "tier": "insane"
     },
     {
-      "title": "Sébastien Loeb Rally EVO - Special Edition",
-      "url": "https://store.playstation.com/fr-fr/product/EP4356-CUSA02021_00-SLRSE00000000000",
-      "imageUrl": null,
+      "title": "Vampire: The Masquerade - Swansong",
+      "url": "https://store.playstation.com/fr-fr/product/EP6665-CUSA33241_00-VTMS000000000000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202102/0315/XDnzEWWPDuurhBqfpOdV2uYd.jpg",
       "currentPrice": 2.99,
       "originalPrice": 29.99,
       "discountPercentage": 90,
@@ -867,8 +867,8 @@
       "tier": "insane"
     },
     {
-      "title": "GAROU: MARK OF THE WOLVES™",
-      "url": "https://store.playstation.com/fr-fr/product/EP0576-CUSA05993_00-GAROUMOW00000001",
+      "title": "Door Kickers: Action Squad",
+      "url": "https://store.playstation.com/fr-fr/product/EP3109-CUSA14493_00-DOORKICKERS0SIEE",
       "imageUrl": null,
       "currentPrice": 2.24,
       "originalPrice": 14.99,
@@ -877,8 +877,8 @@
       "tier": "insane"
     },
     {
-      "title": "Door Kickers: Action Squad",
-      "url": "https://store.playstation.com/fr-fr/product/EP3109-CUSA14493_00-DOORKICKERS0SIEE",
+      "title": "GAROU: MARK OF THE WOLVES™",
+      "url": "https://store.playstation.com/fr-fr/product/EP0576-CUSA05993_00-GAROUMOW00000001",
       "imageUrl": null,
       "currentPrice": 2.24,
       "originalPrice": 14.99,
@@ -937,6 +937,16 @@
       "tier": "insane"
     },
     {
+      "title": "Power Rangers: Battle For The Grid",
+      "url": "https://store.playstation.com/fr-fr/product/EP5002-CUSA15284_00-BATTLEFORTHEGRID",
+      "imageUrl": null,
+      "currentPrice": 2.99,
+      "originalPrice": 19.99,
+      "discountPercentage": 85,
+      "score": 93,
+      "tier": "insane"
+    },
+    {
       "title": "We. The Revolution",
       "url": "https://store.playstation.com/fr-fr/product/EP4886-CUSA15471_00-WE0THEREVOLUTION",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0613/041fd824181b899516ef88691b38ae5e5ee4409cc735ba85.jpg",
@@ -947,8 +957,18 @@
       "tier": "insane"
     },
     {
-      "title": "Power Rangers: Battle For The Grid",
-      "url": "https://store.playstation.com/fr-fr/product/EP5002-CUSA15284_00-BATTLEFORTHEGRID",
+      "title": "UNRAILED!",
+      "url": "https://store.playstation.com/fr-fr/product/EP8923-CUSA20418_00-DAEEUUNRAILED001",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202301/2416/gSsG8emmu78TNoqJ2lzsiYXi.jpg",
+      "currentPrice": 2.99,
+      "originalPrice": 19.99,
+      "discountPercentage": 85,
+      "score": 93,
+      "tier": "insane"
+    },
+    {
+      "title": "Windbound",
+      "url": "https://store.playstation.com/fr-fr/product/EP4062-CUSA17774_00-WINDBOUNDGAME000",
       "imageUrl": null,
       "currentPrice": 2.99,
       "originalPrice": 19.99,
@@ -987,31 +1007,11 @@
       "tier": "insane"
     },
     {
-      "title": "Windbound",
-      "url": "https://store.playstation.com/fr-fr/product/EP4062-CUSA17774_00-WINDBOUNDGAME000",
+      "title": "PixelJunk™ Monsters 2 Deluxe Edition",
+      "url": "https://store.playstation.com/fr-fr/product/EP4947-CUSA11917_00-BUNDLE0000000000",
       "imageUrl": null,
-      "currentPrice": 2.99,
-      "originalPrice": 19.99,
-      "discountPercentage": 85,
-      "score": 93,
-      "tier": "insane"
-    },
-    {
-      "title": "UNRAILED!",
-      "url": "https://store.playstation.com/fr-fr/product/EP8923-CUSA20418_00-DAEEUUNRAILED001",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202301/2416/gSsG8emmu78TNoqJ2lzsiYXi.jpg",
-      "currentPrice": 2.99,
-      "originalPrice": 19.99,
-      "discountPercentage": 85,
-      "score": 93,
-      "tier": "insane"
-    },
-    {
-      "title": "Tempest 4000",
-      "url": "https://store.playstation.com/fr-fr/product/EP0182-CUSA09885_00-TEMPEST400000001",
-      "imageUrl": null,
-      "currentPrice": 2.99,
-      "originalPrice": 19.99,
+      "currentPrice": 3.29,
+      "originalPrice": 21.99,
       "discountPercentage": 85,
       "score": 93,
       "tier": "insane"

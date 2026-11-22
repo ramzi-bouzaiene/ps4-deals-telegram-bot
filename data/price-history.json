@@ -14152,6 +14152,11 @@
         "price": 4.19,
         "currency": "EUR",
         "date": "2026-10-08"
+      },
+      {
+        "price": 2.99,
+        "currency": "EUR",
+        "date": "2026-11-22"
       }
     ]
   },

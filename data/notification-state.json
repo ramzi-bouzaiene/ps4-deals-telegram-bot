@@ -2882,5 +2882,9 @@
   "strawberry-vinegar:hot": {
     "lastPrice": 0.99,
     "sentAt": "2026-11-21T10:42:30.561Z"
+  },
+  "zombie-vikings:historical-low": {
+    "lastPrice": 2.99,
+    "sentAt": "2026-11-22T10:47:47.789Z"
   }
 }
