@@ -47772,5 +47772,23 @@
         "date": "2026-11-23"
       }
     ]
+  },
+  "touhou-kobuto-v-burst-battle": {
+    "prices": [
+      {
+        "price": 4.49,
+        "currency": "EUR",
+        "date": "2026-11-23"
+      }
+    ]
+  },
+  "tortues-ninja-les-mutants-se-dechainent-edition-deluxe-numerique": {
+    "prices": [
+      {
+        "price": 12.49,
+        "currency": "EUR",
+        "date": "2026-11-23"
+      }
+    ]
   }
 }
