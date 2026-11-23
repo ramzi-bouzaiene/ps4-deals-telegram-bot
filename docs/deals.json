@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-22T23:45:11.002Z",
+  "generatedAt": "2026-11-23T06:03:02.961Z",
   "region": "FR",
   "currency": "EUR",
   "symbol": "€",
   "minimumDealScore": 80,
   "stats": {
-    "total": 1394,
-    "scored60": 1385,
-    "scored80": 979,
-    "scored90": 271,
+    "total": 1397,
+    "scored60": 1388,
+    "scored80": 980,
+    "scored90": 269,
     "avgDiscount": 69,
     "maxScore": 97,
     "maxScoreTitle": "Umihara Kawase BaZooKa!",
@@ -147,8 +147,8 @@
       "tier": "insane"
     },
     {
-      "title": "SteamWorld Heist",
-      "url": "https://store.playstation.com/fr-fr/product/EP4473-CUSA01478_00-SWHCROSSBUY00000",
+      "title": "Golazo! Football League",
+      "url": "https://store.playstation.com/fr-fr/product/EP4886-CUSA16607_00-GOLAZOFOOTBALLEU",
       "imageUrl": null,
       "currentPrice": 1.49,
       "originalPrice": 14.99,
@@ -157,8 +157,8 @@
       "tier": "insane"
     },
     {
-      "title": "Golazo! Football League",
-      "url": "https://store.playstation.com/fr-fr/product/EP4886-CUSA16607_00-GOLAZOFOOTBALLEU",
+      "title": "SteamWorld Heist",
+      "url": "https://store.playstation.com/fr-fr/product/EP4473-CUSA01478_00-SWHCROSSBUY00000",
       "imageUrl": null,
       "currentPrice": 1.49,
       "originalPrice": 14.99,
@@ -257,16 +257,6 @@
       "tier": "insane"
     },
     {
-      "title": "Sébastien Loeb Rally EVO",
-      "url": "https://store.playstation.com/fr-fr/product/EP4356-CUSA02021_00-SLREVOFULLGAME00",
-      "imageUrl": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA05778_00/4/i_27f4ca30f73acaffd4f4f58bf0059667498da057801469ac44bc71360b31726b/i/pic0.png",
-      "currentPrice": 1.99,
-      "originalPrice": 19.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
       "title": "Gauntlet: Slayer Edition",
       "url": "https://store.playstation.com/fr-fr/product/EP1018-CUSA00690_00-GAUNTLETGAME0001",
       "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202010/1520/qz6oCAUrRwCkFQebMVPSMdf8.png",
@@ -277,9 +267,9 @@
       "tier": "insane"
     },
     {
-      "title": "Arkanoid Eternal Battle",
-      "url": "https://store.playstation.com/fr-fr/product/EP4295-PPSA06327_00-ARKEBPS5000000EU",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202210/2408/EnlSePgFs7DjiwIsz8EgaB1k.png",
+      "title": "Sébastien Loeb Rally EVO",
+      "url": "https://store.playstation.com/fr-fr/product/EP4356-CUSA02021_00-SLREVOFULLGAME00",
+      "imageUrl": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA05778_00/4/i_27f4ca30f73acaffd4f4f58bf0059667498da057801469ac44bc71360b31726b/i/pic0.png",
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -320,6 +310,16 @@
       "title": "SteamWorld Dig 2",
       "url": "https://store.playstation.com/fr-fr/product/EP4473-CUSA07987_00-00SWDIG2CROSSBUY",
       "imageUrl": null,
+      "currentPrice": 1.99,
+      "originalPrice": 19.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
+      "title": "Arkanoid Eternal Battle",
+      "url": "https://store.playstation.com/fr-fr/product/EP4295-PPSA06327_00-ARKEBPS5000000EU",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202210/2408/EnlSePgFs7DjiwIsz8EgaB1k.png",
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -417,6 +417,16 @@
       "tier": "insane"
     },
     {
+      "title": "Lords of the Fallen - Complete Edition (2014)",
+      "url": "https://store.playstation.com/fr-fr/product/EP4321-CUSA00377_00-COMPLETEBUNDLE01",
+      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202010/0916/11O7XNf4QLDzVWZUaQol2SzT.png",
+      "currentPrice": 2.99,
+      "originalPrice": 29.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
       "title": "LIMBO & INSIDE Bundle",
       "url": "https://store.playstation.com/fr-fr/product/EP2054-CUSA01369_00-7598584263277541",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202512/0815/f15404b5f1b6a6288fb6b6648e094288b4d17f736e0bfbd6.jpg",
@@ -437,9 +447,9 @@
       "tier": "insane"
     },
     {
-      "title": "Lords of the Fallen - Complete Edition (2014)",
-      "url": "https://store.playstation.com/fr-fr/product/EP4321-CUSA00377_00-COMPLETEBUNDLE01",
-      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202010/0916/11O7XNf4QLDzVWZUaQol2SzT.png",
+      "title": "Vampire: The Masquerade - Swansong",
+      "url": "https://store.playstation.com/fr-fr/product/EP6665-CUSA33241_00-VTMS000000000000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202102/0315/XDnzEWWPDuurhBqfpOdV2uYd.jpg",
       "currentPrice": 2.99,
       "originalPrice": 29.99,
       "discountPercentage": 90,
@@ -450,16 +460,6 @@
       "title": "Sébastien Loeb Rally EVO - Special Edition",
       "url": "https://store.playstation.com/fr-fr/product/EP4356-CUSA02021_00-SLRSE00000000000",
       "imageUrl": null,
-      "currentPrice": 2.99,
-      "originalPrice": 29.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
-      "title": "Vampire: The Masquerade - Swansong",
-      "url": "https://store.playstation.com/fr-fr/product/EP6665-CUSA33241_00-VTMS000000000000",
-      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202102/0315/XDnzEWWPDuurhBqfpOdV2uYd.jpg",
       "currentPrice": 2.99,
       "originalPrice": 29.99,
       "discountPercentage": 90,
@@ -827,16 +827,6 @@
       "tier": "insane"
     },
     {
-      "title": "Sweet Witches",
-      "url": "https://store.playstation.com/fr-fr/product/EP4897-CUSA24279_00-0036561794692215",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202009/2512/cdkEERyeBZe2E5y3kw4ZHkyY.jpg",
-      "currentPrice": 1.49,
-      "originalPrice": 9.99,
-      "discountPercentage": 85,
-      "score": 93,
-      "tier": "insane"
-    },
-    {
       "title": "Sophstar",
       "url": "https://store.playstation.com/fr-fr/product/EP5098-PPSA08446_00-1821432711276829",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202209/2314/ELWadCKZbJoLsovZzmNBKuVt.png",
@@ -947,16 +937,6 @@
       "tier": "insane"
     },
     {
-      "title": "We. The Revolution",
-      "url": "https://store.playstation.com/fr-fr/product/EP4886-CUSA15471_00-WE0THEREVOLUTION",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0613/041fd824181b899516ef88691b38ae5e5ee4409cc735ba85.jpg",
-      "currentPrice": 2.99,
-      "originalPrice": 19.99,
-      "discountPercentage": 85,
-      "score": 93,
-      "tier": "insane"
-    },
-    {
       "title": "UNRAILED!",
       "url": "https://store.playstation.com/fr-fr/product/EP8923-CUSA20418_00-DAEEUUNRAILED001",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202301/2416/gSsG8emmu78TNoqJ2lzsiYXi.jpg",
@@ -1007,6 +987,16 @@
       "tier": "insane"
     },
     {
+      "title": "We. The Revolution",
+      "url": "https://store.playstation.com/fr-fr/product/EP4886-CUSA15471_00-WE0THEREVOLUTION",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0613/041fd824181b899516ef88691b38ae5e5ee4409cc735ba85.jpg",
+      "currentPrice": 2.99,
+      "originalPrice": 19.99,
+      "discountPercentage": 85,
+      "score": 93,
+      "tier": "insane"
+    },
+    {
       "title": "PixelJunk™ Monsters 2 Deluxe Edition",
       "url": "https://store.playstation.com/fr-fr/product/EP4947-CUSA11917_00-BUNDLE0000000000",
       "imageUrl": null,
@@ -1014,6 +1004,16 @@
       "originalPrice": 21.99,
       "discountPercentage": 85,
       "score": 93,
+      "tier": "insane"
+    },
+    {
+      "title": "LEGO® Star Wars™: La Saga Skywalker Édition Galactique",
+      "url": "https://store.playstation.com/fr-fr/product/EP1018-PPSA01865_00-LEGOSWTSSGE00000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202210/1320/Z8k6gplRa9RaMoenEPbmi0R5.png",
+      "currentPrice": 7.99,
+      "originalPrice": 79.99,
+      "discountPercentage": 90,
+      "score": 92,
       "tier": "insane"
     }
   ],
