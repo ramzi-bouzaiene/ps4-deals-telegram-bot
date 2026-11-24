@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-23T18:38:13.656Z",
+  "generatedAt": "2026-11-24T04:13:00.640Z",
   "region": "FR",
   "currency": "EUR",
   "symbol": "€",
   "minimumDealScore": 80,
   "stats": {
-    "total": 1400,
+    "total": 1401,
     "scored60": 1391,
-    "scored80": 982,
-    "scored90": 270,
+    "scored80": 983,
+    "scored90": 271,
     "avgDiscount": 69,
     "maxScore": 97,
     "maxScoreTitle": "Umihara Kawase BaZooKa!",
@@ -37,8 +37,8 @@
       "tier": "insane"
     },
     {
-      "title": "Strawberry Vinegar",
-      "url": "https://store.playstation.com/fr-fr/product/EP0896-CUSA19604_00-RGSTRAWBERRYVINE",
+      "title": "Coffee Crisis",
+      "url": "https://store.playstation.com/fr-fr/product/EP4681-CUSA16512_00-0000000000000001",
       "imageUrl": null,
       "currentPrice": 0.99,
       "originalPrice": 9.99,
@@ -47,8 +47,8 @@
       "tier": "insane"
     },
     {
-      "title": "Coffee Crisis",
-      "url": "https://store.playstation.com/fr-fr/product/EP4681-CUSA16512_00-0000000000000001",
+      "title": "Strawberry Vinegar",
+      "url": "https://store.playstation.com/fr-fr/product/EP0896-CUSA19604_00-RGSTRAWBERRYVINE",
       "imageUrl": null,
       "currentPrice": 0.99,
       "originalPrice": 9.99,
@@ -317,9 +317,9 @@
       "tier": "insane"
     },
     {
-      "title": "Arkanoid Eternal Battle",
-      "url": "https://store.playstation.com/fr-fr/product/EP4295-PPSA06327_00-ARKEBPS5000000EU",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202210/2408/EnlSePgFs7DjiwIsz8EgaB1k.png",
+      "title": "Motorcycle Club",
+      "url": "https://store.playstation.com/fr-fr/product/EP4008-CUSA01170_00-MOTORCYCLECLUB00",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202009/1415/jsqoKX9P7GXf3qneWjn2fovX.jpg",
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -327,9 +327,9 @@
       "tier": "insane"
     },
     {
-      "title": "Motorcycle Club",
-      "url": "https://store.playstation.com/fr-fr/product/EP4008-CUSA01170_00-MOTORCYCLECLUB00",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202009/1415/jsqoKX9P7GXf3qneWjn2fovX.jpg",
+      "title": "Arkanoid Eternal Battle",
+      "url": "https://store.playstation.com/fr-fr/product/EP4295-PPSA06327_00-ARKEBPS5000000EU",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202210/2408/EnlSePgFs7DjiwIsz8EgaB1k.png",
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
