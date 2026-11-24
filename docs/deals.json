@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-24T04:13:00.640Z",
+  "generatedAt": "2026-11-24T15:09:01.665Z",
   "region": "FR",
   "currency": "EUR",
   "symbol": "€",
   "minimumDealScore": 80,
   "stats": {
-    "total": 1401,
+    "total": 1400,
     "scored60": 1391,
-    "scored80": 983,
+    "scored80": 981,
     "scored90": 271,
     "avgDiscount": 69,
     "maxScore": 97,
@@ -417,9 +417,9 @@
       "tier": "insane"
     },
     {
-      "title": "Lords of the Fallen - Complete Edition (2014)",
-      "url": "https://store.playstation.com/fr-fr/product/EP4321-CUSA00377_00-COMPLETEBUNDLE01",
-      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202010/0916/11O7XNf4QLDzVWZUaQol2SzT.png",
+      "title": "LIMBO & INSIDE Bundle",
+      "url": "https://store.playstation.com/fr-fr/product/EP2054-CUSA01369_00-7598584263277541",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202512/0815/f15404b5f1b6a6288fb6b6648e094288b4d17f736e0bfbd6.jpg",
       "currentPrice": 2.99,
       "originalPrice": 29.99,
       "discountPercentage": 90,
@@ -427,9 +427,9 @@
       "tier": "insane"
     },
     {
-      "title": "LIMBO & INSIDE Bundle",
-      "url": "https://store.playstation.com/fr-fr/product/EP2054-CUSA01369_00-7598584263277541",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202512/0815/f15404b5f1b6a6288fb6b6648e094288b4d17f736e0bfbd6.jpg",
+      "title": "Lords of the Fallen - Complete Edition (2014)",
+      "url": "https://store.playstation.com/fr-fr/product/EP4321-CUSA00377_00-COMPLETEBUNDLE01",
+      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202010/0916/11O7XNf4QLDzVWZUaQol2SzT.png",
       "currentPrice": 2.99,
       "originalPrice": 29.99,
       "discountPercentage": 90,
@@ -607,9 +607,9 @@
       "tier": "insane"
     },
     {
-      "title": "LEGO® Star Wars™ : La Saga Skywalker PS4 & PS5",
-      "url": "https://store.playstation.com/fr-fr/product/EP1018-PPSA01865_00-LEGOSWTSS0000000",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/huLsTFyulvj2fC0nbRaVUChw.png",
+      "title": "Pack Metro Saga",
+      "url": "https://store.playstation.com/fr-fr/product/EP4062-CUSA11407_00-METROSAGABUNDLE0",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202102/2615/PZohlQbUfgMqBaGycBzVqX3M.png",
       "currentPrice": 5.99,
       "originalPrice": 59.99,
       "discountPercentage": 90,
@@ -617,9 +617,9 @@
       "tier": "insane"
     },
     {
-      "title": "Pack Metro Saga",
-      "url": "https://store.playstation.com/fr-fr/product/EP4062-CUSA11407_00-METROSAGABUNDLE0",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202102/2615/PZohlQbUfgMqBaGycBzVqX3M.png",
+      "title": "LEGO® Star Wars™ : La Saga Skywalker PS4 & PS5",
+      "url": "https://store.playstation.com/fr-fr/product/EP1018-PPSA01865_00-LEGOSWTSS0000000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/huLsTFyulvj2fC0nbRaVUChw.png",
       "currentPrice": 5.99,
       "originalPrice": 59.99,
       "discountPercentage": 90,
@@ -937,9 +937,9 @@
       "tier": "insane"
     },
     {
-      "title": "UNRAILED!",
-      "url": "https://store.playstation.com/fr-fr/product/EP8923-CUSA20418_00-DAEEUUNRAILED001",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202301/2416/gSsG8emmu78TNoqJ2lzsiYXi.jpg",
+      "title": "Windbound",
+      "url": "https://store.playstation.com/fr-fr/product/EP4062-CUSA17774_00-WINDBOUNDGAME000",
+      "imageUrl": null,
       "currentPrice": 2.99,
       "originalPrice": 19.99,
       "discountPercentage": 85,
@@ -947,9 +947,9 @@
       "tier": "insane"
     },
     {
-      "title": "Windbound",
-      "url": "https://store.playstation.com/fr-fr/product/EP4062-CUSA17774_00-WINDBOUNDGAME000",
-      "imageUrl": null,
+      "title": "UNRAILED!",
+      "url": "https://store.playstation.com/fr-fr/product/EP8923-CUSA20418_00-DAEEUUNRAILED001",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202301/2416/gSsG8emmu78TNoqJ2lzsiYXi.jpg",
       "currentPrice": 2.99,
       "originalPrice": 19.99,
       "discountPercentage": 85,
