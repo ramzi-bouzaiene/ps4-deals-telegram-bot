@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T15:09:01.665Z",
+  "generatedAt": "2026-11-25T00:01:05.757Z",
   "region": "FR",
   "currency": "EUR",
   "symbol": "€",
@@ -7,7 +7,7 @@
   "stats": {
     "total": 1400,
     "scored60": 1391,
-    "scored80": 981,
+    "scored80": 982,
     "scored90": 271,
     "avgDiscount": 69,
     "maxScore": 97,
