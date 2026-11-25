@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-25T08:16:08.422Z",
+  "generatedAt": "2026-11-25T18:46:48.303Z",
   "region": "FR",
   "currency": "EUR",
   "symbol": "€",
   "minimumDealScore": 80,
   "stats": {
-    "total": 1399,
-    "scored60": 1390,
-    "scored80": 982,
+    "total": 1398,
+    "scored60": 1389,
+    "scored80": 981,
     "scored90": 271,
     "avgDiscount": 69,
     "maxScore": 97,
@@ -297,9 +297,9 @@
       "tier": "insane"
     },
     {
-      "title": "Shinorubi",
-      "url": "https://store.playstation.com/fr-fr/product/EP5098-PPSA09526_00-6878945196780017",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202311/2709/5ae33fb9a38a0e1746931056f07eb2b68173258de7f54ce5.jpg",
+      "title": "SteamWorld Dig 2",
+      "url": "https://store.playstation.com/fr-fr/product/EP4473-CUSA07987_00-00SWDIG2CROSSBUY",
+      "imageUrl": null,
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -307,9 +307,9 @@
       "tier": "insane"
     },
     {
-      "title": "SteamWorld Dig 2",
-      "url": "https://store.playstation.com/fr-fr/product/EP4473-CUSA07987_00-00SWDIG2CROSSBUY",
-      "imageUrl": null,
+      "title": "Shinorubi",
+      "url": "https://store.playstation.com/fr-fr/product/EP5098-PPSA09526_00-6878945196780017",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202311/2709/5ae33fb9a38a0e1746931056f07eb2b68173258de7f54ce5.jpg",
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -607,9 +607,9 @@
       "tier": "insane"
     },
     {
-      "title": "Pack Metro Saga",
-      "url": "https://store.playstation.com/fr-fr/product/EP4062-CUSA11407_00-METROSAGABUNDLE0",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202102/2615/PZohlQbUfgMqBaGycBzVqX3M.png",
+      "title": "LEGO® Star Wars™ : La Saga Skywalker PS4 & PS5",
+      "url": "https://store.playstation.com/fr-fr/product/EP1018-PPSA01865_00-LEGOSWTSS0000000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/huLsTFyulvj2fC0nbRaVUChw.png",
       "currentPrice": 5.99,
       "originalPrice": 59.99,
       "discountPercentage": 90,
@@ -617,9 +617,9 @@
       "tier": "insane"
     },
     {
-      "title": "LEGO® Star Wars™ : La Saga Skywalker PS4 & PS5",
-      "url": "https://store.playstation.com/fr-fr/product/EP1018-PPSA01865_00-LEGOSWTSS0000000",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/huLsTFyulvj2fC0nbRaVUChw.png",
+      "title": "Pack Metro Saga",
+      "url": "https://store.playstation.com/fr-fr/product/EP4062-CUSA11407_00-METROSAGABUNDLE0",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202102/2615/PZohlQbUfgMqBaGycBzVqX3M.png",
       "currentPrice": 5.99,
       "originalPrice": 59.99,
       "discountPercentage": 90,
@@ -877,8 +877,8 @@
       "tier": "insane"
     },
     {
-      "title": "GAROU: MARK OF THE WOLVES™",
-      "url": "https://store.playstation.com/fr-fr/product/EP0576-CUSA05993_00-GAROUMOW00000001",
+      "title": "PixelJunk™ Monsters 2",
+      "url": "https://store.playstation.com/fr-fr/product/EP4947-CUSA11917_00-PJM2000000000000",
       "imageUrl": null,
       "currentPrice": 2.24,
       "originalPrice": 14.99,
@@ -887,8 +887,8 @@
       "tier": "insane"
     },
     {
-      "title": "PixelJunk™ Monsters 2",
-      "url": "https://store.playstation.com/fr-fr/product/EP4947-CUSA11917_00-PJM2000000000000",
+      "title": "GAROU: MARK OF THE WOLVES™",
+      "url": "https://store.playstation.com/fr-fr/product/EP0576-CUSA05993_00-GAROUMOW00000001",
       "imageUrl": null,
       "currentPrice": 2.24,
       "originalPrice": 14.99,

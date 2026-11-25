@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-25T08:16:00.838Z",
+  "fetchedAt": "2026-11-25T18:46:40.061Z",
   "region": "FR",
   "deals": [
     {
@@ -223,19 +223,6 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202010/2417/tnCutdREPv6Pa7atqb8MTxGW.png"
     },
     {
-      "id": "EP0700-PPSA06980_00-NARUTOUNSA000000",
-      "title": "NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS PS4 & PS5",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 19.79,
-      "originalPrice": 59.99,
-      "currency": "EUR",
-      "discountPercentage": 67,
-      "url": "https://store.playstation.com/fr-fr/product/EP0700-PPSA06980_00-NARUTOUNSA000000",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202307/3118/d7ebddc44d67f9f079d9ef77809838db844c64b2db49ea05.jpg"
-    },
-    {
       "id": "EP1001-PPSA36458_00-MAFIA1DEPS500000",
       "title": "Mafia: Definitive Edition pour PS5®",
       "platform": "PS4",
@@ -275,6 +262,19 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202405/1113/162d6c0791d9c3d99fe9db7c436143450033672424298f2e.jpg"
     },
     {
+      "id": "EP0700-PPSA06980_00-NARUTOUNSA000000",
+      "title": "NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS PS4 & PS5",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 19.79,
+      "originalPrice": 59.99,
+      "currency": "EUR",
+      "discountPercentage": 67,
+      "url": "https://store.playstation.com/fr-fr/product/EP0700-PPSA06980_00-NARUTOUNSA000000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202307/3118/d7ebddc44d67f9f079d9ef77809838db844c64b2db49ea05.jpg"
+    },
+    {
       "id": "EP4062-PPSA21704_00-KCDSAGAGAMEBSIEE",
       "title": "Kingdom Come: Deliverance - Saga Bundle",
       "platform": "PS4",
@@ -301,19 +301,6 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202010/1520/Zn6JKFaqhuWXqqehxCqkXarQ.jpg"
     },
     {
-      "id": "EP0700-PPSA06980_00-NARUTOUNSAULT000",
-      "title": "NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS Ultimate Edition PS4 & PS5",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 28.49,
-      "originalPrice": 94.99,
-      "currency": "EUR",
-      "discountPercentage": 70,
-      "url": "https://store.playstation.com/fr-fr/product/EP0700-PPSA06980_00-NARUTOUNSAULT000",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0110/5178d718de0ac55bbfd96fb6670eca3bea040456544432da.jpg"
-    },
-    {
       "id": "EP1003-PPSA03747_00-SKY10ANNIVERSARY",
       "title": "The Elder Scrolls V: Skyrim Anniversary Edition - PS5 & PS4",
       "platform": "PS4",
@@ -325,6 +312,19 @@
       "discountPercentage": 67,
       "url": "https://store.playstation.com/fr-fr/product/EP1003-PPSA03747_00-SKY10ANNIVERSARY",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202110/2614/vDPZYIUtziAkRcSoA4o3So5r.jpg"
+    },
+    {
+      "id": "EP0700-PPSA06980_00-NARUTOUNSAULT000",
+      "title": "NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS Ultimate Edition PS4 & PS5",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 28.49,
+      "originalPrice": 94.99,
+      "currency": "EUR",
+      "discountPercentage": 70,
+      "url": "https://store.playstation.com/fr-fr/product/EP0700-PPSA06980_00-NARUTOUNSAULT000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0110/5178d718de0ac55bbfd96fb6670eca3bea040456544432da.jpg"
     },
     {
       "id": "EP0001-PPSA01490_00-GAME000000000000",
@@ -470,19 +470,6 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202010/2000/aPVbncDz3LjjQpNQW6LhzNSK.jpg"
     },
     {
-      "id": "UP0006-CUSA33778_00-APPLEJACKGAME000",
-      "title": "STAR WARS Jedi: Survivor™ PS4",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 12.49,
-      "originalPrice": 49.99,
-      "currency": "EUR",
-      "discountPercentage": 75,
-      "url": "https://store.playstation.com/fr-fr/product/UP0006-CUSA33778_00-APPLEJACKGAME000",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202304/1016/66eb1ad90edf540651444d04f0476a463a80a81ba0b46ea0.png"
-    },
-    {
       "id": "EP0001-CUSA26572_00-THECREWORL000000",
       "title": "The Crew Motorfest",
       "platform": "PS4",
@@ -496,6 +483,19 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202305/2315/b6034169263e4dc8b34ab11690dbd4d72e11501f4066ab8f.jpg"
     },
     {
+      "id": "UP0006-CUSA33778_00-APPLEJACKGAME000",
+      "title": "STAR WARS Jedi: Survivor™ PS4",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 12.49,
+      "originalPrice": 49.99,
+      "currency": "EUR",
+      "discountPercentage": 75,
+      "url": "https://store.playstation.com/fr-fr/product/UP0006-CUSA33778_00-APPLEJACKGAME000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202304/1016/66eb1ad90edf540651444d04f0476a463a80a81ba0b46ea0.png"
+    },
+    {
       "id": "EP0700-CUSA06014_00-PS4TEKKEN7000001",
       "title": "TEKKEN 7",
       "platform": "PS4",
@@ -507,19 +507,6 @@
       "discountPercentage": 80,
       "url": "https://store.playstation.com/fr-fr/product/EP0700-CUSA06014_00-PS4TEKKEN7000001",
       "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202011/0204/zAWbcWQcCma0UuZ8hz5swYMp.png"
-    },
-    {
-      "id": "EP0001-PPSA01870_00-FC6EDSTANDARD000",
-      "title": "FARCRY 6",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 17.49,
-      "originalPrice": 69.99,
-      "currency": "EUR",
-      "discountPercentage": 75,
-      "url": "https://store.playstation.com/fr-fr/product/EP0001-PPSA01870_00-FC6EDSTANDARD000",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202007/1501/MBzbYgZ4F8HQXne1CU5tQB2y.jpg"
     },
     {
       "id": "EP0006-CUSA19515_00-METR000000000000",
@@ -548,6 +535,19 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202109/2814/KBjM7tWNPQIy2nca7OhRRwlf.jpg"
     },
     {
+      "id": "EP0001-PPSA01870_00-FC6EDSTANDARD000",
+      "title": "FARCRY 6",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 17.49,
+      "originalPrice": 69.99,
+      "currency": "EUR",
+      "discountPercentage": 75,
+      "url": "https://store.playstation.com/fr-fr/product/EP0001-PPSA01870_00-FC6EDSTANDARD000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202007/1501/MBzbYgZ4F8HQXne1CU5tQB2y.jpg"
+    },
+    {
       "id": "EP1018-PPSA01865_00-LEGOSWTSSGE00000",
       "title": "LEGO® Star Wars™: La Saga Skywalker Édition Galactique",
       "platform": "PS4",
@@ -559,6 +559,19 @@
       "discountPercentage": 90,
       "url": "https://store.playstation.com/fr-fr/product/EP1018-PPSA01865_00-LEGOSWTSSGE00000",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202210/1320/Z8k6gplRa9RaMoenEPbmi0R5.png"
+    },
+    {
+      "id": "EP0001-PPSA02839_00-THECREWMHEADLINE",
+      "title": "The Crew Motorfest édition Headliners",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 29.69,
+      "originalPrice": 89.99,
+      "currency": "EUR",
+      "discountPercentage": 67,
+      "url": "https://store.playstation.com/fr-fr/product/EP0001-PPSA02839_00-THECREWMHEADLINE",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1712/0b0396d230d854cd805cbbc388168f0c628eae5ce0d68f0e.jpg"
     },
     {
       "id": "EP1018-CUSA04402_00-KRAKENEDIT0STAND",
@@ -587,32 +600,6 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0312/fMM95N2kGZH8ixtUAC0YbtkK.png"
     },
     {
-      "id": "EP0001-PPSA02839_00-THECREWMHEADLINE",
-      "title": "The Crew Motorfest édition Headliners",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 29.69,
-      "originalPrice": 89.99,
-      "currency": "EUR",
-      "discountPercentage": 67,
-      "url": "https://store.playstation.com/fr-fr/product/EP0001-PPSA02839_00-THECREWMHEADLINE",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1712/0b0396d230d854cd805cbbc388168f0c628eae5ce0d68f0e.jpg"
-    },
-    {
-      "id": "EP0001-CUSA05625_00-EDITIONGLDACE000",
-      "title": "Assassin's Creed® Origins - GOLD EDITION",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 14.99,
-      "originalPrice": 99.99,
-      "currency": "EUR",
-      "discountPercentage": 85,
-      "url": "https://store.playstation.com/fr-fr/product/EP0001-CUSA05625_00-EDITIONGLDACE000",
-      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202011/1920/gQSCCpZEsbK5TWtCGmRWHpQp.jpg"
-    },
-    {
       "id": "EP0082-CUSA01244_00-FFX0FFX200EU0PS4",
       "title": "FINAL FANTASY® X/X-2 HD Remaster",
       "platform": "PS4",
@@ -637,6 +624,19 @@
       "discountPercentage": 85,
       "url": "https://store.playstation.com/fr-fr/product/EP0001-CUSA14390_00-GRW2SCEENORMAL00",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202109/2905/6HGteYLOO2M9lalpvHpViCMy.jpg"
+    },
+    {
+      "id": "EP0001-CUSA05625_00-EDITIONGLDACE000",
+      "title": "Assassin's Creed® Origins - GOLD EDITION",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 14.99,
+      "originalPrice": 99.99,
+      "currency": "EUR",
+      "discountPercentage": 85,
+      "url": "https://store.playstation.com/fr-fr/product/EP0001-CUSA05625_00-EDITIONGLDACE000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202011/1920/gQSCCpZEsbK5TWtCGmRWHpQp.jpg"
     },
     {
       "id": "EP0102-PPSA01557_00-VILLAGEGDEDITION",
@@ -704,18 +704,6 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1509/ae542bf18d46b89403c2f6aacdd41caf2bd866f244615c4d.jpg"
     },
     {
-      "id": "EP1004-CUSA09172_00-LANOIRE000000PS4",
-      "title": "L. A. Noire",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 19.99,
-      "originalPrice": 39.99,
-      "currency": "EUR",
-      "discountPercentage": 50,
-      "url": "https://store.playstation.com/fr-fr/product/EP1004-CUSA09172_00-LANOIRE000000PS4"
-    },
-    {
       "id": "JP0576-PPSA19359_00-PS5FFCOTWS2NEWED",
       "title": "FATAL FURY: City of the Wolves :  Legend Edition",
       "platform": "PS4",
@@ -768,17 +756,16 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202510/2318/7acbfdf9715eb474ee9e514cbdf162e751d78a3aefb9b502.png"
     },
     {
-      "id": "EP0700-PPSA04323_00-JASBRDXEDITION00",
-      "title": "JoJo's Bizarre Adventure: All-Star Battle R Deluxe Edition PS4 & PS5",
+      "id": "EP1004-CUSA09172_00-LANOIRE000000PS4",
+      "title": "L. A. Noire",
       "platform": "PS4",
       "store": "PlayStation Store",
       "region": "FR",
-      "currentPrice": 13.99,
-      "originalPrice": 69.99,
+      "currentPrice": 19.99,
+      "originalPrice": 39.99,
       "currency": "EUR",
-      "discountPercentage": 80,
-      "url": "https://store.playstation.com/fr-fr/product/EP0700-PPSA04323_00-JASBRDXEDITION00",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202205/1311/maS8cHMAvV75mAyzDR79tkS3.jpg"
+      "discountPercentage": 50,
+      "url": "https://store.playstation.com/fr-fr/product/EP1004-CUSA09172_00-LANOIRE000000PS4"
     },
     {
       "id": "EP0700-CUSA06014_00-DEFINITIVE000000",
@@ -805,6 +792,19 @@
       "discountPercentage": 80,
       "url": "https://store.playstation.com/fr-fr/product/EP0006-PPSA02199_00-RESPAWNSWBIRDDOG",
       "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202105/1714/uHdqbfbgVmthD6BfAq774A8H.png"
+    },
+    {
+      "id": "EP0700-PPSA04323_00-JASBRDXEDITION00",
+      "title": "JoJo's Bizarre Adventure: All-Star Battle R Deluxe Edition PS4 & PS5",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 13.99,
+      "originalPrice": 69.99,
+      "currency": "EUR",
+      "discountPercentage": 80,
+      "url": "https://store.playstation.com/fr-fr/product/EP0700-PPSA04323_00-JASBRDXEDITION00",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202205/1311/maS8cHMAvV75mAyzDR79tkS3.jpg"
     },
     {
       "id": "EP0177-PPSA03832_00-SONICRANGERS0000",
@@ -859,19 +859,6 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202606/2413/1e2462fdb7d5f69b4fa82cda7fe28b4e256e5665702ac229.jpg"
     },
     {
-      "id": "JP4443-PPSA25414_00-0905368681809535",
-      "title": "Nine Sols PS4 & PS5",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 14.49,
-      "originalPrice": 28.99,
-      "currency": "EUR",
-      "discountPercentage": 50,
-      "url": "https://store.playstation.com/fr-fr/product/JP4443-PPSA25414_00-0905368681809535",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202410/1604/0eb2b17b49201c6cc2368e0d141dac58918ed1365f26f0b1.jpg"
-    },
-    {
       "id": "EP0001-CUSA05847_00-FARCRY5GOLD00000",
       "title": "Far Cry® 5 Édition Gold",
       "platform": "PS4",
@@ -885,17 +872,30 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202608/0522/469e32e3e6fe47e9644ba345fb6500566f50bf7bd4d9cb75.jpg"
     },
     {
-      "id": "EP4062-CUSA11407_00-METROSAGABUNDLE0",
-      "title": "Pack Metro Saga",
+      "id": "EP0001-CUSA09303_00-EDITIONULTIMATE0",
+      "title": "Assassin's Creed Odyssey - Édition Ultimate",
       "platform": "PS4",
       "store": "PlayStation Store",
       "region": "FR",
-      "currentPrice": 5.99,
-      "originalPrice": 59.99,
+      "currentPrice": 22.99,
+      "originalPrice": 114.99,
       "currency": "EUR",
-      "discountPercentage": 90,
-      "url": "https://store.playstation.com/fr-fr/product/EP4062-CUSA11407_00-METROSAGABUNDLE0",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202102/2615/PZohlQbUfgMqBaGycBzVqX3M.png"
+      "discountPercentage": 80,
+      "url": "https://store.playstation.com/fr-fr/product/EP0001-CUSA09303_00-EDITIONULTIMATE0",
+      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202011/1002/IGf7Xd5sLVrXnjij4Uuqog0A.jpg"
+    },
+    {
+      "id": "JP4443-PPSA25414_00-0905368681809535",
+      "title": "Nine Sols PS4 & PS5",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 14.49,
+      "originalPrice": 28.99,
+      "currency": "EUR",
+      "discountPercentage": 50,
+      "url": "https://store.playstation.com/fr-fr/product/JP4443-PPSA25414_00-0905368681809535",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202410/1604/0eb2b17b49201c6cc2368e0d141dac58918ed1365f26f0b1.jpg"
     },
     {
       "id": "EP0006-CUSA15090_00-DELUXEEDITION000",
@@ -909,19 +909,6 @@
       "discountPercentage": 90,
       "url": "https://store.playstation.com/fr-fr/product/EP0006-CUSA15090_00-DELUXEEDITION000",
       "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202011/0204/wztiER7QJkPLq49CG5j5PqZM.png"
-    },
-    {
-      "id": "EP0001-CUSA09303_00-EDITIONULTIMATE0",
-      "title": "Assassin's Creed Odyssey - Édition Ultimate",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 22.99,
-      "originalPrice": 114.99,
-      "currency": "EUR",
-      "discountPercentage": 80,
-      "url": "https://store.playstation.com/fr-fr/product/EP0001-CUSA09303_00-EDITIONULTIMATE0",
-      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202011/1002/IGf7Xd5sLVrXnjij4Uuqog0A.jpg"
     },
     {
       "id": "EP4139-PPSA09192_00-CITIESSKYLINESEU",
@@ -1015,17 +1002,17 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/huLsTFyulvj2fC0nbRaVUChw.png"
     },
     {
-      "id": "EP0001-PPSA01870_00-FC6EDGOTY0000000",
-      "title": "Far Cry® 6 - Édition Game of the Year",
+      "id": "EP4062-CUSA11407_00-METROSAGABUNDLE0",
+      "title": "Pack Metro Saga",
       "platform": "PS4",
       "store": "PlayStation Store",
       "region": "FR",
-      "currentPrice": 29.99,
-      "originalPrice": 119.99,
+      "currentPrice": 5.99,
+      "originalPrice": 59.99,
       "currency": "EUR",
-      "discountPercentage": 75,
-      "url": "https://store.playstation.com/fr-fr/product/EP0001-PPSA01870_00-FC6EDGOTY0000000",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202209/3022/c2nYHjnBwBI44M9TVFRMZkb3.jpg"
+      "discountPercentage": 90,
+      "url": "https://store.playstation.com/fr-fr/product/EP4062-CUSA11407_00-METROSAGABUNDLE0",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202102/2615/PZohlQbUfgMqBaGycBzVqX3M.png"
     },
     {
       "id": "EP0001-CUSA14390_00-TGTULT2021000000",
@@ -1052,6 +1039,19 @@
       "discountPercentage": 70,
       "url": "https://store.playstation.com/fr-fr/product/EP0001-PPSA07231_00-EDITIONMENTOR000",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202310/1616/d403d95681fb6a0104887d064ab7fc13c8fbb86293a72544.jpg"
+    },
+    {
+      "id": "EP0001-PPSA01870_00-FC6EDGOTY0000000",
+      "title": "Far Cry® 6 - Édition Game of the Year",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 29.99,
+      "originalPrice": 119.99,
+      "currency": "EUR",
+      "discountPercentage": 75,
+      "url": "https://store.playstation.com/fr-fr/product/EP0001-PPSA01870_00-FC6EDGOTY0000000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202209/3022/c2nYHjnBwBI44M9TVFRMZkb3.jpg"
     },
     {
       "id": "EP0002-CUSA02624_00-CODBO3ZOMBIESDLX",
@@ -1233,6 +1233,19 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202010/1520/F1WFbqD8WCEWYGErUSk1OAOf.png"
     },
     {
+      "id": "EP4040-CUSA11487_00-ASSETTOCORSASPEC",
+      "title": "Assetto Corsa Ultimate Edition",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 9.99,
+      "originalPrice": 39.99,
+      "currency": "EUR",
+      "discountPercentage": 75,
+      "url": "https://store.playstation.com/fr-fr/product/EP4040-CUSA11487_00-ASSETTOCORSASPEC",
+      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202011/0204/fMnHWbf9oB0uhk5M9xnJf5hz.png"
+    },
+    {
       "id": "UP8274-PPSA13211_00-0497797529623691",
       "title": "Little Kitty, Big City",
       "platform": "PS4",
@@ -1283,19 +1296,6 @@
       "discountPercentage": 75,
       "url": "https://store.playstation.com/fr-fr/product/EP0006-CUSA10851_00-STELLARPARADISE0",
       "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202010/2621/wHbcaseWhBzpjJd3oUPoOcT6.png"
-    },
-    {
-      "id": "EP4040-CUSA11487_00-ASSETTOCORSASPEC",
-      "title": "Assetto Corsa Ultimate Edition",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 9.99,
-      "originalPrice": 39.99,
-      "currency": "EUR",
-      "discountPercentage": 75,
-      "url": "https://store.playstation.com/fr-fr/product/EP4040-CUSA11487_00-ASSETTOCORSASPEC",
-      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202011/0204/fMnHWbf9oB0uhk5M9xnJf5hz.png"
     },
     {
       "id": "EP0700-PPSA02154_00-LITTLENIGHTS2000",
@@ -1426,19 +1426,6 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202208/2505/Cv2pVnIqJwmosTYRmjsxgQbV.jpg"
     },
     {
-      "id": "EP4062-PPSA01749_00-METROEXODUS0GEN9",
-      "title": "Metro Exodus",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 2.99,
-      "originalPrice": 29.99,
-      "currency": "EUR",
-      "discountPercentage": 90,
-      "url": "https://store.playstation.com/fr-fr/product/EP4062-PPSA01749_00-METROEXODUS0GEN9",
-      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202011/0414/g33sqSWPtRPmejWlhC6hjYoU.png"
-    },
-    {
       "id": "EP4389-CUSA08652_00-WRECKFESTCE000EU",
       "title": "Wreckfest - Complete Edition",
       "platform": "PS4",
@@ -1475,6 +1462,19 @@
       "discountPercentage": 75,
       "url": "https://store.playstation.com/fr-fr/product/EP0001-CUSA12630_00-TCTD2GAME0000001",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202602/2319/5bf7e6916cbd4241f16d1f643241f2755582e1b008108c5d.jpg"
+    },
+    {
+      "id": "EP4062-PPSA01749_00-METROEXODUS0GEN9",
+      "title": "Metro Exodus",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 2.99,
+      "originalPrice": 29.99,
+      "currency": "EUR",
+      "discountPercentage": 90,
+      "url": "https://store.playstation.com/fr-fr/product/EP4062-PPSA01749_00-METROEXODUS0GEN9",
+      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202011/0414/g33sqSWPtRPmejWlhC6hjYoU.png"
     },
     {
       "id": "EP0700-PPSA02594_00-SMGDARKPICTURESC",
@@ -1552,6 +1552,19 @@
       "currency": "EUR",
       "discountPercentage": 75,
       "url": "https://store.playstation.com/fr-fr/product/EP0006-CUSA00049_00-BATTLEFIELD40000"
+    },
+    {
+      "id": "EP0082-CUSA07187_00-DIGIDELUXEDAY100",
+      "title": "FINAL FANTASY VII REMAKE Digital Deluxe Edition",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 11.99,
+      "originalPrice": 59.99,
+      "currency": "EUR",
+      "discountPercentage": 80,
+      "url": "https://store.playstation.com/fr-fr/product/EP0082-CUSA07187_00-DIGIDELUXEDAY100",
+      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202010/0723/vDLeyNzrJdGwabFlEo44GkEZ.png"
     },
     {
       "id": "EP0001-PPSA17419_00-GAME000000000000",
@@ -1658,19 +1671,6 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202011/0212/j7gOgxnWL1WCZWoApZcyW5qu.png"
     },
     {
-      "id": "EP0082-CUSA07187_00-DIGIDELUXEDAY100",
-      "title": "FINAL FANTASY VII REMAKE Digital Deluxe Edition",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 11.99,
-      "originalPrice": 59.99,
-      "currency": "EUR",
-      "discountPercentage": 80,
-      "url": "https://store.playstation.com/fr-fr/product/EP0082-CUSA07187_00-DIGIDELUXEDAY100",
-      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202010/0723/vDLeyNzrJdGwabFlEo44GkEZ.png"
-    },
-    {
       "id": "EP0001-CUSA04323_00-SOUTHPARKTFBW000",
       "title": "South Park™ : L’annale du destin™",
       "platform": "PS4",
@@ -1723,19 +1723,6 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202505/2109/ec93e69b1e3429c574fc9d9bb3457f8f242f975e9ade3478.png"
     },
     {
-      "id": "EP0006-PPSA01465_00-KINGSTONGAME0000",
-      "title": "Battlefield™ 2042 sur PS5",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 7.99,
-      "originalPrice": 79.99,
-      "currency": "EUR",
-      "discountPercentage": 90,
-      "url": "https://store.playstation.com/fr-fr/product/EP0006-PPSA01465_00-KINGSTONGAME0000",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202305/2515/a34d5dadfc7c63020fcf025fefc74a254855c920899ba0b4.png"
-    },
-    {
       "id": "EP0001-PPSA01488_00-ORWFULLGAME00000",
       "title": "Watch Dogs®: Legion PS4 & PS5",
       "platform": "PS4",
@@ -1762,6 +1749,19 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202211/2407/TF8Tny9FHd9CYOAmZX9IB389.jpg"
     },
     {
+      "id": "EP0006-PPSA01465_00-KINGSTONGAME0000",
+      "title": "Battlefield™ 2042 sur PS5",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 7.99,
+      "originalPrice": 79.99,
+      "currency": "EUR",
+      "discountPercentage": 90,
+      "url": "https://store.playstation.com/fr-fr/product/EP0006-PPSA01465_00-KINGSTONGAME0000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202305/2515/a34d5dadfc7c63020fcf025fefc74a254855c920899ba0b4.png"
+    },
+    {
       "id": "EP0700-CUSA08767_00-SHINOBISTRIKER01",
       "title": "NARUTO TO BORUTO: SHINOBI STRIKER",
       "platform": "PS4",
@@ -1775,19 +1775,6 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202408/2214/436d619c1ae8f659e498ac3fd7e0789833981efc84be884d.jpg"
     },
     {
-      "id": "EP0006-CUSA05749_00-CELEBEDITION0000",
-      "title": "STAR WARS™ Battlefront™ II: Édition Célébration",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 9.99,
-      "originalPrice": 39.99,
-      "currency": "EUR",
-      "discountPercentage": 75,
-      "url": "https://store.playstation.com/fr-fr/product/EP0006-CUSA05749_00-CELEBEDITION0000",
-      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202010/0612/6HX88HvHRtzs9NsXAj5TIPux.png"
-    },
-    {
       "id": "EP4291-CUSA18671_00-CRYSISTRILOGYYYY",
       "title": "Crysis Remastered Trilogy",
       "platform": "PS4",
@@ -1799,18 +1786,6 @@
       "discountPercentage": 75,
       "url": "https://store.playstation.com/fr-fr/product/EP4291-CUSA18671_00-CRYSISTRILOGYYYY",
       "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202110/1316/hTbWu25Gv3B6UI9XbeBZSd8z.png"
-    },
-    {
-      "id": "EP0102-CUSA09263_00-DMCHDC4SEBUNDLE0",
-      "title": "Devil May Cry HD Collection & 4SE Bundle",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 14.84,
-      "originalPrice": 44.99,
-      "currency": "EUR",
-      "discountPercentage": 67,
-      "url": "https://store.playstation.com/fr-fr/product/EP0102-CUSA09263_00-DMCHDC4SEBUNDLE0"
     },
     {
       "id": "JP8394-PPSA31878_00-LOKHODCOLLECTION",
@@ -1838,17 +1813,29 @@
       "url": "https://store.playstation.com/fr-fr/product/EP0700-CUSA03584_00-ONEPIECEBBPS4000"
     },
     {
-      "id": "EP2377-PPSA21789_00-F1MANAGER2400000",
-      "title": "F1® Manager 2024 PS4 & PS5",
+      "id": "EP0102-CUSA09263_00-DMCHDC4SEBUNDLE0",
+      "title": "Devil May Cry HD Collection & 4SE Bundle",
       "platform": "PS4",
       "store": "PlayStation Store",
       "region": "FR",
-      "currentPrice": 8.74,
-      "originalPrice": 34.99,
+      "currentPrice": 14.84,
+      "originalPrice": 44.99,
+      "currency": "EUR",
+      "discountPercentage": 67,
+      "url": "https://store.playstation.com/fr-fr/product/EP0102-CUSA09263_00-DMCHDC4SEBUNDLE0"
+    },
+    {
+      "id": "EP0006-CUSA05749_00-CELEBEDITION0000",
+      "title": "STAR WARS™ Battlefront™ II: Édition Célébration",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 9.99,
+      "originalPrice": 39.99,
       "currency": "EUR",
       "discountPercentage": 75,
-      "url": "https://store.playstation.com/fr-fr/product/EP2377-PPSA21789_00-F1MANAGER2400000",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202405/0312/8fb679009f811a3935d3431b71b7d8a1265eb7ec52bd8c88.jpg"
+      "url": "https://store.playstation.com/fr-fr/product/EP0006-CUSA05749_00-CELEBEDITION0000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202010/0612/6HX88HvHRtzs9NsXAj5TIPux.png"
     },
     {
       "id": "UP1001-PPSA04203_00-CIV7SETTLERSPS50",
@@ -1901,18 +1888,6 @@
       "discountPercentage": 85,
       "url": "https://store.playstation.com/fr-fr/product/EP4062-PPSA02807_00-SAINTSROW00PS5EU",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202108/0608/fg3HTSV9GR0SqrLWsGhvE1MQ.png"
-    },
-    {
-      "id": "EP0001-CUSA04695_00-SOUTHPARKTSOT001",
-      "title": "South Park™ : Le Bâton de la Vérité™",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 7.49,
-      "originalPrice": 29.99,
-      "currency": "EUR",
-      "discountPercentage": 75,
-      "url": "https://store.playstation.com/fr-fr/product/EP0001-CUSA04695_00-SOUTHPARKTSOT001"
     },
     {
       "id": "EP1018-CUSA02122_00-LEGOMARVELAVENGE",
@@ -1978,6 +1953,19 @@
       "discountPercentage": 70,
       "url": "https://store.playstation.com/fr-fr/product/JP8394-PPSA31878_00-LOKDRBASEPS50000",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202602/0315/0d4b819aba76ddbb4fcc12e41883c49ff361d2fa1cd91d26.jpg"
+    },
+    {
+      "id": "EP2377-PPSA21789_00-F1MANAGER2400000",
+      "title": "F1® Manager 2024 PS4 & PS5",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 8.74,
+      "originalPrice": 34.99,
+      "currency": "EUR",
+      "discountPercentage": 75,
+      "url": "https://store.playstation.com/fr-fr/product/EP2377-PPSA21789_00-F1MANAGER2400000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202405/0312/8fb679009f811a3935d3431b71b7d8a1265eb7ec52bd8c88.jpg"
     },
     {
       "id": "EP1001-CUSA15381_00-CIV6BASE00000000",
@@ -2123,18 +2111,6 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202408/1517/f0aa45ecd218158b9d72efaa158ba843dfa95d24dd3a8c27.jpg"
     },
     {
-      "id": "EP0102-CUSA06212_00-BHR1HDBHR2BUNDLE",
-      "title": "Resident Evil Revelations 1 & 2 Bundle",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 7.49,
-      "originalPrice": 29.99,
-      "currency": "EUR",
-      "discountPercentage": 75,
-      "url": "https://store.playstation.com/fr-fr/product/EP0102-CUSA06212_00-BHR1HDBHR2BUNDLE"
-    },
-    {
       "id": "EP4001-PPSA01551_00-DIRTFIVEPS5EDITI",
       "title": "DIRT 5 PS4 & PS5",
       "platform": "PS4",
@@ -2199,18 +2175,6 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202404/1700/fe72ce0e6e9c330494e0b080700f9eff4eecf44856dc917d.jpg"
     },
     {
-      "id": "EP0290-CUSA09424_00-WEHAPPYFEW000000",
-      "title": "We Happy Few",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 17.49,
-      "originalPrice": 69.99,
-      "currency": "EUR",
-      "discountPercentage": 75,
-      "url": "https://store.playstation.com/fr-fr/product/EP0290-CUSA09424_00-WEHAPPYFEW000000"
-    },
-    {
       "id": "EP3717-CUSA15338_00-SLAYTHESPIREGAME",
       "title": "Slay the Spire",
       "platform": "PS4",
@@ -2236,6 +2200,31 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202203/0501/NTT9SfB3wDOxYDrbNuxlADVU.jpg"
     },
     {
+      "id": "EP4356-PPSA09285_00-HW2LEGENDEDITION",
+      "title": "HOT WHEELS UNLEASHED™ 2 - Turbocharged - Legendary Edition PS4 & PS5",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 11.99,
+      "originalPrice": 79.99,
+      "currency": "EUR",
+      "discountPercentage": 85,
+      "url": "https://store.playstation.com/fr-fr/product/EP4356-PPSA09285_00-HW2LEGENDEDITION",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202305/2213/9f6e3f990059ea634e0cd372c502127c253f94d8b8c00e09.jpg"
+    },
+    {
+      "id": "EP0001-CUSA04695_00-SOUTHPARKTSOT001",
+      "title": "South Park™ : Le Bâton de la Vérité™",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 7.49,
+      "originalPrice": 29.99,
+      "currency": "EUR",
+      "discountPercentage": 75,
+      "url": "https://store.playstation.com/fr-fr/product/EP0001-CUSA04695_00-SOUTHPARKTSOT001"
+    },
+    {
       "id": "EP0001-CUSA08609_00-TC2GOLD200000000",
       "title": "The Crew® 2 Édition Gold",
       "platform": "PS4",
@@ -2249,17 +2238,16 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202106/1607/8rST8PGeGvXvSfZKl6NEVPT9.jpg"
     },
     {
-      "id": "EP1003-CUSA07377_00-COLOSSUSFULLGAME",
-      "title": "Wolfenstein® II: The New Colossus™ (CUSA07377)",
+      "id": "EP0102-CUSA06212_00-BHR1HDBHR2BUNDLE",
+      "title": "Resident Evil Revelations 1 & 2 Bundle",
       "platform": "PS4",
       "store": "PlayStation Store",
       "region": "FR",
-      "currentPrice": 5.99,
-      "originalPrice": 39.99,
+      "currentPrice": 7.49,
+      "originalPrice": 29.99,
       "currency": "EUR",
-      "discountPercentage": 85,
-      "url": "https://store.playstation.com/fr-fr/product/EP1003-CUSA07377_00-COLOSSUSFULLGAME",
-      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202011/0204/irgbmjAa3kKbt2gZjwElko3i.png"
+      "discountPercentage": 75,
+      "url": "https://store.playstation.com/fr-fr/product/EP0102-CUSA06212_00-BHR1HDBHR2BUNDLE"
     },
     {
       "id": "EP1018-CUSA03679_00-MORTALKOMBATXL00",
@@ -2301,19 +2289,6 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202404/2321/ada3853181e63a01fd9e4f14aa05f88cf44153be7e3105cd.jpg"
     },
     {
-      "id": "EP4356-PPSA09285_00-HW2LEGENDEDITION",
-      "title": "HOT WHEELS UNLEASHED™ 2 - Turbocharged - Legendary Edition PS4 & PS5",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 11.99,
-      "originalPrice": 79.99,
-      "currency": "EUR",
-      "discountPercentage": 85,
-      "url": "https://store.playstation.com/fr-fr/product/EP4356-PPSA09285_00-HW2LEGENDEDITION",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202305/2213/9f6e3f990059ea634e0cd372c502127c253f94d8b8c00e09.jpg"
-    },
-    {
       "id": "EP0006-CUSA15089_00-STARWARSQUADRONS",
       "title": "STAR WARS™: Squadrons",
       "platform": "PS4",
@@ -2325,6 +2300,19 @@
       "discountPercentage": 88,
       "url": "https://store.playstation.com/fr-fr/product/EP0006-CUSA15089_00-STARWARSQUADRONS",
       "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202011/0204/Phl0wzhvugJun7xJROrnyotT.png"
+    },
+    {
+      "id": "EP1003-CUSA07377_00-COLOSSUSFULLGAME",
+      "title": "Wolfenstein® II: The New Colossus™ (CUSA07377)",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 5.99,
+      "originalPrice": 39.99,
+      "currency": "EUR",
+      "discountPercentage": 85,
+      "url": "https://store.playstation.com/fr-fr/product/EP1003-CUSA07377_00-COLOSSUSFULLGAME",
+      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202011/0204/irgbmjAa3kKbt2gZjwElko3i.png"
     },
     {
       "id": "EP4529-CUSA04099_00-SNIPERELITE4DDE0",
@@ -2366,18 +2354,6 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202010/0810/Z0fFihgvWxVA9UFjaeWB5rft.jpg"
     },
     {
-      "id": "EP1063-CUSA08532_00-DANGANV3PS400000",
-      "title": "Danganronpa V3: Killing Harmony",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 11.99,
-      "originalPrice": 39.99,
-      "currency": "EUR",
-      "discountPercentage": 70,
-      "url": "https://store.playstation.com/fr-fr/product/EP1063-CUSA08532_00-DANGANV3PS400000"
-    },
-    {
       "id": "EP4064-CUSA04022_00-WORMSWMD00000000",
       "title": "Worms W.M.D",
       "platform": "PS4",
@@ -2388,6 +2364,18 @@
       "currency": "EUR",
       "discountPercentage": 80,
       "url": "https://store.playstation.com/fr-fr/product/EP4064-CUSA04022_00-WORMSWMD00000000"
+    },
+    {
+      "id": "EP0290-CUSA09424_00-WEHAPPYFEW000000",
+      "title": "We Happy Few",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 17.49,
+      "originalPrice": 69.99,
+      "currency": "EUR",
+      "discountPercentage": 75,
+      "url": "https://store.playstation.com/fr-fr/product/EP0290-CUSA09424_00-WEHAPPYFEW000000"
     },
     {
       "id": "EP1063-CUSA06720_00-DANGANRONPARLDEU",
@@ -2416,19 +2404,6 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202009/2109/GkLV7CE1suwaeXGH8fDebQyQ.jpg"
     },
     {
-      "id": "EP0102-PPSA08035_00-SBDOUBLEDELUXE00",
-      "title": "Monster Hunter Rise + Sunbreak Deluxe",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 17.49,
-      "originalPrice": 69.99,
-      "currency": "EUR",
-      "discountPercentage": 75,
-      "url": "https://store.playstation.com/fr-fr/product/EP0102-PPSA08035_00-SBDOUBLEDELUXE00",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202304/1304/3d87ab8428360cd9c15df143b176a8c34a3013824536f533.png"
-    },
-    {
       "id": "EP0001-CUSA02376_00-POSTLCHNGOLDEUR0",
       "title": "Assassin's Creed® Syndicate Gold Edition",
       "platform": "PS4",
@@ -2442,17 +2417,17 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202411/2100/dbdeca2d7cb46c74ecc086c1df5565ebda3cc6123fd03f4d.jpg"
     },
     {
-      "id": "EP4356-PPSA09285_00-HWU2TURBOCHARGED",
-      "title": "HOT WHEELS UNLEASHED™ 2 - Turbocharged PS4 & PS5",
+      "id": "EP0101-CUSA28030_00-CASTLEVANIAGAMES",
+      "title": "Castlevania Advance Collection",
       "platform": "PS4",
       "store": "PlayStation Store",
       "region": "FR",
-      "currentPrice": 5.99,
-      "originalPrice": 39.99,
+      "currentPrice": 9.99,
+      "originalPrice": 19.99,
       "currency": "EUR",
-      "discountPercentage": 85,
-      "url": "https://store.playstation.com/fr-fr/product/EP4356-PPSA09285_00-HWU2TURBOCHARGED",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202305/1610/58e6bad48016d93a3598c3df0681f8b80ec9330a1c29c799.png"
+      "discountPercentage": 50,
+      "url": "https://store.playstation.com/fr-fr/product/EP0101-CUSA28030_00-CASTLEVANIAGAMES",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202108/1910/IzaVZ7PUk40TUH1ear2r0k1Y.png"
     },
     {
       "id": "EP2054-CUSA02754_00-INSIDE0000000000",
@@ -2481,19 +2456,6 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202401/1107/c95a0586945e3410b0d5ca496b0ad9e426991d91ad3d604b.png"
     },
     {
-      "id": "EP0101-CUSA28030_00-CASTLEVANIAGAMES",
-      "title": "Castlevania Advance Collection",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 9.99,
-      "originalPrice": 19.99,
-      "currency": "EUR",
-      "discountPercentage": 50,
-      "url": "https://store.playstation.com/fr-fr/product/EP0101-CUSA28030_00-CASTLEVANIAGAMES",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202108/1910/IzaVZ7PUk40TUH1ear2r0k1Y.png"
-    },
-    {
       "id": "EP1662-PPSA02758_00-1206800080748220",
       "title": "Verdun",
       "platform": "PS4",
@@ -2505,6 +2467,19 @@
       "discountPercentage": 80,
       "url": "https://store.playstation.com/fr-fr/product/EP1662-PPSA02758_00-1206800080748220",
       "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202012/0822/Ci7CvUbDdA3mJAVhjPkZqV3W.png"
+    },
+    {
+      "id": "EP0102-PPSA08035_00-SBDOUBLEDELUXE00",
+      "title": "Monster Hunter Rise + Sunbreak Deluxe",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 17.49,
+      "originalPrice": 69.99,
+      "currency": "EUR",
+      "discountPercentage": 75,
+      "url": "https://store.playstation.com/fr-fr/product/EP0102-PPSA08035_00-SBDOUBLEDELUXE00",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202304/1304/3d87ab8428360cd9c15df143b176a8c34a3013824536f533.png"
     },
     {
       "id": "EP1001-PPSA01493_00-TTWPREMIUMSIEE00",
@@ -2559,6 +2534,31 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202106/1704/CThITKGLtVx842gN7MeKC8TJ.jpg"
     },
     {
+      "id": "EP1063-CUSA08532_00-DANGANV3PS400000",
+      "title": "Danganronpa V3: Killing Harmony",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 11.99,
+      "originalPrice": 39.99,
+      "currency": "EUR",
+      "discountPercentage": 70,
+      "url": "https://store.playstation.com/fr-fr/product/EP1063-CUSA08532_00-DANGANV3PS400000"
+    },
+    {
+      "id": "EP4356-PPSA09285_00-HWU2TURBOCHARGED",
+      "title": "HOT WHEELS UNLEASHED™ 2 - Turbocharged PS4 & PS5",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 5.99,
+      "originalPrice": 39.99,
+      "currency": "EUR",
+      "discountPercentage": 85,
+      "url": "https://store.playstation.com/fr-fr/product/EP4356-PPSA09285_00-HWU2TURBOCHARGED",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202305/1610/58e6bad48016d93a3598c3df0681f8b80ec9330a1c29c799.png"
+    },
+    {
       "id": "EP6311-PPSA16616_00-PLATITUDE0000000",
       "title": "Pentiment",
       "platform": "PS4",
@@ -2585,19 +2585,6 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202303/1313/727fb854dae7cce687bf3778c0e1d1b5c805a46fa5bd433d.jpg"
     },
     {
-      "id": "EP0082-CUSA32853_00-TFBLPDDE00000000",
-      "title": "THEATRHYTHM FINAL BAR LINE Premium Digital Deluxe Edition",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 54.99,
-      "originalPrice": 109.99,
-      "currency": "EUR",
-      "discountPercentage": 50,
-      "url": "https://store.playstation.com/fr-fr/product/EP0082-CUSA32853_00-TFBLPDDE00000000",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202208/2209/WghHGkSgsKZxgyKmkuMsRXvN.png"
-    },
-    {
       "id": "EP4133-PPSA17422_00-EXPEDITIONSEDSUP",
       "title": "Expeditions: A MudRunner Game - Supreme Edition (PS4 & PS5)",
       "platform": "PS4",
@@ -2609,45 +2596,6 @@
       "discountPercentage": 60,
       "url": "https://store.playstation.com/fr-fr/product/EP4133-PPSA17422_00-EXPEDITIONSEDSUP",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202312/0417/380d089b5aab6fb946affa06f648b4f3521a7d4b076065e8.jpg"
-    },
-    {
-      "id": "EP0001-CUSA13885_00-DELUXEDAY1000000",
-      "title": "Far Cry® New Dawn Deluxe Edition",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 10.99,
-      "originalPrice": 54.99,
-      "currency": "EUR",
-      "discountPercentage": 80,
-      "url": "https://store.playstation.com/fr-fr/product/EP0001-CUSA13885_00-DELUXEDAY1000000",
-      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202009/3023/QkbjWApRpaqJ75GrMRENY94N.jpg"
-    },
-    {
-      "id": "EP1001-PPSA17639_00-BLWARCHESTBUNDLE",
-      "title": "Borderlands Collection : La boîte de Pandore",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 37.49,
-      "originalPrice": 149.99,
-      "currency": "EUR",
-      "discountPercentage": 75,
-      "url": "https://store.playstation.com/fr-fr/product/EP1001-PPSA17639_00-BLWARCHESTBUNDLE",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202308/2821/273e142d9080b3c8acdf1482543ba008ffd452cf4cc5964e.jpg"
-    },
-    {
-      "id": "EP1003-CUSA00320_00-WOLFENSTEIN00001",
-      "title": "Wolfenstein: The New Order",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 4.99,
-      "originalPrice": 19.99,
-      "currency": "EUR",
-      "discountPercentage": 75,
-      "url": "https://store.playstation.com/fr-fr/product/EP1003-CUSA00320_00-WOLFENSTEIN00001",
-      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202011/0204/S1PIsS5Chgle0UblMWe9f0Ac.png"
     },
     {
       "id": "EP2609-CUSA15558_00-GHOSTBUSTERSEU19",
@@ -2714,6 +2662,19 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202409/0420/2c51452bb36f690eebc4f710103f0cef8e15873653ca60bf.jpg"
     },
     {
+      "id": "EP0002-CUSA20464_00-TH12RSTANDARD001",
+      "title": "Tony Hawk's™ Pro Skater™ 1 + 2",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 17.99,
+      "originalPrice": 44.99,
+      "currency": "EUR",
+      "discountPercentage": 60,
+      "url": "https://store.playstation.com/fr-fr/product/EP0002-CUSA20464_00-TH12RSTANDARD001",
+      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202010/1603/HRV3O3hnPvraA5YR2nlw58g4.png"
+    },
+    {
       "id": "EP0002-CUSA14876_00-CTRSRTBUNDLE0001",
       "title": "Pack Crash™ Team Racing Nitro-Fueled + Spyro™",
       "platform": "PS4",
@@ -2725,19 +2686,6 @@
       "discountPercentage": 65,
       "url": "https://store.playstation.com/fr-fr/product/EP0002-CUSA14876_00-CTRSRTBUNDLE0001",
       "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202010/2621/6wZ4EbMA1kDwiQQ9dSsunRVA.png"
-    },
-    {
-      "id": "EP2430-PPSA06776_00-CESD663890000000",
-      "title": "Bus Simulator 21 Next Stop",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 11.99,
-      "originalPrice": 29.99,
-      "currency": "EUR",
-      "discountPercentage": 60,
-      "url": "https://store.playstation.com/fr-fr/product/EP2430-PPSA06776_00-CESD663890000000",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202303/0212/9470ef2378b6cd20667e65170f2501f0bf499256f8e99da4.png"
     },
     {
       "id": "EP4389-CUSA05275_00-DSFURYSBUNDLEEU1",
@@ -2766,6 +2714,19 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202403/1208/757f94cb32a488e87e7592e2aa88893751b1e8194cb250e1.jpg"
     },
     {
+      "id": "EP1003-CUSA00320_00-WOLFENSTEIN00001",
+      "title": "Wolfenstein: The New Order",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 4.99,
+      "originalPrice": 19.99,
+      "currency": "EUR",
+      "discountPercentage": 75,
+      "url": "https://store.playstation.com/fr-fr/product/EP1003-CUSA00320_00-WOLFENSTEIN00001",
+      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202011/0204/S1PIsS5Chgle0UblMWe9f0Ac.png"
+    },
+    {
       "id": "EP3643-PPSA16786_00-0950123183894118",
       "title": "Neva",
       "platform": "PS4",
@@ -2779,6 +2740,19 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202410/1522/83bd1369a8a5af216ab334169e9d8cb323dbeb747c7962e8.jpg"
     },
     {
+      "id": "EP0001-CUSA13885_00-DELUXEDAY1000000",
+      "title": "Far Cry® New Dawn Deluxe Edition",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 10.99,
+      "originalPrice": 54.99,
+      "currency": "EUR",
+      "discountPercentage": 80,
+      "url": "https://store.playstation.com/fr-fr/product/EP0001-CUSA13885_00-DELUXEDAY1000000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202009/3023/QkbjWApRpaqJ75GrMRENY94N.jpg"
+    },
+    {
       "id": "EP1063-CUSA15972_00-UTAWARERUMONO000",
       "title": "Utawarerumono: Prelude to the Fallen",
       "platform": "PS4",
@@ -2789,6 +2763,19 @@
       "currency": "EUR",
       "discountPercentage": 70,
       "url": "https://store.playstation.com/fr-fr/product/EP1063-CUSA15972_00-UTAWARERUMONO000"
+    },
+    {
+      "id": "EP2430-PPSA06776_00-CESD663890000000",
+      "title": "Bus Simulator 21 Next Stop",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 11.99,
+      "originalPrice": 29.99,
+      "currency": "EUR",
+      "discountPercentage": 60,
+      "url": "https://store.playstation.com/fr-fr/product/EP2430-PPSA06776_00-CESD663890000000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202303/0212/9470ef2378b6cd20667e65170f2501f0bf499256f8e99da4.png"
     },
     {
       "id": "JP0102-CUSA49799_00-ONIMUSHA1AND2SET",
@@ -2908,30 +2895,17 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202010/1520/1rlCPvcsHXm3a84VJHRpfwF8.png"
     },
     {
-      "id": "EP0700-CUSA06210_00-NARUTOUNS4RTB000",
-      "title": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4 Road to Boruto",
+      "id": "EP1001-PPSA17639_00-BLWARCHESTBUNDLE",
+      "title": "Borderlands Collection : La boîte de Pandore",
       "platform": "PS4",
       "store": "PlayStation Store",
       "region": "FR",
-      "currentPrice": 19.99,
-      "originalPrice": 49.99,
+      "currentPrice": 37.49,
+      "originalPrice": 149.99,
       "currency": "EUR",
-      "discountPercentage": 60,
-      "url": "https://store.playstation.com/fr-fr/product/EP0700-CUSA06210_00-NARUTOUNS4RTB000",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202512/1615/73139e0b80cb94d6555ceb0b1915ef496fd2eb153e8726d9.jpg"
-    },
-    {
-      "id": "EP4108-CUSA24124_00-NINJAGAIDENMC000",
-      "title": "NINJA GAIDEN: Master Collection",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 19.99,
-      "originalPrice": 39.99,
-      "currency": "EUR",
-      "discountPercentage": 50,
-      "url": "https://store.playstation.com/fr-fr/product/EP4108-CUSA24124_00-NINJAGAIDENMC000",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202102/2510/3oI1SjhIuDGeGNGWHgQqfh63.png"
+      "discountPercentage": 75,
+      "url": "https://store.playstation.com/fr-fr/product/EP1001-PPSA17639_00-BLWARCHESTBUNDLE",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202308/2821/273e142d9080b3c8acdf1482543ba008ffd452cf4cc5964e.jpg"
     },
     {
       "id": "EP1001-PPSA01463_00-000000OAKSIEESDD",
@@ -2945,19 +2919,6 @@
       "discountPercentage": 85,
       "url": "https://store.playstation.com/fr-fr/product/EP1001-PPSA01463_00-000000OAKSIEESDD",
       "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202011/0702/nd2RLn0k0IU878m17HDzwK1K.jpg"
-    },
-    {
-      "id": "EP1001-CUSA10468_00-BORDERLANDSHD001",
-      "title": "Borderlands: édition jeu de l'année",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 5.99,
-      "originalPrice": 29.99,
-      "currency": "EUR",
-      "discountPercentage": 80,
-      "url": "https://store.playstation.com/fr-fr/product/EP1001-CUSA10468_00-BORDERLANDSHD001",
-      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202010/2621/nQk0zCThuE71hztlpKmoYcEZ.png"
     },
     {
       "id": "EP0006-CUSA05986_00-NFS18DELUXEEDT00",
@@ -2986,19 +2947,6 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202010/1520/9K88rSo70V7I5CKtOZEu4riA.jpg"
     },
     {
-      "id": "EP0002-CUSA20464_00-TH12RSTANDARD001",
-      "title": "Tony Hawk's™ Pro Skater™ 1 + 2",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 17.99,
-      "originalPrice": 44.99,
-      "currency": "EUR",
-      "discountPercentage": 60,
-      "url": "https://store.playstation.com/fr-fr/product/EP0002-CUSA20464_00-TH12RSTANDARD001",
-      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202010/1603/HRV3O3hnPvraA5YR2nlw58g4.png"
-    },
-    {
       "id": "EP1001-CUSA29441_00-MMSLEGENDARY0000",
       "title": "Marvel's Midnight Suns Édition Légendaire sur PS4™",
       "platform": "PS4",
@@ -3023,6 +2971,19 @@
       "discountPercentage": 85,
       "url": "https://store.playstation.com/fr-fr/product/EP2377-CUSA09991_00-JWEVOLUTION00000",
       "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202010/0814/XM4XnM7sR8B4oS6iPkBINvDq.png"
+    },
+    {
+      "id": "EP0006-CUSA23250_00-KINGSTONGAME0000",
+      "title": "Battlefield™ 2042 sur PS4",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 6.99,
+      "originalPrice": 69.99,
+      "currency": "EUR",
+      "discountPercentage": 90,
+      "url": "https://store.playstation.com/fr-fr/product/EP0006-CUSA23250_00-KINGSTONGAME0000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202305/2515/a34d5dadfc7c63020fcf025fefc74a254855c920899ba0b4.png"
     },
     {
       "id": "EP0757-PPSA02786_00-7275526884715451",
@@ -3077,6 +3038,19 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202111/2213/Hnfsex947uCn2TAviF7ohVZe.png"
     },
     {
+      "id": "EP1001-CUSA10468_00-BORDERLANDSHD001",
+      "title": "Borderlands: édition jeu de l'année",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 5.99,
+      "originalPrice": 29.99,
+      "currency": "EUR",
+      "discountPercentage": 80,
+      "url": "https://store.playstation.com/fr-fr/product/EP1001-CUSA10468_00-BORDERLANDSHD001",
+      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202010/2621/nQk0zCThuE71hztlpKmoYcEZ.png"
+    },
+    {
       "id": "EP0177-CUSA12781_00-HOKUTOGOTOGB0000",
       "title": "Fist of the North Star: Lost Paradise",
       "platform": "PS4",
@@ -3100,19 +3074,6 @@
       "discountPercentage": 80,
       "url": "https://store.playstation.com/fr-fr/product/EP4295-CUSA20274_00-NORTHANDSOUTHEU0",
       "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202012/1809/XKgobpH1SNufRsVbspHhmncB.png"
-    },
-    {
-      "id": "EP0006-CUSA23250_00-KINGSTONGAME0000",
-      "title": "Battlefield™ 2042 sur PS4",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 6.99,
-      "originalPrice": 69.99,
-      "currency": "EUR",
-      "discountPercentage": 90,
-      "url": "https://store.playstation.com/fr-fr/product/EP0006-CUSA23250_00-KINGSTONGAME0000",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202305/2515/a34d5dadfc7c63020fcf025fefc74a254855c920899ba0b4.png"
     },
     {
       "id": "EP3678-PPSA08025_00-8068170366465297",
@@ -3165,19 +3126,6 @@
       "discountPercentage": 80,
       "url": "https://store.playstation.com/fr-fr/product/EP4008-PPSA01363_00-WRC9SIEE00000000",
       "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202011/0215/XM88eX6c0OxjGReBXhODeb5M.jpg"
-    },
-    {
-      "id": "EP0082-CUSA23909_00-CHRONOCROSS00000",
-      "title": "CHRONO CROSS: THE RADICAL DREAMERS EDITION",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 7.99,
-      "originalPrice": 19.99,
-      "currency": "EUR",
-      "discountPercentage": 60,
-      "url": "https://store.playstation.com/fr-fr/product/EP0082-CUSA23909_00-CHRONOCROSS00000",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202202/1001/hI8UiZtJ6UVrIGTnK0P9vN0u.png"
     },
     {
       "id": "UP6088-PPSA25994_00-0724589703997896",
@@ -3258,17 +3206,30 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202502/0504/648129bda3c98700ce3a7d7c9f83df8816bc3dc425aaa0fd.png"
     },
     {
-      "id": "EP4356-CUSA28534_00-MXGP2021FULLGAME",
-      "title": "MXGP 2021 - The Official Motocross Videogame",
+      "id": "EP0700-CUSA06210_00-NARUTOUNS4RTB000",
+      "title": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4 Road to Boruto",
       "platform": "PS4",
       "store": "PlayStation Store",
       "region": "FR",
-      "currentPrice": 3.99,
+      "currentPrice": 19.99,
+      "originalPrice": 49.99,
+      "currency": "EUR",
+      "discountPercentage": 60,
+      "url": "https://store.playstation.com/fr-fr/product/EP0700-CUSA06210_00-NARUTOUNS4RTB000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202512/1615/73139e0b80cb94d6555ceb0b1915ef496fd2eb153e8726d9.jpg"
+    },
+    {
+      "id": "EP4108-CUSA24124_00-NINJAGAIDENMC000",
+      "title": "NINJA GAIDEN: Master Collection",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 19.99,
       "originalPrice": 39.99,
       "currency": "EUR",
-      "discountPercentage": 90,
-      "url": "https://store.playstation.com/fr-fr/product/EP4356-CUSA28534_00-MXGP2021FULLGAME",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202109/2209/bixw18w6eYVjg5Xti2pobwsT.jpg"
+      "discountPercentage": 50,
+      "url": "https://store.playstation.com/fr-fr/product/EP4108-CUSA24124_00-NINJAGAIDENMC000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202102/2510/3oI1SjhIuDGeGNGWHgQqfh63.png"
     },
     {
       "id": "EP1003-PPSA01670_00-DE1CDXDLOOPDELUX",
@@ -3309,6 +3270,19 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202109/2414/HDOr1Mt8DBEzhrWIo8KkrPJ3.jpg"
     },
     {
+      "id": "EP0082-CUSA32853_00-TFBLPDDE00000000",
+      "title": "THEATRHYTHM FINAL BAR LINE Premium Digital Deluxe Edition",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 54.99,
+      "originalPrice": 109.99,
+      "currency": "EUR",
+      "discountPercentage": 50,
+      "url": "https://store.playstation.com/fr-fr/product/EP0082-CUSA32853_00-TFBLPDDE00000000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202208/2209/WghHGkSgsKZxgyKmkuMsRXvN.png"
+    },
+    {
       "id": "EP2377-PPSA03286_00-7656201194715564",
       "title": "Jurassic World Evolution 2 : édition Deluxe",
       "platform": "PS4",
@@ -3320,6 +3294,32 @@
       "discountPercentage": 80,
       "url": "https://store.playstation.com/fr-fr/product/EP2377-PPSA03286_00-7656201194715564",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202107/2717/6kocG7zxW91SotaqXs1bgQ1E.jpg"
+    },
+    {
+      "id": "EP0082-CUSA23909_00-CHRONOCROSS00000",
+      "title": "CHRONO CROSS: THE RADICAL DREAMERS EDITION",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 7.99,
+      "originalPrice": 19.99,
+      "currency": "EUR",
+      "discountPercentage": 60,
+      "url": "https://store.playstation.com/fr-fr/product/EP0082-CUSA23909_00-CHRONOCROSS00000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202202/1001/hI8UiZtJ6UVrIGTnK0P9vN0u.png"
+    },
+    {
+      "id": "EP1018-CUSA02979_00-LEGOWORLDS000001",
+      "title": "LEGO® Worlds",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 4.79,
+      "originalPrice": 29.99,
+      "currency": "EUR",
+      "discountPercentage": 84,
+      "url": "https://store.playstation.com/fr-fr/product/EP1018-CUSA02979_00-LEGOWORLDS000001",
+      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202111/3020/8GeaBVaovbYcOvjVyZ0tUsFs.png"
     },
     {
       "id": "EP4321-CUSA00377_00-COMPLETEBUNDLE01",
@@ -3361,6 +3361,19 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202203/2414/BKRUrWduDBXVm5W8N6J8Oanl.jpg"
     },
     {
+      "id": "EP4356-CUSA28534_00-MXGP2021FULLGAME",
+      "title": "MXGP 2021 - The Official Motocross Videogame",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 3.99,
+      "originalPrice": 39.99,
+      "currency": "EUR",
+      "discountPercentage": 90,
+      "url": "https://store.playstation.com/fr-fr/product/EP4356-CUSA28534_00-MXGP2021FULLGAME",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202109/2209/bixw18w6eYVjg5Xti2pobwsT.jpg"
+    },
+    {
       "id": "EP4008-CUSA17267_00-AO2SIEE000000000",
       "title": "AO Tennis 2",
       "platform": "PS4",
@@ -3385,18 +3398,6 @@
       "discountPercentage": 80,
       "url": "https://store.playstation.com/fr-fr/product/EP4008-PPSA01363_00-0357122038405999",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202007/1308/1mclxb54zZCCo2YsVDGV5zsy.jpg"
-    },
-    {
-      "id": "EP1018-CUSA00051_00-INJUSTICEULTIMAT",
-      "title": "Injustice:Les Dieux sont parmi nous Édition Ultime",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 5.39,
-      "originalPrice": 59.99,
-      "currency": "EUR",
-      "discountPercentage": 91,
-      "url": "https://store.playstation.com/fr-fr/product/EP1018-CUSA00051_00-INJUSTICEULTIMAT"
     },
     {
       "id": "EP0700-CUSA14896_00-TSUBASADELUXE000",
@@ -3462,19 +3463,6 @@
       "url": "https://store.playstation.com/fr-fr/product/EP1018-CUSA13509_00-LEGOMOVIEDBLPACK"
     },
     {
-      "id": "EP1018-CUSA02979_00-LEGOWORLDS000001",
-      "title": "LEGO® Worlds",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 4.79,
-      "originalPrice": 29.99,
-      "currency": "EUR",
-      "discountPercentage": 84,
-      "url": "https://store.playstation.com/fr-fr/product/EP1018-CUSA02979_00-LEGOWORLDS000001",
-      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202111/3020/8GeaBVaovbYcOvjVyZ0tUsFs.png"
-    },
-    {
       "id": "EP0102-CUSA43547_00-COLLECTION000002",
       "title": "Monster Hunter Stories Deluxe Collection",
       "platform": "PS4",
@@ -3527,6 +3515,19 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202301/2010/dhsBEYYdJgAneotSllNPyOmi.png"
     },
     {
+      "id": "EP0177-PPSA02384_00-YLADHEU000000000",
+      "title": "Yakuza: Like a Dragon Hero Edition PS4 & PS5",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 8.74,
+      "originalPrice": 24.99,
+      "currency": "EUR",
+      "discountPercentage": 65,
+      "url": "https://store.playstation.com/fr-fr/product/EP0177-PPSA02384_00-YLADHEU000000000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202011/1315/ZEkTMw5IU0Tq7pfwK0PSx6qo.png"
+    },
+    {
       "id": "EP1018-CUSA11550_00-LEGODCVILLAINSDX",
       "title": "LEGO® DC Super-Vilains : Deluxe Edition",
       "platform": "PS4",
@@ -3550,6 +3551,18 @@
       "currency": "EUR",
       "discountPercentage": 75,
       "url": "https://store.playstation.com/fr-fr/product/EP0102-CUSA01815_00-BHDOB00000000001"
+    },
+    {
+      "id": "EP1018-CUSA00051_00-INJUSTICEULTIMAT",
+      "title": "Injustice:Les Dieux sont parmi nous Édition Ultime",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 5.39,
+      "originalPrice": 59.99,
+      "currency": "EUR",
+      "discountPercentage": 91,
+      "url": "https://store.playstation.com/fr-fr/product/EP1018-CUSA00051_00-INJUSTICEULTIMAT"
     },
     {
       "id": "EP4064-PPSA20052_00-WORMSARMAGEDDON0",
@@ -3601,19 +3614,6 @@
       "discountPercentage": 70,
       "url": "https://store.playstation.com/fr-fr/product/EP0006-CUSA01934_00-PVZGW2BASEGAME00",
       "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202010/2621/Rl9LyTXuDEgnwXsy1SzBTQmS.png"
-    },
-    {
-      "id": "EP1003-CUSA04482_00-PREYPS4FULLGAME1",
-      "title": "Prey",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 5.99,
-      "originalPrice": 29.99,
-      "currency": "EUR",
-      "discountPercentage": 80,
-      "url": "https://store.playstation.com/fr-fr/product/EP1003-CUSA04482_00-PREYPS4FULLGAME1",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202009/2902/oOkU5TH3jGxThJ2wVvFjJHvR.png"
     },
     {
       "id": "EP0001-CUSA05264_00-FHGOLD0000000000",
@@ -3681,32 +3681,6 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202412/1306/ece4f610bbded85590c3890739fc0da2c6e9528d00c68f95.jpg"
     },
     {
-      "id": "EP0700-CUSA01186_00-DBX000TIMETRAVEL",
-      "title": "Dragon Ball Xenoverse : Édition Time Travel",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 10.49,
-      "originalPrice": 69.99,
-      "currency": "EUR",
-      "discountPercentage": 85,
-      "url": "https://store.playstation.com/fr-fr/product/EP0700-CUSA01186_00-DBX000TIMETRAVEL",
-      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202011/0204/WN3bbfswaZAQk7wTQIL5XcnZ.png"
-    },
-    {
-      "id": "EP0177-PPSA02384_00-YLADHEU000000000",
-      "title": "Yakuza: Like a Dragon Hero Edition PS4 & PS5",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 8.74,
-      "originalPrice": 24.99,
-      "currency": "EUR",
-      "discountPercentage": 65,
-      "url": "https://store.playstation.com/fr-fr/product/EP0177-PPSA02384_00-YLADHEU000000000",
-      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202011/1315/ZEkTMw5IU0Tq7pfwK0PSx6qo.png"
-    },
-    {
       "id": "EP6960-PPSA20369_00-TOI2DLX000000000",
       "title": "Tails of Iron 2: Whiskers of Winter - Deluxe Edition (PS4 & PS5)",
       "platform": "PS4",
@@ -3731,6 +3705,32 @@
       "discountPercentage": 70,
       "url": "https://store.playstation.com/fr-fr/product/EP0177-PPSA05325_00-SONICORIGINSPLUS",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202305/3115/17dfd3075221daeceecdecfee246db62bd51430abbfd69e8.png"
+    },
+    {
+      "id": "EP3678-PPSA09806_00-8846382077819002",
+      "title": "Peppa Pig : Aventures autour du Monde",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 5.99,
+      "originalPrice": 39.99,
+      "currency": "EUR",
+      "discountPercentage": 85,
+      "url": "https://store.playstation.com/fr-fr/product/EP3678-PPSA09806_00-8846382077819002",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202302/0917/21baaa96302d413cfd5e27a2a245e298ccc6658d335489fd.jpg"
+    },
+    {
+      "id": "EP1003-CUSA04482_00-PREYPS4FULLGAME1",
+      "title": "Prey",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 5.99,
+      "originalPrice": 29.99,
+      "currency": "EUR",
+      "discountPercentage": 80,
+      "url": "https://store.playstation.com/fr-fr/product/EP1003-CUSA04482_00-PREYPS4FULLGAME1",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202009/2902/oOkU5TH3jGxThJ2wVvFjJHvR.png"
     },
     {
       "id": "EP4133-PPSA34751_00-MUDRUNNER0000000",
@@ -3759,17 +3759,17 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202102/1921/3bQdY7vep0VGNeQEwpNMo1WR.jpg"
     },
     {
-      "id": "EP4133-PPSA09741_00-INSURGENCYSANDST",
-      "title": "Insurgency: Sandstorm [PS4 & PS5]",
+      "id": "EP3862-PPSA15554_00-DEADCELLSPS5SIEE",
+      "title": "Dead Cells (PS4® & PS5®)",
       "platform": "PS4",
       "store": "PlayStation Store",
       "region": "FR",
-      "currentPrice": 9.99,
-      "originalPrice": 39.99,
+      "currentPrice": 12.49,
+      "originalPrice": 24.99,
       "currency": "EUR",
-      "discountPercentage": 75,
-      "url": "https://store.playstation.com/fr-fr/product/EP4133-PPSA09741_00-INSURGENCYSANDST",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202108/1617/6WAYmYrMuzi6zjliqQm3Puko.jpg"
+      "discountPercentage": 50,
+      "url": "https://store.playstation.com/fr-fr/product/EP3862-PPSA15554_00-DEADCELLSPS5SIEE",
+      "imageUrl": "https://image.api.playstation.com/cdn/EP3862/CUSA10484_00/yBWNwtzZiTbsRVQtorKYTi06O7iXq5fd.jpg"
     },
     {
       "id": "EP0700-PPSA07930_00-UNKNOWN90000GAME",
@@ -3849,6 +3849,19 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202207/0505/RY73zIuvk9VQAK3YHbP1b5mc.jpg"
     },
     {
+      "id": "EP0700-CUSA01186_00-DBX000TIMETRAVEL",
+      "title": "Dragon Ball Xenoverse : Édition Time Travel",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 10.49,
+      "originalPrice": 69.99,
+      "currency": "EUR",
+      "discountPercentage": 85,
+      "url": "https://store.playstation.com/fr-fr/product/EP0700-CUSA01186_00-DBX000TIMETRAVEL",
+      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202011/0204/WN3bbfswaZAQk7wTQIL5XcnZ.png"
+    },
+    {
       "id": "EP1875-CUSA19234_00-0129758663233367",
       "title": "STAR WARS™: Grand Collection",
       "platform": "PS4",
@@ -3886,19 +3899,6 @@
       "discountPercentage": 70,
       "url": "https://store.playstation.com/fr-fr/product/UP0182-PPSA26698_00-RCT3COMPLETE0001",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202501/1021/852dde757d2319a4d6eaa29967f7cf742ad8474314a1158a.jpg"
-    },
-    {
-      "id": "EP4064-PPSA13579_00-BLASPHEMOUS20000",
-      "title": "Blasphemous 2",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 10.19,
-      "originalPrice": 29.99,
-      "currency": "EUR",
-      "discountPercentage": 66,
-      "url": "https://store.playstation.com/fr-fr/product/EP4064-PPSA13579_00-BLASPHEMOUS20000",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0318/af99de8bd7ad1c6df84b30b1cf47092210b58fc6de2c0f3e.jpg"
     },
     {
       "id": "EP3359-CUSA08368_00-HUNTINGSTARTERBU",
@@ -4042,17 +4042,17 @@
       "url": "https://store.playstation.com/fr-fr/product/EP4064-CUSA04022_00-WORMSDCBN0000000"
     },
     {
-      "id": "EP3678-PPSA09806_00-8846382077819002",
-      "title": "Peppa Pig : Aventures autour du Monde",
+      "id": "EP0006-PPSA01694_00-LOSTINRANDOMGAME",
+      "title": "Lost in Random™ sur PS4™ et PS5™",
       "platform": "PS4",
       "store": "PlayStation Store",
       "region": "FR",
-      "currentPrice": 5.99,
-      "originalPrice": 39.99,
+      "currentPrice": 4.49,
+      "originalPrice": 29.99,
       "currency": "EUR",
       "discountPercentage": 85,
-      "url": "https://store.playstation.com/fr-fr/product/EP3678-PPSA09806_00-8846382077819002",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202302/0917/21baaa96302d413cfd5e27a2a245e298ccc6658d335489fd.jpg"
+      "url": "https://store.playstation.com/fr-fr/product/EP0006-PPSA01694_00-LOSTINRANDOMGAME",
+      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202108/2712/4TEw5Oqv1bTWUyllA8M2lCnE.png"
     },
     {
       "id": "EP2377-CUSA09991_00-JWEPARKEDITION00",
@@ -4093,17 +4093,17 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202402/1512/1957167e44a3c63687b85bc387b80efd512ff6d3d994bf87.jpg"
     },
     {
-      "id": "EP0082-CUSA24496_00-LOMPS4EU00000001",
-      "title": "Legend of Mana",
+      "id": "EP0700-CUSA10246_00-CODEVEINDELUXE00",
+      "title": "CODE VEIN Deluxe Edition",
       "platform": "PS4",
       "store": "PlayStation Store",
       "region": "FR",
-      "currentPrice": 11.99,
-      "originalPrice": 29.99,
+      "currentPrice": 13.49,
+      "originalPrice": 89.99,
       "currency": "EUR",
-      "discountPercentage": 60,
-      "url": "https://store.playstation.com/fr-fr/product/EP0082-CUSA24496_00-LOMPS4EU00000001",
-      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202102/1808/TKqqBRTlk7sjuc0BJbodk2t2.jpg"
+      "discountPercentage": 85,
+      "url": "https://store.playstation.com/fr-fr/product/EP0700-CUSA10246_00-CODEVEINDELUXE00",
+      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202009/2919/163X7w87V0fD5okYWNBgyQDV.png"
     },
     {
       "id": "EP1063-CUSA07299_00-ZETTAIZETUBOUPS4",
@@ -4117,6 +4117,19 @@
       "discountPercentage": 80,
       "url": "https://store.playstation.com/fr-fr/product/EP1063-CUSA07299_00-ZETTAIZETUBOUPS4",
       "imageUrl": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA08474_00/4/i_58cc9c9edcde9b9b77a361c8112aba852ec9dafd73a8bd8848e06a4e471f392c/i/pic0.png"
+    },
+    {
+      "id": "EP4064-PPSA13579_00-BLASPHEMOUS20000",
+      "title": "Blasphemous 2",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 10.19,
+      "originalPrice": 29.99,
+      "currency": "EUR",
+      "discountPercentage": 66,
+      "url": "https://store.playstation.com/fr-fr/product/EP4064-PPSA13579_00-BLASPHEMOUS20000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0318/af99de8bd7ad1c6df84b30b1cf47092210b58fc6de2c0f3e.jpg"
     },
     {
       "id": "EP4389-CUSA08366_00-TITANQUEST000000",
@@ -4168,19 +4181,6 @@
       "discountPercentage": 50,
       "url": "https://store.playstation.com/fr-fr/product/EP8915-PPSA07483_00-JBGPARTYSTARTPS5",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0218/i18yu2PxOGnW78cJhpBkzMQJ.jpg"
-    },
-    {
-      "id": "EP0001-PPSA01516_00-STANDARDEDITION0",
-      "title": "Tom Clancy’s Rainbow Six® Extraction PS4 & PS5",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 9.99,
-      "originalPrice": 49.99,
-      "currency": "EUR",
-      "discountPercentage": 80,
-      "url": "https://store.playstation.com/fr-fr/product/EP0001-PPSA01516_00-STANDARDEDITION0",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202105/1919/6t4GYDWoLSZVeNjAJLTczMg8.jpg"
     },
     {
       "id": "EP0006-CUSA00168_00-NFS14000PS4000EU",
@@ -4246,6 +4246,19 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202303/0115/b54dd3a08b9b064b8aeef08f9b27c24a78ab4c964d249900.jpg"
     },
     {
+      "id": "EP0082-CUSA24496_00-LOMPS4EU00000001",
+      "title": "Legend of Mana",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 11.99,
+      "originalPrice": 29.99,
+      "currency": "EUR",
+      "discountPercentage": 60,
+      "url": "https://store.playstation.com/fr-fr/product/EP0082-CUSA24496_00-LOMPS4EU00000001",
+      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202102/1808/TKqqBRTlk7sjuc0BJbodk2t2.jpg"
+    },
+    {
       "id": "EP4108-CUSA07903_00-STARGAMEEU000000",
       "title": "WARRIORS ALL-STARS",
       "platform": "PS4",
@@ -4258,43 +4271,17 @@
       "url": "https://store.playstation.com/fr-fr/product/EP4108-CUSA07903_00-STARGAMEEU000000"
     },
     {
-      "id": "EP4108-CUSA24124_00-NINJAGAIDENMCDX1",
-      "title": "NINJA GAIDEN: Master Collection Deluxe Edition",
+      "id": "EP4295-CUSA27348_00-GALOPSPS400000EU",
+      "title": "Réussir :  Galops 1 à 7",
       "platform": "PS4",
       "store": "PlayStation Store",
       "region": "FR",
-      "currentPrice": 24.99,
-      "originalPrice": 49.99,
+      "currentPrice": 3.99,
+      "originalPrice": 19.99,
       "currency": "EUR",
-      "discountPercentage": 50,
-      "url": "https://store.playstation.com/fr-fr/product/EP4108-CUSA24124_00-NINJAGAIDENMCDX1",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202102/2510/3oI1SjhIuDGeGNGWHgQqfh63.png"
-    },
-    {
-      "id": "EP3862-PPSA15554_00-DEADCELLSPS5SIEE",
-      "title": "Dead Cells (PS4® & PS5®)",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 12.49,
-      "originalPrice": 24.99,
-      "currency": "EUR",
-      "discountPercentage": 50,
-      "url": "https://store.playstation.com/fr-fr/product/EP3862-PPSA15554_00-DEADCELLSPS5SIEE",
-      "imageUrl": "https://image.api.playstation.com/cdn/EP3862/CUSA10484_00/yBWNwtzZiTbsRVQtorKYTi06O7iXq5fd.jpg"
-    },
-    {
-      "id": "EP0006-PPSA01694_00-LOSTINRANDOMGAME",
-      "title": "Lost in Random™ sur PS4™ et PS5™",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 4.49,
-      "originalPrice": 29.99,
-      "currency": "EUR",
-      "discountPercentage": 85,
-      "url": "https://store.playstation.com/fr-fr/product/EP0006-PPSA01694_00-LOSTINRANDOMGAME",
-      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202108/2712/4TEw5Oqv1bTWUyllA8M2lCnE.png"
+      "discountPercentage": 80,
+      "url": "https://store.playstation.com/fr-fr/product/EP4295-CUSA27348_00-GALOPSPS400000EU",
+      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202106/2112/FKr6bS58ipVuKLHKKyC3pJ82.jpg"
     },
     {
       "id": "EP0700-PPSA08574_00-SANDLDLXEDITION0",
@@ -4308,19 +4295,6 @@
       "discountPercentage": 50,
       "url": "https://store.playstation.com/fr-fr/product/EP0700-PPSA08574_00-SANDLDLXEDITION0",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202401/0515/dde5b481384c0ded04fb6c65c0610daad6ab5143a36ac88a.png"
-    },
-    {
-      "id": "EP4389-PPSA05399_00-DAHJUMBOPACK0000",
-      "title": "Destroy All Humans! - Jumbo Pack",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 19.99,
-      "originalPrice": 79.99,
-      "currency": "EUR",
-      "discountPercentage": 75,
-      "url": "https://store.playstation.com/fr-fr/product/EP4389-PPSA05399_00-DAHJUMBOPACK0000",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202205/1314/gQjrQKFBsBaYtLvYMElYFkWp.jpg"
     },
     {
       "id": "EP0177-CUSA19351_00-SONICCOLORSULTIM",
@@ -4347,6 +4321,19 @@
       "discountPercentage": 50,
       "url": "https://store.playstation.com/fr-fr/product/JP0576-CUSA44431_00-SVCCHAOSPS4JP000",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202402/2603/5184ecbdfc647acf69bf4dead346b3222a703b03eca95a69.jpg"
+    },
+    {
+      "id": "EP0001-PPSA01516_00-STANDARDEDITION0",
+      "title": "Tom Clancy’s Rainbow Six® Extraction PS4 & PS5",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 9.99,
+      "originalPrice": 49.99,
+      "currency": "EUR",
+      "discountPercentage": 80,
+      "url": "https://store.playstation.com/fr-fr/product/EP0001-PPSA01516_00-STANDARDEDITION0",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202105/1919/6t4GYDWoLSZVeNjAJLTczMg8.jpg"
     },
     {
       "id": "EP6665-PPSA19407_00-CRS0000000000000",
@@ -4384,6 +4371,19 @@
       "currency": "EUR",
       "discountPercentage": 80,
       "url": "https://store.playstation.com/fr-fr/product/EP4497-CUSA13478_00-0000000000000001"
+    },
+    {
+      "id": "EP4062-CUSA03291_00-DEADISLANDDCTL60",
+      "title": "Dead Island Definitive Collection",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 4.49,
+      "originalPrice": 29.99,
+      "currency": "EUR",
+      "discountPercentage": 85,
+      "url": "https://store.playstation.com/fr-fr/product/EP4062-CUSA03291_00-DEADISLANDDCTL60",
+      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202011/0204/bKsDCZjSmOHa4BrBLDg8mL28.png"
     },
     {
       "id": "EP0082-CUSA27400_00-VOCTRILOGY000001",
@@ -4462,6 +4462,19 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202402/1610/4b4960490daab733fa3f158dd2c628744cfc558a6b4c3106.png"
     },
     {
+      "id": "EP0006-CUSA15089_00-STARWARSTRIPBUND",
+      "title": "TRIPLE PACK EA STAR WARS™",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 22.49,
+      "originalPrice": 89.99,
+      "currency": "EUR",
+      "discountPercentage": 75,
+      "url": "https://store.playstation.com/fr-fr/product/EP0006-CUSA15089_00-STARWARSTRIPBUND",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202011/2414/F8cvJUaNFTQhH4gZMDpGOclm.png"
+    },
+    {
       "id": "EP0576-PPSA02214_00-KOF15PS5000000EU",
       "title": "THE KING OF FIGHTERS XV Edition Standard PS4 & PS5",
       "platform": "PS4",
@@ -4524,19 +4537,6 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202106/0815/MNl333y1M9BX6vYjCIdGq1tM.png"
     },
     {
-      "id": "EP4295-CUSA27348_00-GALOPSPS400000EU",
-      "title": "Réussir :  Galops 1 à 7",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 3.99,
-      "originalPrice": 19.99,
-      "currency": "EUR",
-      "discountPercentage": 80,
-      "url": "https://store.playstation.com/fr-fr/product/EP4295-CUSA27348_00-GALOPSPS400000EU",
-      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202106/2112/FKr6bS58ipVuKLHKKyC3pJ82.jpg"
-    },
-    {
       "id": "EP4389-CUSA17245_00-KOAFATEEDITIONEU",
       "title": "Kingdoms of Amalur: Re-Reckoning - Fate Edition",
       "platform": "PS4",
@@ -4548,6 +4548,19 @@
       "discountPercentage": 75,
       "url": "https://store.playstation.com/fr-fr/product/EP4389-CUSA17245_00-KOAFATEEDITIONEU",
       "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202011/0204/3Qv8BYadCG9vOx8FqKAvmZea.png"
+    },
+    {
+      "id": "EP4133-PPSA09741_00-INSURGENCYSANDST",
+      "title": "Insurgency: Sandstorm [PS4 & PS5]",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 9.99,
+      "originalPrice": 39.99,
+      "currency": "EUR",
+      "discountPercentage": 75,
+      "url": "https://store.playstation.com/fr-fr/product/EP4133-PPSA09741_00-INSURGENCYSANDST",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202108/1617/6WAYmYrMuzi6zjliqQm3Puko.jpg"
     },
     {
       "id": "EP0177-CUSA33872_00-MIDNIGHT00000000",
@@ -4615,17 +4628,17 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202305/2407/4f1578af7bbed5aa4bb5343ce253b2115302cfc9dfe91f94.jpg"
     },
     {
-      "id": "EP0700-CUSA10246_00-CODEVEINDELUXE00",
-      "title": "CODE VEIN Deluxe Edition",
+      "id": "EP2026-CUSA05598_00-0903844220535468",
+      "title": "The Telltale Batman Shadows Edition",
       "platform": "PS4",
       "store": "PlayStation Store",
       "region": "FR",
-      "currentPrice": 13.49,
-      "originalPrice": 89.99,
+      "currentPrice": 11.99,
+      "originalPrice": 29.99,
       "currency": "EUR",
-      "discountPercentage": 85,
-      "url": "https://store.playstation.com/fr-fr/product/EP0700-CUSA10246_00-CODEVEINDELUXE00",
-      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202009/2919/163X7w87V0fD5okYWNBgyQDV.png"
+      "discountPercentage": 60,
+      "url": "https://store.playstation.com/fr-fr/product/EP2026-CUSA05598_00-0903844220535468",
+      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202011/0204/sIn6nrGTbHeuIfIRnJMv13vr.png"
     },
     {
       "id": "EP1003-CUSA08779_00-BLKHRT0000000000",
@@ -4652,19 +4665,6 @@
       "discountPercentage": 80,
       "url": "https://store.playstation.com/fr-fr/product/EP0700-CUSA11932_00-LOA0000000000001",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202010/1202/QjGFZI3pYyhVVbLUGeW5omGO.jpg"
-    },
-    {
-      "id": "EP0082-CUSA01836_00-DXMANKINDIVIDED0",
-      "title": "Deus Ex: Mankind Divided",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 4.49,
-      "originalPrice": 29.99,
-      "currency": "EUR",
-      "discountPercentage": 85,
-      "url": "https://store.playstation.com/fr-fr/product/EP0082-CUSA01836_00-DXMANKINDIVIDED0",
-      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202010/0822/dDwTFsb5XNjlWTGMi0PJrhwa.jpg"
     },
     {
       "id": "EP1063-PPSA11308_00-HAJIMARIDELUXEED",
@@ -4768,19 +4768,6 @@
       "url": "https://store.playstation.com/fr-fr/product/EP0082-CUSA09651_00-SAGASCARLETHD001"
     },
     {
-      "id": "EP4062-CUSA03291_00-DEADISLANDDCTL60",
-      "title": "Dead Island Definitive Collection",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 4.49,
-      "originalPrice": 29.99,
-      "currency": "EUR",
-      "discountPercentage": 85,
-      "url": "https://store.playstation.com/fr-fr/product/EP4062-CUSA03291_00-DEADISLANDDCTL60",
-      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202011/0204/bKsDCZjSmOHa4BrBLDg8mL28.png"
-    },
-    {
       "id": "EP0082-PPSA07275_00-VEPS5DDXEP000001",
       "title": "VALKYRIE ELYSIUM - Digital Deluxe Edition PS4 & PS5",
       "platform": "PS4",
@@ -4833,6 +4820,19 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202106/1704/CThITKGLtVx842gN7MeKC8TJ.jpg"
     },
     {
+      "id": "EP4389-PPSA05399_00-DAHJUMBOPACK0000",
+      "title": "Destroy All Humans! - Jumbo Pack",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 19.99,
+      "originalPrice": 79.99,
+      "currency": "EUR",
+      "discountPercentage": 75,
+      "url": "https://store.playstation.com/fr-fr/product/EP4389-PPSA05399_00-DAHJUMBOPACK0000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202205/1314/gQjrQKFBsBaYtLvYMElYFkWp.jpg"
+    },
+    {
       "id": "EP7791-PPSA15272_00-0958642995703930",
       "title": "Backpack Hero",
       "platform": "PS4",
@@ -4872,17 +4872,17 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202008/1900/c1nVo2ik2EXPIFryPt8PE0Ss.jpg"
     },
     {
-      "id": "EP2026-CUSA05598_00-0903844220535468",
-      "title": "The Telltale Batman Shadows Edition",
+      "id": "EP0082-CUSA01836_00-DXMANKINDIVIDED0",
+      "title": "Deus Ex: Mankind Divided",
       "platform": "PS4",
       "store": "PlayStation Store",
       "region": "FR",
-      "currentPrice": 11.99,
+      "currentPrice": 4.49,
       "originalPrice": 29.99,
       "currency": "EUR",
-      "discountPercentage": 60,
-      "url": "https://store.playstation.com/fr-fr/product/EP2026-CUSA05598_00-0903844220535468",
-      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202011/0204/sIn6nrGTbHeuIfIRnJMv13vr.png"
+      "discountPercentage": 85,
+      "url": "https://store.playstation.com/fr-fr/product/EP0082-CUSA01836_00-DXMANKINDIVIDED0",
+      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202010/0822/dDwTFsb5XNjlWTGMi0PJrhwa.jpg"
     },
     {
       "id": "EP6245-PPSA03609_00-0167758544406367",
@@ -4976,32 +4976,6 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202501/0709/8a0be895d1941040a5ba7ee93c9c55ba14b2a1e3d899ba93.png"
     },
     {
-      "id": "EP0006-CUSA15089_00-STARWARSTRIPBUND",
-      "title": "TRIPLE PACK EA STAR WARS™",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 22.49,
-      "originalPrice": 89.99,
-      "currency": "EUR",
-      "discountPercentage": 75,
-      "url": "https://store.playstation.com/fr-fr/product/EP0006-CUSA15089_00-STARWARSTRIPBUND",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202011/2414/F8cvJUaNFTQhH4gZMDpGOclm.png"
-    },
-    {
-      "id": "EP4108-CUSA10421_00-EPICGAMEDDX00000",
-      "title": "DYNASTY WARRIORS 9 Digital Deluxe Edition",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 17.99,
-      "originalPrice": 44.99,
-      "currency": "EUR",
-      "discountPercentage": 60,
-      "url": "https://store.playstation.com/fr-fr/product/EP4108-CUSA10421_00-EPICGAMEDDX00000",
-      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202011/0204/1lyU98ntwH3w32xZIjM4b8GJ.png"
-    },
-    {
       "id": "EP0177-CUSA27210_00-P4ARENAULTIMWEST",
       "title": "Persona 4 Arena Ultimax",
       "platform": "PS4",
@@ -5026,18 +5000,6 @@
       "discountPercentage": 85,
       "url": "https://store.playstation.com/fr-fr/product/EP4356-PPSA16159_00-MONSTERJAMGAME00",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202405/1614/36a3e9af34e3673f835998ffb4d04ccdf2facaaeae4dbcf8.jpg"
-    },
-    {
-      "id": "EP2026-CUSA12026_00-TWDS40000000LSPB",
-      "title": "The Walking Dead: L'ultime saison - Season Pass",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 5.99,
-      "originalPrice": 23.99,
-      "currency": "EUR",
-      "discountPercentage": 75,
-      "url": "https://store.playstation.com/fr-fr/product/EP2026-CUSA12026_00-TWDS40000000LSPB"
     },
     {
       "id": "EP4008-CUSA05580_00-HANDBALL17SCEE00",
@@ -5104,6 +5066,19 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/2016/7e209034dae81587551fe64df92798a7c0cdc505dfbbe390.jpg"
     },
     {
+      "id": "EP3036-PPSA18970_00-EDF6MASTERPKG000",
+      "title": "EARTH DEFENSE FORCE 6 PS4 & PS5",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 24.59,
+      "originalPrice": 59.99,
+      "currency": "EUR",
+      "discountPercentage": 59,
+      "url": "https://store.playstation.com/fr-fr/product/EP3036-PPSA18970_00-EDF6MASTERPKG000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202205/1904/2Vd9C6P7sG7VDjJ8n0uPUOF5.jpg"
+    },
+    {
       "id": "EP4947-CUSA19357_00-ROBOTICSNOTESDH4",
       "title": "ROBOTICS;NOTES DaSH",
       "platform": "PS4",
@@ -5126,6 +5101,18 @@
       "currency": "EUR",
       "discountPercentage": 65,
       "url": "https://store.playstation.com/fr-fr/product/EP4947-CUSA17185_00-ROBOTICSNOTESPS4"
+    },
+    {
+      "id": "EP0700-CUSA12399_00-HEROGAME00000000",
+      "title": "MY HERO ONE'S JUSTICE",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 4.99,
+      "originalPrice": 19.99,
+      "currency": "EUR",
+      "discountPercentage": 75,
+      "url": "https://store.playstation.com/fr-fr/product/EP0700-CUSA12399_00-HEROGAME00000000"
     },
     {
       "id": "EP0082-PPSA03840_00-TORDPEPS5EU00000",
@@ -5188,32 +5175,6 @@
       "currency": "EUR",
       "discountPercentage": 60,
       "url": "https://store.playstation.com/fr-fr/product/EP6491-PPSA16119_00-0714408594653902"
-    },
-    {
-      "id": "EP2005-PPSA07613_00-0851281021336523",
-      "title": "Sword and Fairy: Together Forever PS4™ & PS5™",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 13.99,
-      "originalPrice": 39.99,
-      "currency": "EUR",
-      "discountPercentage": 65,
-      "url": "https://store.playstation.com/fr-fr/product/EP2005-PPSA07613_00-0851281021336523",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202205/1604/7Av3X8icIsbpSmGvFIVBMgdB.png"
-    },
-    {
-      "id": "EP8036-PPSA06230_00-EXPDELUXEPS5SIEE",
-      "title": "The Expanse: A Telltale Series - Deluxe Edition",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 11.99,
-      "originalPrice": 29.99,
-      "currency": "EUR",
-      "discountPercentage": 60,
-      "url": "https://store.playstation.com/fr-fr/product/EP8036-PPSA06230_00-EXPDELUXEPS5SIEE",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202305/1517/a76689420b8fc91585d77ca8a0f956f52489745604b23344.png"
     },
     {
       "id": "EP0082-CUSA27400_00-VOCTIDR000000001",
@@ -5281,6 +5242,18 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202504/0318/577f3ceea6c4421faf85648b199a7a199d90ee47eb8d314e.png"
     },
     {
+      "id": "EP2026-CUSA12026_00-TWDS40000000LSPB",
+      "title": "The Walking Dead: L'ultime saison - Season Pass",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 5.99,
+      "originalPrice": 23.99,
+      "currency": "EUR",
+      "discountPercentage": 75,
+      "url": "https://store.playstation.com/fr-fr/product/EP2026-CUSA12026_00-TWDS40000000LSPB"
+    },
+    {
       "id": "EP4837-CUSA12064_00-HUNTDOWN00000001",
       "title": "Huntdown",
       "platform": "PS4",
@@ -5304,6 +5277,19 @@
       "discountPercentage": 65,
       "url": "https://store.playstation.com/fr-fr/product/UB1012-CUSA52100_00-0169995325160967",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202411/1215/27c439f14132cb96813e35e5489dc5e832c87cd37277bc4a.jpg"
+    },
+    {
+      "id": "EP2005-PPSA07613_00-0851281021336523",
+      "title": "Sword and Fairy: Together Forever PS4™ & PS5™",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 13.99,
+      "originalPrice": 39.99,
+      "currency": "EUR",
+      "discountPercentage": 65,
+      "url": "https://store.playstation.com/fr-fr/product/EP2005-PPSA07613_00-0851281021336523",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202205/1604/7Av3X8icIsbpSmGvFIVBMgdB.png"
     },
     {
       "id": "EP1001-PPSA03500_00-000CYPRESS2EUPS5",
@@ -5342,18 +5328,6 @@
       "discountPercentage": 60,
       "url": "https://store.playstation.com/fr-fr/product/EP7579-PPSA15064_00-CQ300000000PS5EU",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202405/2209/7cff8cf53258df14eabbfd393062e88bf3638327ea1ff447.jpg"
-    },
-    {
-      "id": "EP0101-CUSA15488_00-CONTRACOLLECTION",
-      "title": "Contra Anniversary Collection",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 7.99,
-      "originalPrice": 19.99,
-      "currency": "EUR",
-      "discountPercentage": 60,
-      "url": "https://store.playstation.com/fr-fr/product/EP0101-CUSA15488_00-CONTRACOLLECTION"
     },
     {
       "id": "EP0581-CUSA08319_00-HOBGAME000000000",
@@ -5522,17 +5496,17 @@
       "url": "https://store.playstation.com/fr-fr/product/EP1156-CUSA04094_00-CRYPTNECRODANCER"
     },
     {
-      "id": "EP3877-CUSA20030_00-NAUGHTFULLBUNDLE",
-      "title": "Naught (Full Pack)",
+      "id": "EP4008-CUSA10577_00-ILOVEVOLLEYBALLE",
+      "title": "Spike Volleyball",
       "platform": "PS4",
       "store": "PlayStation Store",
       "region": "FR",
-      "currentPrice": 10.99,
-      "originalPrice": 21.99,
+      "currentPrice": 5.99,
+      "originalPrice": 19.99,
       "currency": "EUR",
-      "discountPercentage": 50,
-      "url": "https://store.playstation.com/fr-fr/product/EP3877-CUSA20030_00-NAUGHTFULLBUNDLE",
-      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202011/0415/CuNmMWC7hyu97qpsJ8OXHiaA.jpg"
+      "discountPercentage": 70,
+      "url": "https://store.playstation.com/fr-fr/product/EP4008-CUSA10577_00-ILOVEVOLLEYBALLE",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202009/1815/x5w4ggXP3mJMO04lFUadqJDA.jpg"
     },
     {
       "id": "EP0576-CUSA17051_00-SAMUSHOCOLLEUS00",
@@ -5574,6 +5548,19 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202009/1415/gdOXYdQQ8Ke0BJFLfVJFIJux.jpg"
     },
     {
+      "id": "EP4108-CUSA24124_00-NINJAGAIDENMCDX1",
+      "title": "NINJA GAIDEN: Master Collection Deluxe Edition",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 24.99,
+      "originalPrice": 49.99,
+      "currency": "EUR",
+      "discountPercentage": 50,
+      "url": "https://store.playstation.com/fr-fr/product/EP4108-CUSA24124_00-NINJAGAIDENMCDX1",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202102/2510/3oI1SjhIuDGeGNGWHgQqfh63.png"
+    },
+    {
       "id": "JP0005-PPSA15366_00-RAIDOU0000000000",
       "title": "RAIDOU Remastered: The Mystery of the Soulless Army PS4 & PS5",
       "platform": "PS4",
@@ -5585,18 +5572,6 @@
       "discountPercentage": 50,
       "url": "https://store.playstation.com/fr-fr/product/JP0005-PPSA15366_00-RAIDOU0000000000",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202501/2822/634e1a6dcf45bcc9dae0617c18903bf72fa19d57de8abf0b.jpg"
-    },
-    {
-      "id": "EP0700-CUSA12399_00-HEROGAME00000000",
-      "title": "MY HERO ONE'S JUSTICE",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 4.99,
-      "originalPrice": 19.99,
-      "currency": "EUR",
-      "discountPercentage": 75,
-      "url": "https://store.playstation.com/fr-fr/product/EP0700-CUSA12399_00-HEROGAME00000000"
     },
     {
       "id": "EP5611-CUSA15269_00-ANGRYBIRDSVR0001",
@@ -5663,6 +5638,19 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202110/2213/5HPV6dfCEu84gypnvc79NIOL.png"
     },
     {
+      "id": "EP2483-PPSA19591_00-0477064123147844",
+      "title": "Darkest Dungeon II: Oblivion Edition PS4 & PS5",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 17.99,
+      "originalPrice": 44.99,
+      "currency": "EUR",
+      "discountPercentage": 60,
+      "url": "https://store.playstation.com/fr-fr/product/EP2483-PPSA19591_00-0477064123147844",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202403/2819/64eab111e41a4842f66f46a1214389a5eb4bf490c6f13586.jpg"
+    },
+    {
       "id": "EP6260-PPSA05975_00-0317409282769229",
       "title": "BloodRayne 2: ReVamped",
       "platform": "PS4",
@@ -5674,19 +5662,6 @@
       "discountPercentage": 60,
       "url": "https://store.playstation.com/fr-fr/product/EP6260-PPSA05975_00-0317409282769229",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202110/2619/B4LpaegqGhRs9zNOLvN8jX8j.jpg"
-    },
-    {
-      "id": "EP4008-CUSA10577_00-ILOVEVOLLEYBALLE",
-      "title": "Spike Volleyball",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 5.99,
-      "originalPrice": 19.99,
-      "currency": "EUR",
-      "discountPercentage": 70,
-      "url": "https://store.playstation.com/fr-fr/product/EP4008-CUSA10577_00-ILOVEVOLLEYBALLE",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202009/1815/x5w4ggXP3mJMO04lFUadqJDA.jpg"
     },
     {
       "id": "EP1024-CUSA06937_00-ZEROESCAPE999ZEN",
@@ -5817,19 +5792,6 @@
       "url": "https://store.playstation.com/fr-fr/product/EP4108-CUSA14011_00-APPA11RORONA0000"
     },
     {
-      "id": "UP0135-PPSA30143_00-0244120115153217",
-      "title": "Forever Delicious Bundle",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 12.49,
-      "originalPrice": 49.99,
-      "currency": "EUR",
-      "discountPercentage": 75,
-      "url": "https://store.playstation.com/fr-fr/product/UP0135-PPSA30143_00-0244120115153217",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202505/0223/a1f91c984e64e1e21434c8c2ae500964f94d585aac69155e.png"
-    },
-    {
       "id": "EP4947-CUSA52672_00-0286493894251111",
       "title": "Never 7 - The End of Infinity",
       "platform": "PS4",
@@ -5947,17 +5909,17 @@
       "imageUrl": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA13273_00/3/i_63bd606d1ae70cd637ec00c112f1ca9766b094c16fc1c9a0fefcbf6be1785357/i/pic0.png"
     },
     {
-      "id": "EP3036-PPSA18970_00-EDF6MASTERPKG000",
-      "title": "EARTH DEFENSE FORCE 6 PS4 & PS5",
+      "id": "EP0102-CUSA15020_00-MMZZLC0000000001",
+      "title": "Mega Man Zero/ZX Legacy Collection",
       "platform": "PS4",
       "store": "PlayStation Store",
       "region": "FR",
-      "currentPrice": 24.59,
-      "originalPrice": 59.99,
+      "currentPrice": 9.89,
+      "originalPrice": 29.99,
       "currency": "EUR",
-      "discountPercentage": 59,
-      "url": "https://store.playstation.com/fr-fr/product/EP3036-PPSA18970_00-EDF6MASTERPKG000",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202205/1904/2Vd9C6P7sG7VDjJ8n0uPUOF5.jpg"
+      "discountPercentage": 67,
+      "url": "https://store.playstation.com/fr-fr/product/EP0102-CUSA15020_00-MMZZLC0000000001",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202009/2911/FeAvAzzy5AnbTuUKpOOMEIb1.png"
     },
     {
       "id": "EP0700-CUSA13326_00-GODEATER30000000",
@@ -6062,6 +6024,18 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202209/1414/MsCVOIsqWBcp47W7IGtanWi8.jpg"
     },
     {
+      "id": "EP0101-CUSA15488_00-CONTRACOLLECTION",
+      "title": "Contra Anniversary Collection",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 7.99,
+      "originalPrice": 19.99,
+      "currency": "EUR",
+      "discountPercentage": 60,
+      "url": "https://store.playstation.com/fr-fr/product/EP0101-CUSA15488_00-CONTRACOLLECTION"
+    },
+    {
       "id": "EP1018-CUSA00690_00-GAUNTLETGAME0001",
       "title": "Gauntlet: Slayer Edition",
       "platform": "PS4",
@@ -6123,19 +6097,6 @@
       "currency": "EUR",
       "discountPercentage": 85,
       "url": "https://store.playstation.com/fr-fr/product/EP3617-CUSA14971_00-ZANKIZEROPS40000"
-    },
-    {
-      "id": "UB1012-CUSA52689_00-0288636010981821",
-      "title": "Scandinavian Cottage Survival Simulator",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 7.49,
-      "originalPrice": 14.99,
-      "currency": "EUR",
-      "discountPercentage": 50,
-      "url": "https://store.playstation.com/fr-fr/product/UB1012-CUSA52689_00-0288636010981821",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202504/3013/1e85db434e348bd4fcf475fa212eaff0c7fcb674d408fda4.jpg"
     },
     {
       "id": "EP3678-PPSA03947_00-9125680150485744",
@@ -6294,6 +6255,19 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202210/2618/mS0WV2h3oKayiuUYmwoMM4T6.jpg"
     },
     {
+      "id": "EP8036-PPSA06230_00-EXPDELUXEPS5SIEE",
+      "title": "The Expanse: A Telltale Series - Deluxe Edition",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 11.99,
+      "originalPrice": 29.99,
+      "currency": "EUR",
+      "discountPercentage": 60,
+      "url": "https://store.playstation.com/fr-fr/product/EP8036-PPSA06230_00-EXPDELUXEPS5SIEE",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202305/1517/a76689420b8fc91585d77ca8a0f956f52489745604b23344.png"
+    },
+    {
       "id": "EP4389-CUSA11112_00-DES3DELUXEEU0000",
       "title": "Desperados III - Digital Deluxe",
       "platform": "PS4",
@@ -6316,6 +6290,18 @@
       "currency": "EUR",
       "discountPercentage": 75,
       "url": "https://store.playstation.com/fr-fr/product/EP2475-CUSA12813_00-PERSONA5DEU00000"
+    },
+    {
+      "id": "EP3643-CUSA05648_00-SWBUNDLE00000000",
+      "title": "The Shadow Warrior Collection",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 9.99,
+      "originalPrice": 49.99,
+      "currency": "EUR",
+      "discountPercentage": 80,
+      "url": "https://store.playstation.com/fr-fr/product/EP3643-CUSA05648_00-SWBUNDLE00000000"
     },
     {
       "id": "EP8204-CUSA32875_00-TURRICANAMIGACE1",
@@ -6394,6 +6380,19 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0312/bc44840aa20b7b49c204a078984cd2d8485ab491ccf50438.png"
     },
     {
+      "id": "EP0689-PPSA02779_00-MANIFGARDENEUPS5",
+      "title": "Manifold Garden",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 4.49,
+      "originalPrice": 17.99,
+      "currency": "EUR",
+      "discountPercentage": 75,
+      "url": "https://store.playstation.com/fr-fr/product/EP0689-PPSA02779_00-MANIFGARDENEUPS5",
+      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202012/0422/LQzvDNPaooCaeyoDObu6mVfO.png"
+    },
+    {
       "id": "EP0576-CUSA33147_00-KOF13PS4EU000000",
       "title": "THE KING OF FIGHTERS XIII GLOBAL MATCH",
       "platform": "PS4",
@@ -6405,19 +6404,6 @@
       "discountPercentage": 50,
       "url": "https://store.playstation.com/fr-fr/product/EP0576-CUSA33147_00-KOF13PS4EU000000",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202310/1010/72a44c68d15f92e6356a45a35edc7c4307e69c9000a04972.png"
-    },
-    {
-      "id": "EP0102-CUSA15020_00-MMZZLC0000000001",
-      "title": "Mega Man Zero/ZX Legacy Collection",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 9.89,
-      "originalPrice": 29.99,
-      "currency": "EUR",
-      "discountPercentage": 67,
-      "url": "https://store.playstation.com/fr-fr/product/EP0102-CUSA15020_00-MMZZLC0000000001",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202009/2911/FeAvAzzy5AnbTuUKpOOMEIb1.png"
     },
     {
       "id": "EP1059-CUSA14950_00-HOMESWEETHOME0EU",
@@ -6536,19 +6522,6 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202207/1120/AZ33FuWRq1RfF4ZUhvcZllSx.jpg"
     },
     {
-      "id": "EP3678-PPSA18091_00-MATCHBOXBASEGAME",
-      "title": "Matchbox™ Aventures en Voitures",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 7.99,
-      "originalPrice": 39.99,
-      "currency": "EUR",
-      "discountPercentage": 80,
-      "url": "https://store.playstation.com/fr-fr/product/EP3678-PPSA18091_00-MATCHBOXBASEGAME",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202407/0809/5c94a2c6779fc9037191247ed2f63dcea3ab8586c7dd1f7f.png"
-    },
-    {
       "id": "EP4365-CUSA24143_00-PRAETORIANSNEWEU",
       "title": "Praetorians - HD Remaster",
       "platform": "PS4",
@@ -6613,47 +6586,8 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202209/1314/hhsQN8Wy0E8WaglFqZ1HuXOA.jpg"
     },
     {
-      "id": "EP0689-PPSA02779_00-MANIFGARDENEUPS5",
-      "title": "Manifold Garden",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 4.49,
-      "originalPrice": 17.99,
-      "currency": "EUR",
-      "discountPercentage": 75,
-      "url": "https://store.playstation.com/fr-fr/product/EP0689-PPSA02779_00-MANIFGARDENEUPS5",
-      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202012/0422/LQzvDNPaooCaeyoDObu6mVfO.png"
-    },
-    {
-      "id": "EP5205-CUSA34152_00-0472824749946652",
-      "title": "Lot Sherlock Holmes : Mystères ténébreux",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 3.19,
-      "originalPrice": 39.99,
-      "currency": "EUR",
-      "discountPercentage": 92,
-      "url": "https://store.playstation.com/fr-fr/product/EP5205-CUSA34152_00-0472824749946652",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202406/1809/4ca1f64270fc808c03ba0684deddc90111cbf8b469aca0a7.jpg"
-    },
-    {
-      "id": "EP2483-PPSA19591_00-0750842686438318",
-      "title": "Darkest Dungeon II: Resolute Edition PS4 & PS5",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 26.99,
-      "originalPrice": 59.99,
-      "currency": "EUR",
-      "discountPercentage": 55,
-      "url": "https://store.playstation.com/fr-fr/product/EP2483-PPSA19591_00-0750842686438318",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202511/2020/c7a96bb0e305cba0c9beab7f60a6577698a271bf7af60aed.jpg"
-    },
-    {
-      "id": "EP2483-PPSA19591_00-0477064123147844",
-      "title": "Darkest Dungeon II: Oblivion Edition PS4 & PS5",
+      "id": "EP4108-CUSA10421_00-EPICGAMEDDX00000",
+      "title": "DYNASTY WARRIORS 9 Digital Deluxe Edition",
       "platform": "PS4",
       "store": "PlayStation Store",
       "region": "FR",
@@ -6661,21 +6595,8 @@
       "originalPrice": 44.99,
       "currency": "EUR",
       "discountPercentage": 60,
-      "url": "https://store.playstation.com/fr-fr/product/EP2483-PPSA19591_00-0477064123147844",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202403/2819/64eab111e41a4842f66f46a1214389a5eb4bf490c6f13586.jpg"
-    },
-    {
-      "id": "EP4356-PPSA09285_00-HW2DELUXEEDITION",
-      "title": "HOT WHEELS UNLEASHED™ 2 - Turbocharged - Deluxe Edition PS4 & PS5",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 8.99,
-      "originalPrice": 59.99,
-      "currency": "EUR",
-      "discountPercentage": 85,
-      "url": "https://store.playstation.com/fr-fr/product/EP4356-PPSA09285_00-HW2DELUXEEDITION",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202305/2213/9f4bcb52f8fa4b2acf6aeb35e0063b089d802aaab38152db.jpg"
+      "url": "https://store.playstation.com/fr-fr/product/EP4108-CUSA10421_00-EPICGAMEDDX00000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202011/0204/1lyU98ntwH3w32xZIjM4b8GJ.png"
     },
     {
       "id": "EP3617-PPSA07584_00-MILE0BUNDLE1SIEE",
@@ -6880,19 +6801,6 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202504/0417/b90c38c42969f7bae656ae383a905b212b3e31623129bb8f.png"
     },
     {
-      "id": "EP4008-CUSA14636_00-TOURDEFRANCE2019",
-      "title": "Tour de France 2019",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 4.99,
-      "originalPrice": 9.99,
-      "currency": "EUR",
-      "discountPercentage": 50,
-      "url": "https://store.playstation.com/fr-fr/product/EP4008-CUSA14636_00-TOURDEFRANCE2019",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202009/1815/8hGDdDBZ1UJyc9cY0quY4WfM.jpg"
-    },
-    {
       "id": "EP0576-CUSA29365_00-KOF98UMFE00000EU",
       "title": "THE KING OF FIGHTERS '98 ULTIMATE MATCH FINAL EDITION",
       "platform": "PS4",
@@ -6919,6 +6827,19 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202109/3014/3zIO2wwbMzHeM9e2akYdXE0m.jpg"
     },
     {
+      "id": "EP3392-PPSA10602_00-9426288420472068",
+      "title": "After the Fall® - Complete Edition",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 5.99,
+      "originalPrice": 19.99,
+      "currency": "EUR",
+      "discountPercentage": 70,
+      "url": "https://store.playstation.com/fr-fr/product/EP3392-PPSA10602_00-9426288420472068",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202210/1709/k4R1Fm7BG6MIPruVOJe68KYQ.png"
+    },
+    {
       "id": "EP4356-CUSA02021_00-SLREVOFULLGAME00",
       "title": "Sébastien Loeb Rally EVO",
       "platform": "PS4",
@@ -6930,6 +6851,19 @@
       "discountPercentage": 90,
       "url": "https://store.playstation.com/fr-fr/product/EP4356-CUSA02021_00-SLREVOFULLGAME00",
       "imageUrl": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA05778_00/4/i_27f4ca30f73acaffd4f4f58bf0059667498da057801469ac44bc71360b31726b/i/pic0.png"
+    },
+    {
+      "id": "EP5205-CUSA34152_00-0472824749946652",
+      "title": "Lot Sherlock Holmes : Mystères ténébreux",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 3.19,
+      "originalPrice": 39.99,
+      "currency": "EUR",
+      "discountPercentage": 92,
+      "url": "https://store.playstation.com/fr-fr/product/EP5205-CUSA34152_00-0472824749946652",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202406/1809/4ca1f64270fc808c03ba0684deddc90111cbf8b469aca0a7.jpg"
     },
     {
       "id": "HP7240-CUSA56520_00-0890280690644960",
@@ -6956,6 +6890,19 @@
       "discountPercentage": 50,
       "url": "https://store.playstation.com/fr-fr/product/UB0714-CUSA54213_00-0712143301341116",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202503/2013/5196c205575943057a12f05682297e60942478935ae03b58.jpg"
+    },
+    {
+      "id": "UB1012-CUSA52689_00-0288636010981821",
+      "title": "Scandinavian Cottage Survival Simulator",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 7.49,
+      "originalPrice": 14.99,
+      "currency": "EUR",
+      "discountPercentage": 50,
+      "url": "https://store.playstation.com/fr-fr/product/UB1012-CUSA52689_00-0288636010981821",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202504/3013/1e85db434e348bd4fcf475fa212eaff0c7fcb674d408fda4.jpg"
     },
     {
       "id": "EP1063-CUSA07004_00-HAPPYBIRTHDAY000",
@@ -7009,6 +6956,19 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202409/2709/3b285fcae96b966fffb4eb37acc45e0ac13574dbeaee2a37.jpg"
     },
     {
+      "id": "EP4295-PPSA15458_00-0191773429817628",
+      "title": "Les Sisters Collection 2 en 1",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 12.49,
+      "originalPrice": 49.99,
+      "currency": "EUR",
+      "discountPercentage": 75,
+      "url": "https://store.playstation.com/fr-fr/product/EP4295-PPSA15458_00-0191773429817628",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202405/3115/46dbfd9337f265a0065fc84acd1fe3cdabc52f1de6bfeaf6.png"
+    },
+    {
       "id": "EP1965-CUSA13830_00-REMBUNDLE2000000",
       "title": "Remnant: From the Ashes – Complete Edition",
       "platform": "PS4",
@@ -7020,19 +6980,6 @@
       "discountPercentage": 75,
       "url": "https://store.playstation.com/fr-fr/product/EP1965-CUSA13830_00-REMBUNDLE2000000",
       "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202010/1520/2G7FtAqWxKiJvUMESgyAIml5.png"
-    },
-    {
-      "id": "EP0177-PPSA01669_00-SMB2021JPDX00000",
-      "title": "Super Monkey Ball Banana Mania Édition Deluxe numérique PS4 & PS5",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 12.49,
-      "originalPrice": 49.99,
-      "currency": "EUR",
-      "discountPercentage": 75,
-      "url": "https://store.playstation.com/fr-fr/product/EP0177-PPSA01669_00-SMB2021JPDX00000",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202105/1016/WDWDa0HlSAHGW9p766XXmx4u.jpg"
     },
     {
       "id": "EP4133-PPSA02981_00-GREEDFALLGOLDEDI",
@@ -7265,6 +7212,19 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202207/2706/86PXYZfQZt1HdcXAq02Uv53G.png"
     },
     {
+      "id": "EP4008-CUSA16782_00-8215999330260393",
+      "title": "Werewolf: The Apocalypse - Earthblood Champion of Gaia",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 5.24,
+      "originalPrice": 34.99,
+      "currency": "EUR",
+      "discountPercentage": 85,
+      "url": "https://store.playstation.com/fr-fr/product/EP4008-CUSA16782_00-8215999330260393",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202011/3009/Adj2cTBAskuI7kqFQIkJMQn3.jpg"
+    },
+    {
       "id": "EP4108-CUSA26643_00-APPA17DX00000000",
       "title": "Atelier Sophie: The Alchemist of the Mysterious Book DX",
       "platform": "PS4",
@@ -7289,6 +7249,19 @@
       "discountPercentage": 75,
       "url": "https://store.playstation.com/fr-fr/product/EP0177-PPSA16196_00-P5TPS5EU00DELUXE",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0519/3af32f3c89a554c550baa9b01b995128981b40957c7aba71.png"
+    },
+    {
+      "id": "EP3678-PPSA18091_00-MATCHBOXBASEGAME",
+      "title": "Matchbox™ Aventures en Voitures",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 7.99,
+      "originalPrice": 39.99,
+      "currency": "EUR",
+      "discountPercentage": 80,
+      "url": "https://store.playstation.com/fr-fr/product/EP3678-PPSA18091_00-MATCHBOXBASEGAME",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202407/0809/5c94a2c6779fc9037191247ed2f63dcea3ab8586c7dd1f7f.png"
     },
     {
       "id": "EP6665-PPSA07388_00-RSIM000000000000",
@@ -7356,19 +7329,6 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202410/1715/b06c2d0046dd31c942beaa79b4f4ac94bbce42571c854492.jpg"
     },
     {
-      "id": "EP3717-CUSA10028_00-AHATINTIMEPS4000",
-      "title": "A Hat in Time",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 14.99,
-      "originalPrice": 29.99,
-      "currency": "EUR",
-      "discountPercentage": 50,
-      "url": "https://store.playstation.com/fr-fr/product/EP3717-CUSA10028_00-AHATINTIMEPS4000",
-      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202103/2617/USvDu6EFEcNMsWXPkPFLxHAu.jpg"
-    },
-    {
       "id": "EP0102-CUSA43547_00-FULLGAME00000002",
       "title": "Monster Hunter Stories 2: Wings of Ruin Deluxe Edition",
       "platform": "PS4",
@@ -7407,6 +7367,19 @@
       "url": "https://store.playstation.com/fr-fr/product/EP2866-CUSA06447_00-FISHINGULTIMATE1"
     },
     {
+      "id": "EP4356-PPSA09285_00-HW2DELUXEEDITION",
+      "title": "HOT WHEELS UNLEASHED™ 2 - Turbocharged - Deluxe Edition PS4 & PS5",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 8.99,
+      "originalPrice": 59.99,
+      "currency": "EUR",
+      "discountPercentage": 85,
+      "url": "https://store.playstation.com/fr-fr/product/EP4356-PPSA09285_00-HW2DELUXEEDITION",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202305/2213/9f4bcb52f8fa4b2acf6aeb35e0063b089d802aaab38152db.jpg"
+    },
+    {
       "id": "EP1965-CUSA43438_00-HAVEANICEDEATH00",
       "title": "Have a Nice Death",
       "platform": "PS4",
@@ -7433,18 +7406,6 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202009/2919/CA5xlOcHsY6n4sGU1dqm8WZp.png"
     },
     {
-      "id": "EP3965-CUSA09920_00-OWLBOY0000000000",
-      "title": "Owlboy",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 4.39,
-      "originalPrice": 21.99,
-      "currency": "EUR",
-      "discountPercentage": 80,
-      "url": "https://store.playstation.com/fr-fr/product/EP3965-CUSA09920_00-OWLBOY0000000000"
-    },
-    {
       "id": "EP0700-CUSA03415_00-GETEVENGAME00001",
       "title": "Get Even",
       "platform": "PS4",
@@ -7468,19 +7429,6 @@
       "discountPercentage": 80,
       "url": "https://store.playstation.com/fr-fr/product/EP0917-CUSA25663_00-2877587790065279",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202112/1323/ttCDIH8jiZE3BEQADVMKLTN2.jpg"
-    },
-    {
-      "id": "EP5938-PPSA07058_00-FINALVENDETTAPS5",
-      "title": "Final Vendetta",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 6.24,
-      "originalPrice": 24.99,
-      "currency": "EUR",
-      "discountPercentage": 75,
-      "url": "https://store.playstation.com/fr-fr/product/EP5938-PPSA07058_00-FINALVENDETTAPS5",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202204/0503/r1aB7MUfEwrGcdNXfD7HEOml.jpg"
     },
     {
       "id": "EP5938-CUSA20035_00-GEARSHIFTERS0001",
@@ -7519,19 +7467,6 @@
       "currency": "EUR",
       "discountPercentage": 70,
       "url": "https://store.playstation.com/fr-fr/product/EP0082-PPSA03233_00-SOPFFODDU0000000"
-    },
-    {
-      "id": "EP4365-PPSA02651_00-0DISCIPLESLIBDDE",
-      "title": "Disciples: Liberation Digital Deluxe Edition PS4 & PS5",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 14.99,
-      "originalPrice": 59.99,
-      "currency": "EUR",
-      "discountPercentage": 75,
-      "url": "https://store.playstation.com/fr-fr/product/EP4365-PPSA02651_00-0DISCIPLESLIBDDE",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202108/2414/cCj11nwDVCnMg687NXBRv6hq.jpg"
     },
     {
       "id": "EP0700-PPSA04268_00-GUNDAMBOCFDXPS50",
@@ -7801,17 +7736,16 @@
       "url": "https://store.playstation.com/fr-fr/product/EP4008-CUSA15494_00-DELUXEDITION0000"
     },
     {
-      "id": "EP4008-CUSA16782_00-8215999330260393",
-      "title": "Werewolf: The Apocalypse - Earthblood Champion of Gaia",
+      "id": "EP0036-CUSA07577_00-CHAOSCODEEU00001",
+      "title": "CHAOS CODE -NEW SIGN OF CATASTROPHE-",
       "platform": "PS4",
       "store": "PlayStation Store",
       "region": "FR",
-      "currentPrice": 5.24,
-      "originalPrice": 34.99,
+      "currentPrice": 3.99,
+      "originalPrice": 19.99,
       "currency": "EUR",
-      "discountPercentage": 85,
-      "url": "https://store.playstation.com/fr-fr/product/EP4008-CUSA16782_00-8215999330260393",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202011/3009/Adj2cTBAskuI7kqFQIkJMQn3.jpg"
+      "discountPercentage": 80,
+      "url": "https://store.playstation.com/fr-fr/product/EP0036-CUSA07577_00-CHAOSCODEEU00001"
     },
     {
       "id": "EP4947-CUSA26707_00-9089545147305214",
@@ -7853,19 +7787,6 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202201/1023/rMCeijg7QmTqp1SaRmIQOyeA.jpg"
     },
     {
-      "id": "EP6300-CUSA29724_00-3165896285938208",
-      "title": "Barn Finders",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 6.64,
-      "originalPrice": 18.99,
-      "currency": "EUR",
-      "discountPercentage": 65,
-      "url": "https://store.playstation.com/fr-fr/product/EP6300-CUSA29724_00-3165896285938208",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202206/1407/UzKoigQI5o09ipDIW2KNrZZ7.jpg"
-    },
-    {
       "id": "EP5335-PPSA21412_00-FROGUNENCORE0000",
       "title": "Frogun Encore",
       "platform": "PS4",
@@ -7903,18 +7824,6 @@
       "discountPercentage": 55,
       "url": "https://store.playstation.com/fr-fr/product/EP0002-PPSA06660_00-CTR23CB4BUNDLE01",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202312/0518/61f6b74f63ff1f16bf8ff2a1ad73f0627632cf72d7467725.png"
-    },
-    {
-      "id": "EP3643-CUSA05648_00-SWBUNDLE00000000",
-      "title": "The Shadow Warrior Collection",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 9.99,
-      "originalPrice": 49.99,
-      "currency": "EUR",
-      "discountPercentage": 80,
-      "url": "https://store.playstation.com/fr-fr/product/EP3643-CUSA05648_00-SWBUNDLE00000000"
     },
     {
       "id": "EP4064-CUSA05399_00-OVERCOOKEDBUN001",
@@ -8006,6 +7915,19 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202212/1916/V6kR9xc9FZ7lQpZhpdMwRSvO.png"
     },
     {
+      "id": "EP3877-CUSA20030_00-NAUGHTFULLBUNDLE",
+      "title": "Naught (Full Pack)",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 10.99,
+      "originalPrice": 21.99,
+      "currency": "EUR",
+      "discountPercentage": 50,
+      "url": "https://store.playstation.com/fr-fr/product/EP3877-CUSA20030_00-NAUGHTFULLBUNDLE",
+      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202011/0415/CuNmMWC7hyu97qpsJ8OXHiaA.jpg"
+    },
+    {
       "id": "EP5987-CUSA47234_00-0659746836863834",
       "title": "Food Truck Simulator",
       "platform": "PS4",
@@ -8019,17 +7941,16 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202404/1112/88d8b52e0574f5db95a48adcb97c2b1623e663aa1756f882.png"
     },
     {
-      "id": "EP1667-PPSA06922_00-9CLUE2022PS5SIEE",
-      "title": "9 Clues: The Secret of Serpent Creek",
+      "id": "EP3965-CUSA09920_00-OWLBOY0000000000",
+      "title": "Owlboy",
       "platform": "PS4",
       "store": "PlayStation Store",
       "region": "FR",
-      "currentPrice": 4.49,
-      "originalPrice": 14.99,
+      "currentPrice": 4.39,
+      "originalPrice": 21.99,
       "currency": "EUR",
-      "discountPercentage": 70,
-      "url": "https://store.playstation.com/fr-fr/product/EP1667-PPSA06922_00-9CLUE2022PS5SIEE",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202202/2419/qR3Fo7gJtZChJq9Xjgaikw5L.jpg"
+      "discountPercentage": 80,
+      "url": "https://store.playstation.com/fr-fr/product/EP3965-CUSA09920_00-OWLBOY0000000000"
     },
     {
       "id": "EP4062-CUSA17774_00-WINDBOUNDGAME000",
@@ -8083,8 +8004,8 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202506/0408/0bb57fc5704defbb39fcb2c408fc0547ea885c5be81ebc6f.png"
     },
     {
-      "id": "EP4295-PPSA15458_00-0191773429817628",
-      "title": "Les Sisters Collection 2 en 1",
+      "id": "EP0177-PPSA01669_00-SMB2021JPDX00000",
+      "title": "Super Monkey Ball Banana Mania Édition Deluxe numérique PS4 & PS5",
       "platform": "PS4",
       "store": "PlayStation Store",
       "region": "FR",
@@ -8092,8 +8013,21 @@
       "originalPrice": 49.99,
       "currency": "EUR",
       "discountPercentage": 75,
-      "url": "https://store.playstation.com/fr-fr/product/EP4295-PPSA15458_00-0191773429817628",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202405/3115/46dbfd9337f265a0065fc84acd1fe3cdabc52f1de6bfeaf6.png"
+      "url": "https://store.playstation.com/fr-fr/product/EP0177-PPSA01669_00-SMB2021JPDX00000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202105/1016/WDWDa0HlSAHGW9p766XXmx4u.jpg"
+    },
+    {
+      "id": "EP0177-PPSA03644_00-TPCBRAINYBUNDLE0",
+      "title": "Two Point Campus - Lot cérébral",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 12.49,
+      "originalPrice": 49.99,
+      "currency": "EUR",
+      "discountPercentage": 75,
+      "url": "https://store.playstation.com/fr-fr/product/EP0177-PPSA03644_00-TPCBRAINYBUNDLE0",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0115/03fcd0aaef72fc39b0e88fe4d41e82c05f4edc0570c1a4af.jpg"
     },
     {
       "id": "EP0101-CUSA15189_00-ARCADECLASSICS01",
@@ -8132,18 +8066,6 @@
       "url": "https://store.playstation.com/fr-fr/product/EP4486-CUSA09633_00-BUBSYEU000000001"
     },
     {
-      "id": "EP0036-CUSA07577_00-CHAOSCODEEU00001",
-      "title": "CHAOS CODE -NEW SIGN OF CATASTROPHE-",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 3.99,
-      "originalPrice": 19.99,
-      "currency": "EUR",
-      "discountPercentage": 80,
-      "url": "https://store.playstation.com/fr-fr/product/EP0036-CUSA07577_00-CHAOSCODEEU00001"
-    },
-    {
       "id": "UB0797-CUSA53181_00-0537343759537746",
       "title": "Hentai Girls Succubus",
       "platform": "PS4",
@@ -8157,8 +8079,21 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202501/1309/f12a8106b9c0718ace3b2a64de94575b65e5e34613b906d1.jpg"
     },
     {
-      "id": "EP4133-PPSA03544_00-AFTEULTIMATEEDIT",
-      "title": "Aliens: Fireteam Elite - Ultimate Edition",
+      "id": "EP5938-PPSA07058_00-FINALVENDETTAPS5",
+      "title": "Final Vendetta",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 6.24,
+      "originalPrice": 24.99,
+      "currency": "EUR",
+      "discountPercentage": 75,
+      "url": "https://store.playstation.com/fr-fr/product/EP5938-PPSA07058_00-FINALVENDETTAPS5",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202204/0503/r1aB7MUfEwrGcdNXfD7HEOml.jpg"
+    },
+    {
+      "id": "EP0281-PPSA21323_00-0657096687289847",
+      "title": "Miraculous: Paris Under Siege - Deluxe Edition",
       "platform": "PS4",
       "store": "PlayStation Store",
       "region": "FR",
@@ -8166,8 +8101,8 @@
       "originalPrice": 59.99,
       "currency": "EUR",
       "discountPercentage": 70,
-      "url": "https://store.playstation.com/fr-fr/product/EP4133-PPSA03544_00-AFTEULTIMATEEDIT",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202208/2215/N5n3vpxqMcFTd6xXZE1zuyc5.jpg"
+      "url": "https://store.playstation.com/fr-fr/product/EP0281-PPSA21323_00-0657096687289847",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202409/1914/1defdad0b94627919ce384e5dd003be7b6e8554e38c55d9a.png"
     },
     {
       "id": "HP3768-PPSA25034_00-0334503685041370",
@@ -8183,19 +8118,6 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202602/0911/5133844fe80aa35046f22c6621bd9c19f087fe5f05f52832.jpg"
     },
     {
-      "id": "EP4295-PPSA21458_00-0508491190051708",
-      "title": "Cartoon Party Collection - 3 en 1",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 8.99,
-      "originalPrice": 44.99,
-      "currency": "EUR",
-      "discountPercentage": 80,
-      "url": "https://store.playstation.com/fr-fr/product/EP4295-PPSA21458_00-0508491190051708",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202410/0715/ecdee0d5ab132e457d569b9cb7511f91d18ee8612c8195fa.png"
-    },
-    {
       "id": "EP0006-CUSA10852_00-PVZGW3PS4DLXLNCH",
       "title": "Plants vs. Zombies™ : La Bataille de Neighborville Édition Del",
       "platform": "PS4",
@@ -8207,19 +8129,6 @@
       "discountPercentage": 70,
       "url": "https://store.playstation.com/fr-fr/product/EP0006-CUSA10852_00-PVZGW3PS4DLXLNCH",
       "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202010/2621/YqtHzD5Y5ke84S23rF4ssKHu.png"
-    },
-    {
-      "id": "EP3392-PPSA10602_00-9426288420472068",
-      "title": "After the Fall® - Complete Edition",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 5.99,
-      "originalPrice": 19.99,
-      "currency": "EUR",
-      "discountPercentage": 70,
-      "url": "https://store.playstation.com/fr-fr/product/EP3392-PPSA10602_00-9426288420472068",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202210/1709/k4R1Fm7BG6MIPruVOJe68KYQ.png"
     },
     {
       "id": "EP4356-CUSA02021_00-SLRSE00000000000",
@@ -8271,6 +8180,19 @@
       "discountPercentage": 50,
       "url": "https://store.playstation.com/fr-fr/product/EP3367-PPSA02049_00-0000294310520942",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202312/1516/9d8c23eb7e4a8ecb78b5ed4d8be83eea7aadeaf9876fd825.jpg"
+    },
+    {
+      "id": "EP4365-PPSA02651_00-0DISCIPLESLIBDDE",
+      "title": "Disciples: Liberation Digital Deluxe Edition PS4 & PS5",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 14.99,
+      "originalPrice": 59.99,
+      "currency": "EUR",
+      "discountPercentage": 75,
+      "url": "https://store.playstation.com/fr-fr/product/EP4365-PPSA02651_00-0DISCIPLESLIBDDE",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202108/2414/cCj11nwDVCnMg687NXBRv6hq.jpg"
     },
     {
       "id": "EP4108-CUSA14014_00-APPA12TOTORI0000",
@@ -8451,6 +8373,19 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202009/2919/rXIShxPVr8URvsS6wmZfTasW.png"
     },
     {
+      "id": "EP4064-CUSA25801_00-NARITABOY0000000",
+      "title": "Narita Boy",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 4.99,
+      "originalPrice": 24.99,
+      "currency": "EUR",
+      "discountPercentage": 80,
+      "url": "https://store.playstation.com/fr-fr/product/EP4064-CUSA25801_00-NARITABOY0000000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202103/0315/nFBOSZyJpZ8mr0ZjEFX4Mvte.jpg"
+    },
+    {
       "id": "EP5098-PPSA13478_00-0901719083195246",
       "title": "Promenade",
       "platform": "PS4",
@@ -8487,6 +8422,19 @@
       "discountPercentage": 50,
       "url": "https://store.playstation.com/fr-fr/product/EP6470-PPSA20811_00-SAKURASUCCUBUS70",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202402/1312/fd45312b345b263a302e942e1437eeabd2d2e37a7c78fe04.png"
+    },
+    {
+      "id": "EP5205-PPSA08069_00-SHTADELUXEEDITIO",
+      "title": "Sherlock Holmes The Awakened – Deluxe Edition PS4 & PS5",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 4.99,
+      "originalPrice": 49.99,
+      "currency": "EUR",
+      "discountPercentage": 90,
+      "url": "https://store.playstation.com/fr-fr/product/EP5205-PPSA08069_00-SHTADELUXEEDITIO",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202302/2414/946660efe84a8054dea927d318ee33333d3184f5d3e262d4.jpg"
     },
     {
       "id": "EP4008-CUSA05080_00-SOLITAIRE0000000",
@@ -8589,6 +8537,19 @@
       "discountPercentage": 65,
       "url": "https://store.playstation.com/fr-fr/product/EP5335-PPSA14746_00-TOODEEANDTOPDEE0",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202305/2219/02f93e8acdec6ec676cb855b1d42d93ce05cee0d1d7bd3aa.png"
+    },
+    {
+      "id": "EP4008-CUSA14636_00-TOURDEFRANCE2019",
+      "title": "Tour de France 2019",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 4.99,
+      "originalPrice": 9.99,
+      "currency": "EUR",
+      "discountPercentage": 50,
+      "url": "https://store.playstation.com/fr-fr/product/EP4008-CUSA14636_00-TOURDEFRANCE2019",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202009/1815/8hGDdDBZ1UJyc9cY0quY4WfM.jpg"
     },
     {
       "id": "EP7816-PPSA15260_00-0063073300732616",
@@ -8706,19 +8667,6 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202009/1809/TRdWUIt9cLuhEuDabAgJwes5.png"
     },
     {
-      "id": "EP3678-PPSA14146_00-PJM2BASEGAME0001",
-      "title": "PJ Masks Power Heroes : Une puissante alliance",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 7.99,
-      "originalPrice": 39.99,
-      "currency": "EUR",
-      "discountPercentage": 80,
-      "url": "https://store.playstation.com/fr-fr/product/EP3678-PPSA14146_00-PJM2BASEGAME0001",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202401/1709/2b1318dbd91616367627d175075478e40bfc0874e52807d2.jpg"
-    },
-    {
       "id": "EP5684-CUSA23166_00-6931300281366995",
       "title": "Rois de Lorn : la chute d'Ebris",
       "platform": "PS4",
@@ -8795,6 +8743,19 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202111/0311/Uvg3BQBJxgcEuMFHdFYoRqgT.png"
     },
     {
+      "id": "EP6300-CUSA29724_00-3165896285938208",
+      "title": "Barn Finders",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 6.64,
+      "originalPrice": 18.99,
+      "currency": "EUR",
+      "discountPercentage": 65,
+      "url": "https://store.playstation.com/fr-fr/product/EP6300-CUSA29724_00-3165896285938208",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202206/1407/UzKoigQI5o09ipDIW2KNrZZ7.jpg"
+    },
+    {
       "id": "EP5002-CUSA15284_00-BATTLEFORTHEGRID",
       "title": "Power Rangers: Battle For The Grid",
       "platform": "PS4",
@@ -8805,19 +8766,6 @@
       "currency": "EUR",
       "discountPercentage": 85,
       "url": "https://store.playstation.com/fr-fr/product/EP5002-CUSA15284_00-BATTLEFORTHEGRID"
-    },
-    {
-      "id": "EP8204-PPSA24705_00-IREMCOLLECTXXPS5",
-      "title": "Irem Collection Volume 2 PS4 & PS5",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 6.24,
-      "originalPrice": 24.99,
-      "currency": "EUR",
-      "discountPercentage": 75,
-      "url": "https://store.playstation.com/fr-fr/product/EP8204-PPSA24705_00-IREMCOLLECTXXPS5",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202409/1114/ced0e3c1f1d3ff8d98e00c79287a9541331a4cfebd764749.jpg"
     },
     {
       "id": "UB0714-CUSA52227_00-0102297760391314",
@@ -9113,19 +9061,6 @@
       "url": "https://store.playstation.com/fr-fr/product/EP0331-CUSA05078_00-GOLDEDITIONXXXXX"
     },
     {
-      "id": "EP5205-PPSA08069_00-SHTADELUXEEDITIO",
-      "title": "Sherlock Holmes The Awakened – Deluxe Edition PS4 & PS5",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 4.99,
-      "originalPrice": 49.99,
-      "currency": "EUR",
-      "discountPercentage": 90,
-      "url": "https://store.playstation.com/fr-fr/product/EP5205-PPSA08069_00-SHTADELUXEEDITIO",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202302/2414/946660efe84a8054dea927d318ee33333d3184f5d3e262d4.jpg"
-    },
-    {
       "id": "EP1430-PPSA03192_00-COZYGROVEBUNDLE5",
       "title": "Cozy Grove + New Neighbears Bundle",
       "platform": "PS4",
@@ -9139,19 +9074,6 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202204/0122/RynAhPRnnrtF1uDm9tjvLWWp.jpg"
     },
     {
-      "id": "EP1987-CUSA26092_00-9393171880872940",
-      "title": "Wallachia: Reign of Dracula",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 2.99,
-      "originalPrice": 14.99,
-      "currency": "EUR",
-      "discountPercentage": 80,
-      "url": "https://store.playstation.com/fr-fr/product/EP1987-CUSA26092_00-9393171880872940",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202109/2311/o9mCuo5SruLeMCzzyCiVFdKr.jpg"
-    },
-    {
       "id": "EP6265-PPSA09222_00-9136268736616898",
       "title": "Saturnalia PS4 & PS5",
       "platform": "PS4",
@@ -9163,6 +9085,19 @@
       "discountPercentage": 80,
       "url": "https://store.playstation.com/fr-fr/product/EP6265-PPSA09222_00-9136268736616898",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202209/2914/uUIZXl2gM9k3gurT50yMdtzP.jpg"
+    },
+    {
+      "id": "EP8204-PPSA24705_00-IREMCOLLECTXXPS5",
+      "title": "Irem Collection Volume 2 PS4 & PS5",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 6.24,
+      "originalPrice": 24.99,
+      "currency": "EUR",
+      "discountPercentage": 75,
+      "url": "https://store.playstation.com/fr-fr/product/EP8204-PPSA24705_00-IREMCOLLECTXXPS5",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202409/1114/ced0e3c1f1d3ff8d98e00c79287a9541331a4cfebd764749.jpg"
     },
     {
       "id": "EP8914-CUSA02089_00-SUBMERGED0000001",
@@ -9202,6 +9137,18 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202208/2209/yaHzJ6DN2ycLTYCFyFKCZf4F.jpg"
     },
     {
+      "id": "EP4108-CUSA03984_00-HGEXEC0000000000",
+      "title": "SAMURAI WARRIORS 4 Empires",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 19.99,
+      "originalPrice": 49.99,
+      "currency": "EUR",
+      "discountPercentage": 60,
+      "url": "https://store.playstation.com/fr-fr/product/EP4108-CUSA03984_00-HGEXEC0000000000"
+    },
+    {
       "id": "EP0082-CUSA31160_00-VOCTBOB000000001",
       "title": "Voice of Cards: The Beasts of Burden",
       "platform": "PS4",
@@ -9226,6 +9173,19 @@
       "discountPercentage": 60,
       "url": "https://store.playstation.com/fr-fr/product/EP0082-CUSA30487_00-VOCTFM0000000001",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202112/1708/ZJ2qm9JanX27vYhs6poD6aJ9.png"
+    },
+    {
+      "id": "EP3678-PPSA15570_00-NJPABASEGAME0000",
+      "title": "Nickelodeon Junior Party Adventure",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 7.99,
+      "originalPrice": 39.99,
+      "currency": "EUR",
+      "discountPercentage": 80,
+      "url": "https://store.playstation.com/fr-fr/product/EP3678-PPSA15570_00-NJPABASEGAME0000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202407/1911/8e0d8cf81f1fcb661cd3f6c475b54f084e94d453eadd59c6.jpg"
     },
     {
       "id": "EP4917-CUSA15795_00-LOTRLCG000000000",
@@ -9434,17 +9394,43 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202103/2703/LxeiPLJmZxoT6RPtEpfybInP.png"
     },
     {
-      "id": "EP4295-PPSA07043_00-0315780813258046",
-      "title": "Agatha Christie Collection 2",
+      "id": "EP4459-PPSA16929_00-NIGHTBOOKPS5EU00",
+      "title": "Night Book",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 5.19,
+      "originalPrice": 12.99,
+      "currency": "EUR",
+      "discountPercentage": 60,
+      "url": "https://store.playstation.com/fr-fr/product/EP4459-PPSA16929_00-NIGHTBOOKPS5EU00",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202106/2910/Tbb7oNQ3c1ZNWIfBuGi6GtG1.png"
+    },
+    {
+      "id": "EP2483-PPSA19591_00-0750842686438318",
+      "title": "Darkest Dungeon II: Resolute Edition PS4 & PS5",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 26.99,
+      "originalPrice": 59.99,
+      "currency": "EUR",
+      "discountPercentage": 55,
+      "url": "https://store.playstation.com/fr-fr/product/EP2483-PPSA19591_00-0750842686438318",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202511/2020/c7a96bb0e305cba0c9beab7f60a6577698a271bf7af60aed.jpg"
+    },
+    {
+      "id": "EP4295-PPSA21458_00-0508491190051708",
+      "title": "Cartoon Party Collection - 3 en 1",
       "platform": "PS4",
       "store": "PlayStation Store",
       "region": "FR",
       "currentPrice": 8.99,
-      "originalPrice": 59.99,
+      "originalPrice": 44.99,
       "currency": "EUR",
-      "discountPercentage": 85,
-      "url": "https://store.playstation.com/fr-fr/product/EP4295-PPSA07043_00-0315780813258046",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202410/0712/22b8e80d7a613abecf65bd212beff58019f131df6308ffeb.png"
+      "discountPercentage": 80,
+      "url": "https://store.playstation.com/fr-fr/product/EP4295-PPSA21458_00-0508491190051708",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202410/0715/ecdee0d5ab132e457d569b9cb7511f91d18ee8612c8195fa.png"
     },
     {
       "id": "EP2866-CUSA12376_00-FSWCOLLECTORSDIG",
@@ -9521,6 +9507,19 @@
       "discountPercentage": 50,
       "url": "https://store.playstation.com/fr-fr/product/EP4686-CUSA11215_00-EXORCISTCHAPTER1",
       "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202104/1818/Smo30q1G2rnKLge4ZOiBA5jb.png"
+    },
+    {
+      "id": "EP1987-CUSA26092_00-9393171880872940",
+      "title": "Wallachia: Reign of Dracula",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 2.99,
+      "originalPrice": 14.99,
+      "currency": "EUR",
+      "discountPercentage": 80,
+      "url": "https://store.playstation.com/fr-fr/product/EP1987-CUSA26092_00-9393171880872940",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202109/2311/o9mCuo5SruLeMCzzyCiVFdKr.jpg"
     },
     {
       "id": "EP7990-CUSA45480_00-0937128706992054",
@@ -9625,6 +9624,18 @@
       "url": "https://store.playstation.com/fr-fr/product/EP3036-CUSA11309_00-0000000000000000"
     },
     {
+      "id": "EP4473-CUSA07987_00-00SWDIG2CROSSBUY",
+      "title": "SteamWorld Dig 2",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 1.99,
+      "originalPrice": 19.99,
+      "currency": "EUR",
+      "discountPercentage": 90,
+      "url": "https://store.playstation.com/fr-fr/product/EP4473-CUSA07987_00-00SWDIG2CROSSBUY"
+    },
+    {
       "id": "EP3111-CUSA20466_00-JANDUSOFT0000001",
       "title": "Max and the Book of Chaos",
       "platform": "PS4",
@@ -9638,17 +9649,17 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202007/0321/i9faeSKCzEuxXSbuitcTkza0.jpg"
     },
     {
-      "id": "EP0177-PPSA03644_00-TPCBRAINYBUNDLE0",
-      "title": "Two Point Campus - Lot cérébral",
+      "id": "EP6665-PPSA16709_00-AOH0000000000000",
+      "title": "Astérix & Obélix: Heroes",
       "platform": "PS4",
       "store": "PlayStation Store",
       "region": "FR",
-      "currentPrice": 12.49,
-      "originalPrice": 49.99,
+      "currentPrice": 6.99,
+      "originalPrice": 19.99,
       "currency": "EUR",
-      "discountPercentage": 75,
-      "url": "https://store.playstation.com/fr-fr/product/EP0177-PPSA03644_00-TPCBRAINYBUNDLE0",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0115/03fcd0aaef72fc39b0e88fe4d41e82c05f4edc0570c1a4af.jpg"
+      "discountPercentage": 65,
+      "url": "https://store.playstation.com/fr-fr/product/EP6665-PPSA16709_00-AOH0000000000000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202309/1113/1257f954dbc4a6a1bde355cd48fb63b538c83b61d18e27c2.jpg"
     },
     {
       "id": "EP8162-CUSA18085_00-4093309361039880",
@@ -9688,6 +9699,19 @@
       "discountPercentage": 80,
       "url": "https://store.playstation.com/fr-fr/product/EP1987-CUSA25791_00-4915828967192284",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202012/1713/dYEdk384mIc9vyBTbkpt1Mw1.png"
+    },
+    {
+      "id": "EP0114-PPSA02184_00-0908990415736861",
+      "title": "Chivalry 2 King's Edition PS4 & PS5",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 11.99,
+      "originalPrice": 59.99,
+      "currency": "EUR",
+      "discountPercentage": 80,
+      "url": "https://store.playstation.com/fr-fr/product/EP0114-PPSA02184_00-0908990415736861",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202211/1516/x5cGWp8Bd0W968HP1C40u4tw.jpg"
     },
     {
       "id": "EP3036-CUSA18500_00-GLEAMLIGHT000000",
@@ -9750,19 +9774,6 @@
       "discountPercentage": 75,
       "url": "https://store.playstation.com/fr-fr/product/EP2632-CUSA13263_00-FELLSEALPSID2018",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202203/0713/6SCJV7YePL064RcVqibg3lRn.png"
-    },
-    {
-      "id": "EP5506-CUSA43389_00-LOCOPARENTIS0000",
-      "title": "Loco Parentis",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 4.4,
-      "originalPrice": 8.99,
-      "currency": "EUR",
-      "discountPercentage": 51,
-      "url": "https://store.playstation.com/fr-fr/product/EP5506-CUSA43389_00-LOCOPARENTIS0000",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202305/2410/60796695a7c5da4ff1275b448bfa3e6b085e9e7a004455cf.jpg"
     },
     {
       "id": "EP5506-CUSA43770_00-VOSTOK2061000000",
@@ -9854,18 +9865,6 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202008/2820/7JNQoYlzsCv2ODRPg1nfNk08.jpg"
     },
     {
-      "id": "EP1667-CUSA23876_00-SECRETORDER8SIEE",
-      "title": "The Secret Order: Return to the Buried Kingdom",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 4.49,
-      "originalPrice": 14.99,
-      "currency": "EUR",
-      "discountPercentage": 70,
-      "url": "https://store.playstation.com/fr-fr/product/EP1667-CUSA23876_00-SECRETORDER8SIEE"
-    },
-    {
       "id": "EP5002-CUSA15284_00-BATTLE4THEGRIDCE",
       "title": "Power Rangers: Battle for the Grid édition Collector",
       "platform": "PS4",
@@ -9889,6 +9888,32 @@
       "discountPercentage": 90,
       "url": "https://store.playstation.com/fr-fr/product/EP4008-PPSA02076_00-7745972826179288",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202202/0314/HbIlr8QyGOvI0dcFAWPsY8pY.jpg"
+    },
+    {
+      "id": "EP3678-PPSA14146_00-PJM2BASEGAME0001",
+      "title": "PJ Masks Power Heroes : Une puissante alliance",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 7.99,
+      "originalPrice": 39.99,
+      "currency": "EUR",
+      "discountPercentage": 80,
+      "url": "https://store.playstation.com/fr-fr/product/EP3678-PPSA14146_00-PJM2BASEGAME0001",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202401/1709/2b1318dbd91616367627d175075478e40bfc0874e52807d2.jpg"
+    },
+    {
+      "id": "EP6665-CUSA32226_00-ZTC0000000000000",
+      "title": "Zorro The Chronicles",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 3.99,
+      "originalPrice": 19.99,
+      "currency": "EUR",
+      "discountPercentage": 80,
+      "url": "https://store.playstation.com/fr-fr/product/EP6665-CUSA32226_00-ZTC0000000000000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202201/3114/870X4HWfDGMg1WfH6hTzSQMz.jpg"
     },
     {
       "id": "EP5987-PPSA21999_00-0353711317484685",
@@ -9953,19 +9978,6 @@
       "discountPercentage": 85,
       "url": "https://store.playstation.com/fr-fr/product/EP0700-PPSA02174_00-SCRLTNXS00000000",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202011/1916/lDgeYs2HiI1G81abpEgf8Lil.jpg"
-    },
-    {
-      "id": "EP6665-PPSA16709_00-AOH0000000000000",
-      "title": "Astérix & Obélix: Heroes",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 6.99,
-      "originalPrice": 19.99,
-      "currency": "EUR",
-      "discountPercentage": 65,
-      "url": "https://store.playstation.com/fr-fr/product/EP6665-PPSA16709_00-AOH0000000000000",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202309/1113/1257f954dbc4a6a1bde355cd48fb63b538c83b61d18e27c2.jpg"
     },
     {
       "id": "EP2475-CUSA12810_00-PERSONA3DEU00000",
@@ -10198,18 +10210,6 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202511/0701/b21fe40775294675e2f49e61749391c7d41a14400c3e20fd.jpg"
     },
     {
-      "id": "EP1245-CUSA16979_00-0000000000000000",
-      "title": "Lumini",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 2.99,
-      "originalPrice": 9.99,
-      "currency": "EUR",
-      "discountPercentage": 70,
-      "url": "https://store.playstation.com/fr-fr/product/EP1245-CUSA16979_00-0000000000000000"
-    },
-    {
       "id": "EP1667-CUSA13003_00-PERSIAN00000SIEE",
       "title": "Persian Nights: Sands of Wonders",
       "platform": "PS4",
@@ -10311,19 +10311,6 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202406/0513/3306ec68c0f0a211168c01afa832d97215e0b2d3df275761.jpg"
     },
     {
-      "id": "EP4459-PPSA16929_00-NIGHTBOOKPS5EU00",
-      "title": "Night Book",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 5.19,
-      "originalPrice": 12.99,
-      "currency": "EUR",
-      "discountPercentage": 60,
-      "url": "https://store.playstation.com/fr-fr/product/EP4459-PPSA16929_00-NIGHTBOOKPS5EU00",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202106/2910/Tbb7oNQ3c1ZNWIfBuGi6GtG1.png"
-    },
-    {
       "id": "EP2632-CUSA15840_00-DSDDEFEDEU000000",
       "title": "Deep Sky Derelicts: Definitive Edition",
       "platform": "PS4",
@@ -10400,19 +10387,6 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202201/2414/HiPqUVyNUquhp4B4Mt18WcvE.jpg"
     },
     {
-      "id": "EP0102-PPSA08035_00-DELUXEEDITION000",
-      "title": "Monster Hunter Rise Deluxe Edition PS4 & PS5",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 9.99,
-      "originalPrice": 49.99,
-      "currency": "EUR",
-      "discountPercentage": 80,
-      "url": "https://store.playstation.com/fr-fr/product/EP0102-PPSA08035_00-DELUXEEDITION000",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202211/1702/UuvlYE8H88wPOjqZIQ0wZowB.png"
-    },
-    {
       "id": "EP9000-CUSA16559_00-PREDATORHUNTGAME",
       "title": "Predator: Hunting Grounds",
       "platform": "PS4",
@@ -10452,18 +10426,6 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202505/1616/4d798a4148453b74f3194c5debb0f098d245df0a09a16561.png"
     },
     {
-      "id": "EP4473-CUSA07987_00-00SWDIG2CROSSBUY",
-      "title": "SteamWorld Dig 2",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 1.99,
-      "originalPrice": 19.99,
-      "currency": "EUR",
-      "discountPercentage": 90,
-      "url": "https://store.playstation.com/fr-fr/product/EP4473-CUSA07987_00-00SWDIG2CROSSBUY"
-    },
-    {
       "id": "UB0797-CUSA50064_00-0253035046628911",
       "title": "Chained Climb Together",
       "platform": "PS4",
@@ -10475,6 +10437,18 @@
       "discountPercentage": 70,
       "url": "https://store.playstation.com/fr-fr/product/UB0797-CUSA50064_00-0253035046628911",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202406/2814/7d443b8cba289a060c9c627be8d8307221651ee79f0f2c64.jpg"
+    },
+    {
+      "id": "EP1667-CUSA23876_00-SECRETORDER8SIEE",
+      "title": "The Secret Order: Return to the Buried Kingdom",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 4.49,
+      "originalPrice": 14.99,
+      "currency": "EUR",
+      "discountPercentage": 70,
+      "url": "https://store.playstation.com/fr-fr/product/EP1667-CUSA23876_00-SECRETORDER8SIEE"
     },
     {
       "id": "UP4836-PPSA26186_00-0501263289609703",
@@ -10501,19 +10475,6 @@
       "discountPercentage": 50,
       "url": "https://store.playstation.com/fr-fr/product/EP2696-CUSA58506_00-2000000000000000",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202603/1116/0a76aa29a2cb0db3374af358e370202511e6c54c5a82d078.jpg"
-    },
-    {
-      "id": "EP3678-PPSA15570_00-NJPABASEGAME0000",
-      "title": "Nickelodeon Junior Party Adventure",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 7.99,
-      "originalPrice": 39.99,
-      "currency": "EUR",
-      "discountPercentage": 80,
-      "url": "https://store.playstation.com/fr-fr/product/EP3678-PPSA15570_00-NJPABASEGAME0000",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202407/1911/8e0d8cf81f1fcb661cd3f6c475b54f084e94d453eadd59c6.jpg"
     },
     {
       "id": "EP6470-PPSA15845_00-WOULDYOULIKETOR3",
@@ -10606,8 +10567,8 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202212/1013/TFpQoqpLlxvZ8RxRA8HKSLYa.jpg"
     },
     {
-      "id": "EP0281-PPSA21323_00-0657096687289847",
-      "title": "Miraculous: Paris Under Siege - Deluxe Edition",
+      "id": "EP4133-PPSA03544_00-AFTEULTIMATEEDIT",
+      "title": "Aliens: Fireteam Elite - Ultimate Edition",
       "platform": "PS4",
       "store": "PlayStation Store",
       "region": "FR",
@@ -10615,8 +10576,8 @@
       "originalPrice": 59.99,
       "currency": "EUR",
       "discountPercentage": 70,
-      "url": "https://store.playstation.com/fr-fr/product/EP0281-PPSA21323_00-0657096687289847",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202409/1914/1defdad0b94627919ce384e5dd003be7b6e8554e38c55d9a.png"
+      "url": "https://store.playstation.com/fr-fr/product/EP4133-PPSA03544_00-AFTEULTIMATEEDIT",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202208/2215/N5n3vpxqMcFTd6xXZE1zuyc5.jpg"
     },
     {
       "id": "EP5761-CUSA28037_00-CHERNOBYLITESIEE",
@@ -10656,19 +10617,6 @@
       "discountPercentage": 90,
       "url": "https://store.playstation.com/fr-fr/product/UB0383-PPSA29189_00-0829161576210444",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202508/1413/0bdb5b955b37d09d5a69bfc20ea39ac8dbfd09d17dc903f9.png"
-    },
-    {
-      "id": "EP4064-CUSA25801_00-NARITABOY0000000",
-      "title": "Narita Boy",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 4.99,
-      "originalPrice": 24.99,
-      "currency": "EUR",
-      "discountPercentage": 80,
-      "url": "https://store.playstation.com/fr-fr/product/EP4064-CUSA25801_00-NARITABOY0000000",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202103/0315/nFBOSZyJpZ8mr0ZjEFX4Mvte.jpg"
     },
     {
       "id": "EP2632-CUSA09137_00-THROUGHTHEWOODS1",
@@ -10736,6 +10684,18 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202203/2317/v149xDvcbiZgt9yCKipp7QP1.png"
     },
     {
+      "id": "EP1245-CUSA16979_00-0000000000000000",
+      "title": "Lumini",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 2.99,
+      "originalPrice": 9.99,
+      "currency": "EUR",
+      "discountPercentage": 70,
+      "url": "https://store.playstation.com/fr-fr/product/EP1245-CUSA16979_00-0000000000000000"
+    },
+    {
       "id": "EP2005-CUSA24126_00-PROJECTSTARSHIPX",
       "title": "Project Starship X",
       "platform": "PS4",
@@ -10786,6 +10746,18 @@
       "discountPercentage": 87,
       "url": "https://store.playstation.com/fr-fr/product/EP5098-PPSA13683_00-0925871484233094",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202402/0123/b6d041b43dc6331c02294cf7141119b2da8753acdfb688d8.jpg"
+    },
+    {
+      "id": "EP1018-CUSA10354_00-SCRIBBLENAUTSSD0",
+      "title": "Scribblenauts Showdown",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 4.79,
+      "originalPrice": 39.99,
+      "currency": "EUR",
+      "discountPercentage": 88,
+      "url": "https://store.playstation.com/fr-fr/product/EP1018-CUSA10354_00-SCRIBBLENAUTSSD0"
     },
     {
       "id": "EP0177-CUSA14539_00-PUYOCHAMPIONS000",
@@ -10848,18 +10820,6 @@
       "currency": "EUR",
       "discountPercentage": 85,
       "url": "https://store.playstation.com/fr-fr/product/EP3109-CUSA14493_00-DOORKICKERS0SIEE"
-    },
-    {
-      "id": "EP0786-CUSA04558_00-RGPRENEGADE00001",
-      "title": "Riptide GP: Renegade",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 2.99,
-      "originalPrice": 9.99,
-      "currency": "EUR",
-      "discountPercentage": 70,
-      "url": "https://store.playstation.com/fr-fr/product/EP0786-CUSA04558_00-RGPRENEGADE00001"
     },
     {
       "id": "EP3111-CUSA16284_00-0000000000000001",
@@ -10935,18 +10895,6 @@
       "url": "https://store.playstation.com/fr-fr/product/EP4961-CUSA17857_00-CW3PS40000000001"
     },
     {
-      "id": "EP0576-CUSA05993_00-GAROUMOW00000001",
-      "title": "GAROU: MARK OF THE WOLVES™",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 2.24,
-      "originalPrice": 14.99,
-      "currency": "EUR",
-      "discountPercentage": 85,
-      "url": "https://store.playstation.com/fr-fr/product/EP0576-CUSA05993_00-GAROUMOW00000001"
-    },
-    {
       "id": "EP4947-CUSA11917_00-PJM2000000000000",
       "title": "PixelJunk™ Monsters 2",
       "platform": "PS4",
@@ -10957,6 +10905,18 @@
       "currency": "EUR",
       "discountPercentage": 85,
       "url": "https://store.playstation.com/fr-fr/product/EP4947-CUSA11917_00-PJM2000000000000"
+    },
+    {
+      "id": "EP0786-CUSA04558_00-RGPRENEGADE00001",
+      "title": "Riptide GP: Renegade",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 2.99,
+      "originalPrice": 9.99,
+      "currency": "EUR",
+      "discountPercentage": 70,
+      "url": "https://store.playstation.com/fr-fr/product/EP0786-CUSA04558_00-RGPRENEGADE00001"
     },
     {
       "id": "EP1160-CUSA04283_00-0485108109907155",
@@ -10970,6 +10930,19 @@
       "discountPercentage": 80,
       "url": "https://store.playstation.com/fr-fr/product/EP1160-CUSA04283_00-0485108109907155",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1506/a9bd4cafa1b555a4fa955f0e4f6f497473bef51ca2c84d48.png"
+    },
+    {
+      "id": "EP3717-CUSA10028_00-AHATINTIMEPS4000",
+      "title": "A Hat in Time",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 14.99,
+      "originalPrice": 29.99,
+      "currency": "EUR",
+      "discountPercentage": 50,
+      "url": "https://store.playstation.com/fr-fr/product/EP3717-CUSA10028_00-AHATINTIMEPS4000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202103/2617/USvDu6EFEcNMsWXPkPFLxHAu.jpg"
     },
     {
       "id": "EP1063-CUSA02664_00-DISGAEA500000001",
@@ -11088,6 +11061,19 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202410/1412/cf03b256ff694e8bb38fcf1e39c8fb427c2bb6bba88ad1d0.png"
     },
     {
+      "id": "EP8068-CUSA25451_00-6494250556417991",
+      "title": "She Sees Red - Interactive Movie",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 4.99,
+      "originalPrice": 9.99,
+      "currency": "EUR",
+      "discountPercentage": 50,
+      "url": "https://store.playstation.com/fr-fr/product/EP8068-CUSA25451_00-6494250556417991",
+      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202110/2710/EPXAa6kdTCIXoGy9t23Oo7QC.png"
+    },
+    {
       "id": "EP5335-PPSA04358_00-3212919683911924",
       "title": "Sheepo",
       "platform": "PS4",
@@ -11101,30 +11087,30 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202108/2520/xgMMHB0Iiy3Jy7RWFl4u81AX.jpg"
     },
     {
-      "id": "EP3024-CUSA46932_00-4SCHMSPIELEPS4EU",
-      "title": "4 en ligne",
+      "id": "EP3617-CUSA15822_00-9MOSAOGRBUKABNDL",
+      "title": "9 Monkeys of Shaolin + Ash of Gods + Redeemer: Bundle",
       "platform": "PS4",
       "store": "PlayStation Store",
       "region": "FR",
-      "currentPrice": 7.99,
-      "originalPrice": 19.99,
-      "currency": "EUR",
-      "discountPercentage": 60,
-      "url": "https://store.playstation.com/fr-fr/product/EP3024-CUSA46932_00-4SCHMSPIELEPS4EU",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202405/1409/5cc61ee07e714e50b1a8e07ba09d77cc9b1f3f1feca2eb50.png"
-    },
-    {
-      "id": "EP4295-CUSA16485_00-0362992732133820",
-      "title": "Garfield Collection - 2 en 1",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 11.99,
+      "currentPrice": 9.99,
       "originalPrice": 39.99,
       "currency": "EUR",
-      "discountPercentage": 70,
-      "url": "https://store.playstation.com/fr-fr/product/EP4295-CUSA16485_00-0362992732133820",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202503/2815/0e7739b4410b8bec62e1546dd010cef1c5e764d3d0e771e6.jpg"
+      "discountPercentage": 75,
+      "url": "https://store.playstation.com/fr-fr/product/EP3617-CUSA15822_00-9MOSAOGRBUKABNDL",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202203/0715/u4WUonzCFSGu7aSMhwHFbyz5.jpg"
+    },
+    {
+      "id": "EP8204-PPSA20437_00-SHADOWDELUXEPS5E",
+      "title": "Shadow of the Ninja Reborn Deluxe Edition PS4 & PS5",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 9.99,
+      "originalPrice": 24.99,
+      "currency": "EUR",
+      "discountPercentage": 60,
+      "url": "https://store.playstation.com/fr-fr/product/EP8204-PPSA20437_00-SHADOWDELUXEPS5E",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202407/2212/9436e16bb2245f5c2c223867a6e13278a0cb2ae9c1d6b8c6.jpg"
     },
     {
       "id": "EP2915-CUSA07493_00-MONKEYTAVERNFULL",
@@ -11163,19 +11149,6 @@
       "discountPercentage": 80,
       "url": "https://store.playstation.com/fr-fr/product/EP0811-PPSA07765_00-7753035622977615",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202402/0712/318ea1f3c35afe1232fc4f029ce38da8e06adc4aa727b995.jpg"
-    },
-    {
-      "id": "EP8068-CUSA25451_00-6494250556417991",
-      "title": "She Sees Red - Interactive Movie",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 4.99,
-      "originalPrice": 9.99,
-      "currency": "EUR",
-      "discountPercentage": 50,
-      "url": "https://store.playstation.com/fr-fr/product/EP8068-CUSA25451_00-6494250556417991",
-      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202110/2710/EPXAa6kdTCIXoGy9t23Oo7QC.png"
     },
     {
       "id": "EP4295-PPSA06327_00-ARKEBPS5000000EU",
@@ -11356,6 +11329,18 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202209/2314/ELWadCKZbJoLsovZzmNBKuVt.png"
     },
     {
+      "id": "EP0576-CUSA05993_00-GAROUMOW00000001",
+      "title": "GAROU: MARK OF THE WOLVES™",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 2.24,
+      "originalPrice": 14.99,
+      "currency": "EUR",
+      "discountPercentage": 85,
+      "url": "https://store.playstation.com/fr-fr/product/EP0576-CUSA05993_00-GAROUMOW00000001"
+    },
+    {
       "id": "EP2866-CUSA19174_00-CATCHCOLLECTORSB",
       "title": "The Catch: Carp & Coarse - Collector's Edition",
       "platform": "PS4",
@@ -11508,6 +11493,19 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202009/3008/sSEqwAcslMNU5Tu0s4YVFQkR.jpg"
     },
     {
+      "id": "EP4008-CUSA05079_00-MAHJONG000000000",
+      "title": "Mahjong",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 1.99,
+      "originalPrice": 9.99,
+      "currency": "EUR",
+      "discountPercentage": 80,
+      "url": "https://store.playstation.com/fr-fr/product/EP4008-CUSA05079_00-MAHJONG000000000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202009/1415/agbCm1Sn3z135QjrHoi1ChTA.jpg"
+    },
+    {
       "id": "EP3643-CUSA07706_00-STRAFEBASEGAME00",
       "title": "STRAFE",
       "platform": "PS4",
@@ -11533,6 +11531,19 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202609/0312/52c2af39a786e02b1fefed0ef7a8487514825b36d3c1f7c4.png"
     },
     {
+      "id": "EP4034-CUSA03923_00-LUMO000000000000",
+      "title": "Lumo",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 9.99,
+      "originalPrice": 19.99,
+      "currency": "EUR",
+      "discountPercentage": 50,
+      "url": "https://store.playstation.com/fr-fr/product/EP4034-CUSA03923_00-LUMO000000000000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202203/2218/LE1l38QliwW2Y6rNgd3lFdqB.png"
+    },
+    {
       "id": "EP0317-CUSA02189_00-SOTSBONIFIED0000",
       "title": "Skulls of the Shogun",
       "platform": "PS4",
@@ -11543,6 +11554,19 @@
       "currency": "EUR",
       "discountPercentage": 75,
       "url": "https://store.playstation.com/fr-fr/product/EP0317-CUSA02189_00-SOTSBONIFIED0000"
+    },
+    {
+      "id": "EP4491-CUSA00861_00-SURGEONSIM000001",
+      "title": "Surgeon Simulator: Anniversary Edition",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 1.09,
+      "originalPrice": 10.99,
+      "currency": "EUR",
+      "discountPercentage": 90,
+      "url": "https://store.playstation.com/fr-fr/product/EP4491-CUSA00861_00-SURGEONSIM000001",
+      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202011/0204/XfRceqkPd7Y4TWKZmYmXDwua.png"
     },
     {
       "id": "HB1050-CUSA58744_00-0932529884006239",
@@ -11571,31 +11595,6 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202103/0312/HiUnp39iMIQN2y2Iox3Z2zsO.png"
     },
     {
-      "id": "EP3617-CUSA15822_00-9MOSAOGRBUKABNDL",
-      "title": "9 Monkeys of Shaolin + Ash of Gods + Redeemer: Bundle",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 9.99,
-      "originalPrice": 39.99,
-      "currency": "EUR",
-      "discountPercentage": 75,
-      "url": "https://store.playstation.com/fr-fr/product/EP3617-CUSA15822_00-9MOSAOGRBUKABNDL",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202203/0715/u4WUonzCFSGu7aSMhwHFbyz5.jpg"
-    },
-    {
-      "id": "EP1018-CUSA10354_00-SCRIBBLENAUTSSD0",
-      "title": "Scribblenauts Showdown",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 4.79,
-      "originalPrice": 39.99,
-      "currency": "EUR",
-      "discountPercentage": 88,
-      "url": "https://store.playstation.com/fr-fr/product/EP1018-CUSA10354_00-SCRIBBLENAUTSSD0"
-    },
-    {
       "id": "EP4064-CUSA10650_00-YOKUSISLANDEXP00",
       "title": "Yoku's Island Express",
       "platform": "PS4",
@@ -11620,19 +11619,6 @@
       "url": "https://store.playstation.com/fr-fr/product/EP4186-CUSA05495_00-0000000000000002"
     },
     {
-      "id": "EP8204-CUSA30877_00-COTTON100PRCNTEU",
-      "title": "Cotton 100%",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 1.99,
-      "originalPrice": 9.99,
-      "currency": "EUR",
-      "discountPercentage": 80,
-      "url": "https://store.playstation.com/fr-fr/product/EP8204-CUSA30877_00-COTTON100PRCNTEU",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202110/0810/KDbQpCwxlbWplSrB0zEHZ5LJ.jpg"
-    },
-    {
       "id": "EP5506-CUSA28328_00-MAINFRAMEDEFEND0",
       "title": "Mainframe Defenders",
       "platform": "PS4",
@@ -11644,19 +11630,6 @@
       "discountPercentage": 69,
       "url": "https://store.playstation.com/fr-fr/product/EP5506-CUSA28328_00-MAINFRAMEDEFEND0",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202110/0810/NmrSj2CglgpXVdzEoWiKmRti.png"
-    },
-    {
-      "id": "EP4491-CUSA00861_00-SURGEONSIM000001",
-      "title": "Surgeon Simulator: Anniversary Edition",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 1.09,
-      "originalPrice": 10.99,
-      "currency": "EUR",
-      "discountPercentage": 90,
-      "url": "https://store.playstation.com/fr-fr/product/EP4491-CUSA00861_00-SURGEONSIM000001",
-      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202011/0204/XfRceqkPd7Y4TWKZmYmXDwua.png"
     },
     {
       "id": "EP0102-CUSA01708_00-MAINRDOBXXXX0009",
@@ -11682,6 +11655,19 @@
       "discountPercentage": 86,
       "url": "https://store.playstation.com/fr-fr/product/EP2659-CUSA24681_00-2916580547794178",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202110/2216/LC8pgKKqJIBCmLROZuYZ2PGV.jpg"
+    },
+    {
+      "id": "EP1667-PPSA06922_00-9CLUE2022PS5SIEE",
+      "title": "9 Clues: The Secret of Serpent Creek",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 4.49,
+      "originalPrice": 14.99,
+      "currency": "EUR",
+      "discountPercentage": 70,
+      "url": "https://store.playstation.com/fr-fr/product/EP1667-PPSA06922_00-9CLUE2022PS5SIEE",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202202/2419/qR3Fo7gJtZChJq9Xjgaikw5L.jpg"
     },
     {
       "id": "EP4501-CUSA01096_00-AKDXBUND00000001",
@@ -11745,6 +11731,19 @@
       "currency": "EUR",
       "discountPercentage": 75,
       "url": "https://store.playstation.com/fr-fr/product/EP0837-CUSA02173_00-ZOMBIEVIKINGS1EU"
+    },
+    {
+      "id": "EP8204-CUSA30877_00-COTTON100PRCNTEU",
+      "title": "Cotton 100%",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 1.99,
+      "originalPrice": 9.99,
+      "currency": "EUR",
+      "discountPercentage": 80,
+      "url": "https://store.playstation.com/fr-fr/product/EP8204-CUSA30877_00-COTTON100PRCNTEU",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202110/0810/KDbQpCwxlbWplSrB0zEHZ5LJ.jpg"
     },
     {
       "id": "EP1698-CUSA09549_00-BMASCROSSBUYSIEE",
@@ -11872,19 +11871,6 @@
       "url": "https://store.playstation.com/fr-fr/product/EP4064-CUSA01857_00-THEESCAPISTSBU01"
     },
     {
-      "id": "EP4008-CUSA05079_00-MAHJONG000000000",
-      "title": "Mahjong",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 1.99,
-      "originalPrice": 9.99,
-      "currency": "EUR",
-      "discountPercentage": 80,
-      "url": "https://store.playstation.com/fr-fr/product/EP4008-CUSA05079_00-MAHJONG000000000",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202009/1415/agbCm1Sn3z135QjrHoi1ChTA.jpg"
-    },
-    {
       "id": "EP4064-PPSA21129_00-0910518401245005",
       "title": "CONSCRIPT - Digital Deluxe Edition",
       "platform": "PS4",
@@ -11909,18 +11895,6 @@
       "discountPercentage": 50,
       "url": "https://store.playstation.com/fr-fr/product/EP2696-CUSA45690_00-0242966066189895",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202404/2216/75323d25eb6063cbd07e919507fdacf803a16b964bdbbdf6.jpg"
-    },
-    {
-      "id": "EP0786-CUSA02365_00-RIPTIDEGP2PS4001",
-      "title": "Riptide GP2",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 2.09,
-      "originalPrice": 6.99,
-      "currency": "EUR",
-      "discountPercentage": 70,
-      "url": "https://store.playstation.com/fr-fr/product/EP0786-CUSA02365_00-RIPTIDEGP2PS4001"
     },
     {
       "id": "EP3325-CUSA11281_00-COLDIRON00000000",
@@ -11971,6 +11945,19 @@
       "currency": "EUR",
       "discountPercentage": 80,
       "url": "https://store.playstation.com/fr-fr/product/EP3643-CUSA02969_00-NOTAHEROEU000001"
+    },
+    {
+      "id": "EP4295-PPSA07043_00-0315780813258046",
+      "title": "Agatha Christie Collection 2",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 8.99,
+      "originalPrice": 59.99,
+      "currency": "EUR",
+      "discountPercentage": 85,
+      "url": "https://store.playstation.com/fr-fr/product/EP4295-PPSA07043_00-0315780813258046",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202410/0712/22b8e80d7a613abecf65bd212beff58019f131df6308ffeb.png"
     },
     {
       "id": "EP6958-PPSA11116_00-BANGONBALLSPS5EU",
@@ -12036,31 +12023,6 @@
       "url": "https://store.playstation.com/fr-fr/product/EP3540-CUSA26780_00-MAHLUKBUNDLEEUXX"
     },
     {
-      "id": "EP5823-CUSA52080_00-0612656622937835",
-      "title": "Fear of BIOSEC Avatar Bundle",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 2.99,
-      "originalPrice": 5.99,
-      "currency": "EUR",
-      "discountPercentage": 50,
-      "url": "https://store.playstation.com/fr-fr/product/EP5823-CUSA52080_00-0612656622937835",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202502/0512/91d6b856857469050d8f9f7ed12e6a466cb8c632fdb35b90.jpg"
-    },
-    {
-      "id": "EP4886-CUSA19251_00-000000000000HWCT",
-      "title": "Help Will Come Tomorrow",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 1.99,
-      "originalPrice": 19.99,
-      "currency": "EUR",
-      "discountPercentage": 90,
-      "url": "https://store.playstation.com/fr-fr/product/EP4886-CUSA19251_00-000000000000HWCT"
-    },
-    {
       "id": "EP4730-CUSA14845_00-DRCTHEGAME110778",
       "title": "Darkness Rollercoaster - Ultimate Shooter Edition",
       "platform": "PS4",
@@ -12112,6 +12074,19 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202312/2022/95f533e1e5fd56c6e3ab5bfcf12b849791887eb8f141867d.jpg"
     },
     {
+      "id": "EP5823-CUSA52080_00-0612656622937835",
+      "title": "Fear of BIOSEC Avatar Bundle",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 2.99,
+      "originalPrice": 5.99,
+      "currency": "EUR",
+      "discountPercentage": 50,
+      "url": "https://store.playstation.com/fr-fr/product/EP5823-CUSA52080_00-0612656622937835",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202502/0512/91d6b856857469050d8f9f7ed12e6a466cb8c632fdb35b90.jpg"
+    },
+    {
       "id": "EP5002-CUSA15284_00-SE00000000000002",
       "title": "Power Rangers: Battle for the Grid Super Édition",
       "platform": "PS4",
@@ -12149,17 +12124,16 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202312/1715/f969b794a66285cab0c2e79998af59fdf0c5d5efa90378b2.jpg"
     },
     {
-      "id": "EP6665-CUSA32226_00-ZTC0000000000000",
-      "title": "Zorro The Chronicles",
+      "id": "EP0786-CUSA02365_00-RIPTIDEGP2PS4001",
+      "title": "Riptide GP2",
       "platform": "PS4",
       "store": "PlayStation Store",
       "region": "FR",
-      "currentPrice": 3.99,
-      "originalPrice": 19.99,
+      "currentPrice": 2.09,
+      "originalPrice": 6.99,
       "currency": "EUR",
-      "discountPercentage": 80,
-      "url": "https://store.playstation.com/fr-fr/product/EP6665-CUSA32226_00-ZTC0000000000000",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202201/3114/870X4HWfDGMg1WfH6hTzSQMz.jpg"
+      "discountPercentage": 70,
+      "url": "https://store.playstation.com/fr-fr/product/EP0786-CUSA02365_00-RIPTIDEGP2PS4001"
     },
     {
       "id": "EP4492-PPSA08002_00-1733450748231950",
@@ -12271,19 +12245,6 @@
       "currency": "EUR",
       "discountPercentage": 75,
       "url": "https://store.playstation.com/fr-fr/product/EP3111-CUSA16883_00-0000000000000001"
-    },
-    {
-      "id": "EP2696-CUSA47573_00-0865570841113768",
-      "title": "The Nom: Complete Edition",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 2.39,
-      "originalPrice": 5.99,
-      "currency": "EUR",
-      "discountPercentage": 60,
-      "url": "https://store.playstation.com/fr-fr/product/EP2696-CUSA47573_00-0865570841113768",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202405/0609/063061f0f172121d5f09b0aa054e46d32d6999de36e3f86d.jpg"
     },
     {
       "id": "EP4008-CUSA09876_00-TENNISWTEBLEGED1",
@@ -12487,6 +12448,18 @@
       "url": "https://store.playstation.com/fr-fr/product/EP2627-CUSA19374_00-PROJECTWARLOCKEU"
     },
     {
+      "id": "EP4886-CUSA19251_00-000000000000HWCT",
+      "title": "Help Will Come Tomorrow",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 1.99,
+      "originalPrice": 19.99,
+      "currency": "EUR",
+      "discountPercentage": 90,
+      "url": "https://store.playstation.com/fr-fr/product/EP4886-CUSA19251_00-000000000000HWCT"
+    },
+    {
       "id": "EP5098-PPSA09816_00-1193057821053684",
       "title": "SturmFront - The Mutant War: Übel Edition",
       "platform": "PS4",
@@ -12549,6 +12522,19 @@
       "currency": "EUR",
       "discountPercentage": 85,
       "url": "https://store.playstation.com/fr-fr/product/EP3617-CUSA11946_00-428SHIBUYASCRAEU"
+    },
+    {
+      "id": "EP3024-CUSA46932_00-4SCHMSPIELEPS4EU",
+      "title": "4 en ligne",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 7.99,
+      "originalPrice": 19.99,
+      "currency": "EUR",
+      "discountPercentage": 60,
+      "url": "https://store.playstation.com/fr-fr/product/EP3024-CUSA46932_00-4SCHMSPIELEPS4EU",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202405/1409/5cc61ee07e714e50b1a8e07ba09d77cc9b1f3f1feca2eb50.png"
     },
     {
       "id": "EP0829-PPSA15617_00-0059869547529792",
@@ -13556,19 +13542,6 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202509/2320/0d1461a730216e095c5036665c3b6d145484b06d35de8acf.png"
     },
     {
-      "id": "EP0114-PPSA02184_00-0908990415736861",
-      "title": "Chivalry 2 King's Edition PS4 & PS5",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 11.99,
-      "originalPrice": 59.99,
-      "currency": "EUR",
-      "discountPercentage": 80,
-      "url": "https://store.playstation.com/fr-fr/product/EP0114-PPSA02184_00-0908990415736861",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202211/1516/x5cGWp8Bd0W968HP1C40u4tw.jpg"
-    },
-    {
       "id": "EP0114-PPSA02184_00-3770829666778947",
       "title": "Chivalry 2 Special Edition PS4 & PS5",
       "platform": "PS4",
@@ -14560,6 +14533,19 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202111/2515/KvfgK1yE4jVUVIzgtSY8u3bj.png"
     },
     {
+      "id": "UP0135-PPSA30143_00-0244120115153217",
+      "title": "Forever Delicious Bundle",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 12.49,
+      "originalPrice": 49.99,
+      "currency": "EUR",
+      "discountPercentage": 75,
+      "url": "https://store.playstation.com/fr-fr/product/UP0135-PPSA30143_00-0244120115153217",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202505/0223/a1f91c984e64e1e21434c8c2ae500964f94d585aac69155e.png"
+    },
+    {
       "id": "EP3111-CUSA18388_00-JANDUSOFT0000001",
       "title": "Freakout: Calamity TV Show",
       "platform": "PS4",
@@ -14699,6 +14685,19 @@
       "discountPercentage": 66,
       "url": "https://store.playstation.com/fr-fr/product/EP5506-CUSA28330_00-GALAXYSQUAD00000",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202108/1113/SR2Rufh8CIHUBIglRftcP6bf.jpg"
+    },
+    {
+      "id": "EP4295-CUSA16485_00-0362992732133820",
+      "title": "Garfield Collection - 2 en 1",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 11.99,
+      "originalPrice": 39.99,
+      "currency": "EUR",
+      "discountPercentage": 70,
+      "url": "https://store.playstation.com/fr-fr/product/EP4295-CUSA16485_00-0362992732133820",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202503/2815/0e7739b4410b8bec62e1546dd010cef1c5e764d3d0e771e6.jpg"
     },
     {
       "id": "EP4295-PPSA25839_00-0588900136033020",
@@ -15716,6 +15715,19 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202406/0512/51710460e675d1237f047debedf81cd45788e1d0b222c250.jpg"
     },
     {
+      "id": "EP5506-CUSA43389_00-LOCOPARENTIS0000",
+      "title": "Loco Parentis",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 4.4,
+      "originalPrice": 8.99,
+      "currency": "EUR",
+      "discountPercentage": 51,
+      "url": "https://store.playstation.com/fr-fr/product/EP5506-CUSA43389_00-LOCOPARENTIS0000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202305/2410/60796695a7c5da4ff1275b448bfa3e6b085e9e7a004455cf.jpg"
+    },
+    {
       "id": "EP2038-CUSA17623_00-LODERUNNERLEGACY",
       "title": "Lode Runner Legacy",
       "platform": "PS4",
@@ -15765,19 +15777,6 @@
       "discountPercentage": 70,
       "url": "https://store.playstation.com/fr-fr/product/EP1245-CUSA19150_00-0000000000000000",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202011/2510/l6sdYY3obies5tVtH2lVsb6Y.jpg"
-    },
-    {
-      "id": "EP4034-CUSA03923_00-LUMO000000000000",
-      "title": "Lumo",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 9.99,
-      "originalPrice": 19.99,
-      "currency": "EUR",
-      "discountPercentage": 50,
-      "url": "https://store.playstation.com/fr-fr/product/EP4034-CUSA03923_00-LUMO000000000000",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202203/2218/LE1l38QliwW2Y6rNgd3lFdqB.png"
     },
     {
       "id": "EP8916-PPSA12665_00-LUNARK0PS50EU000",
@@ -15958,6 +15957,19 @@
       "discountPercentage": 80,
       "url": "https://store.playstation.com/fr-fr/product/EP0182-CUSA36605_00-3754821163495572",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202209/2220/kDCk30mu02IrX3PD409Jy4ud.jpg"
+    },
+    {
+      "id": "EP0102-PPSA08035_00-DELUXEEDITION000",
+      "title": "Monster Hunter Rise Deluxe Edition PS4 & PS5",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 9.99,
+      "originalPrice": 49.99,
+      "currency": "EUR",
+      "discountPercentage": 80,
+      "url": "https://store.playstation.com/fr-fr/product/EP0102-PPSA08035_00-DELUXEEDITION000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202211/1702/UuvlYE8H88wPOjqZIQ0wZowB.png"
     },
     {
       "id": "EP4008-CUSA18644_00-5053474403767584",
@@ -17124,18 +17136,6 @@
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202209/1008/bBOdQDeDkrKM86mXvRVusFm7.jpg"
     },
     {
-      "id": "EP4108-CUSA03984_00-HGEXEC0000000000",
-      "title": "SAMURAI WARRIORS 4 Empires",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 19.99,
-      "originalPrice": 49.99,
-      "currency": "EUR",
-      "discountPercentage": 60,
-      "url": "https://store.playstation.com/fr-fr/product/EP4108-CUSA03984_00-HGEXEC0000000000"
-    },
-    {
       "id": "EP6470-PPSA19622_00-SAVETHEWORLD0000",
       "title": "Save The World PS4™ & PS5®",
       "platform": "PS4",
@@ -17238,19 +17238,6 @@
       "discountPercentage": 60,
       "url": "https://store.playstation.com/fr-fr/product/EP7643-PPSA07721_00-MIMISKARAS000002",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202311/1609/7093e1d2e36730daa6104c40994ecc6e716ab27162fd6ca2.png"
-    },
-    {
-      "id": "EP8204-PPSA20437_00-SHADOWDELUXEPS5E",
-      "title": "Shadow of the Ninja Reborn Deluxe Edition PS4 & PS5",
-      "platform": "PS4",
-      "store": "PlayStation Store",
-      "region": "FR",
-      "currentPrice": 9.99,
-      "originalPrice": 24.99,
-      "currency": "EUR",
-      "discountPercentage": 60,
-      "url": "https://store.playstation.com/fr-fr/product/EP8204-PPSA20437_00-SHADOWDELUXEPS5E",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202407/2212/9436e16bb2245f5c2c223867a6e13278a0cb2ae9c1d6b8c6.jpg"
     },
     {
       "id": "UP6718-CUSA53152_00-0792631640893921",
