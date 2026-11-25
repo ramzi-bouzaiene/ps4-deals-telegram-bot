@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-25T00:01:05.757Z",
+  "generatedAt": "2026-11-25T08:16:08.422Z",
   "region": "FR",
   "currency": "EUR",
   "symbol": "€",
   "minimumDealScore": 80,
   "stats": {
-    "total": 1400,
-    "scored60": 1391,
+    "total": 1399,
+    "scored60": 1390,
     "scored80": 982,
     "scored90": 271,
     "avgDiscount": 69,
@@ -147,8 +147,8 @@
       "tier": "insane"
     },
     {
-      "title": "Golazo! Football League",
-      "url": "https://store.playstation.com/fr-fr/product/EP4886-CUSA16607_00-GOLAZOFOOTBALLEU",
+      "title": "SteamWorld Heist",
+      "url": "https://store.playstation.com/fr-fr/product/EP4473-CUSA01478_00-SWHCROSSBUY00000",
       "imageUrl": null,
       "currentPrice": 1.49,
       "originalPrice": 14.99,
@@ -157,8 +157,8 @@
       "tier": "insane"
     },
     {
-      "title": "SteamWorld Heist",
-      "url": "https://store.playstation.com/fr-fr/product/EP4473-CUSA01478_00-SWHCROSSBUY00000",
+      "title": "Golazo! Football League",
+      "url": "https://store.playstation.com/fr-fr/product/EP4886-CUSA16607_00-GOLAZOFOOTBALLEU",
       "imageUrl": null,
       "currentPrice": 1.49,
       "originalPrice": 14.99,
@@ -317,9 +317,9 @@
       "tier": "insane"
     },
     {
-      "title": "Motorcycle Club",
-      "url": "https://store.playstation.com/fr-fr/product/EP4008-CUSA01170_00-MOTORCYCLECLUB00",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202009/1415/jsqoKX9P7GXf3qneWjn2fovX.jpg",
+      "title": "Arkanoid Eternal Battle",
+      "url": "https://store.playstation.com/fr-fr/product/EP4295-PPSA06327_00-ARKEBPS5000000EU",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202210/2408/EnlSePgFs7DjiwIsz8EgaB1k.png",
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -327,9 +327,9 @@
       "tier": "insane"
     },
     {
-      "title": "Arkanoid Eternal Battle",
-      "url": "https://store.playstation.com/fr-fr/product/EP4295-PPSA06327_00-ARKEBPS5000000EU",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202210/2408/EnlSePgFs7DjiwIsz8EgaB1k.png",
+      "title": "Motorcycle Club",
+      "url": "https://store.playstation.com/fr-fr/product/EP4008-CUSA01170_00-MOTORCYCLECLUB00",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202009/1415/jsqoKX9P7GXf3qneWjn2fovX.jpg",
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -417,16 +417,6 @@
       "tier": "insane"
     },
     {
-      "title": "LIMBO & INSIDE Bundle",
-      "url": "https://store.playstation.com/fr-fr/product/EP2054-CUSA01369_00-7598584263277541",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202512/0815/f15404b5f1b6a6288fb6b6648e094288b4d17f736e0bfbd6.jpg",
-      "currentPrice": 2.99,
-      "originalPrice": 29.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
       "title": "Lords of the Fallen - Complete Edition (2014)",
       "url": "https://store.playstation.com/fr-fr/product/EP4321-CUSA00377_00-COMPLETEBUNDLE01",
       "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202010/0916/11O7XNf4QLDzVWZUaQol2SzT.png",
@@ -440,6 +430,16 @@
       "title": "AO Tennis 2",
       "url": "https://store.playstation.com/fr-fr/product/EP4008-CUSA17267_00-AO2SIEE000000000",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202009/1415/sRKjkBNX8FNNzovPy1LwDr1J.jpg",
+      "currentPrice": 2.99,
+      "originalPrice": 29.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
+      "title": "LIMBO & INSIDE Bundle",
+      "url": "https://store.playstation.com/fr-fr/product/EP2054-CUSA01369_00-7598584263277541",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202512/0815/f15404b5f1b6a6288fb6b6648e094288b4d17f736e0bfbd6.jpg",
       "currentPrice": 2.99,
       "originalPrice": 29.99,
       "discountPercentage": 90,
@@ -827,6 +827,16 @@
       "tier": "insane"
     },
     {
+      "title": "Sweet Witches",
+      "url": "https://store.playstation.com/fr-fr/product/EP4897-CUSA24279_00-0036561794692215",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202009/2512/cdkEERyeBZe2E5y3kw4ZHkyY.jpg",
+      "currentPrice": 1.49,
+      "originalPrice": 9.99,
+      "discountPercentage": 85,
+      "score": 93,
+      "tier": "insane"
+    },
+    {
       "title": "Sophstar",
       "url": "https://store.playstation.com/fr-fr/product/EP5098-PPSA08446_00-1821432711276829",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202209/2314/ELWadCKZbJoLsovZzmNBKuVt.png",
@@ -877,8 +887,8 @@
       "tier": "insane"
     },
     {
-      "title": "THE LAST BLADE 2",
-      "url": "https://store.playstation.com/fr-fr/product/EP0576-CUSA04143_00-LASTBLADE2000PS4",
+      "title": "PixelJunk™ Monsters 2",
+      "url": "https://store.playstation.com/fr-fr/product/EP4947-CUSA11917_00-PJM2000000000000",
       "imageUrl": null,
       "currentPrice": 2.24,
       "originalPrice": 14.99,
@@ -887,8 +897,8 @@
       "tier": "insane"
     },
     {
-      "title": "PixelJunk™ Monsters 2",
-      "url": "https://store.playstation.com/fr-fr/product/EP4947-CUSA11917_00-PJM2000000000000",
+      "title": "THE LAST BLADE 2",
+      "url": "https://store.playstation.com/fr-fr/product/EP0576-CUSA04143_00-LASTBLADE2000PS4",
       "imageUrl": null,
       "currentPrice": 2.24,
       "originalPrice": 14.99,
@@ -927,16 +937,6 @@
       "tier": "insane"
     },
     {
-      "title": "Power Rangers: Battle For The Grid",
-      "url": "https://store.playstation.com/fr-fr/product/EP5002-CUSA15284_00-BATTLEFORTHEGRID",
-      "imageUrl": null,
-      "currentPrice": 2.99,
-      "originalPrice": 19.99,
-      "discountPercentage": 85,
-      "score": 93,
-      "tier": "insane"
-    },
-    {
       "title": "Windbound",
       "url": "https://store.playstation.com/fr-fr/product/EP4062-CUSA17774_00-WINDBOUNDGAME000",
       "imageUrl": null,
@@ -957,9 +957,9 @@
       "tier": "insane"
     },
     {
-      "title": "Cannon Dancer - Osman",
-      "url": "https://store.playstation.com/fr-fr/product/EP8204-CUSA34685_00-CANNONDANCERXXEU",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202211/3015/YlSXaqUMRCPJFEE5qdPjuaBZ.jpg",
+      "title": "Power Rangers: Battle For The Grid",
+      "url": "https://store.playstation.com/fr-fr/product/EP5002-CUSA15284_00-BATTLEFORTHEGRID",
+      "imageUrl": null,
       "currentPrice": 2.99,
       "originalPrice": 19.99,
       "discountPercentage": 85,
@@ -967,9 +967,9 @@
       "tier": "insane"
     },
     {
-      "title": "Cladun Returns: This Is Sengoku!",
-      "url": "https://store.playstation.com/fr-fr/product/EP1063-CUSA06741_00-CLASSICDUNGEON03",
-      "imageUrl": null,
+      "title": "Cannon Dancer - Osman",
+      "url": "https://store.playstation.com/fr-fr/product/EP8204-CUSA34685_00-CANNONDANCERXXEU",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202211/3015/YlSXaqUMRCPJFEE5qdPjuaBZ.jpg",
       "currentPrice": 2.99,
       "originalPrice": 19.99,
       "discountPercentage": 85,
@@ -997,6 +997,16 @@
       "tier": "insane"
     },
     {
+      "title": "Cladun Returns: This Is Sengoku!",
+      "url": "https://store.playstation.com/fr-fr/product/EP1063-CUSA06741_00-CLASSICDUNGEON03",
+      "imageUrl": null,
+      "currentPrice": 2.99,
+      "originalPrice": 19.99,
+      "discountPercentage": 85,
+      "score": 93,
+      "tier": "insane"
+    },
+    {
       "title": "PixelJunk™ Monsters 2 Deluxe Edition",
       "url": "https://store.playstation.com/fr-fr/product/EP4947-CUSA11917_00-BUNDLE0000000000",
       "imageUrl": null,
@@ -1004,16 +1014,6 @@
       "originalPrice": 21.99,
       "discountPercentage": 85,
       "score": 93,
-      "tier": "insane"
-    },
-    {
-      "title": "LEGO® Star Wars™: La Saga Skywalker Édition Galactique",
-      "url": "https://store.playstation.com/fr-fr/product/EP1018-PPSA01865_00-LEGOSWTSSGE00000",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202210/1320/Z8k6gplRa9RaMoenEPbmi0R5.png",
-      "currentPrice": 7.99,
-      "originalPrice": 79.99,
-      "discountPercentage": 90,
-      "score": 92,
       "tier": "insane"
     }
   ],
