@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-26T11:19:30.517Z",
+  "fetchedAt": "2026-11-26T20:24:41.870Z",
   "region": "FR",
   "deals": [
     {
@@ -17955,6 +17955,44 @@
       "discountPercentage": 50,
       "url": "https://store.playstation.com/fr-fr/product/EB0467-CUSA48582_00-0357821620230999",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0920/c32486cddd723146faf80405ab4f7f0942faade2127ca9af.jpg"
+    },
+    {
+      "id": "EP4897-CUSA32308_00-8275770506297431",
+      "title": "Tardy",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 1.49,
+      "originalPrice": 9.99,
+      "currency": "EUR",
+      "discountPercentage": 85,
+      "url": "https://store.playstation.com/fr-fr/product/EP4897-CUSA32308_00-8275770506297431",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202212/0713/hS7QdVsjC6tg2lQqTcYll1uW.jpg"
+    },
+    {
+      "id": "EP4902-CUSA33956_00-0796706707401152",
+      "title": "Task Force Delta - Afghanistan",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 7.49,
+      "originalPrice": 14.99,
+      "currency": "EUR",
+      "discountPercentage": 50,
+      "url": "https://store.playstation.com/fr-fr/product/EP4902-CUSA33956_00-0796706707401152",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202210/2408/kpIV2voYsWERVRnqpwAysNKf.jpg"
+    },
+    {
+      "id": "EP0182-CUSA09885_00-TEMPEST400000001",
+      "title": "Tempest 4000",
+      "platform": "PS4",
+      "store": "PlayStation Store",
+      "region": "FR",
+      "currentPrice": 2.99,
+      "originalPrice": 19.99,
+      "currency": "EUR",
+      "discountPercentage": 85,
+      "url": "https://store.playstation.com/fr-fr/product/EP0182-CUSA09885_00-TEMPEST400000001"
     }
   ]
 }
