@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-25T18:46:48.303Z",
+  "generatedAt": "2026-11-26T02:04:19.754Z",
   "region": "FR",
   "currency": "EUR",
   "symbol": "€",
   "minimumDealScore": 80,
   "stats": {
-    "total": 1398,
-    "scored60": 1389,
-    "scored80": 981,
-    "scored90": 271,
+    "total": 1403,
+    "scored60": 1394,
+    "scored80": 985,
+    "scored90": 273,
     "avgDiscount": 69,
     "maxScore": 97,
     "maxScoreTitle": "Umihara Kawase BaZooKa!",
@@ -137,8 +137,8 @@
       "tier": "insane"
     },
     {
-      "title": "Feudal Alloy",
-      "url": "https://store.playstation.com/fr-fr/product/EP4800-CUSA14936_00-0000111122223334",
+      "title": "SteamWorld Heist",
+      "url": "https://store.playstation.com/fr-fr/product/EP4473-CUSA01478_00-SWHCROSSBUY00000",
       "imageUrl": null,
       "currentPrice": 1.49,
       "originalPrice": 14.99,
@@ -147,8 +147,8 @@
       "tier": "insane"
     },
     {
-      "title": "SteamWorld Heist",
-      "url": "https://store.playstation.com/fr-fr/product/EP4473-CUSA01478_00-SWHCROSSBUY00000",
+      "title": "Feudal Alloy",
+      "url": "https://store.playstation.com/fr-fr/product/EP4800-CUSA14936_00-0000111122223334",
       "imageUrl": null,
       "currentPrice": 1.49,
       "originalPrice": 14.99,
@@ -887,6 +887,16 @@
       "tier": "insane"
     },
     {
+      "title": "STRAFE",
+      "url": "https://store.playstation.com/fr-fr/product/EP3643-CUSA07706_00-STRAFEBASEGAME00",
+      "imageUrl": null,
+      "currentPrice": 2.24,
+      "originalPrice": 14.99,
+      "discountPercentage": 85,
+      "score": 93,
+      "tier": "insane"
+    },
+    {
       "title": "GAROU: MARK OF THE WOLVES™",
       "url": "https://store.playstation.com/fr-fr/product/EP0576-CUSA05993_00-GAROUMOW00000001",
       "imageUrl": null,
@@ -899,16 +909,6 @@
     {
       "title": "THE LAST BLADE 2",
       "url": "https://store.playstation.com/fr-fr/product/EP0576-CUSA04143_00-LASTBLADE2000PS4",
-      "imageUrl": null,
-      "currentPrice": 2.24,
-      "originalPrice": 14.99,
-      "discountPercentage": 85,
-      "score": 93,
-      "tier": "insane"
-    },
-    {
-      "title": "STRAFE",
-      "url": "https://store.playstation.com/fr-fr/product/EP3643-CUSA07706_00-STRAFEBASEGAME00",
       "imageUrl": null,
       "currentPrice": 2.24,
       "originalPrice": 14.99,
