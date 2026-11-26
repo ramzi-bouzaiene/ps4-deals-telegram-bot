@@ -47817,5 +47817,23 @@
         "date": "2026-11-26"
       }
     ]
+  },
+  "yu-no-a-girl-who-chants-love-at-the-bound-of-this-world": {
+    "prices": [
+      {
+        "price": 14.99,
+        "currency": "EUR",
+        "date": "2026-11-26"
+      }
+    ]
+  },
+  "thunder-ray-origins": {
+    "prices": [
+      {
+        "price": 9.99,
+        "currency": "EUR",
+        "date": "2026-11-26"
+      }
+    ]
   }
 }
