@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-26T02:04:19.754Z",
+  "generatedAt": "2026-11-26T11:19:38.606Z",
   "region": "FR",
   "currency": "EUR",
   "symbol": "€",
   "minimumDealScore": 80,
   "stats": {
-    "total": 1403,
-    "scored60": 1394,
-    "scored80": 985,
-    "scored90": 273,
+    "total": 1404,
+    "scored60": 1395,
+    "scored80": 986,
+    "scored90": 272,
     "avgDiscount": 69,
     "maxScore": 97,
     "maxScoreTitle": "Umihara Kawase BaZooKa!",
@@ -87,16 +87,6 @@
       "tier": "insane"
     },
     {
-      "title": "Twins of the Sun: Master Collection",
-      "url": "https://store.playstation.com/fr-fr/product/UB0383-PPSA32320_00-0348830146740933",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202511/1813/94aa4d39ca7a37adc9b8056b54d304fba55179716b891097.png",
-      "currentPrice": 1.09,
-      "originalPrice": 10.99,
-      "discountPercentage": 90,
-      "score": 96,
-      "tier": "insane"
-    },
-    {
       "title": "LIMBO",
       "url": "https://store.playstation.com/fr-fr/product/EP2054-CUSA01369_00-PLAYDEADD11LIMBO",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202511/2413/b6f590a16b3d5aa2e60506ab672fc707353a86609b35a0a6.jpg",
@@ -147,16 +137,6 @@
       "tier": "insane"
     },
     {
-      "title": "Feudal Alloy",
-      "url": "https://store.playstation.com/fr-fr/product/EP4800-CUSA14936_00-0000111122223334",
-      "imageUrl": null,
-      "currentPrice": 1.49,
-      "originalPrice": 14.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
       "title": "Golazo! Football League",
       "url": "https://store.playstation.com/fr-fr/product/EP4886-CUSA16607_00-GOLAZOFOOTBALLEU",
       "imageUrl": null,
@@ -170,6 +150,16 @@
       "title": "May’s Mysteries: The Secret of Dragonville",
       "url": "https://store.playstation.com/fr-fr/product/EP4886-CUSA29160_00-9195893140644016",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202108/3009/7d1gSGsSjmoInnTBa8sKk1c2.jpg",
+      "currentPrice": 1.49,
+      "originalPrice": 14.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
+      "title": "Feudal Alloy",
+      "url": "https://store.playstation.com/fr-fr/product/EP4800-CUSA14936_00-0000111122223334",
+      "imageUrl": null,
       "currentPrice": 1.49,
       "originalPrice": 14.99,
       "discountPercentage": 90,
@@ -267,9 +257,9 @@
       "tier": "insane"
     },
     {
-      "title": "Sébastien Loeb Rally EVO",
-      "url": "https://store.playstation.com/fr-fr/product/EP4356-CUSA02021_00-SLREVOFULLGAME00",
-      "imageUrl": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA05778_00/4/i_27f4ca30f73acaffd4f4f58bf0059667498da057801469ac44bc71360b31726b/i/pic0.png",
+      "title": "Overpass",
+      "url": "https://store.playstation.com/fr-fr/product/EP4008-CUSA15489_00-OPSIEE0000000000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202009/1513/lslcq14cANqrNq5TEIeJOln7.jpg",
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -277,9 +267,9 @@
       "tier": "insane"
     },
     {
-      "title": "Overpass",
-      "url": "https://store.playstation.com/fr-fr/product/EP4008-CUSA15489_00-OPSIEE0000000000",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202009/1513/lslcq14cANqrNq5TEIeJOln7.jpg",
+      "title": "Sébastien Loeb Rally EVO",
+      "url": "https://store.playstation.com/fr-fr/product/EP4356-CUSA02021_00-SLREVOFULLGAME00",
+      "imageUrl": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA05778_00/4/i_27f4ca30f73acaffd4f4f58bf0059667498da057801469ac44bc71360b31726b/i/pic0.png",
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -427,9 +417,9 @@
       "tier": "insane"
     },
     {
-      "title": "AO Tennis 2",
-      "url": "https://store.playstation.com/fr-fr/product/EP4008-CUSA17267_00-AO2SIEE000000000",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202009/1415/sRKjkBNX8FNNzovPy1LwDr1J.jpg",
+      "title": "LIMBO & INSIDE Bundle",
+      "url": "https://store.playstation.com/fr-fr/product/EP2054-CUSA01369_00-7598584263277541",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202512/0815/f15404b5f1b6a6288fb6b6648e094288b4d17f736e0bfbd6.jpg",
       "currentPrice": 2.99,
       "originalPrice": 29.99,
       "discountPercentage": 90,
@@ -437,9 +427,9 @@
       "tier": "insane"
     },
     {
-      "title": "LIMBO & INSIDE Bundle",
-      "url": "https://store.playstation.com/fr-fr/product/EP2054-CUSA01369_00-7598584263277541",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202512/0815/f15404b5f1b6a6288fb6b6648e094288b4d17f736e0bfbd6.jpg",
+      "title": "AO Tennis 2",
+      "url": "https://store.playstation.com/fr-fr/product/EP4008-CUSA17267_00-AO2SIEE000000000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202009/1415/sRKjkBNX8FNNzovPy1LwDr1J.jpg",
       "currentPrice": 2.99,
       "originalPrice": 29.99,
       "discountPercentage": 90,
@@ -607,16 +597,6 @@
       "tier": "insane"
     },
     {
-      "title": "LEGO® Star Wars™ : La Saga Skywalker PS4 & PS5",
-      "url": "https://store.playstation.com/fr-fr/product/EP1018-PPSA01865_00-LEGOSWTSS0000000",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/huLsTFyulvj2fC0nbRaVUChw.png",
-      "currentPrice": 5.99,
-      "originalPrice": 59.99,
-      "discountPercentage": 90,
-      "score": 93,
-      "tier": "insane"
-    },
-    {
       "title": "Pack Metro Saga",
       "url": "https://store.playstation.com/fr-fr/product/EP4062-CUSA11407_00-METROSAGABUNDLE0",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202102/2615/PZohlQbUfgMqBaGycBzVqX3M.png",
@@ -627,9 +607,9 @@
       "tier": "insane"
     },
     {
-      "title": "The Sinking City: Necronomicon Edition",
-      "url": "https://store.playstation.com/fr-fr/product/EP4008-CUSA13152_00-TSCSIEENECROBUN0",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202009/3014/Bgfw4A4spwY7KoryOqn8L8IU.jpg",
+      "title": "LEGO® Star Wars™ : La Saga Skywalker PS4 & PS5",
+      "url": "https://store.playstation.com/fr-fr/product/EP1018-PPSA01865_00-LEGOSWTSS0000000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/huLsTFyulvj2fC0nbRaVUChw.png",
       "currentPrice": 5.99,
       "originalPrice": 59.99,
       "discountPercentage": 90,
@@ -640,6 +620,16 @@
       "title": "DEMON GAZE EXTRA",
       "url": "https://store.playstation.com/fr-fr/product/EP8139-CUSA30306_00-DGEXFULLGAME0000",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202111/0906/iXEbdUwtcWhOCoi1GzfdnuVX.jpg",
+      "currentPrice": 5.99,
+      "originalPrice": 59.99,
+      "discountPercentage": 90,
+      "score": 93,
+      "tier": "insane"
+    },
+    {
+      "title": "The Sinking City: Necronomicon Edition",
+      "url": "https://store.playstation.com/fr-fr/product/EP4008-CUSA13152_00-TSCSIEENECROBUN0",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202009/3014/Bgfw4A4spwY7KoryOqn8L8IU.jpg",
       "currentPrice": 5.99,
       "originalPrice": 59.99,
       "discountPercentage": 90,
@@ -817,16 +807,6 @@
       "tier": "insane"
     },
     {
-      "title": "Tardy",
-      "url": "https://store.playstation.com/fr-fr/product/EP4897-CUSA32308_00-8275770506297431",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202212/0713/hS7QdVsjC6tg2lQqTcYll1uW.jpg",
-      "currentPrice": 1.49,
-      "originalPrice": 9.99,
-      "discountPercentage": 85,
-      "score": 93,
-      "tier": "insane"
-    },
-    {
       "title": "Sweet Witches",
       "url": "https://store.playstation.com/fr-fr/product/EP4897-CUSA24279_00-0036561794692215",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202009/2512/cdkEERyeBZe2E5y3kw4ZHkyY.jpg",
@@ -867,16 +847,6 @@
       "tier": "insane"
     },
     {
-      "title": "Door Kickers: Action Squad",
-      "url": "https://store.playstation.com/fr-fr/product/EP3109-CUSA14493_00-DOORKICKERS0SIEE",
-      "imageUrl": null,
-      "currentPrice": 2.24,
-      "originalPrice": 14.99,
-      "discountPercentage": 85,
-      "score": 93,
-      "tier": "insane"
-    },
-    {
       "title": "PixelJunk™ Monsters 2",
       "url": "https://store.playstation.com/fr-fr/product/EP4947-CUSA11917_00-PJM2000000000000",
       "imageUrl": null,
@@ -889,6 +859,16 @@
     {
       "title": "STRAFE",
       "url": "https://store.playstation.com/fr-fr/product/EP3643-CUSA07706_00-STRAFEBASEGAME00",
+      "imageUrl": null,
+      "currentPrice": 2.24,
+      "originalPrice": 14.99,
+      "discountPercentage": 85,
+      "score": 93,
+      "tier": "insane"
+    },
+    {
+      "title": "Door Kickers: Action Squad",
+      "url": "https://store.playstation.com/fr-fr/product/EP3109-CUSA14493_00-DOORKICKERS0SIEE",
       "imageUrl": null,
       "currentPrice": 2.24,
       "originalPrice": 14.99,
@@ -937,9 +917,9 @@
       "tier": "insane"
     },
     {
-      "title": "Windbound",
-      "url": "https://store.playstation.com/fr-fr/product/EP4062-CUSA17774_00-WINDBOUNDGAME000",
-      "imageUrl": null,
+      "title": "UNRAILED!",
+      "url": "https://store.playstation.com/fr-fr/product/EP8923-CUSA20418_00-DAEEUUNRAILED001",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202301/2416/gSsG8emmu78TNoqJ2lzsiYXi.jpg",
       "currentPrice": 2.99,
       "originalPrice": 19.99,
       "discountPercentage": 85,
@@ -947,9 +927,9 @@
       "tier": "insane"
     },
     {
-      "title": "UNRAILED!",
-      "url": "https://store.playstation.com/fr-fr/product/EP8923-CUSA20418_00-DAEEUUNRAILED001",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202301/2416/gSsG8emmu78TNoqJ2lzsiYXi.jpg",
+      "title": "Windbound",
+      "url": "https://store.playstation.com/fr-fr/product/EP4062-CUSA17774_00-WINDBOUNDGAME000",
+      "imageUrl": null,
       "currentPrice": 2.99,
       "originalPrice": 19.99,
       "discountPercentage": 85,
@@ -1014,6 +994,26 @@
       "originalPrice": 21.99,
       "discountPercentage": 85,
       "score": 93,
+      "tier": "insane"
+    },
+    {
+      "title": "LEGO® Star Wars™: La Saga Skywalker Édition Galactique",
+      "url": "https://store.playstation.com/fr-fr/product/EP1018-PPSA01865_00-LEGOSWTSSGE00000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202210/1320/Z8k6gplRa9RaMoenEPbmi0R5.png",
+      "currentPrice": 7.99,
+      "originalPrice": 79.99,
+      "discountPercentage": 90,
+      "score": 92,
+      "tier": "insane"
+    },
+    {
+      "title": "Need for Speed™ Heat Édition Deluxe",
+      "url": "https://store.playstation.com/fr-fr/product/EP0006-CUSA15090_00-DELUXEEDITION000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202011/0204/wztiER7QJkPLq49CG5j5PqZM.png",
+      "currentPrice": 7.99,
+      "originalPrice": 79.99,
+      "discountPercentage": 90,
+      "score": 92,
       "tier": "insane"
     }
   ],
