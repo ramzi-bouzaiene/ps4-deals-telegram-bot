@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-27T03:05:02.286Z",
+  "generatedAt": "2026-11-27T12:57:42.547Z",
   "region": "FR",
   "currency": "EUR",
   "symbol": "€",
   "minimumDealScore": 80,
   "stats": {
-    "total": 1403,
-    "scored60": 1394,
-    "scored80": 984,
-    "scored90": 271,
+    "total": 1400,
+    "scored60": 1391,
+    "scored80": 983,
+    "scored90": 270,
     "avgDiscount": 69,
     "maxScore": 96,
     "maxScoreTitle": "LIMBO",
@@ -267,16 +267,6 @@
       "tier": "insane"
     },
     {
-      "title": "2Dark",
-      "url": "https://store.playstation.com/fr-fr/product/EP4008-CUSA04802_00-2DARKTHEGAMEAUI3",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202009/1414/pAf6qEsfz24UNw54C41tsQc6.jpg",
-      "currentPrice": 1.99,
-      "originalPrice": 19.99,
-      "discountPercentage": 90,
-      "score": 95,
-      "tier": "insane"
-    },
-    {
       "title": "SteamWorld Dig 2",
       "url": "https://store.playstation.com/fr-fr/product/EP4473-CUSA07987_00-00SWDIG2CROSSBUY",
       "imageUrl": null,
@@ -290,6 +280,16 @@
       "title": "Shinorubi",
       "url": "https://store.playstation.com/fr-fr/product/EP5098-PPSA09526_00-6878945196780017",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202311/2709/5ae33fb9a38a0e1746931056f07eb2b68173258de7f54ce5.jpg",
+      "currentPrice": 1.99,
+      "originalPrice": 19.99,
+      "discountPercentage": 90,
+      "score": 95,
+      "tier": "insane"
+    },
+    {
+      "title": "2Dark",
+      "url": "https://store.playstation.com/fr-fr/product/EP4008-CUSA04802_00-2DARKTHEGAMEAUI3",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202009/1414/pAf6qEsfz24UNw54C41tsQc6.jpg",
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -407,9 +407,9 @@
       "tier": "insane"
     },
     {
-      "title": "LIMBO & INSIDE Bundle",
-      "url": "https://store.playstation.com/fr-fr/product/EP2054-CUSA01369_00-7598584263277541",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202512/0815/f15404b5f1b6a6288fb6b6648e094288b4d17f736e0bfbd6.jpg",
+      "title": "AO Tennis 2",
+      "url": "https://store.playstation.com/fr-fr/product/EP4008-CUSA17267_00-AO2SIEE000000000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202009/1415/sRKjkBNX8FNNzovPy1LwDr1J.jpg",
       "currentPrice": 2.99,
       "originalPrice": 29.99,
       "discountPercentage": 90,
@@ -417,9 +417,9 @@
       "tier": "insane"
     },
     {
-      "title": "AO Tennis 2",
-      "url": "https://store.playstation.com/fr-fr/product/EP4008-CUSA17267_00-AO2SIEE000000000",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202009/1415/sRKjkBNX8FNNzovPy1LwDr1J.jpg",
+      "title": "LIMBO & INSIDE Bundle",
+      "url": "https://store.playstation.com/fr-fr/product/EP2054-CUSA01369_00-7598584263277541",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202512/0815/f15404b5f1b6a6288fb6b6648e094288b4d17f736e0bfbd6.jpg",
       "currentPrice": 2.99,
       "originalPrice": 29.99,
       "discountPercentage": 90,
@@ -807,16 +807,6 @@
       "tier": "insane"
     },
     {
-      "title": "Tardy",
-      "url": "https://store.playstation.com/fr-fr/product/EP4897-CUSA32308_00-8275770506297431",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202212/0713/hS7QdVsjC6tg2lQqTcYll1uW.jpg",
-      "currentPrice": 1.49,
-      "originalPrice": 9.99,
-      "discountPercentage": 85,
-      "score": 93,
-      "tier": "insane"
-    },
-    {
       "title": "Sophstar",
       "url": "https://store.playstation.com/fr-fr/product/EP5098-PPSA08446_00-1821432711276829",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202209/2314/ELWadCKZbJoLsovZzmNBKuVt.png",
@@ -857,8 +847,8 @@
       "tier": "insane"
     },
     {
-      "title": "Door Kickers: Action Squad",
-      "url": "https://store.playstation.com/fr-fr/product/EP3109-CUSA14493_00-DOORKICKERS0SIEE",
+      "title": "GAROU: MARK OF THE WOLVES™",
+      "url": "https://store.playstation.com/fr-fr/product/EP0576-CUSA05993_00-GAROUMOW00000001",
       "imageUrl": null,
       "currentPrice": 2.24,
       "originalPrice": 14.99,
@@ -867,8 +857,8 @@
       "tier": "insane"
     },
     {
-      "title": "GAROU: MARK OF THE WOLVES™",
-      "url": "https://store.playstation.com/fr-fr/product/EP0576-CUSA05993_00-GAROUMOW00000001",
+      "title": "Door Kickers: Action Squad",
+      "url": "https://store.playstation.com/fr-fr/product/EP3109-CUSA14493_00-DOORKICKERS0SIEE",
       "imageUrl": null,
       "currentPrice": 2.24,
       "originalPrice": 14.99,
@@ -917,6 +907,16 @@
       "tier": "insane"
     },
     {
+      "title": "Power Rangers: Battle For The Grid",
+      "url": "https://store.playstation.com/fr-fr/product/EP5002-CUSA15284_00-BATTLEFORTHEGRID",
+      "imageUrl": null,
+      "currentPrice": 2.99,
+      "originalPrice": 19.99,
+      "discountPercentage": 85,
+      "score": 93,
+      "tier": "insane"
+    },
+    {
       "title": "UNRAILED!",
       "url": "https://store.playstation.com/fr-fr/product/EP8923-CUSA20418_00-DAEEUUNRAILED001",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202301/2416/gSsG8emmu78TNoqJ2lzsiYXi.jpg",
@@ -929,16 +929,6 @@
     {
       "title": "Windbound",
       "url": "https://store.playstation.com/fr-fr/product/EP4062-CUSA17774_00-WINDBOUNDGAME000",
-      "imageUrl": null,
-      "currentPrice": 2.99,
-      "originalPrice": 19.99,
-      "discountPercentage": 85,
-      "score": 93,
-      "tier": "insane"
-    },
-    {
-      "title": "Power Rangers: Battle For The Grid",
-      "url": "https://store.playstation.com/fr-fr/product/EP5002-CUSA15284_00-BATTLEFORTHEGRID",
       "imageUrl": null,
       "currentPrice": 2.99,
       "originalPrice": 19.99,
@@ -1010,6 +1000,16 @@
       "title": "Need for Speed™ Heat Édition Deluxe",
       "url": "https://store.playstation.com/fr-fr/product/EP0006-CUSA15090_00-DELUXEEDITION000",
       "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202011/0204/wztiER7QJkPLq49CG5j5PqZM.png",
+      "currentPrice": 7.99,
+      "originalPrice": 79.99,
+      "discountPercentage": 90,
+      "score": 92,
+      "tier": "insane"
+    },
+    {
+      "title": "Battlefield™ 2042 sur PS5",
+      "url": "https://store.playstation.com/fr-fr/product/EP0006-PPSA01465_00-KINGSTONGAME0000",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202305/2515/a34d5dadfc7c63020fcf025fefc74a254855c920899ba0b4.png",
       "currentPrice": 7.99,
       "originalPrice": 79.99,
       "discountPercentage": 90,
