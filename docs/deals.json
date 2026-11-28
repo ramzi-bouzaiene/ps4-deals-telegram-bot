@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-27T21:52:32.833Z",
+  "generatedAt": "2026-11-28T03:45:30.128Z",
   "region": "FR",
   "currency": "EUR",
   "symbol": "€",
   "minimumDealScore": 80,
   "stats": {
-    "total": 1400,
-    "scored60": 1391,
-    "scored80": 983,
+    "total": 1398,
+    "scored60": 1389,
+    "scored80": 981,
     "scored90": 270,
     "avgDiscount": 69,
     "maxScore": 96,
@@ -117,8 +117,8 @@
       "tier": "insane"
     },
     {
-      "title": "SteamWorld Heist",
-      "url": "https://store.playstation.com/fr-fr/product/EP4473-CUSA01478_00-SWHCROSSBUY00000",
+      "title": "Golazo! Football League",
+      "url": "https://store.playstation.com/fr-fr/product/EP4886-CUSA16607_00-GOLAZOFOOTBALLEU",
       "imageUrl": null,
       "currentPrice": 1.49,
       "originalPrice": 14.99,
@@ -127,8 +127,8 @@
       "tier": "insane"
     },
     {
-      "title": "Golazo! Football League",
-      "url": "https://store.playstation.com/fr-fr/product/EP4886-CUSA16607_00-GOLAZOFOOTBALLEU",
+      "title": "SteamWorld Heist",
+      "url": "https://store.playstation.com/fr-fr/product/EP4473-CUSA01478_00-SWHCROSSBUY00000",
       "imageUrl": null,
       "currentPrice": 1.49,
       "originalPrice": 14.99,
@@ -297,9 +297,9 @@
       "tier": "insane"
     },
     {
-      "title": "Motorcycle Club",
-      "url": "https://store.playstation.com/fr-fr/product/EP4008-CUSA01170_00-MOTORCYCLECLUB00",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202009/1415/jsqoKX9P7GXf3qneWjn2fovX.jpg",
+      "title": "Arkanoid Eternal Battle",
+      "url": "https://store.playstation.com/fr-fr/product/EP4295-PPSA06327_00-ARKEBPS5000000EU",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202210/2408/EnlSePgFs7DjiwIsz8EgaB1k.png",
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -307,9 +307,9 @@
       "tier": "insane"
     },
     {
-      "title": "Arkanoid Eternal Battle",
-      "url": "https://store.playstation.com/fr-fr/product/EP4295-PPSA06327_00-ARKEBPS5000000EU",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202210/2408/EnlSePgFs7DjiwIsz8EgaB1k.png",
+      "title": "Motorcycle Club",
+      "url": "https://store.playstation.com/fr-fr/product/EP4008-CUSA01170_00-MOTORCYCLECLUB00",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202009/1415/jsqoKX9P7GXf3qneWjn2fovX.jpg",
       "currentPrice": 1.99,
       "originalPrice": 19.99,
       "discountPercentage": 90,
@@ -837,16 +837,6 @@
       "tier": "insane"
     },
     {
-      "title": "PixelJunk™ Monsters 2",
-      "url": "https://store.playstation.com/fr-fr/product/EP4947-CUSA11917_00-PJM2000000000000",
-      "imageUrl": null,
-      "currentPrice": 2.24,
-      "originalPrice": 14.99,
-      "discountPercentage": 85,
-      "score": 93,
-      "tier": "insane"
-    },
-    {
       "title": "GAROU: MARK OF THE WOLVES™",
       "url": "https://store.playstation.com/fr-fr/product/EP0576-CUSA05993_00-GAROUMOW00000001",
       "imageUrl": null,
@@ -890,6 +880,16 @@
       "title": "Kombinera",
       "url": "https://store.playstation.com/fr-fr/product/EP0182-CUSA32268_00-9551896295256372",
       "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202202/2221/nNyfguMZCZfCEMFt5iOk86FK.jpg",
+      "currentPrice": 2.24,
+      "originalPrice": 14.99,
+      "discountPercentage": 85,
+      "score": 93,
+      "tier": "insane"
+    },
+    {
+      "title": "PixelJunk™ Monsters 2",
+      "url": "https://store.playstation.com/fr-fr/product/EP4947-CUSA11917_00-PJM2000000000000",
+      "imageUrl": null,
       "currentPrice": 2.24,
       "originalPrice": 14.99,
       "discountPercentage": 85,
